@@ -1,0 +1,12 @@
+{
+  "institution": "Saskatchewan Polytechnic",
+  "campus": "Saskatoon",
+  "courses": [
+    { "code": "PROJ 614", "name": "Introduction to Information Technology Project Management", "color": "#6d5efc" },
+    { "code": "MGMT 608", "name": "Procurement and Contract Management", "color": "#0ea5e9" },
+    { "code": "ADMN 600", "name": "Organizational Behaviour", "color": "#f59e0b" },
+    { "code": "MGMT 603", "name": "Change Management", "color": "#10b981" },
+    { "code": "TCOM 600", "name": "Business Technology Communications", "color": "#ec4899" },
+    { "code": "MGMT 600", "name": "IT Operations Management and Strategic Planning", "color": "#3b82f6" }
+  ]
+}

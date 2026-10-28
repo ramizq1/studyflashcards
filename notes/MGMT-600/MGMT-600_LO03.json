@@ -1,0 +1,351 @@
+{
+  "course": "MGMT 600",
+  "learningObjective": {
+    "number": "03",
+    "title": "Examine IT Service Strategy"
+  },
+  "source": "LO3 MGMT600 revised.pptx",
+  "questions": [
+    {
+      "question": "Which statement best captures how IT Service Strategy differs from operational management?",
+      "options": {
+        "A": "Strategy handles day-to-day incidents, while operations sets long-term direction",
+        "B": "Strategy decides which services to deliver and why; operations delivers them well",
+        "C": "Strategy is owned by IT alone, while operations is owned by the business units",
+        "D": "Strategy is a one-time plan, while operations is the continuous part of IT"
+      },
+      "answer": "B",
+      "note": "Operational management focuses on delivering services effectively; **strategy makes sure the right services are being delivered in the first place**. Put simply, strategy determines **what** should be done and operations determine **how** it gets done (LO3, slides 2 and 40).\nOption A is reversed, and the lecture stresses that strategy is never finished (D)."
+    },
+    {
+      "question": "A vendor pitches a CRM system by walking through its 200 features. From an IT service strategy perspective, how should the manager judge it?",
+      "options": {
+        "A": "By how many features it offers compared with competing products",
+        "B": "By whether it uses the newest technology available on the market",
+        "C": "By how closely it matches the systems the IT team already knows",
+        "D": "By the value it creates, such as better customer engagement and sales"
+      },
+      "answer": "D",
+      "note": "The lecture calls for a **service-oriented, business-centric view**: a CRM isn't valuable because of its software features but because it improves **customer engagement, sales effectiveness and decision-making** (LO3, slide 5).\nTechnology managers should judge services by the business value they create, not by the technology itself."
+    },
+    {
+      "question": "An organization aligned its IT strategy with business goals three years ago and has not revisited it since. What is the main risk?",
+      "options": {
+        "A": "Business priorities shift with markets, competition and regulation, eroding alignment",
+        "B": "None, since a well-aligned strategy remains valid as long as the systems still run",
+        "C": "IT staff may lose interest in the strategy unless it is rewritten every year",
+        "D": "The strategy will exceed the IT budget, since older strategies cost more to deliver"
+      },
+      "answer": "A",
+      "note": "Alignment is **not a one-time activity**. Organizational priorities keep changing with market conditions, competitive pressure, regulatory requirements and new technology, so IT strategy has to evolve alongside business strategy (LO3, slide 6).\nA useful test from the lecture: if you can't say how an initiative contributes to organizational success, alignment may be missing."
+    },
+    {
+      "question": "Funding a new data warehouse this year means postponing the customer mobile app. Which evaluation method focuses on what the organization gives up by choosing one initiative over another?",
+      "options": {
+        "A": "Return on Investment (ROI)",
+        "B": "Cost-Benefit Analysis (CBA)",
+        "C": "Opportunity Cost Analysis",
+        "D": "Pareto Analysis"
+      },
+      "answer": "C",
+      "note": "The lecture lists three financial tools for prioritizing IT investments: **ROI** measures expected financial returns, **Cost-Benefit Analysis** compares expected benefits against costs, and **Opportunity Cost Analysis** evaluates the **alternative opportunities that are sacrificed** (LO3, slide 9).\nPareto Analysis is a root-cause prioritization technique from LO4."
+    },
+    {
+      "question": "A software company's main business goal is to bring new products to market faster than its competitors. Which IT alignment best supports that goal?",
+      "options": {
+        "A": "ERP systems and infrastructure modernization",
+        "B": "Disaster recovery planning and redundant systems",
+        "C": "Green IT and energy-efficient data centers",
+        "D": "Agile, DevOps, automation and cloud infrastructure"
+      },
+      "answer": "D",
+      "note": "In the lecture's time-to-market example, **Agile** development, **DevOps** practices, **automation** and **on-demand cloud infrastructure** shorten delivery cycles, without sacrificing quality, security or compliance (LO3, slide 15).\nThe other options match different goals: operational efficiency (A), business continuity (B) and sustainability (C)."
+    },
+    {
+      "question": "A newly appointed IT director is building an IT service strategy using the framework from the lecture. What should come first?",
+      "options": {
+        "A": "Define the business objectives the strategy must support",
+        "B": "Publish a service catalog of everything IT currently offers",
+        "C": "Draw up a multi-year technology roadmap and vendor shortlist",
+        "D": "Set KPIs and metrics for every existing IT service"
+      },
+      "answer": "A",
+      "note": "The framework starts by **defining business objectives**: strategic priorities, competitive goals and stakeholder expectations. Next come the **current state assessment**, **stakeholder engagement** and **service catalog**; then service prioritization, service level management, governance, security and continuity; and finally the roadmap, KPIs, vendor management and continuous review (LO3, slides 20–22)."
+    },
+    {
+      "question": "A development lead complains that the IT governance board 'just slows down innovation.' What is the lecture's view of governance?",
+      "options": {
+        "A": "The lead is right, so governance should be relaxed for innovation projects",
+        "B": "Governance exists mainly to cut IT spending, whatever the effect on innovation",
+        "C": "Governance enables innovation through structure, accountability and risk control",
+        "D": "Governance applies only to regulated industries, not to product innovation"
+      },
+      "answer": "C",
+      "note": "The lecture says twice that governance is **not meant to restrict innovation**. It provides **structure, accountability and risk management**, so resources go to initiatives that support organizational objectives (LO3, slides 21 and 32).\nWithout governance, organizations tend to see duplicate projects, conflicting priorities, increased risk and poor resource use."
+    },
+    {
+      "question": "Which question is answered by IT strategy rather than by business strategy?",
+      "options": {
+        "A": "Which markets and customer segments will the organization serve?",
+        "B": "Which technology capabilities are needed, and in what priority?",
+        "C": "How will the organization compete against rivals in its industry?",
+        "D": "What distinctive value will the organization offer its customers?"
+      },
+      "answer": "B",
+      "note": "**Business strategy** answers what markets to serve, how to compete and what value to provide. **IT strategy** answers what technology capabilities are needed, how technology investments should be prioritized, and which services to develop or improve (LO3, slide 25).\nIT strategy shouldn't exist on its own; it should enable and support the business strategy."
+    },
+    {
+      "question": "Which executive role is focused mainly on digital transformation and customer experience?",
+      "options": {
+        "A": "Chief Digital Officer (CDO)",
+        "B": "Chief Technology Officer (CTO)",
+        "C": "Chief Information Officer (CIO)",
+        "D": "Chief Financial Officer (CFO)"
+      },
+      "answer": "A",
+      "note": "In the lecture, the **CDO** focuses on digital transformation and customer experience, and the **CTO** focuses on technology innovation and architecture.\nThe **CIO** role has shifted from mainly infrastructure management, budgeting and operational oversight to contributing directly to organizational strategy (LO3, slide 26)."
+    },
+    {
+      "question": "In strategic portfolio management, a bank's plan to launch an entirely new AI-driven investment advisory business falls into which category?",
+      "options": {
+        "A": "Run",
+        "B": "Grow",
+        "C": "Transform",
+        "D": "Sustain"
+      },
+      "answer": "C",
+      "note": "Technology portfolios are typically split into **Run** (maintaining existing operations), **Grow** (enhancing existing capabilities and performance) and **Transform** (creating new business opportunities and competitive advantages) (LO3, slide 27).\nA brand-new line of business is **Transform**; adding features to the bank's existing mobile app would be **Grow**."
+    },
+    {
+      "question": "After a merger, a company has three separate HR systems, inconsistent customer data and expensive point-to-point integrations. Which discipline is designed to fix this kind of fragmentation?",
+      "options": {
+        "A": "Strategic portfolio management (Run/Grow/Transform)",
+        "B": "Enterprise Architecture (e.g. TOGAF or Zachman)",
+        "C": "Capacity management (resource forecasting)",
+        "D": "Service level management (SLAs and OLAs)"
+      },
+      "answer": "B",
+      "note": "**Enterprise Architecture** is a blueprint that aligns business processes, information, applications and infrastructure. Without it, organizations end up with **duplicate systems, inconsistent data, integration problems and higher costs** (LO3, slide 28).\nEA promotes standardization and integration, often using frameworks such as **TOGAF** and **Zachman**."
+    },
+    {
+      "question": "A retailer spent millions on new digital tools, yet two years later little has changed in how it operates or serves customers. Based on the lecture, what is the most likely reason?",
+      "options": {
+        "A": "It bought too few tools, since transformation depends mainly on technology volume",
+        "B": "It should have moved every system to the cloud before buying any new tools",
+        "C": "Transformation always takes at least five years before any results appear",
+        "D": "It focused on technology while neglecting culture, processes and stakeholders"
+      },
+      "answer": "D",
+      "note": "Digital transformation means **fundamentally rethinking how the organization creates value**, not just implementing technology. The lecture warns that initiatives often fail when organizations **focus only on technology and neglect culture, processes and stakeholder engagement** (LO3, slide 29).\nCloud migration can support transformation but isn't transformation itself (B), as the Knowledge Check points out (slide 45)."
+    },
+    {
+      "question": "Which question reflects the strategic (rather than tactical) approach to AI that the lecture recommends?",
+      "options": {
+        "A": "What is the most advanced AI model we can afford to buy?",
+        "B": "Which tasks can AI technically perform for us today?",
+        "C": "How can AI support our objectives responsibly and sustainably?",
+        "D": "How many roles can AI replace to reduce our costs this year?"
+      },
+      "answer": "C",
+      "note": "The lecture contrasts the narrow question 'What can AI do?' with the strategic one: **how can AI contribute to organizational objectives responsibly and sustainably?** (LO3, slide 30).\nAI can support forecasting, optimization, customer experience and innovation, but it also brings governance, ethics, privacy, security and workforce risks that strategy must address."
+    },
+    {
+      "question": "An organization runs all of its critical systems on one cloud provider's proprietary services, making it very hard to switch. Which strategic risk is most prominent?",
+      "options": {
+        "A": "Vendor dependency",
+        "B": "Technology obsolescence",
+        "C": "Regulatory change",
+        "D": "Cybersecurity threats"
+      },
+      "answer": "A",
+      "note": "The lecture's strategic technology risks include cybersecurity threats, technology obsolescence, **vendor dependency** (overreliance on third-party providers), regulatory change and operational disruption (LO3, slide 31). Heavy reliance on one provider's proprietary services is vendor dependency, the same **vendor concentration risk** raised in the Amazon case (slide 35).\nRisk management should be built into strategic planning, not treated as a separate activity."
+    },
+    {
+      "question": "Which governance body ensures that a proposed new system is consistent with the organization's enterprise architecture standards?",
+      "options": {
+        "A": "Executive Steering Committee",
+        "B": "IT Governance Board",
+        "C": "Risk Committee",
+        "D": "Architecture Review Board"
+      },
+      "answer": "D",
+      "note": "From the lecture: **Executive Steering Committees** provide strategic direction and approve major initiatives, **IT Governance Boards** monitor technology performance and investment decisions, **Risk Committees** evaluate cybersecurity, compliance and operational risks, and **Architecture Review Boards** ensure consistency with enterprise architecture standards (LO3, slide 32)."
+    },
+    {
+      "question": "A bank must keep certain customer data on-premises to meet regulatory rules and still relies on a legacy core system, but it wants cloud scalability for new digital services. Which approach fits best?",
+      "options": {
+        "A": "Cloud-first: move every system to the public cloud as quickly as possible",
+        "B": "Hybrid: combine on-premises and cloud to balance flexibility with control",
+        "C": "On-premises only: avoid cloud services entirely to eliminate compliance risk",
+        "D": "Cloud-first, since cloud adoption guarantees lower costs in every situation"
+      },
+      "answer": "B",
+      "note": "A **hybrid strategy** combines cloud and on-premises resources, giving **flexibility, more control, easier compliance management and support for legacy systems**. Cloud-first brings scalability, agility, lower capital spending and faster deployment (LO3, slide 33).\nThere's no universally correct approach: base the decision on business requirements, risk tolerance, regulation, cost and capabilities. Cloud doesn't automatically lower costs (D)."
+    },
+    {
+      "question": "At its core, which set of questions does IT Service Strategy answer?",
+      "options": {
+        "A": "Which servers to buy, which operating systems to run, and which vendor to use",
+        "B": "How to fix incidents, who is on call this week, and when to apply patches",
+        "C": "What services to offer, why, for whom, how they add value and how to measure it",
+        "D": "What to charge internally, how to bill departments, and when to renew contracts"
+      },
+      "answer": "C",
+      "note": "IT Service Strategy answers: **What services should we provide? Why should we provide them? Who should receive them? How will they create value? How will success be measured?** (LO3, slide 4).\nOption B describes operational management, while A and D are procurement and finance details that strategy guides but doesn't define."
+    },
+    {
+      "question": "According to the lecture, what is one of the most common causes of strategic misalignment between IT and the business?",
+      "options": {
+        "A": "Assuming technology planning can happen independently of business planning",
+        "B": "Involving too many business leaders in decisions about technology investments",
+        "C": "Spending too much time studying the organization's mission and competitors",
+        "D": "Reviewing and adjusting the IT strategy more than once in a single year"
+      },
+      "answer": "A",
+      "note": "One of the most common causes of misalignment is **assuming technology planning can occur independently of organizational planning**. Technology leaders should understand the mission, strategic objectives, competitive position and stakeholder needs, and **take part in strategic planning** rather than waiting for requirements afterward (LO3, slides 7–8).\nWhen the two were planned separately, the results were misaligned priorities, resource conflicts, delayed initiatives and missed opportunities."
+    },
+    {
+      "question": "A retailer's strategy is to expand internationally. Which IT capabilities does the lecture say this may require?",
+      "options": {
+        "A": "ERP consolidation and process optimization to cut operating costs",
+        "B": "Green IT and energy-efficient data centers to reduce environmental impact",
+        "C": "BI dashboards and data governance to improve decision quality",
+        "D": "E-commerce, multi-language support, scalable cloud and global security"
+      },
+      "answer": "D",
+      "note": "The lecture's example: a retailer pursuing international expansion may need **e-commerce capabilities, multi-language support, scalable cloud infrastructure and global cybersecurity protections** (LO3, slide 7; see also the market-reach example on slide 12).\nThe other options support different goals: operational efficiency (A), sustainability (B) and better decision-making (C)."
+    },
+    {
+      "question": "Which set of criteria does the lecture use for evaluating competing IT initiatives?",
+      "options": {
+        "A": "Vendor reputation, technical novelty, team preference and delivery speed",
+        "B": "Strategic alignment, business impact, risk reduction and financial return",
+        "C": "Number of users, lines of code, server count and data volume",
+        "D": "Executive enthusiasm, media coverage, competitor activity and cost"
+      },
+      "answer": "B",
+      "note": "Strategic prioritization weighs **strategic alignment** (does it support objectives?), **business impact** (what benefits?), **risk reduction** (does it reduce operational or strategic risk?) and **financial return** (does it justify the cost?), using tools such as ROI, cost-benefit analysis and opportunity cost analysis (LO3, slide 9).\nThe aim is measurable business value, not simply implementing the latest technologies."
+    },
+    {
+      "question": "A CFO wants an automation program justified purely by how many jobs it eliminates. What does the lecture caution about efficiency initiatives?",
+      "options": {
+        "A": "They should serve broader goals like service quality, not just cost cuts",
+        "B": "They should be avoided, since automation rarely produces real savings",
+        "C": "They matter only when the organization is facing a financial crisis",
+        "D": "They should be judged solely on the number of manual tasks removed"
+      },
+      "answer": "A",
+      "note": "Operational efficiency is one of the most common drivers of technology investment (ERP, automation, process optimization, infrastructure modernization). But managers should make sure efficiency initiatives **support broader organizational goals rather than focusing exclusively on cost reduction**: the gains should improve service quality, competitiveness and stakeholder value (LO3, slide 11)."
+    },
+    {
+      "question": "Which set of technologies best supports a strategy of secure remote and hybrid work?",
+      "options": {
+        "A": "ERP systems, process optimization and infrastructure modernization",
+        "B": "Innovation labs, blockchain pilots and university research partnerships",
+        "C": "Energy-efficient data centers and e-waste reduction programs",
+        "D": "Collaboration tools, Zero Trust with MFA, cloud apps and remote support"
+      },
+      "answer": "D",
+      "note": "The lecture's remote-work example aligns **collaboration platforms** (Teams, Zoom, Slack, Google Workspace), **secure remote access** (VPNs, Zero Trust, multi-factor authentication), **cloud services** and **virtual support services** (LO3, slide 14).\nLeaders must balance productivity, security, user experience and cost; done well, this improves employee satisfaction, talent acquisition and resilience."
+    },
+    {
+      "question": "An organization has collected huge volumes of data, but decisions are still made on gut feeling. According to the lecture, what is missing?",
+      "options": {
+        "A": "Even more data, since larger datasets eventually produce better decisions",
+        "B": "The capability to turn data into actionable knowledge for decision-makers",
+        "C": "Fewer dashboards, since reporting distracts executives from strategy",
+        "D": "Cheaper storage, so more historical data can be kept for longer"
+      },
+      "answer": "B",
+      "note": "The lecture stresses that **collecting data is not sufficient**: organizations must develop the capability to **transform data into actionable knowledge**, through BI platforms, analytics systems, executive dashboards and **data governance** that keeps information accurate and consistent (LO3, slide 16).\nData-driven organizations often outperform competitors because they decide on evidence rather than assumptions."
+    },
+    {
+      "question": "A team wants to launch a blockchain pilot mainly because 'everyone in the industry is talking about it.' What does the lecture recommend?",
+      "options": {
+        "A": "Launch it quickly, since early adopters always gain a lasting advantage",
+        "B": "Reject it, since emerging technologies are too risky for most firms",
+        "C": "Evaluate it on how it would solve a business problem or support goals",
+        "D": "Wait until competitors have adopted it, then copy their approach"
+      },
+      "answer": "C",
+      "note": "Innovation is a strategic imperative, but **not every emerging technology creates business value**. Strategic leaders evaluate innovations by their **potential contribution to organizational goals**, and successful innovation strategies **solve business problems rather than adopting technology for its own sake** (LO3, slide 18).\nInnovation should also be balanced with risk management."
+    },
+    {
+      "question": "Which IT initiative most directly supports an organization's sustainability (ESG) goals?",
+      "options": {
+        "A": "Adding a CRM platform to improve customer engagement",
+        "B": "Building a DevOps pipeline to release features faster",
+        "C": "Implementing Zero Trust security for remote employees",
+        "D": "Consolidating servers to reduce energy use and e-waste"
+      },
+      "answer": "D",
+      "note": "Technology can contribute significantly to **environmental, social and governance (ESG)** objectives through **Green IT** (less energy and e-waste), **digitalization** (fewer paper-based processes), **sustainable infrastructure** and **cloud optimization** (better resource utilization) (LO3, slide 19).\nModern IT strategies often include sustainability metrics alongside traditional performance indicators."
+    },
+    {
+      "question": "Which component of the IT Service Strategy framework clearly defines the available services, responsibilities and service commitments?",
+      "options": {
+        "A": "Service catalog",
+        "B": "Technology roadmap",
+        "C": "Current state assessment",
+        "D": "Enterprise architecture"
+      },
+      "answer": "A",
+      "note": "In the framework, organizations **develop service catalogs that clearly define available services, responsibilities and service commitments** (LO3, slide 20).\nThe **technology roadmap** plans future investments and technology transitions (slide 22), the **current state assessment** evaluates infrastructure, processes, services, skills and governance maturity (slide 20), and **enterprise architecture** aligns processes, information, applications and infrastructure (slide 28)."
+    },
+    {
+      "question": "Which capability does the lecture identify as most important for modern technology leaders?",
+      "options": {
+        "A": "Deep hands-on expertise in the organization's core infrastructure",
+        "B": "Aligning technology decisions with organizational objectives",
+        "C": "Tight cost control to keep the IT budget as small as possible",
+        "D": "Keeping up personally with every emerging technology trend"
+      },
+      "answer": "B",
+      "note": "Modern technology leadership combines strategic thinking, business understanding, technology knowledge, risk management and communication, but success increasingly depends on the ability to **connect technology decisions with organizational outcomes** (LO3, slides 26 and 49).\nThe CIO role has shifted from infrastructure, budgeting and operational oversight to shaping strategy, leading digital transformation and governing technology risk."
+    },
+    {
+      "question": "In strategic portfolio management, upgrading the existing email platform so it stays supported and secure falls into which category?",
+      "options": {
+        "A": "Transform",
+        "B": "Grow",
+        "C": "Innovate",
+        "D": "Run"
+      },
+      "answer": "D",
+      "note": "**Run** covers maintaining existing operations, such as keeping the current email platform supported. **Grow** enhances existing capabilities and performance, and **Transform** creates new business opportunities and competitive advantages (LO3, slide 27).\nPortfolio decisions weigh strategic alignment, financial returns, resource availability, organizational readiness and risk exposure."
+    },
+    {
+      "question": "Which example best fits the lecture's definition of digital transformation, rather than simple technology implementation?",
+      "options": {
+        "A": "Replacing the organization's aging laptops with new models",
+        "B": "Upgrading the email server to the latest software version",
+        "C": "A hospital redesigning patient care around telemedicine",
+        "D": "Buying additional storage capacity for shared file drives"
+      },
+      "answer": "C",
+      "note": "Digital transformation means **fundamentally rethinking how the organization creates value and interacts with customers**. The lecture's examples: retail moving to omnichannel experiences, banking expanding digital and mobile services, **healthcare implementing telemedicine and digital records**, and education adopting online and hybrid learning (LO3, slide 29).\nLike-for-like hardware or software upgrades are technology implementation, not transformation."
+    },
+    {
+      "question": "A new startup has no legacy systems, wants to launch quickly, and wants to avoid large upfront hardware purchases. Which approach fits best?",
+      "options": {
+        "A": "On-premises: build its own data center for maximum control",
+        "B": "Cloud-first: prioritize cloud services wherever feasible",
+        "C": "Hybrid: run legacy systems on-premises alongside the cloud",
+        "D": "Outsourced mainframe hosting with a long-term contract"
+      },
+      "answer": "B",
+      "note": "A **cloud-first** strategy prioritizes cloud solutions whenever feasible, bringing **scalability, agility, reduced capital expenditure and faster deployment** (LO3, slide 33).\n**Hybrid** suits organizations that need more control, compliance management or support for legacy systems, which this startup doesn't need. Even so, the choice should follow business requirements, and cloud doesn't automatically lower costs."
+    },
+    {
+      "question": "What does the story of AWS in the lecture's Amazon case study illustrate?",
+      "options": {
+        "A": "Technology built for internal needs can become a strategic differentiator",
+        "B": "Cloud computing should only be adopted after competitors prove it works",
+        "C": "Large companies should outsource all infrastructure to specialist vendors",
+        "D": "Technology strategy and business strategy are best planned separately"
+      },
+      "answer": "A",
+      "note": "**AWS was originally developed to support Amazon's own infrastructure needs** and grew into one of the world's largest cloud service providers. The case shows technology as a **strategic differentiator rather than merely a support function**, alongside Amazon's use of analytics, automation and AI (LO3, slide 35).\nThe case also raises risks: cybersecurity, regulatory scrutiny, data privacy and vendor concentration."
+    }
+  ]
+}

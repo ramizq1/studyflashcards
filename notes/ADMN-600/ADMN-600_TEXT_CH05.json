@@ -1,0 +1,602 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "05",
+    "title": "Motivation in Action"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 5",
+  "questions": [
+    {
+      "topic": "Pay levels and variable pay",
+      "question": "When setting pay levels, a firm first rates each job's worth relative to other jobs inside the company, then checks salary surveys to see what competitors pay. What two considerations is it balancing?",
+      "options": {
+        "A": "Distributive justice within the firm and procedural justice across the industry",
+        "B": "Variable pay for individual employees and fixed pay for the organization overall",
+        "C": "Merit-based pay for strong performers and seniority-based pay for everyone else",
+        "D": "Internal equity through job evaluation and external equity through pay surveys"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Setting pay levels means balancing internal equity (the job's worth to the organization, usually set through job evaluation) with external equity (pay competitiveness in the industry, usually set through pay surveys). (Ch 5: What to Pay: Establishing a Pay Structure)\n**Why not A:** These are justice perceptions from Chapter 4; a pay structure balances internal and external equity.\n**Why not B:** Variable pay concerns how individuals are paid; establishing a pay structure is about what to pay each job.\n**Why not C:** Merit and seniority pay are ways of paying individuals, not the two considerations used to set pay levels."
+    },
+    {
+      "topic": "Pay levels and variable pay",
+      "question": "A large retailer deliberately pays below market rates to keep its prices low. According to the chapter, which trade-off is it accepting?",
+      "options": {
+        "A": "Fewer qualified applicants, offset by much happier customers",
+        "B": "Lower costs with no meaningful effect on how employees behave",
+        "C": "Higher turnover as staff are lured away by better-paying jobs",
+        "D": "Lower morale, offset by higher productivity from fear of job loss"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Firms that lag the market accept costs such as higher turnover as people leave for better pay. Pay is usually the highest single operating cost, so pay level is a strategic decision with clear trade-offs (compare Walmart and Costco). (Ch 5: What to Pay: Establishing a Pay Structure)\n**Why not A:** A study of 126 organizations linked competitive pay, not low pay, to more satisfied customers.\n**Why not B:** The chapter stresses that pay level has clear trade-offs, including who stays and how productive they are.\n**Why not D:** Employees who believed their pay was competitive had higher morale and were more productive, not the reverse."
+    },
+    {
+      "topic": "Pay levels and variable pay",
+      "question": "An HR director decides pay is a minor issue for retaining top performers, since surveys show pay is only moderately related to job satisfaction. What does the chapter suggest she is missing?",
+      "options": {
+        "A": "Pay matters only to Baby Boomers, not to Millennial employees",
+        "B": "Pay is actually the primary driver of top performers' satisfaction",
+        "C": "Pay affects satisfaction but has little effect on whether people stay",
+        "D": "Top performers often cite pay as a top reason they leave"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Pay isn't a primary driver of job satisfaction, but it does motivate, and firms underestimate it: only 45% of employers saw pay as key to losing top talent, while 71% of top performers called it a top reason. (Ch 5: Creating Effective Reward Systems)\n**Why not A:** Research found both generations value things like a great team as much as money; neither dismisses pay.\n**Why not B:** Pay level is only moderately correlated with satisfaction; the chapter says it isn't a primary factor.\n**Why not C:** This reverses the evidence: top performers name pay as a top reason for leaving."
+    },
+    {
+      "topic": "Pay levels and variable pay",
+      "question": "After a company raises everyone's pay, complaints about pay stop, but effort and engagement don't improve. Which theory's view of money best explains this?",
+      "options": {
+        "A": "Herzberg's: money is necessary but not sufficient to motivate people",
+        "B": "Maslow's: money mainly satisfies higher-order needs like esteem",
+        "C": "Theory Y's: people are motivated mainly by extrinsic rewards",
+        "D": "Expectancy theory's: money motivates whether or not it's valued"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Herzberg's motivation–hygiene theory treats money and other extrinsic factors as necessary but not sufficient conditions for motivation, so removing pay dissatisfaction doesn't by itself motivate. (Ch 5: From Theory to Practice: The Role of Money)\n**Why not B:** The chapter links money under Maslow to basic needs such as food, shelter and safety.\n**Why not C:** It's Theory X that assumes people need extrinsic motivators such as money.\n**Why not D:** Expectancy theory notes that people must value a reward or it won't be very motivating."
+    },
+    {
+      "topic": "Pay levels and variable pay",
+      "question": "A long-serving government clerk says, 'Whether I excel or coast, my raise is the same, because it's based on years of service.' What would a variable-pay program change?",
+      "options": {
+        "A": "Every clerk would get the same guaranteed raise, whatever the results",
+        "B": "His pay would stay fixed but come with more flexible benefit options",
+        "C": "His base salary would depend on credentials rather than seniority",
+        "D": "Part of his pay would rise or fall with a measure of performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A variable-pay program bases a portion of pay on an individual, group and/or organizational measure of performance, so earnings fluctuate with performance instead of seniority. (Ch 5: How to Pay: Variable-Pay Programs)\n**Why not A:** Equal raises for everyone describe seniority-style pay, the opposite of variable pay.\n**Why not B:** Flexible benefits individualize benefits; they don't link pay to performance.\n**Why not C:** Organizations are moving away from pay based solely on credentials or length of service; neither ties pay to performance."
+    },
+    {
+      "topic": "Pay levels and variable pay",
+      "question": "When a recession hits, Company A's labour costs drop quickly, while Company B's stay largely fixed. Company A relies heavily on variable pay. What feature of variable pay explains the difference?",
+      "options": {
+        "A": "It lets the firm cut base salaries freely whenever its profits dip",
+        "B": "It guarantees bonuses, which keeps staff from leaving in a downturn",
+        "C": "It converts part of fixed labour costs into variable costs",
+        "D": "It ties pay to seniority, which keeps total costs stable in a recession"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Variable pay turns part of an organization's fixed labour costs into a variable cost, reducing expenses when performance declines; in 2008, firms with variable pay cut labour costs much faster than others. (Ch 5: How to Pay: Variable-Pay Programs)\n**Why not A:** Variable pay changes the portion tied to performance measures; it isn't a licence to cut base salaries.\n**Why not B:** Variable pay can be zero in a bad year; bonuses aren't guaranteed.\n**Why not D:** Seniority-based pay is fixed; it's what variable pay moves away from."
+    },
+    {
+      "topic": "Individual incentive plans",
+      "question": "A hospital board proposes paying surgeons only when their patients fully recover, a piece-rate plan for outcomes. What problem does the chapter highlight with this idea?",
+      "options": {
+        "A": "It would motivate surgeons, but would be too costly for hospitals to run",
+        "B": "It isn't feasible for many jobs and may make surgeons avoid hard cases",
+        "C": "It would work well, as long as surgeons also received skill-based raises",
+        "D": "It would lower surgeons' effort, since they'd be paid the same regardless"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Piece-rate plans aren't feasible for many jobs; paying surgeons only for full recoveries could cause unanticipated consequences, such as avoiding patients with complicated or terminal conditions. (Ch 5: Piece-Rate Wages)\n**Why not A:** The concern isn't administrative cost; it's feasibility and harmful side effects.\n**Why not C:** The chapter's point is that incentives can't realistically be the only piece of some employees' pay; skill-based raises don't fix that.\n**Why not D:** Outcome-based pay would make earnings depend on results, so the problem isn't equal pay but unintended behaviour."
+    },
+    {
+      "topic": "Individual incentive plans",
+      "question": "A professor with outstanding teaching and research ratings receives a raise of just $300 because the year's raise budget was small. Which limitation of merit-based pay does this illustrate?",
+      "options": {
+        "A": "Merit pay lets unions insist that every employee get the same raise",
+        "B": "Merit pay is only as valid as the annual appraisal ratings behind it",
+        "C": "Merit pay rewards historical performance rather than recent results",
+        "D": "The raise pool shifts with conditions unrelated to her own performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Merit pay's raise pool fluctuates with economic or other conditions that have little to do with individual performance, so a top performer can get a token raise, which is hardly pay for performance. (Ch 5: Merit-Based Pay)\n**Why not A:** Unions do tend to prefer seniority-based pay, but that isn't what limited this raise.\n**Why not B:** Appraisal validity is a real limitation, but her ratings were excellent; the small budget held down the raise.\n**Why not C:** The historical-versus-recent contrast explains why bonuses can motivate more; it doesn't explain this case."
+    },
+    {
+      "topic": "Individual incentive plans",
+      "question": "A sports team pays a player whose statistics are trending upward more than his career averages would justify. What risk for merit pay does this research finding point to?",
+      "options": {
+        "A": "Merit decisions may overweight seniority compared with recent trends",
+        "B": "Rising performers may be underpaid, since raises use only averages",
+        "C": "Merit pay may penalize players whose results are very consistent",
+        "D": "Pay may follow predicted future performance, not actual results"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Research on NBA players found projected future performance also shapes merit pay; managers may unknowingly pay for how they think people will perform, producing overly optimistic or pessimistic pay decisions. (Ch 5: Merit-Based Pay)\n**Why not A:** The study concerns projections of future performance, not seniority.\n**Why not B:** The finding was the opposite: players on an upward trend were paid more than their averages predicted.\n**Why not C:** The chapter's other merit-pay risk is gender and racial bias, not consistency."
+    },
+    {
+      "topic": "Individual incentive plans",
+      "question": "A firm splits its annual bonus into several separate categories, such as teamwork, client care and innovation, even though the categories are fairly arbitrary. What does research suggest will happen?",
+      "options": {
+        "A": "Nothing changes, since the total bonus pool stays exactly the same",
+        "B": "People focus only on the single category with the biggest payout",
+        "C": "People work harder so they don't miss out on any category",
+        "D": "Motivation drops, since arbitrary categories feel procedurally unfair"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Dividing rewards into multiple categories, even meaningless ones, makes people work harder because they feel they 'missed out' if they don't earn something from each category. (Ch 5: Bonuses)\n**Why not A:** The categorization itself changed motivation, even with the same total rewards.\n**Why not B:** The finding is that people try to earn something from every category.\n**Why not D:** The research found the opposite effect, even though the tactic can sound a bit manipulative."
+    },
+    {
+      "topic": "Individual incentive plans",
+      "question": "Four years into a plant's skill-based pay plan, several veteran operators have learned every skill the program covers, and they seem increasingly frustrated. What downside does this illustrate?",
+      "options": {
+        "A": "Employees can top out once they've learned every skill in the pay plan",
+        "B": "The plan has hurt communication by isolating each job's experts",
+        "C": "The plan has reduced flexibility, since roles became too specialized",
+        "D": "The plan rewards output levels rather than what employees can do"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Under skill-based pay, people can 'top out' after learning all the skills the program calls for, which frustrates them after an environment of learning, growth and continual raises. (Ch 5: Skill-Based Pay)\n**Why not B:** Skill-based pay improves communication because people understand one another's jobs better.\n**Why not C:** Skill-based pay increases workforce flexibility, because skills become interchangeable.\n**Why not D:** It's the reverse: skill-based pay rewards capability and doesn't address the level of performance."
+    },
+    {
+      "topic": "Individual incentive plans",
+      "question": "A plant introduces piece-rate pay, and productivity rises for most workers. According to one study in the chapter, which employees are least likely to show this boost?",
+      "options": {
+        "A": "Employees with low growth-need strength",
+        "B": "Employees who are new to the organization",
+        "C": "Employees who are risk-averse",
+        "D": "Employees with a high need for achievement"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** One study found piece-rate plans stimulated higher productivity, but the positive effect wasn't observed for risk-averse employees. (Ch 5: Research Findings: Variable-Pay Programs)\n**Why not A:** Growth-need strength moderates reactions to enriched jobs in the JCM, not to piece-rate pay.\n**Why not B:** The study didn't single out tenure; risk aversion was what limited the effect.\n**Why not D:** High achievers like personal responsibility and feedback; the study singled out risk-averse employees."
+    },
+    {
+      "topic": "Group and company-wide plans",
+      "question": "Last month a work group used 8000 person-hours to complete 500 orders; this month it completed the same orders in 7200 hours. The savings are split 50-50 with the group, even though the company lost money this quarter. Which plan is this?",
+      "options": {
+        "A": "Profit sharing, since its formula is based on the group's performance",
+        "B": "Gainsharing, since it shares the group's productivity gains, not profits",
+        "C": "Piece-rate pay, since each worker is paid for the units produced",
+        "D": "An ESOP, since employees share in the value that they help create"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Gainsharing is a formula-based group plan that shares improvements in group productivity; because it's tied to productivity rather than profits, employees can be paid even when the organization isn't profitable. (Ch 5: Gainsharing)\n**Why not A:** Profit sharing depends on company profitability, so a money-losing quarter would pay nothing.\n**Why not C:** Piece-rate pay rewards individuals per unit; this plan shares a group's productivity savings.\n**Why not D:** An ESOP gives employees company stock as part of their benefits; it doesn't pay out productivity savings."
+    },
+    {
+      "topic": "Group and company-wide plans",
+      "question": "Under a new profit-sharing plan, managers slash training and customer-service spending to boost this year's profits. Which weakness of profit sharing does this reflect?",
+      "options": {
+        "A": "It rewards individual output, so team performance tends to get neglected",
+        "B": "It lowers overall profitability compared with having no plan at all",
+        "C": "It weakens psychological ownership by linking pay to company profit",
+        "D": "It can push people toward short-term cost cuts over long-term needs"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Profit sharing doesn't necessarily focus people on the future: they look for cost cuts today without considering longer-term needs, and may ignore customer service and employee development. (Ch 5: Profit-Sharing Plans)\n**Why not A:** Profit sharing is organization-wide and based on company profitability, not individual output.\n**Why not B:** Studies generally find organizations with profit sharing are more profitable than those without.\n**Why not C:** Employees under profit-sharing plans actually report a greater feeling of psychological ownership."
+    },
+    {
+      "topic": "Group and company-wide plans",
+      "question": "A company gives all staff shares through an employee stock ownership plan, but performance doesn't improve. Employees say they rarely hear how the business is doing and have no say in it. What does research suggest is missing?",
+      "options": {
+        "A": "A switch to stock options, which reliably outperform share ownership",
+        "B": "A bigger financial stake, since the share grants were probably too small",
+        "C": "A psychological sense of ownership, built on information and influence",
+        "D": "A profit-sharing plan, since ESOPs have no link to employee satisfaction"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** For ESOPs to succeed, employees must psychologically experience ownership: besides a financial stake, they need regular information on the business and opportunities to influence it. (Ch 5: Research Findings: ESOPs)\n**Why not A:** The chapter doesn't claim options outperform ESOPs; both rely on employees seeing how they affect the bottom line.\n**Why not B:** The research stresses psychological ownership (information and influence), not just the size of the stake.\n**Why not D:** ESOPs have been found to increase satisfaction and innovation; their effect on performance is what's less clear."
+    },
+    {
+      "topic": "Group and company-wide plans",
+      "question": "A board wants to reduce the risk that its CEO will manipulate earnings reports to look good in the short run. What does the chapter's research suggest?",
+      "options": {
+        "A": "Give the CEO a large ownership stake in the company's own stock",
+        "B": "Tie the CEO's pay to merit ratings from yearly appraisals",
+        "C": "Pay the CEO a larger annual bonus tied to quarterly earnings",
+        "D": "Move the CEO to a fixed salary with no performance-based pay"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** CEOs without an ownership share are more likely to manipulate earnings; CEOs who own a lot of stock report accurately because they don't want the consequences of a falling share price. (Ch 5: Research Findings: ESOPs)\n**Why not B:** The chapter's evidence on earnings manipulation concerns stock ownership, not appraisal-based merit pay.\n**Why not C:** Rewards tied strictly to short-term stock results can lead executives to ignore long-term profitability or even act unethically.\n**Why not D:** The research points to ownership as the safeguard, not to removing performance-based pay."
+    },
+    {
+      "topic": "Benefits and recognition",
+      "question": "Dev, a single 24-year-old, wants extra vacation and a savings plan; Grace, a parent of three whose spouse stays home, wants strong dental coverage and more life insurance. Which approach motivates both, and which theory supports it?",
+      "options": {
+        "A": "Gainsharing, consistent with reinforcement theory's emphasis on quick rewards",
+        "B": "Skill-based pay, consistent with goal-setting theory's focus on clear targets",
+        "C": "A standard package, consistent with equity theory's call for equal treatment",
+        "D": "Flexible benefits, consistent with expectancy theory's personal-goals link"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Flexible benefits let each employee choose the package that best fits current needs, consistent with expectancy theory's idea that rewards should be linked to each employee's personal goals. (Ch 5: Flexible Benefits)\n**Why not A:** Gainsharing shares group productivity savings; it doesn't individualize benefits.\n**Why not B:** Skill-based pay sets pay by the skills people have; it doesn't tailor benefits to personal situations.\n**Why not C:** A one-size-fits-all package would be unlikely to satisfy both sets of needs; equity theory concerns comparing ratios, not identical packages."
+    },
+    {
+      "topic": "Benefits and recognition",
+      "question": "A firm offers three ready-made benefit packages: one for single employees with no dependants, one for single parents with extra life and disability insurance, and one for employees nearing retirement. Which type of plan is this?",
+      "options": {
+        "A": "A core-plus plan",
+        "B": "A modular plan",
+        "C": "A flexible spending account",
+        "D": "A standardized benefits plan"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Modular plans are predesigned packages of benefits, each put together to meet the needs of a specific group of employees. (Ch 5: Flexible Benefits)\n**Why not A:** Core-plus plans combine a core of essential benefits with a menu of options bought using benefit credits.\n**Why not C:** Flexible spending accounts let employees set aside pretax dollars to pay for particular benefits.\n**Why not D:** A standardized plan gives everyone the same package, while these packages are tailored to groups."
+    },
+    {
+      "topic": "Benefits and recognition",
+      "question": "A call-centre agent on modest pay says she stays because her team lead thanks her publicly at huddles and her name keeps appearing on the team's wall of fame. What does this illustrate?",
+      "options": {
+        "A": "Recognition is a hygiene factor that simply prevents dissatisfaction",
+        "B": "Recognition only motivates when it's paired with a cash reward",
+        "C": "Recognition is an intrinsic reward that motivates at little cost",
+        "D": "She likely has low self-efficacy and needs constant reassurance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Work rewards can be intrinsic (recognition) as well as extrinsic (pay). Recognition links performance to rewards, as expectancy theory requires, and it's inexpensive because praise is free. (Ch 5: Intrinsic Rewards: Employee Recognition Programs)\n**Why not A:** In Herzberg's theory, recognition is a motivator; hygiene factors include pay and supervision.\n**Why not B:** Recognition ranges from a spontaneous thank-you to formal programs; it doesn't need cash to work.\n**Why not D:** Nothing suggests low self-efficacy; she's responding to having her effort recognized."
+    },
+    {
+      "topic": "Benefits and recognition",
+      "question": "Facing a budget freeze, a manager plans to replace cash incentives with recognition and praise. What does research suggest about how the two compare over time?",
+      "options": {
+        "A": "Recognition motivates more in the short term, but cash wins in the long run",
+        "B": "Neither motivates much, since only job redesign affects motivation",
+        "C": "Cash may motivate more short term, but nonfinancial rewards win long term",
+        "D": "Both work equally well, whether the time frame is short or long"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Some research suggests financial incentives may be more motivating in the short term, but in the long run nonfinancial incentives are what motivate. (Ch 5: Intrinsic Rewards: Employee Recognition Programs)\n**Why not A:** This reverses the research finding.\n**Why not B:** Both rewards and recognition can motivate; recognition programs are common and inexpensive.\n**Why not D:** The research points to a difference between short-term and long-term effects."
+    },
+    {
+      "topic": "Reward signals and Kohn's critique",
+      "question": "A company's values statement stresses teamwork, but annual bonuses go only to the individuals with the highest personal sales. What problem does this illustrate?",
+      "options": {
+        "A": "Rewarding one behaviour while hoping for quite a different one",
+        "B": "Extinction of teamwork through intermittent reinforcement",
+        "C": "Distributive injustice in how the bonuses are calculated",
+        "D": "A Pygmalion effect lowering the whole team's expectations"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** This is the 'folly of rewarding A while hoping for B': the firm hopes for teamwork but rewards individual results, and expectancy theory predicts people will do what earns the rewards offered. (Ch 5: Beware the Signals That Are Sent by Rewards)\n**Why not B:** The issue is what gets rewarded, not the schedule of reinforcement.\n**Why not C:** The core problem isn't the fairness of bonus amounts but rewarding a different behaviour than the one wanted.\n**Why not D:** The Pygmalion effect concerns expectations becoming self-fulfilling, not mismatched reward systems."
+    },
+    {
+      "topic": "Reward signals and Kohn's critique",
+      "question": "A university pays first-year students for meeting weekly gym-visit goals, hoping to prevent weight gain. Gym visits rise sharply, but weight gain barely differs from the control group. What's the best lesson?",
+      "options": {
+        "A": "Rewards should be delayed so students learn to value fitness itself",
+        "B": "People do what gets rewarded, so reward the outcome you actually want",
+        "C": "Money doesn't change behaviour, as the gym results clearly showed",
+        "D": "Incentives backfire, since quitting rose faster with the incentive"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Incentives raised gym attendance, but students weren't rewarded for maintaining or losing weight; the researchers assumed a link that didn't hold, so rewarding weight outcomes might have worked better. (Ch 5: OB in the Street, Rewarding Gym Attendance While Wanting Weight Loss)\n**Why not A:** The study's lesson concerns what was rewarded, not when rewards were given.\n**Why not C:** The incentives did change behaviour: 63% met weekly gym goals versus 13% of the control group.\n**Why not D:** Students in both groups stopped going to the gym at about the same rate."
+    },
+    {
+      "topic": "Reward signals and Kohn's critique",
+      "question": "At a law firm, associates are evaluated purely on billable hours. A new associate wonders whether to spend time helping struggling colleagues. What does the chapter's research on citizenship behaviour suggest?",
+      "options": {
+        "A": "Helping won't matter, since the firm's appraisals ignore results entirely",
+        "B": "Helping may cost her here, since outcomes rather than behaviours are rewarded",
+        "C": "Helping will raise her billable hours by building stronger client loyalty",
+        "D": "Helping always pays off, since every employer rewards citizenship in appraisals"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Where employees are judged on what gets done (billable hours, sales volume), managers may overlook or discourage OCB, so there can be a trade-off between being a good performer and a good citizen. (Ch 5: Focus on Research, The Reward for Helping Others at Work)\n**Why not A:** The firm evaluates results (billable hours), which is exactly why helping may go unrewarded.\n**Why not C:** The chapter doesn't link helping to billable hours; it warns of a possible cost in outcome-focused firms.\n**Why not D:** The research says 'it depends'; in outcome-focused organizations, OCB can go unrewarded."
+    },
+    {
+      "topic": "Reward signals and Kohn's critique",
+      "question": "A manager must assign a dull, unavoidable data-cleanup project. Following the chapter's advice for fundamentally unappealing work, what should she do?",
+      "options": {
+        "A": "Admit it isn't fun, explain why it matters, and let staff choose how",
+        "B": "Offer a large one-time bonus so the extra reward makes up for the boredom",
+        "C": "Set a fixed procedure and closely monitor everyone's daily output",
+        "D": "Present the task as exciting so that staff expectations stay high"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** For fundamentally unappealing tasks, the chapter suggests frankly acknowledging the task isn't fun, giving a meaningful rationale for doing it, and allowing as much choice as possible in how it's done. (Ch 5: Can We Eliminate Rewards?)\n**Why not B:** Kohn argues extrinsic rewards focus people on the reward rather than the task and take away choice.\n**Why not C:** Surveillance and removing choice run counter to the conditions for authentic motivation.\n**Why not D:** The advice is to be frank that the task isn't fun, not to oversell it."
+    },
+    {
+      "topic": "Reward signals and Kohn's critique",
+      "question": "A company adopting Alfie Kohn's recommendations wants to redesign its performance appraisals. Which change fits his advice?",
+      "options": {
+        "A": "Hold appraisals more often so poor performers are spotted sooner",
+        "B": "Link every appraisal rating directly to the size of the annual raise",
+        "C": "Replace appraisals with incentive pay based on objective output",
+        "D": "Make reviews a two-way conversation, kept separate from pay decisions"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Kohn recommends structuring evaluation like a two-way exchange of ideas and questions, and not tying the discussion of performance to compensation. (Ch 5: Can We Eliminate Rewards?)\n**Why not A:** Kohn wants evaluation to feel less punitive, not more focused on identifying poor performers.\n**Why not B:** Kohn says feedback should never be combined with controlling people by offering or withholding rewards.\n**Why not C:** Kohn proposes abolishing incentive pay and instead paying people generously and fairly."
+    },
+    {
+      "topic": "Job characteristics model",
+      "question": "At a print shop, one designer handles each client's job from the first sketch through final printing, while a colleague only adjusts colours on files others have started. Which core job dimension most distinguishes their jobs?",
+      "options": {
+        "A": "Task identity",
+        "B": "Autonomy",
+        "C": "Skill variety",
+        "D": "Task significance"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Task identity is the degree to which a job requires completing a whole, identifiable piece of work, as the first designer does from sketch to print. (Ch 5: The Job Characteristics Model)\n**Why not B:** Autonomy concerns freedom in scheduling work and choosing procedures, not completing a whole piece of work.\n**Why not C:** Skill variety concerns using a range of different skills; the key contrast here is doing the whole piece versus a fragment.\n**Why not D:** Task significance is the job's impact on other people's lives or work, which isn't what differs here."
+    },
+    {
+      "topic": "Job characteristics model",
+      "question": "A technician assembles medical devices and sends each one to a separate inspector for testing, so she rarely learns whether her units passed. In JCM terms, which critical psychological state is she most likely missing?",
+      "options": {
+        "A": "Experienced responsibility for outcomes",
+        "B": "Experienced meaningfulness of the work she does",
+        "C": "Knowledge of the actual results of her work",
+        "D": "Strong growth needs for challenging work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Feedback (direct, clear information about performance from the work itself) creates knowledge of results; sending units to an inspector removes it. (Ch 5: The Job Characteristics Model, Exhibit 5-4)\n**Why not A:** Experienced responsibility comes from autonomy; her problem is not learning how she performed.\n**Why not B:** Meaningfulness comes from skill variety, task identity and task significance; what's missing here is feedback.\n**Why not D:** Growth-need strength is a personal moderator in the model, not one of the three critical psychological states."
+    },
+    {
+      "topic": "Job characteristics model",
+      "question": "Using the motivating potential score formula, a job rates high on skill variety, task identity and task significance, but almost zero on autonomy. What happens to its score?",
+      "options": {
+        "A": "It's still high, because three of the five dimensions are high",
+        "B": "It stays very low, because autonomy multiplies the other factors",
+        "C": "It's moderate, because autonomy is one-fifth of an overall average",
+        "D": "It's high, because meaningfulness outweighs experienced responsibility"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The MPS averages the three meaningfulness dimensions, then multiplies by autonomy and by feedback, so near-zero autonomy pushes the score toward zero; a motivating job must be high on both autonomy and feedback. (Ch 5: Motivating Potential Score)\n**Why not A:** Because the formula multiplies, low autonomy can't be offset by the other dimensions.\n**Why not C:** Autonomy isn't averaged in with the others; it's a multiplier.\n**Why not D:** The formula requires high autonomy and feedback in addition to at least one meaningfulness factor."
+    },
+    {
+      "topic": "Job characteristics model",
+      "question": "A company enriches all of its clerical jobs. Some staff thrive, while others say they preferred their simpler routine. Which factor best explains the difference?",
+      "options": {
+        "A": "Their seniority, since long-tenured staff resist any change at all",
+        "B": "The strength of each person's growth or higher-order needs",
+        "C": "Their pay levels, since higher-paid staff expect more of a challenge",
+        "D": "Each person's need for affiliation, which enriched work frustrates"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The variable that best explains who prefers challenging work is the strength of higher-order (growth) needs; people with high growth needs respond more positively to enriched jobs, while others may prefer routine or meet such needs off the job. (Ch 5: Research Findings: JCM)\n**Why not A:** The chapter explains preference for challenge by growth needs, not tenure.\n**Why not C:** Pay level isn't the moderator; growth-need strength is.\n**Why not D:** The JCM's moderator is growth-need strength, not need for affiliation."
+    },
+    {
+      "topic": "Job characteristics model",
+      "question": "After a job enrichment program, a firm's productivity dips slightly, and the CFO wants to scrap it. What does the JCM research suggest the firm may still be gaining?",
+      "options": {
+        "A": "More conscientious use of resources and higher-quality work output",
+        "B": "Lower labour costs, since enriched jobs need fewer employees",
+        "C": "Higher productivity later, since early declines always reverse",
+        "D": "Higher satisfaction, but only among staff with low growth needs"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Evidence on productivity is inconclusive, but even when productivity falls there's consistently more conscientious use of resources and higher quality; enriched jobs also reduce absenteeism and turnover. (Ch 5: Research Findings: JCM)\n**Why not B:** The chapter doesn't claim enrichment cuts headcount; its benefits are quality, satisfaction and less absence and turnover.\n**Why not C:** The chapter doesn't promise a reversal; the productivity evidence is simply inconclusive.\n**Why not D:** It's employees with high growth needs who respond most positively to enriched jobs."
+    },
+    {
+      "topic": "Job characteristics model",
+      "question": "A Montreal firm exports its hands-off management style to a new office abroad, and staff there read the freedom as disorganization. What does research by Gagné and Bhave suggest?",
+      "options": {
+        "A": "Autonomy pays off mostly for simple, routine work in any culture",
+        "B": "Autonomy is valued everywhere, but how it's granted must fit the culture",
+        "C": "Autonomy should be maximized, since more freedom is always better",
+        "D": "Autonomy is valued mainly in North America, so the firm should abandon it"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The researchers found every culture values autonomy and perceived autonomy helps, but North American methods can't simply be exported; in some cultures too much freedom looks like management disorganization. (Ch 5: Focus on Research, Autonomy and Productivity)\n**Why not A:** Control over one's activities boosts commitment and productivity especially when work is complex or creative.\n**Why not C:** Too much freedom can be read as disorganization in some cultures, so more isn't always better.\n**Why not D:** The research found that every culture values autonomy."
+    },
+    {
+      "topic": "Redesigning jobs",
+      "question": "A hotel periodically moves front-desk clerks into reservations and concierge roles at the same level, with similar skill requirements. Supervisors notice productivity dips each time someone moves. Which technique is this, and which drawback are they seeing?",
+      "options": {
+        "A": "Job rotation, which can cut productivity right after each move",
+        "B": "Job enrichment, which adds planning duties that slow the work",
+        "C": "Relational job design, which shifts the focus toward beneficiaries",
+        "D": "Job sharing, which makes it hard to find compatible partners"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Job rotation periodically shifts employees among tasks with similar skill requirements at the same level; drawbacks include training costs and lost productivity when someone moves into a new position. (Ch 5: Job Rotation)\n**Why not B:** Enrichment expands jobs vertically (planning, execution, evaluation); this is a lateral move between similar tasks.\n**Why not C:** Relational job design connects employees with the people their work affects; it isn't about moving between tasks.\n**Why not D:** Job sharing means two or more people splitting one job, not moving between tasks."
+    },
+    {
+      "topic": "Redesigning jobs",
+      "question": "A bank gives its loan officers authority to plan their own client portfolios, approve loans within limits and review their own results, tasks once handled by supervisors. What is this?",
+      "options": {
+        "A": "Skill-based pay, by rewarding new competencies",
+        "B": "Job rotation, by moving staff among similar tasks",
+        "C": "Job enrichment, by expanding the job vertically",
+        "D": "Representative participation, by sharing power"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Job enrichment increases the employee's control over planning, executing and evaluating the work; expanding jobs vertically gives employees responsibilities formerly reserved for management. (Ch 5: Job Enrichment; From Concepts to Skills)\n**Why not A:** Skill-based pay is a way of paying people, not a way of redesigning their jobs.\n**Why not B:** Job rotation is a lateral shift at the same level, not added control over the work.\n**Why not D:** Representative participation works through a small group of employee representatives, such as works councils."
+    },
+    {
+      "topic": "Redesigning jobs",
+      "question": "A hospital wants its billing staff to feel more pro-socially motivated. Which step best reflects relational job design?",
+      "options": {
+        "A": "Rate billing staff on how many accounts they close each week",
+        "B": "Have patients share how resolving their bills eased their stress",
+        "C": "Add more varied billing tasks to raise each clerk's level of skill variety",
+        "D": "Let billing staff set their own hours around a core period"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Relational job design connects employees with the beneficiaries of their work, through stories or direct contact, which makes the job's impact personal and emotionally vivid. (Ch 5: Relational Job Design)\n**Why not A:** Output measures don't connect employees with the people they help.\n**Why not C:** Adding variety is JCM-style job enrichment; relational design focuses on beneficiaries.\n**Why not D:** That's flextime, an alternative work arrangement."
+    },
+    {
+      "topic": "Redesigning jobs",
+      "question": "A manager argues that relational job design is just task significance under a new name. Which point from the chapter best counters her?",
+      "options": {
+        "A": "Beneficiary contact only works when staff meet many clients at once",
+        "B": "Beneficiary contact raises pay satisfaction rather than motivation",
+        "C": "Task significance already covers contact, so the two are identical",
+        "D": "Many significant jobs never involve meeting the people affected"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Many jobs are high in significance, yet employees never meet those affected; beneficiary contact also has a distinct link to pro-social behaviour, as with lifeguards who read about swimmers they had helped. (Ch 5: Relational Job Design)\n**Why not A:** Fundraisers benefited even after meeting just one scholarship recipient.\n**Why not B:** Contact increased persistence, fundraising and helping, not pay satisfaction.\n**Why not C:** The chapter identifies specific differences that make beneficiary contact unique."
+    },
+    {
+      "topic": "Redesigning jobs",
+      "question": "A delivery company's drivers complain that 'all we do is drive.' The owner decides drivers will deal directly with the customers on their routes, handling questions and complaints. According to the guidelines for enriching jobs, which core dimensions does this mainly increase?",
+      "options": {
+        "A": "Skill variety, autonomy and feedback",
+        "B": "Skill variety and task identity",
+        "C": "Task identity and task significance",
+        "D": "Autonomy alone, through vertical expansion"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Establishing client relationships increases skill variety, autonomy and feedback for the employee. (Ch 5: From Concepts to Skills, Exhibit 5-9)\n**Why not B:** Combining tasks is the step that increases skill variety and task identity.\n**Why not C:** Forming natural work units mainly increases task identity and task significance.\n**Why not D:** Expanding jobs vertically is the step that increases autonomy alone."
+    },
+    {
+      "topic": "Alternative work arrangements",
+      "question": "An office sets core hours of 9 a.m. to 3 p.m. and lets staff choose their remaining hours between 6 a.m. and 6 p.m. For which employees is this arrangement least workable?",
+      "options": {
+        "A": "Analysts who do their best work at different times of the day",
+        "B": "Receptionists and retail staff who must be present at set times",
+        "C": "Parents who want to fit their work hours around child-care demands",
+        "D": "Clerical staff who mostly interact with their own department"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Flextime isn't viable for receptionists, retail salespeople or service jobs that require people at their workstations at predetermined times. (Ch 5: Flextime)\n**Why not A:** Flextime lets people work when they're most productive.\n**Why not C:** Flextime helps people align work hours with personal demands, reducing tardiness and absence.\n**Why not D:** Clerical tasks with limited outside interaction are where flextime works best."
+    },
+    {
+      "topic": "Alternative work arrangements",
+      "question": "After a firm introduces flextime, some employees end up working longer days and multitasking more. What risk did University of Toronto research link to this pattern?",
+      "options": {
+        "A": "Greater work–life conflict and stress",
+        "B": "Higher absenteeism and more frequent lateness",
+        "C": "A sharper separation of work and family life",
+        "D": "Lower productivity across most types of jobs"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A 2010 study found flextime can lead to longer hours and more multitasking, which in turn create greater work–life conflict and stress, so flextime needs to be managed. (Ch 5: Flextime)\n**Why not B:** Flextime tends to reduce absenteeism and tardiness.\n**Why not C:** The pattern blurs work and family life rather than separating them.\n**Why not D:** Flextime frequently improves productivity."
+    },
+    {
+      "topic": "Alternative work arrangements",
+      "question": "A remote health authority can't recruit doctors for multi-year postings, but many will come for a few months at a time, so it splits each position among several doctors. Which arrangement is this, and what's its main drawback?",
+      "options": {
+        "A": "Telecommuting; the 'out of sight, out of mind' effect on careers",
+        "B": "Job rotation; productivity drops each time a doctor moves roles",
+        "C": "Flextime; it tends to lengthen hours and increase multitasking",
+        "D": "Job sharing; finding compatible people to coordinate one job"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Job sharing lets two or more people split one job, as Nunavut did with short doctor postings; the major drawback is finding compatible people who can coordinate the job's demands. (Ch 5: Job Sharing)\n**Why not A:** The doctors work on site; the arrangement splits a position rather than moving work home.\n**Why not B:** Job rotation moves employees between tasks; here several people share the same role.\n**Why not C:** The solution splits a position among doctors rather than flexing anyone's daily hours."
+    },
+    {
+      "topic": "Alternative work arrangements",
+      "question": "An IT manager asks what research shows about telecommuting's effects on performance ratings and turnover. What should she be told?",
+      "options": {
+        "A": "It lowers performance ratings because of the 'out of sight' effect",
+        "B": "Better supervisor ratings, but no proven drop in turnover",
+        "C": "It improves both ratings and turnover in every study done so far",
+        "D": "It reliably lowers turnover but has no link to performance ratings"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Research shows a positive relationship between telecommuting and supervisor performance ratings, but a link to lower turnover intentions hasn't been substantiated. (Ch 5: Research Findings: Telecommuting)\n**Why not A:** The 'out of sight, out of mind' risk concerns raises and promotions; ratings are positively related to telecommuting.\n**Why not C:** The turnover link hasn't been substantiated.\n**Why not D:** This reverses the findings."
+    },
+    {
+      "topic": "Alternative work arrangements",
+      "question": "Kwame thrives on daily contact with co-workers and asks to telecommute full-time. Which risk does the chapter flag for employees like him?",
+      "options": {
+        "A": "More isolation and lower job satisfaction",
+        "B": "Frequent home contact that mainly stresses men",
+        "C": "Less flexibility, since remote schedules are rigid",
+        "D": "Lower productivity, since home work is less efficient"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** For employees with a high social need, telecommuting can increase feelings of isolation and reduce job satisfaction. (Ch 5: Research Findings: Telecommuting)\n**Why not B:** A University of Toronto study found greater stress for women than men from frequent contact at home.\n**Why not C:** Telecommuting typically increases flexibility.\n**Why not D:** The chapter lists higher productivity among telecommuting's potential benefits."
+    },
+    {
+      "topic": "Alternative work arrangements",
+      "question": "A team's jobs score well on the job characteristics model, yet morale is poor: the workspace is hot and noisy, and staff lack proper tools. What does the chapter suggest?",
+      "options": {
+        "A": "Enriched tasks outweigh physical conditions, so morale will recover",
+        "B": "Poor conditions affect satisfaction, but never actual performance",
+        "C": "Social ties matter at work, but physical conditions are irrelevant",
+        "D": "Social and physical context matter just as much as the tasks themselves"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Research shows social aspects and work context are as important as other job design features; hot, loud work lowers satisfaction, and lacking tools or supplies hurts performance. (Ch 5: The Social and Physical Context of Work)\n**Why not A:** Even highly engaging tasks may not produce satisfaction if the context is poor.\n**Why not B:** Without adequate tools, materials and conditions, performance suffers.\n**Why not C:** Hot, loud and dangerous work is less satisfying than safe, comfortable work."
+    },
+    {
+      "topic": "Involvement and the four drives",
+      "question": "A plant manager introduces participative management, sharing real decision-making power with work teams, and promises it will transform productivity. What does the research suggest?",
+      "options": {
+        "A": "It has no measurable organizational effects of any kind",
+        "B": "It reliably cures low morale and low productivity in most plants",
+        "C": "Effects tend to be modest; it isn't a sure way to lift performance",
+        "D": "It works well even when employees don't trust their plant's leaders"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Findings are mixed: at the individual level, participation typically has only a modest influence on productivity, motivation and satisfaction, so it's not a sure means of improving performance. (Ch 5: Participative Management)\n**Why not A:** Organizations with participative management show higher stock returns, lower turnover and higher productivity, though the effects aren't large.\n**Why not B:** Participative management has been promoted that way, but the evidence is mixed.\n**Why not D:** Participative management requires followers to have trust and confidence in their leaders."
+    },
+    {
+      "topic": "Involvement and the four drives",
+      "question": "A company's German subsidiary must consult an elected works council before decisions affecting employees. A manager hopes this will greatly improve employee attitudes across the plant. What does the evidence say?",
+      "options": {
+        "A": "It's rare in Europe, so there's little evidence on its effects",
+        "B": "It works best when management dominates the council's agenda",
+        "C": "Its value is mostly symbolic; its effects on most employees are minimal",
+        "D": "It strongly boosts the motivation of all of the employees represented"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Representative participation has minimal influence on working employees; benefits to representatives rarely trickle down to those they represent, so its greatest value is symbolic. (Ch 5: Representative Participation)\n**Why not A:** Almost every western European country requires it; it's the most widely legislated form of involvement.\n**Why not B:** Management dominance is part of why works councils have little impact.\n**Why not D:** Any motivational boost tends to stay with the representatives rather than the employees they represent."
+    },
+    {
+      "topic": "Involvement and the four drives",
+      "question": "An HR leader claims her new employee involvement program will raise intrinsic motivation and perceptions of fairness. Which theoretical links in the chapter support her?",
+      "options": {
+        "A": "Theory Y, reinforcement schedules and informational justice",
+        "B": "Theory Y, Herzberg's motivators and procedural justice",
+        "C": "Theory X, Maslow's lower-order needs and equity theory",
+        "D": "Theory X, Herzberg's hygiene factors and distributive justice"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Participative management is consistent with Theory Y; involvement can supply Herzberg's intrinsic motivators such as growth and responsibility; and control over key decisions can enhance procedural justice. (Ch 5: Linking Employee Involvement Programs and Motivation Theories)\n**Why not A:** The chapter doesn't tie involvement to reinforcement schedules; it highlights procedural justice.\n**Why not C:** Involvement satisfies higher-order needs like responsibility and self-esteem, consistent with Theory Y.\n**Why not D:** Theory X fits autocratic management, and involvement supplies motivators rather than hygiene factors."
+    },
+    {
+      "topic": "Involvement and the four drives",
+      "question": "Consultants at a firm complain that plum assignments and promotions go to favourites through opaque processes. Under the four-drives model, which drive is unmet, and which lever addresses it?",
+      "options": {
+        "A": "The drive to acquire, via sharply differentiated rewards",
+        "B": "The drive to comprehend, via meaningful job design",
+        "C": "The drive to bond, via a culture of teamwork and friendship",
+        "D": "The drive to defend, via fair and transparent processes"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The drive to defend (protecting against threats and ensuring justice) is met through performance management and resource allocation processes that are transparent and fair. (Ch 5: Motivation: Putting It All Together, Exhibit 5-6)\n**Why not A:** The reward system meets the drive to acquire; the problem here is perceived injustice.\n**Why not B:** Job design meets the drive to comprehend, not concerns about fairness.\n**Why not C:** Culture meets the drive to bond; the complaint here is about the fairness of processes."
+    },
+    {
+      "topic": "Global implications",
+      "question": "A manager transferred to India introduces an employee empowerment program that worked well in the United States, but his employees rate him poorly. What best explains their reaction?",
+      "options": {
+        "A": "High power distance, so staff expect clear differences in authority",
+        "B": "Strong individualism, so staff resent making decisions together",
+        "C": "Low uncertainty avoidance, so staff dislike highly structured programs",
+        "D": "A strong preference for pay over any kind of involvement program"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In a four-country study, Indian employees rated managers who tried to empower them low, consistent with India's high power-distance culture, which accepts and expects differences in authority. (Ch 5: Global Implications, Employee Involvement)\n**Why not B:** The explanation offered is power distance; individualism isn't the issue.\n**Why not C:** The chapter explains the reaction through power distance, not uncertainty avoidance.\n**Why not D:** The chapter doesn't attribute the reaction to pay preferences."
+    },
+    {
+      "topic": "Global implications",
+      "question": "A multinational is designing reward systems for its offices in Japan, the United Kingdom and Sweden. Based on the chapter's cultural reward preferences, which matching fits best?",
+      "options": {
+        "A": "Stock options in Japan, child care in the U.K., seniority pay in Sweden",
+        "B": "Seniority pay in Japan, pay for performance in the U.K., child care in Sweden",
+        "C": "Individual incentives in Japan, seniority pay in the U.K., child care in Sweden",
+        "D": "Child care in Japan, seniority pay in the U.K., stock options in Sweden"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** High uncertainty-avoidance countries such as Japan prefer certainty, like seniority or skill pay; individualist countries such as the U.K. prefer pay for individual performance; humane-orientation countries such as Sweden favour social benefits like child care. (Ch 5: Global Implications, Exhibit 5-7)\n**Why not A:** This mismatches all three; stock options fit individualist countries like the U.K.\n**Why not C:** Japan is an example of preferring certainty (seniority pay), and the U.K. of preferring individual incentives.\n**Why not D:** Sweden's humane orientation favours social benefits, and Japan's uncertainty avoidance favours predictable pay."
+    },
+    {
+      "topic": "Global implications",
+      "question": "A Canadian manager plans JCM-style job enrichment at a subsidiary in a collectivist country, where employees are strongly 'other oriented.' What does research suggest?",
+      "options": {
+        "A": "It works only when paired with individual incentive pay",
+        "B": "It will backfire, since collectivist workers dislike autonomy",
+        "C": "Effects may be weaker there, though findings are inconsistent",
+        "D": "Effects will match those in Canada exactly, as all the studies agree"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** When employees are other-oriented, the link between intrinsic job characteristics and satisfaction is weaker, and the JCM's individualistic focus suggests weaker effects in collectivist cultures, though one study found similar effects in the U.S., Japan and Hungary. (Ch 5: Global Implications, Job Characteristics and Job Enrichment)\n**Why not A:** The chapter doesn't make enrichment conditional on individual incentives.\n**Why not B:** Research found that every culture values autonomy; the issue is how it's applied.\n**Why not D:** Cross-cultural tests of the JCM have produced results that aren't very consistent."
+    }
+  ]
+}

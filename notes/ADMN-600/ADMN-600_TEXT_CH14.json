@@ -1,0 +1,710 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "14",
+    "title": "Organizational Change"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 14",
+  "questions": [
+    {
+      "topic": "Forces and change agents",
+      "question": "A sporting-goods chain finds that shoppers who have never met now swap product reviews in online forums and blogs, and that customers expect 'green' practices as standard rather than optional. Which force for change is the chain mainly responding to?",
+      "options": {
+        "A": "Social trends",
+        "B": "Competition",
+        "C": "Nature of the workforce",
+        "D": "Technology"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The text lists strangers sharing product information in chat rooms and blogs, and green practices becoming expected rather than optional, under social trends; firms must keep adjusting product and marketing strategies to them. (Ch 14: Forces for Change)\n**Why not B:** Competition covers global rivals, mergers and the growth of e-commerce; nothing here concerns what rivals are doing.\n**Why not C:** That force concerns employees (more cultural diversity, an aging population, skill gaps), not customers' expectations.\n**Why not D:** Technology covers developments like faster, cheaper and more mobile computers; the pressure here comes from shifting consumer behaviour and expectations."
+    },
+    {
+      "topic": "Forces and change agents",
+      "question": "A hospital network decides to overhaul how it recruits and selects nurses and to invest more in their training and development. Which organizational target for change is it working on?",
+      "options": {
+        "A": "Structure",
+        "B": "Culture",
+        "C": "People",
+        "D": "Tasks"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 14-2, the people target means updating recruiting and selection practices and improving training and development. (Ch 14: Opportunities for Change, Exhibit 14-2)\n**Why not A:** The structure target means updating organizational design and coordination mechanisms.\n**Why not B:** The culture target means clarifying or creating core beliefs and values.\n**Why not D:** The tasks target means updating job designs for individuals and groups, not hiring and training practices."
+    },
+    {
+      "topic": "Forces and change agents",
+      "question": "A struggling insurer hires an outside consulting firm, rather than relying on its own managers, to lead a major restructuring. According to the text, what is the main trade-off of this choice?",
+      "options": {
+        "A": "Deep cultural insight, but slower and more cautious recommendations",
+        "B": "An objective view, but a weak grasp of the firm's culture",
+        "C": "Small, reversible changes, but limited authority to carry them out",
+        "D": "Long-term ownership of the results, but a less objective view"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Outside consultants can offer an objective perspective that insiders often lack, but they usually have an inadequate understanding of the organization's history, culture, operating procedures and personnel. (Ch 14: Change Agents)\n**Why not A:** That describes internal change agents, who must live with the consequences of their actions and so tend to be more thoughtful and cautious.\n**Why not C:** Outsiders are described as prone to more drastic changes, not smaller ones, because they don't have to live with the repercussions.\n**Why not D:** Reversed: it's insiders who live with the results, and outsiders who bring the more objective perspective."
+    },
+    {
+      "topic": "Forces and change agents",
+      "question": "A front-line claims clerk sees a future for the insurer that others have missed, and persuades colleagues to help design and carry it out. Could this clerk be considered a change agent?",
+      "options": {
+        "A": "No; the role requires holding a formal management position",
+        "B": "No; the term applies only to outside consultants brought in",
+        "C": "Yes; change agents can be nonmanagers as well as managers",
+        "D": "Yes, but only after senior leaders formally appoint the clerk"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Change agents are catalysts who see a future others haven't identified and can motivate, invent and implement it; they can be managers or nonmanagers, employees or outside consultants. (Ch 14: Change Agents)\n**Why not A:** The text states that change agents can be nonmanagers.\n**Why not B:** Employees and managers inside the organization can also be change agents.\n**Why not D:** No formal appointment is required; acting as a catalyst and taking responsibility for managing change is what counts."
+    },
+    {
+      "topic": "Lewin's three-step model",
+      "question": "A bank is merging three regional call centres into one. Managers meet each worried employee individually, clarify their specific concerns, and show with concrete evidence that most of the fears are unfounded. In Lewin's terms, what are the managers doing?",
+      "options": {
+        "A": "Moving by getting employees involved in the change",
+        "B": "Refreezing by replacing temporary forces",
+        "C": "Unfreezing by decreasing the restraining forces",
+        "D": "Unfreezing by increasing the driving forces"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Counselling employees and showing that their fears are unwarranted removes forces that hinder movement away from the status quo, one of the three ways to unfreeze it. (Ch 14: Lewin's Three-Step Model)\n**Why not A:** This step loosens the status quo before the move; the counselling targets fears rather than involving staff in carrying out the change.\n**Why not B:** Refreezing happens after the change is in place, by substituting permanent forces such as new bonus systems and rules.\n**Why not D:** Increasing driving forces would mean incentives that pull people toward the change, such as pay increases or generous moving expenses."
+    },
+    {
+      "topic": "Lewin's three-step model",
+      "question": "Once the merged call centre is up and running, the bank ties a new bonus system to the desired behaviours and rewrites the formal rules for the affected staff. What is the purpose of this step?",
+      "options": {
+        "A": "To speed the moving stage by involving employees in decisions",
+        "B": "To unfreeze the status quo by adding stronger driving forces",
+        "C": "To let group norms alone sustain the new way of working",
+        "D": "To refreeze the change by swapping temporary for permanent forces"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Without refreezing, people drift back to the old equilibrium; management stabilizes the new state by systematically replacing temporary forces with permanent ones such as bonuses and revised rules. (Ch 14: Lewin's Three-Step Model)\n**Why not A:** Bonuses and rules don't involve employees in decisions; they lock in the new situation after the move.\n**Why not B:** The change has already been implemented, so this isn't unfreezing; the aim now is to stabilize the new situation.\n**Why not C:** Group norms will evolve over time, but until they do, management has to rely on formal mechanisms like these."
+    },
+    {
+      "topic": "Lewin's three-step model",
+      "question": "A manufacturer plans a restructuring but spends 18 months slowly building up to it, then rolls out the actual changes in small, tentative phases. What does the research cited in the text suggest about this approach?",
+      "options": {
+        "A": "Getting to and through the moving stage quickly works better",
+        "B": "Slow phases are needed so that group norms can refreeze first",
+        "C": "Speed matters only in refreezing, once the change is in place",
+        "D": "A long build-up lowers resistance and so improves the results"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Research indicates that, to be effective, the actual change has to happen quickly; organizations that build up to change do less well than those that get to and through the moving stage fast. (Ch 14: Lewin's Three-Step Model)\n**Why not B:** Refreezing follows the change; norms can't stabilize a new state that hasn't been reached yet.\n**Why not C:** The research is about getting to and through the moving stage quickly.\n**Why not D:** The text reports the opposite: building up to change is associated with poorer results."
+    },
+    {
+      "topic": "Lewin's three-step model",
+      "question": "A retailer with decades of success and a very strong culture now wants a radical overhaul of how it operates. What does the text predict it will run into?",
+      "options": {
+        "A": "Easy unfreezing, because a strong culture aligns people quickly",
+        "B": "Strong restraining forces, as people question the need",
+        "C": "Strong driving forces, because successful firms seek renewal",
+        "D": "Little resistance, since past success builds trust in leaders"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Past success brings restraining forces because people question the need for change, and strong-culture firms excel at incremental change but are overcome by restraining forces against radical change. (Ch 14: Lewin's Three-Step Model)\n**Why not A:** Strong cultures help with incremental change, not radical change, which they tend to resist.\n**Why not C:** The text links past success to restraining forces, not to extra driving forces.\n**Why not D:** Rather than smoothing the way, past success leads people to question why change is needed at all."
+    },
+    {
+      "topic": "Lewin's three-step model",
+      "question": "A board member describes the company as a ship crossing calm seas that now and then meets a storm, adjusts, and returns to steady waters. In the chapter's Point/Counterpoint, which view is this, and what is the counterargument?",
+      "options": {
+        "A": "The continuous view; critics say real storms are too rare to plan for",
+        "B": "The episodic view; critics say refreezing makes the ship too slow to steer",
+        "C": "The systems view; critics say no captain can balance five variables",
+        "D": "The episodic view; critics say change is now like constant whitewater"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Lewin's model treats change as an occasional break in equilibrium; the counterpoint argues today's change is constant and chaotic, like permanent whitewater rafting with no equilibrium to return to. (Ch 14: Point/Counterpoint)\n**Why not A:** Calm seas with occasional storms is the episodic view, and its critics argue that change is constant, not rare.\n**Why not B:** The counterpoint doesn't attack refreezing's speed; it says there is no stable equilibrium to return to.\n**Why not C:** Balancing five interacting variables is part of the episodic argument itself; the counterpoint is the whitewater image."
+    },
+    {
+      "topic": "Kotter's eight-step plan",
+      "question": "A CEO emails staff a new strategy, but most employees see no compelling reason why the current way of working isn't good enough, and the initiative stalls. Which of Kotter's steps was neglected at the outset?",
+      "options": {
+        "A": "Forming a powerful guiding coalition",
+        "B": "Planning and rewarding short-term wins",
+        "C": "Anchoring the change in the culture",
+        "D": "Establishing a sense of urgency"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Kotter's first step is to create a compelling reason why change is needed; without it, people see no reason to leave the status quo. (Ch 14: Kotter's Eight-Step Plan)\n**Why not A:** Step 2 matters too, but the problem described is that people see no reason to change at all, which is step 1.\n**Why not B:** Step 6 comes later, during moving; this effort stalled before it got that far.\n**Why not C:** Step 8 reinforces changes once they're made; this change never got going."
+    },
+    {
+      "topic": "Kotter's eight-step plan",
+      "question": "After a few early improvements, a hospital's leaders announce that the turnaround has succeeded and disband the steering team, and old habits soon creep back. Which failure from Kotter's list does this show?",
+      "options": {
+        "A": "Lacking a coalition with enough power",
+        "B": "Declaring victory too early in the process",
+        "C": "Communicating the vision too narrowly",
+        "D": "Failing to remove obstacles to the vision"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Kotter lists the tendency to declare victory too soon among the common failures; the improvements still had to be consolidated and the changes anchored in the culture. (Ch 14: Kotter's Eight-Step Plan)\n**Why not A:** A steering team existed; the error was disbanding it after early wins and calling the job done.\n**Why not C:** Nothing suggests the vision was poorly communicated; the change was abandoned before it was anchored.\n**Why not D:** Removing barriers is a moving-stage step; the problem here is stopping early, not obstacles."
+    },
+    {
+      "topic": "Kotter's eight-step plan",
+      "question": "A change team is now removing barriers to the new vision, encouraging risk-taking and creative problem-solving, and planning and rewarding short-term wins. Which of Lewin's stages do these Kotter steps represent?",
+      "options": {
+        "A": "Unfreezing, since barriers are restraining forces",
+        "B": "Unfreezing, which Kotter's steps 1 to 4 represent",
+        "C": "Refreezing, which Kotter's step 8 represents",
+        "D": "Moving, which Kotter's steps 5 to 7 represent"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Kotter's first four steps correspond to unfreezing, steps 5 to 7 to moving, and step 8 to refreezing; empowering others to act and short-term wins are steps 5 and 6. (Ch 14: Kotter's Eight-Step Plan)\n**Why not A:** Barriers may resemble restraining forces, but in Kotter's sequence, empowering others to act is part of moving.\n**Why not B:** Steps 1 to 4 are urgency, coalition, vision and communicating it; removing barriers and rewarding wins come after.\n**Why not C:** Step 8 reinforces the changes by linking new behaviours to success, not by removing barriers."
+    },
+    {
+      "topic": "Kotter's eight-step plan",
+      "question": "Two years into a change program, an airline's leaders keep showing employees how the new customer-first behaviours have driven the company's recent success. Which of Kotter's steps is this?",
+      "options": {
+        "A": "Step 4: communicating the vision",
+        "B": "Step 7: consolidating improvements",
+        "C": "Step 8: reinforcing the changes",
+        "D": "Step 6: rewarding short-term wins"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The final step reinforces the changes by demonstrating the link between new behaviours and organizational success, which corresponds to Lewin's refreezing. (Ch 14: Kotter's Eight-Step Plan)\n**Why not A:** Step 4 spreads the vision early on; here the change is in place and being reinforced.\n**Why not B:** Step 7 is about consolidating improvements, reassessing changes and adjusting programs, not linking behaviours to success.\n**Why not D:** Short-term wins move the organization toward the vision; this is about making an established change stick."
+    },
+    {
+      "topic": "Action research and appreciative inquiry",
+      "question": "A plant interviews two consultants. One is keen to install self-managed teams and looks for problems that teams could fix; the other collects data first and lets the problems found decide the change. Which benefit of action research does the second approach show?",
+      "options": {
+        "A": "It keeps employees out, so the analysis stays objective",
+        "B": "It's problem-focused, so the problem shapes the change",
+        "C": "It builds on strengths rather than dwelling on problems",
+        "D": "It's solution-centred, so proven fixes are applied quickly"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Action research is problem-focused: the change agent objectively looks for problems, and the type of problem determines the action, unlike solution-centred approaches built around a favourite fix. (Ch 14: Action Research)\n**Why not A:** Action research involves employees heavily; that involvement is its other main benefit.\n**Why not C:** That describes appreciative inquiry; action research deliberately looks for problems.\n**Why not D:** Starting from a favourite fix, such as teams or flextime, is the solution-centred approach that action research avoids."
+    },
+    {
+      "topic": "Action research and appreciative inquiry",
+      "question": "Six months after new scheduling rules are introduced, a consultant re-surveys staff and compares the results with the data gathered at the start of the project. Which step of action research is this?",
+      "options": {
+        "A": "Analysis, using industry averages as a benchmark",
+        "B": "Diagnosis, using the manager's goals as a benchmark",
+        "C": "Evaluation, using the starting data as the benchmark",
+        "D": "Feedback, using staff opinions as the benchmark"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The final step evaluates the action plan's effectiveness, using the data gathered at the start as the benchmark, in keeping with action research's scientific basis. (Ch 14: Action Research)\n**Why not A:** Analysis organizes the diagnosed information into concerns, problem areas and possible actions; it doesn't judge results.\n**Why not B:** Diagnosis is the first step: gathering information about problems, concerns and needed changes.\n**Why not D:** Feedback shares the early findings with employees so they can help develop action plans; it comes before action."
+    },
+    {
+      "topic": "Action research and appreciative inquiry",
+      "question": "A unionized warehouse has a long history of fighting changes imposed by head office. Why might action research suit it better than a plan handed down from the top?",
+      "options": {
+        "A": "It involves staff in finding problems, which lowers resistance",
+        "B": "It lets the consultant impose a proven solution more quickly",
+        "C": "It skips data collection, so changes can begin right away",
+        "D": "It looks only at strengths, so painful issues never come up"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Action research has the people affected help identify the problem and determine the solution; that participation reduces resistance, and the change often gains momentum of its own. (Ch 14: Action Research)\n**Why not B:** Imposing a favourite solution is solution-centred, the opposite of action research.\n**Why not C:** Systematic data collection is the core of action research, starting with diagnosis.\n**Why not D:** Focusing on strengths is appreciative inquiry; action research tackles problems directly."
+    },
+    {
+      "topic": "Action research and appreciative inquiry",
+      "question": "A theatre company holds a two-day session, run by a trained facilitator, in which staff recount times the organization worked at its best and they felt most satisfied in their jobs. Which approach and phase is this?",
+      "options": {
+        "A": "Appreciative inquiry, in its Dreaming phase",
+        "B": "Appreciative inquiry, in its Design phase",
+        "C": "Appreciative inquiry, in its Discovery phase",
+        "D": "Action research, in its diagnosis stage"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Discovery identifies the organization's strengths by having people recall when it worked best or when they felt most satisfied: finding 'the best of what is'. (Ch 14: Appreciative Inquiry)\n**Why not A:** Dreaming comes next, using those discoveries to speculate on possible futures.\n**Why not B:** Design is when participants agree on a common vision of what the organization should be.\n**Why not D:** Diagnosis gathers information about problems and concerns, while this session focuses on successes."
+    },
+    {
+      "topic": "Action research and appreciative inquiry",
+      "question": "In an appreciative inquiry session, employees take what they've learned about the organization's strengths and imagine what it could be like five years from now. Which of the Four D's are they in?",
+      "options": {
+        "A": "Discovery",
+        "B": "Destiny",
+        "C": "Dreaming",
+        "D": "Design"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Dreaming uses the discoveries to speculate on possible futures, 'what might be', such as what the organization will be like in five years. (Ch 14: Appreciative Inquiry)\n**Why not A:** Discovery identifies current strengths, 'the best of what is'; imagining futures comes after it.\n**Why not B:** Destiny is the last step: deciding how to fulfil the dream, with action plans and implementation strategies.\n**Why not D:** Design follows, as participants settle on a common vision of 'what should be' and agree on the organization's unique qualities."
+    },
+    {
+      "topic": "Action research and appreciative inquiry",
+      "question": "A manager reading about appreciative inquiry asks how it differs from most approaches to organizational change. Which answer fits the text?",
+      "options": {
+        "A": "It collects data to diagnose exactly what's going wrong",
+        "B": "It moves people through unfreezing, moving and refreezing",
+        "C": "It has been proven the best method for every kind of change",
+        "D": "It builds on strengths and successes, not on problems"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Most change approaches are problem-centred; appreciative inquiry instead identifies an organization's unique qualities and special strengths and builds on them to improve performance. (Ch 14: Appreciative Inquiry)\n**Why not A:** That's action research, a problem-focused approach.\n**Why not B:** Those are Lewin's three steps; appreciative inquiry uses the Four D's.\n**Why not C:** The text says appreciative inquiry is relatively recent, and it hasn't yet been determined when it's most appropriate."
+    },
+    {
+      "topic": "Individual resistance",
+      "question": "Months after a reorganization that drew no open complaints, a manager notices rising errors, more absenteeism and a slump in motivation and loyalty. What does the text say about this kind of resistance?",
+      "options": {
+        "A": "It's overt and immediate, the easiest kind to manage",
+        "B": "It's implicit or deferred, so it's harder to recognize",
+        "C": "It's unrelated to the change, since no one objected at the time",
+        "D": "It's a healthy sign that staff are engaged in open debate"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Overt, immediate resistance such as complaints, slowdowns or strike threats is easiest to handle; implicit or deferred responses like lost loyalty and motivation, errors and absenteeism are harder to recognize and cloud the link to the change. (Ch 14: Resistance to Change)\n**Why not A:** Overt, immediate resistance shows up at once as complaints or slowdowns; this surfaced quietly, months later.\n**Why not C:** Deferred resistance can surface weeks, months or even years later, so the lack of early objection doesn't rule out a link.\n**Why not D:** Resistance is positive when it leads to open discussion; quiet errors and absences aren't open debate."
+    },
+    {
+      "topic": "Individual resistance",
+      "question": "A minor change to the break schedule triggers a furious reaction from staff who calmly accepted three much larger changes over the past year. What best explains this?",
+      "options": {
+        "A": "Resistance to earlier changes was deferred and stockpiled",
+        "B": "Staff doubt they have the skills the new schedule requires",
+        "C": "Group inertia only appears after several changes have passed",
+        "D": "Small changes always provoke more resistance than big ones"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A single change with little impact of its own can become 'the straw that breaks the camel's back' when resistance to earlier changes has been deferred and built up. (Ch 14: Resistance to Change)\n**Why not B:** That would be low tolerance for change, but a break-schedule tweak doesn't call for new skills.\n**Why not C:** Group inertia is about group norms constraining individuals; the text sets no such threshold.\n**Why not D:** The text doesn't say small changes generally provoke more resistance; the reaction reflects accumulated, deferred resistance."
+    },
+    {
+      "topic": "Individual resistance",
+      "question": "Operators at a utility oppose a new maintenance system because they believe its costs will outweigh its benefits, even for the company, while managers assume the operators have the same information they do. Which source of individual resistance is this?",
+      "options": {
+        "A": "Low tolerance for change",
+        "B": "Self-interest",
+        "C": "Misunderstanding and lack of trust",
+        "D": "Different assessments"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People resist when they see a change differently from their managers and think the costs outweigh the benefits, even for the organization; managers may wrongly assume employees have the same information they do. (Ch 14: Individual Resistance)\n**Why not A:** Low tolerance is worry about lacking the skills the new situation requires, or being asked to do too much too fast.\n**Why not B:** Self-interest is worry about personally losing something of value; these operators are judging the cost to the company.\n**Why not C:** That's resisting because people don't understand the change and distrust its initiators; these operators understand it but judge it differently."
+    },
+    {
+      "topic": "Individual resistance",
+      "question": "Rumours of a 'restructuring' spread at a distribution firm. Staff don't really understand what it involves, don't trust the executives behind it, and fear it will cost them more than they'll gain. Which source of resistance is most evident?",
+      "options": {
+        "A": "Threat to established power relationships",
+        "B": "Different assessments",
+        "C": "Misunderstanding and lack of trust",
+        "D": "Low tolerance for change"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People resist when they don't understand the nature of a change and fear its costs will outweigh their gains, which often happens when they don't trust those initiating it. (Ch 14: Individual Resistance)\n**Why not A:** That's an organizational source that arises when decision-making authority is redistributed; these are individual fears rooted in confusion and distrust.\n**Why not B:** Different assessments arise when people understand the change but judge its costs higher, even for the organization.\n**Why not D:** Low tolerance is about doubting one's skills for the new situation, which isn't the issue here."
+    },
+    {
+      "topic": "Individual resistance",
+      "question": "At a unionized plant on its fourth 'change initiative' in five years, employees are openly cynical. Survey comments say they feel uninformed and get little communication or respect from supervisors or union reps. Based on the research cited, what can management do?",
+      "options": {
+        "A": "Increase communication, respect and real participation in decisions",
+        "B": "Accept the cynicism, since it has little effect on commitment or effort",
+        "C": "Speed up the next change so there's less time for cynicism to form",
+        "D": "Screen out employees with negative personalities before the next change"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The study traced cynicism to feeling uninformed, a lack of communication and respect from managers and union reps, and a lack of meaningful participation; organizations can't change personalities, but they can provide these. (Ch 14: Cynicism)\n**Why not B:** Cynicism was linked to lower commitment, less satisfaction and reduced motivation to work hard.\n**Why not C:** The causes identified concern information, respect and participation, not the pace of change.\n**Why not D:** Negative personalities did predict cynicism, but the text stresses what organizations can provide: communication, respect and participation."
+    },
+    {
+      "topic": "Individual resistance",
+      "question": "At a town hall on a proposed restructuring, several employees push back hard and debate the plan openly. How does the text suggest the change agent should treat this?",
+      "options": {
+        "A": "As a threat to shut down quickly before it spreads to others",
+        "B": "As worse than silence, since open dissent signals failure",
+        "C": "As input that signals engagement and can refine the plan",
+        "D": "As a sign the plan should be dropped to avoid more conflict"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Open discussion and debate are usually preferable to apathy or silence; they signal engagement, give a chance to explain the change, and can be used to modify it. Treating resistance only as a threat may increase dysfunctional conflict. (Ch 14: Resistance to Change)\n**Why not A:** Treating resistance only as a threat, rather than as a point of view to discuss, may increase dysfunctional conflict.\n**Why not B:** The text says open debate is usually preferable to apathy or silence.\n**Why not D:** The text suggests using resistance to explain or modify the change, not to abandon it."
+    },
+    {
+      "topic": "Organizational resistance and politics",
+      "question": "A government agency wants staff to work more flexibly, but its long-standing selection criteria and detailed formal regulations keep pulling behaviour back to the old ways. Which source of organizational resistance is this?",
+      "options": {
+        "A": "Threat to established power relationships",
+        "B": "Group inertia",
+        "C": "Limited focus of change",
+        "D": "Structural inertia"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Organizations have built-in mechanisms, such as selection processes and formalized regulations, that produce stability; when change comes, this structural inertia acts as a counterbalance. (Ch 14: Organizational Resistance)\n**Why not A:** That arises when change redistributes decision-making authority, which isn't described here.\n**Why not B:** Group inertia is when group norms constrain individuals who might want to change; here the pull comes from formal systems.\n**Why not C:** Limited focus is when a change in one subsystem is nullified by the larger, interdependent system."
+    },
+    {
+      "topic": "Organizational resistance and politics",
+      "question": "A retailer redesigns jobs in its customer-service department, but because purchasing, IT and HR carry on exactly as before, the new jobs soon slide back to the old pattern. Which source of organizational resistance does this show?",
+      "options": {
+        "A": "Structural inertia",
+        "B": "Limited focus of change",
+        "C": "Group inertia",
+        "D": "Threat to expertise"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Organizations are made up of interdependent subsystems, so a limited change in one of them tends to be nullified by the larger system. (Ch 14: Organizational Resistance)\n**Why not A:** Structural inertia comes from stability mechanisms like selection processes and formal rules, not the pull of other subsystems.\n**Why not C:** Group inertia is about norms restraining individuals within a group; here other departments undo the change.\n**Why not D:** Nothing suggests that a specialized group sees its expertise threatened."
+    },
+    {
+      "topic": "Organizational resistance and politics",
+      "question": "A company proposes shifting budget from its large, well-funded print-marketing department to a new digital team. The print department, content with things as they are, lobbies hard against the plan. Which source of organizational resistance is this?",
+      "options": {
+        "A": "A threat to the resources the group controls",
+        "B": "A threat to the group's specialized expertise",
+        "C": "A threat to the group's decision-making power",
+        "D": "Group norms that stop members from changing"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Groups that control sizable resources often see change as a threat and tend to be content with the way things are: a threat to established resource allocations. (Ch 14: Organizational Resistance)\n**Why not B:** A threat to expertise would mean the print team's specialized know-how is being undermined; here it's the budget that's at stake.\n**Why not C:** A threat to established power relationships arises when decision-making authority is redistributed; this proposal shifts budget, which is a resource.\n**Why not D:** That's group inertia; the department is defending its budget, not enforcing norms on members who might otherwise change."
+    },
+    {
+      "topic": "Organizational resistance and politics",
+      "question": "A bank's CEO, who spent 30 years rising through its ranks, is under board pressure to show that the bank is adapting. What kind of change does the politics-of-change discussion predict this CEO will introduce?",
+      "options": {
+        "A": "Incremental change, since radical change threatens them",
+        "B": "No change at all, since insiders never act as change agents",
+        "C": "Rapid change led by an outside consultant the CEO hires",
+        "D": "Radical change, to prove the CEO is more than a caretaker"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Long-time power holders who are forced to introduce change tend to implement incremental change; radical change is too threatening to their status and position. (Ch 14: The Politics of Change)\n**Why not B:** Long-tenured managers may still act as change agents to show they're addressing problems.\n**Why not C:** It's boards wanting rapid, radical change that often turn to outside candidates, not the long-tenured insider.\n**Why not D:** Such leaders do want to show they're not merely caretakers, but they tend to do it through incremental change."
+    },
+    {
+      "topic": "Organizational resistance and politics",
+      "question": "A board concludes that its company needs rapid, radical change. According to the politics-of-change discussion, where is it most likely to look for new leadership, and why?",
+      "options": {
+        "A": "Its longest-serving executive, who best knows the power structure",
+        "B": "A middle manager at the very centre of the main power structure",
+        "C": "Outside the firm, as insiders are invested in the status quo",
+        "D": "Its current senior team, since they have the most legitimacy"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Demand for change tends to come from outsiders, newcomers and managers removed from the main power structure, so boards seeking rapid, radical change frequently turn to outside candidates. (Ch 14: The Politics of Change)\n**Why not A:** Long-tenured senior managers are often major impediments to change, since it threatens their status.\n**Why not B:** The text points to managers slightly removed from the main power structure, not at its centre.\n**Why not D:** Long-time power holders tend to favour incremental change, which doesn't meet the board's need."
+    },
+    {
+      "topic": "Overcoming resistance",
+      "question": "A manufacturer must explain a plant reorganization. One draft memo justifies it purely by returns to shareholders; another balances the interests of shareholders, employees, the community and customers. Based on the research cited, which is likely to work better?",
+      "options": {
+        "A": "The balanced memo, but only if it's kept from frontline staff",
+        "B": "The balanced memo; multi-stakeholder reasons work better",
+        "C": "The shareholder memo; one clear rationale persuades best",
+        "D": "Neither; written rationales make no difference to resistance"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A study of German companies found change is most effective when the rationale balances various stakeholders' interests, rather than resting on shareholder interests alone. (Ch 14: Overcoming Resistance to Change)\n**Why not A:** Education and communication work by giving employees the full facts, not withholding them.\n**Why not C:** The cited study found the opposite: shareholder-only rationales were less effective.\n**Why not D:** Communicating the logic of a change reduces resistance, and change is more likely when its need is packaged properly."
+    },
+    {
+      "topic": "Overcoming resistance",
+      "question": "A school board invites teachers, who have the relevant expertise, to help design a new timetable so they'll accept it. What downside of this tactic does the text warn about?",
+      "options": {
+        "A": "It can backfire badly if teachers feel tricked or used",
+        "B": "It works only when the participants lack expertise",
+        "C": "It can eat up time and may produce a poorer solution",
+        "D": "It tends to increase resistance among those who take part"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Participation can reduce resistance, gain commitment and improve the decision's quality, but its negatives are the potential for a poor solution and a great consumption of time. (Ch 14: Overcoming Resistance to Change)\n**Why not A:** That's the risk of manipulation and co-optation, where involvement isn't genuine.\n**Why not B:** The opposite: involvement helps when participants have the expertise to contribute meaningfully.\n**Why not D:** The text says it's difficult to resist a change decision you helped make, so participation reduces resistance."
+    },
+    {
+      "topic": "Overcoming resistance",
+      "question": "To win over a group resisting a new shift system, management gives the group's informal leader a seat on the planning committee, mainly to secure a public endorsement rather than to improve the plan. Which tactic is this, and what is its main risk?",
+      "options": {
+        "A": "Co-optation; it backfires if the leader feels used",
+        "B": "Education; it may fail if the facts are poorly explained",
+        "C": "Coercion; like manipulation, it can backfire on the agent",
+        "D": "Participation; it can take time and yield a poorer solution"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Co-optation 'buys off' resistance leaders with a key role, seeking their advice to win their endorsement rather than a better solution; it's inexpensive, but if discovered, the change agent's credibility may drop to zero. (Ch 14: Overcoming Resistance to Change)\n**Why not B:** Education and communication give people the full facts; here a role is offered to win an endorsement.\n**Why not C:** Coercion's drawbacks do resemble manipulation's, but it relies on direct threats or force, and none is used here.\n**Why not D:** Genuine participation seeks a better decision; here the leader's input is sought only for the endorsement."
+    },
+    {
+      "topic": "Overcoming resistance",
+      "question": "Facing resistance to an across-the-board pay cut, a company tells workers it will close the plant if they don't accept, though executives have no real intention of closing it. Which tactic is this?",
+      "options": {
+        "A": "Coercion, since workers face a threat",
+        "B": "Co-optation, since leaders are bought off",
+        "C": "Education, since workers get the facts",
+        "D": "Manipulation, since the closure threat is false"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Manipulation is covert influence, such as distorting facts or making untrue threats; if management truly intended to close the plant, it would be coercion. (Ch 14: Overcoming Resistance to Change)\n**Why not A:** Coercion is a genuine threat or use of force; because the closure threat is untrue, this is manipulation.\n**Why not B:** Co-optation gives resistance leaders a key role to win their endorsement; no one is given a role here.\n**Why not C:** Education shares the full facts; this tactic distorts them."
+    },
+    {
+      "topic": "Overcoming resistance",
+      "question": "Staff at a newspaper converting to digital-only publishing are highly fearful and anxious about what the change means for them. Which approach does the text recommend in this situation?",
+      "options": {
+        "A": "Counselling, new-skills training or a short paid leave",
+        "B": "Firm deadlines backed by the threat of negative reviews",
+        "C": "Selecting only new hires who are open to experience",
+        "D": "Withholding unsettling details until the change is done"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** When fear and anxiety are high, building support and commitment through counselling and therapy, new-skills training or a short paid leave of absence can ease adjustment. (Ch 14: Overcoming Resistance to Change)\n**Why not B:** That's coercion, which uses threats such as negative performance evaluations rather than easing anxiety.\n**Why not C:** Selecting change-accepting people concerns hiring, not helping anxious current staff adjust.\n**Why not D:** Withholding undesirable information is manipulation, which can backfire."
+    },
+    {
+      "topic": "Overcoming resistance",
+      "question": "Two departments go through the same merger. In one, staff have positive relationships with their supervisors and feel the workplace supports their development; in the other, they don't. Based on the research cited, what should a change agent expect?",
+      "options": {
+        "A": "The second department will adapt faster, being less attached",
+        "B": "The first department will resist more, fearing lost relationships",
+        "C": "Both will respond alike, since the merger itself is identical",
+        "D": "The first department will view the change more positively"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People accept change more readily when they trust the managers implementing it; in a merging Dutch housing corporation, staff with positive supervisor relationships and a supportive environment were much more positive. Even change-resistant personalities felt better about a change when they trusted the change agent. (Ch 14: Overcoming Resistance to Change)\n**Why not A:** The text doesn't link weak relationships to faster adaptation; trust in managers eases acceptance.\n**Why not B:** The study found the opposite: positive supervisor relationships went with more positive views of the change.\n**Why not C:** The research shows that relationships with supervisors shape reactions to the same change."
+    },
+    {
+      "topic": "Overcoming resistance",
+      "question": "A company must cut everyone's hours, an outcome employees clearly see as negative. According to the text, what becomes especially important in how it rolls out the cut?",
+      "options": {
+        "A": "That the decision is made quickly, with little time for debate",
+        "B": "That staff see the reason and a consistent, fair process",
+        "C": "That the details stay vague until they can't be reversed",
+        "D": "That resisters face firm consequences for objecting to it"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Procedural fairness matters most when employees see an outcome as negative, so they need to understand the reason for the change and see its implementation as consistent and fair. (Ch 14: Overcoming Resistance to Change)\n**Why not A:** Speed isn't the fairness issue; employees need to see the reasons and a consistent process.\n**Why not C:** Withholding information is manipulation, which can backfire and destroy credibility.\n**Why not D:** That's coercion, not fair implementation."
+    },
+    {
+      "topic": "Overcoming resistance",
+      "question": "A tech company expects constant reorganization. When hiring, which candidate profile does the research cited suggest will cope best with organizational change?",
+      "options": {
+        "A": "Open to experience, risk-taking and flexible",
+        "B": "External locus of control with low growth needs",
+        "C": "Cautious, routine-loving and loyal to the status quo",
+        "D": "Low risk tolerance and a negative self-concept"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** People who adapt well to change are open to experience, positive about change, willing to take risks and flexible in behaviour; a positive self-concept, high risk tolerance, internal locus of control and higher mental ability also help. (Ch 14: Overcoming Resistance to Change)\n**Why not B:** The police study found internal locus of control and higher growth needs predicted positive attitudes to change.\n**Why not C:** Caution and attachment to routines aren't among the traits linked to accepting change; risk-taking and flexibility are.\n**Why not D:** The opposite: managers with a positive self-concept and high risk tolerance coped better with change."
+    },
+    {
+      "topic": "Leading change in practice",
+      "question": "A CEO pushes a sweeping transformation through in a few weeks, prizing speed above all, and later finds its costs were far larger than anyone had estimated. Which warning from the text does this illustrate?",
+      "options": {
+        "A": "The 'straw that breaks the camel's back' of deferred resistance",
+        "B": "The 'speed trap' and 'fog of change' that hide true costs",
+        "C": "The episodic view of change as a rare break in equilibrium",
+        "D": "The 'limited focus of change' that other subsystems cancel"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Speedy decisions can be bad decisions, and in the fog of change, initiators may miss the full magnitude and true costs of what they're doing, so change agents need to think through the implications. (Ch 14: Overcoming Resistance to Change)\n**Why not A:** That's about stockpiled resistance to earlier changes, not the costs of rushing a change.\n**Why not C:** The episodic view concerns how often change occurs, not the risks of rushing decisions.\n**Why not D:** Limited focus is about a subsystem change being nullified by the larger system."
+    },
+    {
+      "topic": "Leading change in practice",
+      "question": "A new president launches nine change initiatives at once, and progress on all of them crawls. Which of the text's tips for speeding up change does this break?",
+      "options": {
+        "A": "Anticipate and defuse post-launch blues",
+        "B": "Celebrate milestones along the way",
+        "C": "Offer appropriate rewards and incentives",
+        "D": "Limit the change initiatives to two or three"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The OB in Action tips include limiting change initiatives to two or three, alongside engaging all employees, offering rewards and celebrating milestones. (Ch 14: OB in Action, speeding up change)\n**Why not A:** That tip is about the dip after launch and midcourse overconfidence, not the number of initiatives.\n**Why not B:** Celebrating milestones is another tip, but the problem described is having too many initiatives at once.\n**Why not C:** Rewards are a separate tip; the issue here is the sheer number of initiatives."
+    },
+    {
+      "topic": "Leading change in practice",
+      "question": "During a long restructuring, a firm gives staff recognition for their effort, training that makes them more marketable, more meaningful work, and a say in where the company is heading. Which After Action Review discipline is this?",
+      "options": {
+        "A": "Managing from the future",
+        "B": "Understanding the quid pro quo",
+        "C": "Promoting inventive accountability",
+        "D": "Harnessing setbacks"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Change puts employees under stress and strain, so organizations should reward their efforts with four levels of incentives: recognition, marketable training, meaningful work, and communication about direction with some say in the process. (Ch 14: From Concepts to Skills, After Action Review)\n**Why not A:** That's looking continually toward future needs rather than stopping once a set goal is reached.\n**Why not C:** That's encouraging people to be inventive and take initiative on new opportunities while knowing their targets.\n**Why not D:** That's teaching people to treat setbacks as chances to learn and improve, instead of assigning blame."
+    },
+    {
+      "topic": "Leading change in practice",
+      "question": "A change leader keeps showing employees how unattractive the current situation looks next to the new one, so that people become more willing to change. Which After Action Review discipline is this?",
+      "options": {
+        "A": "Building an intricate understanding of the business",
+        "B": "Encouraging uncompromising straight talk",
+        "C": "Promoting inventive accountability",
+        "D": "Creating a relentless discomfort with the status quo"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People are more willing to change when the current situation looks less attractive than the new one. (Ch 14: From Concepts to Skills, After Action Review)\n**Why not A:** That's revealing the big picture so people know why change is needed and what's expected; the focus here is making the status quo unattractive.\n**Why not B:** Straight talk means communication that isn't based on hierarchy, so everyone can contribute freely.\n**Why not C:** That's encouraging people to be inventive and take initiative when new opportunities arise, while knowing their targets."
+    },
+    {
+      "topic": "Leading change in practice",
+      "question": "A manager is holding back a needed change because it will create some stress for the team. What does the chapter's advice for managers suggest?",
+      "options": {
+        "A": "Avoid it, since any stress lowers job performance",
+        "B": "Go ahead; moderate stress can lift performance",
+        "C": "Delay the change until stress can be fully removed",
+        "D": "Push it through by coercion so it ends sooner"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Change can be stressful, but low to moderate stress helps many people perform better by raising work intensity, alertness and ability to react, so possible stress alone isn't a reason to avoid change. (Ch 14: OB at Work, For Managers)\n**Why not A:** The text says low to moderate stress enables many people to perform their jobs better.\n**Why not C:** The advice is not to hesitate just because stress might be induced.\n**Why not D:** The text doesn't recommend coercion to limit stress; it says moderate stress can be beneficial."
+    },
+    {
+      "topic": "Culture of innovation",
+      "question": "One bank repaints its branches and redraws its org chart, while a rival applies a new idea to create a much faster loan-approval process. Which statement fits the text's definitions?",
+      "options": {
+        "A": "Both are changes, but only the rival's is an innovation",
+        "B": "Both are innovations, since every change is an innovation",
+        "C": "Only the first bank's is a change; the rival's is a process fix",
+        "D": "Neither is an innovation, since neither is a radical breakthrough"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Innovation is a new idea applied to initiating or improving a product, process or service; all innovations involve change, but not all changes involve new ideas or significant improvements. (Ch 14: Stimulating a Culture of Innovation)\n**Why not B:** The text says not all changes involve new ideas or lead to significant improvements.\n**Why not C:** Applying a new idea to improve a process is exactly what innovation means, and all innovations involve change.\n**Why not D:** Innovations range from small incremental improvements to radical breakthroughs."
+    },
+    {
+      "topic": "Culture of innovation",
+      "question": "A well-funded biotech can afford to buy new technologies, bear the cost of putting them in place, and absorb the occasional expensive failure. Which source of innovation from the text does this describe?",
+      "options": {
+        "A": "Slack resources",
+        "B": "High interunit communication",
+        "C": "Organic structure",
+        "D": "Long managerial tenure"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** An abundance of resources lets an organization afford to purchase innovations, bear the cost of instituting them, and absorb failures. (Ch 14: Stimulating a Culture of Innovation)\n**Why not B:** That's the use of committees, task forces and cross-functional teams to interact across departments.\n**Why not C:** Organic structure aids innovation through low vertical differentiation, formalization and centralization.\n**Why not D:** Tenure supports innovation by giving managers legitimacy and know-how, not through spare resources."
+    },
+    {
+      "topic": "Culture of innovation",
+      "question": "A software firm with few layers, little formalization and decentralized decision-making finds that new ideas spread and get adopted easily across teams. Which link to innovation from the text does this reflect?",
+      "options": {
+        "A": "Mechanistic structures ease adoption through clear rules and control",
+        "B": "Organic structures ease adoption through cross-fertilization",
+        "C": "Long managerial tenure eases adoption by giving managers legitimacy",
+        "D": "Slack resources ease adoption by absorbing the costs of failure"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Organic organizations are lower in vertical differentiation, formalization and centralization, which supports the flexibility, adaptation and cross-fertilization that make adopting innovations easier. (Ch 14: Stimulating a Culture of Innovation)\n**Why not A:** The text links organic, not mechanistic, structures to innovation.\n**Why not C:** Tenure is another source of innovation, but this scenario describes a flat, decentralized structure.\n**Why not D:** Slack resources are another source, but nothing here concerns spare funds."
+    },
+    {
+      "topic": "Culture of innovation",
+      "question": "At one firm, people are rewarded for never making mistakes; at another, both successes and failures are rewarded and mistakes are celebrated. Which firm does the text predict will be more innovative, and why?",
+      "options": {
+        "A": "The first, since avoiding mistakes keeps quality and trust high",
+        "B": "Neither, since innovation depends on structure rather than culture",
+        "C": "The second, since celebrating mistakes makes staff more careful",
+        "D": "The second, since people try new ideas only without penalty"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Innovative cultures encourage experimentation and reward both successes and failures; rewarding the absence of failure extinguishes risk-taking, because people suggest and try new ideas only when doing so carries no penalty. (Ch 14: Stimulating a Culture of Innovation)\n**Why not A:** Rewarding the absence of failures is exactly what the text says extinguishes risk-taking and innovation.\n**Why not B:** The text treats structural, cultural and human resource characteristics all as sources of innovation.\n**Why not C:** The point isn't carefulness; it's that people only try new ideas when doing so carries no penalty."
+    },
+    {
+      "topic": "Culture of innovation",
+      "question": "An engineer at a large manufacturer enthusiastically promotes a new process, builds support for it, overcomes resistance and makes sure it gets implemented. The engineer is self-confident, persistent and energetic, and inspires others with a vision of what the process could do. Which role is this?",
+      "options": {
+        "A": "A co-opted leader of a resistance group",
+        "B": "A transactional leader trading rewards",
+        "C": "An idea champion promoting an innovation",
+        "D": "An outside change agent hired as a catalyst"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Idea champions actively promote a new idea, build support, overcome resistance and ensure it's implemented; they show high self-confidence, persistence, energy, risk-taking and transformational leadership traits. (Ch 14: Stimulating a Culture of Innovation)\n**Why not A:** Co-optation gives a resister a role to win their endorsement; this engineer is the idea's promoter.\n**Why not B:** Champions display transformational leadership, inspiring others with their vision, rather than exchanging rewards for effort.\n**Why not D:** The engineer is an insider championing one specific idea; nothing suggests an outside hire."
+    },
+    {
+      "topic": "Culture of innovation",
+      "question": "A manufacturer wants to copy the practices behind 3M's innovation record described in the text. Which practice would it adopt?",
+      "options": {
+        "A": "Require a boss's sign-off before any new experiment",
+        "B": "Cap R&D spending so that teams stay lean and focused",
+        "C": "Let scientists use up to 15% of time on their own projects",
+        "D": "Reward only the projects that succeed commercially"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** 3M lets scientists and engineers spend up to 15 percent of their time on projects of their choosing, rewards failures as well as successes, invests nearly 7 percent of sales in R&D, and tells stories of employees who succeeded despite their boss's opposition. (Ch 14: OB in the Workplace, 3M)\n**Why not A:** 3M fosters a culture that allows people to defy their managers, and offers internal grants when an idea meets resistance in a division.\n**Why not B:** 3M invests nearly 7 percent of sales revenue in research and development.\n**Why not D:** 3M rewards failures as well as successes, so people aren't afraid to take risks."
+    },
+    {
+      "topic": "Learning organizations",
+      "question": "Whenever monthly sales fall short, a firm's managers respond by running the same promotion they've used for years, without ever questioning the sales targets or the strategy behind them. What kind of learning is this?",
+      "options": {
+        "A": "Action research",
+        "B": "Single-loop learning",
+        "C": "Double-loop learning",
+        "D": "Appreciative inquiry"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Single-loop learning corrects errors using past routines and present policies, like a thermostat that holds a set temperature without asking whether the setting is right. (Ch 14: Creating a Learning Organization)\n**Why not A:** Action research systematically gathers data and chooses actions based on it, rather than repeating a routine.\n**Why not C:** Double-loop learning would question and modify the objectives, policies and standard routines themselves.\n**Why not D:** Appreciative inquiry builds on strengths through the Four D's; this is routine error correction."
+    },
+    {
+      "topic": "Learning organizations",
+      "question": "An airline keeps missing its on-time target. Instead of just tightening the existing turnaround checklist, its leaders question whether the scheduling assumptions and the target itself still make sense, and revise both. What does this illustrate?",
+      "options": {
+        "A": "Double-loop learning that challenges assumptions",
+        "B": "Single-loop learning that relies on established routines",
+        "C": "Refreezing that locks in the current way of working",
+        "D": "Group inertia that keeps work norms from changing"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Double-loop learning corrects errors by modifying the organization's objectives, policies and standard routines, challenging deeply rooted assumptions and opening the way to radically different solutions. (Ch 14: Creating a Learning Organization)\n**Why not B:** Single-loop learning would simply tighten the existing checklist under present policies.\n**Why not C:** Refreezing stabilizes a new state after a change; this is questioning objectives and assumptions.\n**Why not D:** Group inertia constrains change; here leaders are actively revising the standards."
+    },
+    {
+      "topic": "Learning organizations",
+      "question": "A consultant assesses a company against the five characteristics of a learning organization summarized in the text. Which observation would count in the company's favour?",
+      "options": {
+        "A": "Departments defend their own interests to stay competitive",
+        "B": "Each unit sets its own separate vision for its own work",
+        "C": "People speak openly across levels without fear of blame",
+        "D": "Staff rely on standard routines that have worked in the past"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** One characteristic is open communication across vertical and horizontal boundaries without fear of criticism or punishment; the others are a shared vision, discarding old routines, systems thinking, and setting aside self-interest. (Ch 14: Creating a Learning Organization, Exhibit 14-9)\n**Why not A:** Learning organizations need people to suppress personal and departmental interests to pursue the shared vision.\n**Why not B:** A learning organization has one shared vision that everyone agrees on.\n**Why not D:** Members are expected to discard old ways of thinking and the standard routines they use."
+    },
+    {
+      "topic": "Learning organizations",
+      "question": "Managers at a utility spend most of their time 'putting out fires', fixing whatever goes wrong rather than creating anything new. Which problem of traditional organizations is the learning organization meant to remedy here?",
+      "options": {
+        "A": "Reactiveness",
+        "B": "Fragmentation",
+        "C": "Structural inertia",
+        "D": "Competition"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Reactiveness misdirects attention to problem solving rather than creation, pushing out innovation and continuous improvement in favour of putting out fires. (Ch 14: Creating a Learning Organization)\n**Why not B:** Fragmentation is specialization building 'walls' and 'chimneys' that split functions into warring fiefdoms.\n**Why not C:** Structural inertia is a source of organizational resistance, not one of the three problems learning organizations address.\n**Why not D:** Competition is an overemphasis on rivalry that undermines collaboration among managers, teams and divisions."
+    },
+    {
+      "topic": "Learning organizations",
+      "question": "A CEO wants to turn the firm into a learning organization. Which action fits the text's advice on reshaping the organization's culture?",
+      "options": {
+        "A": "Keep conflicts private to protect team harmony",
+        "B": "Reward the people who take chances and make mistakes",
+        "C": "Insist on consensus before any idea is discussed",
+        "D": "Add layers of review so fewer mistakes are made"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Managers must show through their actions that taking risks and admitting failures are desirable, rewarding those who take chances, and should encourage functional conflict rather than insisting on agreement. (Ch 14: Creating a Learning Organization)\n**Why not A:** The advice is to bring paradoxes, conflicts and dilemmas out into the open.\n**Why not C:** The expert quoted urges people to give up having to be in agreement and to bring conflicts into the open.\n**Why not D:** Adding layers works against learning; the advice is to flatten the structure and reward risk-taking."
+    },
+    {
+      "topic": "Change across cultures",
+      "question": "A multinational runs the same change program in Japan and in Canada. Based on time orientation, how are reactions likely to differ?",
+      "options": {
+        "A": "Canadian staff will be more patient waiting for results",
+        "B": "Both will react alike, since change programs are universal",
+        "C": "Japanese staff will see the change as impossible to achieve",
+        "D": "Japanese staff will be more patient waiting for results"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Long-term-oriented societies like Japan show considerable patience for positive outcomes, while short-term-focused societies like Canada expect quick improvements and favour programs that promise fast results. (Ch 14: Global Implications)\n**Why not A:** Reversed: Canada has a short-term focus, so people there expect quick improvements.\n**Why not B:** The text stresses that many change issues are culture-bound.\n**Why not C:** Whether change seems possible depends on beliefs about controlling the environment, not time orientation; the text's examples of passivity are Iran and Saudi Arabia."
+    },
+    {
+      "topic": "Change across cultures",
+      "question": "A company is rolling out the same reorganization in Malaysia and in Denmark. Based on power distance, how is implementation likely to differ?",
+      "options": {
+        "A": "Equally participative, since both value democratic methods",
+        "B": "More top-down in Malaysia, more participative in Denmark",
+        "C": "Slower in Denmark, since its people focus on the past",
+        "D": "More participative in Malaysia, more top-down in Denmark"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In high power distance cultures like Malaysia, change tends to be implemented autocratically by top management; low power distance cultures like Denmark value democratic methods, so more participation is expected. (Ch 14: Global Implications)\n**Why not A:** High power distance cultures such as Malaysia favour autocratic implementation by top management.\n**Why not C:** A focus on the past relates to reliance on tradition (the text's example is Italy), not power distance.\n**Why not D:** Reversed: Malaysia is high in power distance and Denmark low."
+    },
+    {
+      "topic": "Change across cultures",
+      "question": "A firm's idea champions are developing an innovation in Greece, a culture high in uncertainty avoidance. According to the text, how should they go about it?",
+      "options": {
+        "A": "Avoid seeking cross-functional support for the idea",
+        "B": "Start work first and seek approval from authority afterward",
+        "C": "Follow budgets, rules and procedures closely",
+        "D": "Ignore budget limits and work around confining procedures"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The higher a society's uncertainty avoidance, the more champions should work within the organization's rules and procedures; in Greece, Portugal or Guatemala, closely following budgets and procedures is more effective. (Ch 14: Global Implications)\n**Why not A:** People in collectivistic cultures actually prefer appeals for cross-functional support.\n**Why not B:** In high power distance cultures, champions are expected to get approval from those in authority before work starts; acting first fits neither case.\n**Why not D:** The text suggests that approach might succeed in Russia, not in cultures high in uncertainty avoidance."
+    },
+    {
+      "topic": "Change across cultures",
+      "question": "In a culture where people believe they can dominate their environment, how does the text expect them to approach change?",
+      "options": {
+        "A": "Cautiously, since they rely heavily on tradition",
+        "B": "Passively, since they feel subject to their environment",
+        "C": "Patiently, since they focus on long-term outcomes",
+        "D": "Proactively, since they see change as within their control"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Where people believe they can dominate their environment, as in Canada and the United States, individuals take a proactive view of change; in cultures like Iran and Saudi Arabia, people see themselves as subject to their environment and tend to be passive. (Ch 14: Global Implications)\n**Why not A:** Reliance on tradition affects resistance (the text contrasts past-focused Italians with present-focused Canadians), not this belief.\n**Why not B:** That describes cultures such as Iran and Saudi Arabia, where people see themselves as subjugated to their environment.\n**Why not C:** Patience reflects a long-term time orientation, as in Japan; it isn't what belief in controlling the environment predicts."
+    }
+  ]
+}

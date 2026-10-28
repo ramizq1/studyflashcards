@@ -1,0 +1,450 @@
+{
+  "course": "MGMT 600",
+  "learningObjective": {
+    "number": "01",
+    "title": "Examine the Operations Management Functions"
+  },
+  "source": "LO1_MGMT 600_revised.pptx",
+  "questions": [
+    {
+      "question": "A CFO calls the IT operations team 'a pure cost center' and proposes deep cuts to monitoring and support staff. Based on the lecture, what is the strongest counter-argument?",
+      "options": {
+        "A": "IT operations is mainly responsible for building new applications, so cuts would halt software development.",
+        "B": "Operations spending is fixed by long-term vendor contracts, so reducing staff would not lower overall costs.",
+        "C": "Stable operations underpin service delivery, continuity, compliance and innovation, so they are a strategic enabler.",
+        "D": "AIOps now resolves operational issues on its own, so support staffing levels no longer affect service quality."
+      },
+      "answer": "C",
+      "note": "The lecture says to view IT operations **not as a cost center but as a strategic enabler**: reliable service delivery, business continuity, customer satisfaction, compliance and digital transformation all depend on stable operations (LO1, slides 5–6).\nOption A describes software development teams, not ITOM, and D contradicts the lecture's point that AI augments people rather than replacing them."
+    },
+    {
+      "question": "Which of the following is an example of operational planning rather than strategic planning?",
+      "options": {
+        "A": "Scheduling next quarter's server maintenance windows and staffing rotations",
+        "B": "Deciding to migrate the organization's infrastructure to the cloud over three years",
+        "C": "Setting a multi-year goal to raise the organization's cybersecurity maturity",
+        "D": "Committing to adopt artificial intelligence capabilities across operations by 2030"
+      },
+      "answer": "A",
+      "note": "**Operational planning** covers shorter-term activities that support strategic goals, such as maintenance schedules, staffing plans and system upgrades.\nCloud migration, AI adoption and multi-year cybersecurity maturity are the lecture's own examples of **strategic planning**, which focuses on long-term objectives (LO1, slide 10)."
+    },
+    {
+      "question": "An IT operations manager compares monthly uptime and incident-resolution times against agreed targets, investigates shortfalls, and orders corrective actions. Which management function is this?",
+      "options": {
+        "A": "Planning",
+        "B": "Organizing",
+        "C": "Reporting",
+        "D": "Controlling"
+      },
+      "answer": "D",
+      "note": "**Controlling** keeps activities aligned with objectives through performance monitoring against KPIs, quality control, compliance monitoring and corrective action (LO1, slide 13).\nReporting is the tempting option, but reporting **communicates** performance to leadership through reports, dashboards and reviews (slide 14). Measuring against targets and correcting course is controlling."
+    },
+    {
+      "question": "At 9:00 AM on a Monday, FinanceFirst's national online and mobile banking services fail, call volumes surge and complaints spread on social media. What should the Incident Manager do first?",
+      "options": {
+        "A": "Start a full root cause analysis before restoring, so the fix is permanent",
+        "B": "Treat it as Priority 1, restore service first and start stakeholder updates",
+        "C": "Raise a normal change request and wait for approval before touching production",
+        "D": "Watch the dashboards for another hour to confirm the outage is a real pattern"
+      },
+      "answer": "B",
+      "note": "Incident Management aims to **restore service as quickly as possible**, not to find the root cause during the initial response. A customer-facing banking outage is a **Priority 1 (critical)** incident.\nThe lecture stresses that communicating with customers, executives, regulators and support teams matters as much as the technical fix (LO1, slides 18–19). Root cause analysis (A) comes later, through Problem Management."
+    },
+    {
+      "question": "Over six months, HealthNet's electronic medical record system slows down repeatedly at peak times. Each time, the incident team restores service, but the slowdowns keep coming back. What does this situation call for?",
+      "options": {
+        "A": "Problem Management: investigate the root cause of the recurring incidents",
+        "B": "Incident Management: raise each slowdown's priority so it is restored faster",
+        "C": "Change Management: approve an emergency change to restart servers nightly",
+        "D": "Service Desk: add first-line agents to log the slowdown tickets more quickly"
+      },
+      "answer": "A",
+      "note": "Each slowdown is an **incident**, but the recurring pattern points to an underlying **problem**. Problem Management analyses historical incident records, system logs, capacity metrics and monitoring data to find and remove the root cause (LO1, slides 20–21).\nFaster restoration (B) only treats the symptom, which keeps the organization stuck in a cycle of recurring disruptions."
+    },
+    {
+      "question": "Problem Management confirms that an aging router causes repeated network outages. The team documents the cause and a workaround so the service desk can diagnose future occurrences faster. Where is this knowledge recorded?",
+      "options": {
+        "A": "Configuration Management Database (CMDB)",
+        "B": "Service catalogue",
+        "C": "Capacity plan",
+        "D": "Known Error Database (KEDB)"
+      },
+      "answer": "D",
+      "note": "Problem Management creates organizational learning by recording findings in a **Known Error Database (KEDB)**, which speeds up diagnosis and resolution of future incidents (LO1, slide 20).\nThe **CMDB** (A) is a different tool: it holds configuration items and their relationships, not known errors and workarounds (slide 23)."
+    },
+    {
+      "question": "An AI tool assesses a proposed database upgrade and rates it as low risk. According to the lecture, how should the change be approved?",
+      "options": {
+        "A": "Automatically, since AI risk scores are more objective than human judgment",
+        "B": "By the database vendor, since it supplies the software being upgraded",
+        "C": "By human decision-makers, who keep final approval for accountability",
+        "D": "By the service desk, since it will handle any calls the upgrade generates"
+      },
+      "answer": "C",
+      "note": "AI increasingly supports Change Management with automated risk analysis, predictive impact assessment and simulation, but **final approval authority typically stays with human decision-makers** because of accountability and governance requirements (LO1, slide 22).\nRemember why the process exists: poorly managed change is one of the leading causes of service disruptions."
+    },
+    {
+      "question": "Before replacing a database server, the operations team needs to know which business applications rely on it, so it can judge the impact of the change. Which capability provides this?",
+      "options": {
+        "A": "Capacity forecasts built from historical utilization trends",
+        "B": "Dependency mapping in the Configuration Management Database (CMDB)",
+        "C": "The Known Error Database (KEDB) maintained by Problem Management",
+        "D": "First contact resolution reports produced by the service desk"
+      },
+      "answer": "B",
+      "note": "Configuration Management maintains the **CMDB**, the authoritative repository of configuration items. Its **dependency mapping** shows how systems relate, so teams can assess the impact of incidents and proposed changes.\nThe lecture's own example: changing a database server may affect several business applications (LO1, slide 23)."
+    },
+    {
+      "question": "A team is about to push a major new feature to production through its CI/CD pipeline. Which release management safeguard should always be in place before the deployment?",
+      "options": {
+        "A": "A business impact analysis that sets the service's RTO and RPO",
+        "B": "A capacity forecast covering next year's seasonal demand peaks",
+        "C": "A completed root cause analysis of all the service's past incidents",
+        "D": "A documented plan for rolling back the release if problems appear"
+      },
+      "answer": "D",
+      "note": "The lecture singles out **rollback planning**: technology managers should always have a documented strategy for reversing changes if unexpected issues occur (LO1, slide 24).\nCI/CD pipelines increase deployment frequency, which makes this safeguard more important, not less. RTO and RPO (A) belong to IT Service Continuity Management."
+    },
+    {
+      "question": "To avoid any risk of slowdowns, an online retailer provisions enough servers to handle three times its holiday peak, all year round. From a capacity management view, what is the main concern?",
+      "options": {
+        "A": "Under-provisioning, which will cause poor performance during the holidays",
+        "B": "Over-provisioning, which raises costs and cuts efficiency for little benefit",
+        "C": "Availability, because extra servers create more single points of failure",
+        "D": "Change risk, because extra servers can only be added as emergency changes"
+      },
+      "answer": "B",
+      "note": "Capacity Management balances two risks: **under-provisioning** causes poor performance and failures, while **over-provisioning** raises operating costs and reduces efficiency. The goal is **optimization, not maximization** (LO1, slides 25 and 52).\nCloud scaling and AI forecasting help match resources to demand instead of buying for the worst case all year."
+    },
+    {
+      "question": "A service's SLA commits to 99.9% availability. Roughly how much downtime per year does that allow?",
+      "options": {
+        "A": "About 8.8 hours",
+        "B": "About 3.65 days",
+        "C": "About 52 minutes",
+        "D": "About 5 minutes"
+      },
+      "answer": "A",
+      "note": "The lecture's availability table: **99% ≈ 3.65 days**, **99.9% ≈ 8.8 hours**, **99.99% ≈ 52 minutes**, **99.999% ≈ 5 minutes** of downtime per year (LO1, slide 26).\nEach extra 'nine' needs more sophisticated infrastructure and more money, so targets should match business needs rather than defaulting to five nines."
+    },
+    {
+      "question": "After a disaster, the business decides it can afford to lose no more than 15 minutes of transaction data. Which continuity concept does this define?",
+      "options": {
+        "A": "Recovery Time Objective (RTO)",
+        "B": "Mean Time to Repair (MTTR)",
+        "C": "Recovery Point Objective (RPO)",
+        "D": "Service availability percentage"
+      },
+      "answer": "C",
+      "note": "The **RPO** is the maximum acceptable amount of **data loss**; the **RTO** is the maximum acceptable **downtime** before service is restored (LO1, slide 27).\nTip: RPO is about the restore **point** (how much data you can lose), RTO is about recovery **time** (how long you can be down)."
+    },
+    {
+      "question": "A server's CPU utilization crosses a predefined threshold, but users have not noticed any impact on service yet. In the lecture's terms, what has happened?",
+      "options": {
+        "A": "An incident has occurred and must be logged right away",
+        "B": "An event has become an alert, but not yet an incident",
+        "C": "A problem has been found and needs root cause analysis",
+        "D": "A known error has occurred and needs a workaround"
+      },
+      "answer": "B",
+      "note": "**Events** are observable occurrences, such as CPU spikes or failed logins. An event becomes an **alert** when it exceeds a predefined threshold, and an alert becomes an **incident** only when **service quality is affected** (LO1, slide 29).\nGood event management filters the noise so teams can act on meaningful signals before users are affected."
+    },
+    {
+      "question": "When a monitoring alert fires, a platform automatically creates a ticket, gathers diagnostics, runs a remediation script, notifies the support team and updates the dashboard as one coordinated workflow. What is this best called?",
+      "options": {
+        "A": "Automation",
+        "B": "Event correlation",
+        "C": "Capacity forecasting",
+        "D": "Orchestration"
+      },
+      "answer": "D",
+      "note": "In the lecture's distinction, **automation executes individual tasks**, while **orchestration coordinates multiple automated activities into an end-to-end workflow**. The alert-to-dashboard chain is the lecture's own example (LO1, slide 31).\nEach step on its own is automation; linking them is orchestration. Governance still matters, because badly designed automation can amplify errors."
+    },
+    {
+      "question": "A network operations team receives thousands of alerts a day, many of them duplicates or false positives, and genuinely critical alerts are being missed. Which AIOps capability most directly addresses this?",
+      "options": {
+        "A": "Event correlation that groups related alerts into one consolidated incident",
+        "B": "Lowering static thresholds so every alert fires even earlier than before",
+        "C": "Intelligent ticket routing that sends each alert to the right team faster",
+        "D": "Automated scaling of cloud resources whenever utilization starts rising"
+      },
+      "answer": "A",
+      "note": "This is **alert fatigue**, one of the main drivers of AIOps (LO1, slide 34). AI-enabled monitoring uses **event correlation and noise reduction**: instead of hundreds of separate alerts, the platform identifies the common underlying cause and presents a single consolidated incident (slide 35).\nFaster routing (C) still leaves the team handling every duplicate, and lower thresholds (B) would add even more alerts."
+    },
+    {
+      "question": "Which pairing correctly shows a traditional IT operations characteristic (left) and its AIOps counterpart (right)?",
+      "options": {
+        "A": "Predictive → Reactive",
+        "B": "Automated remediation → Human-driven remediation",
+        "C": "Rule-based alerts → Machine learning insights",
+        "D": "Integrated intelligence → Siloed tools"
+      },
+      "answer": "C",
+      "note": "Traditional operations are **reactive**, with **manual analysis**, **rule-based alerts**, **human-driven remediation** and **siloed tools**. AIOps is **predictive**, with **automated analytics**, **machine learning insights**, **automated remediation** and **integrated intelligence** (LO1, slide 38).\nOptions A, B and D have the two sides reversed. The lecture also stresses that AI is integrated into existing operational frameworks rather than replacing them."
+    },
+    {
+      "question": "During a major outage, which task should stay primarily with people rather than with the AIOps platform?",
+      "options": {
+        "A": "Correlating thousands of alerts to find their most likely common cause",
+        "B": "Weighing business trade-offs and updating executives, customers and regulators",
+        "C": "Continuously scanning logs and metrics for anomalies across all systems",
+        "D": "Categorizing incoming tickets and routing them to the right support teams"
+      },
+      "answer": "B",
+      "note": "The lecture frames AIOps as **augmentation, not replacement**. AI is strongest at pattern recognition, data processing, forecasting, automation and continuous monitoring (options A, C, D).\nPeople remain essential for **strategic and ethical judgment, leadership and stakeholder communication**, especially during major incidents where business context matters (LO1, slides 18 and 39)."
+    },
+    {
+      "question": "An AIOps pilot fails because two monitoring tools record timestamps and severity levels in incompatible formats, so their data cannot be combined. Which data-quality characteristic is lacking?",
+      "options": {
+        "A": "Accuracy",
+        "B": "Completeness",
+        "C": "Timeliness",
+        "D": "Consistency"
+      },
+      "answer": "D",
+      "note": "The lecture's four data-quality characteristics: **accuracy** (reflects real conditions), **completeness** (no missing data), **consistency** (compatible formats and standards across systems) and **timeliness** (near real-time availability). Incompatible formats are a **consistency** problem (LO1, slide 41).\nData quality is often the biggest single factor in AIOps success, and data preparation usually takes more effort than building the models (slides 40–41)."
+    },
+    {
+      "question": "After years of automated remediation, an operations team finds it can no longer troubleshoot systems manually when the AIOps platform itself goes down. Which AIOps risk does this illustrate?",
+      "options": {
+        "A": "Overreliance on AI",
+        "B": "Algorithmic bias",
+        "C": "False positives",
+        "D": "Data privacy exposure"
+      },
+      "answer": "A",
+      "note": "The lecture warns that if employees **lose operational knowledge through excessive dependence on AI**, the organization becomes vulnerable when systems fail (LO1, slide 42).\nManagers should ask not only whether AI **can** do a task but whether it **should**, and keep people skilled and accountable for outcomes."
+    },
+    {
+      "question": "A company plans to roll out an AIOps platform next month, but its incident workflows are undocumented and differ from team to team. According to the lecture, what should happen first?",
+      "options": {
+        "A": "Deploy the platform now and let machine learning infer the workflows",
+        "B": "Switch on automated remediation for every incident type to build momentum",
+        "C": "Standardize and document the operational processes before automating them",
+        "D": "Cut headcount first to fund the platform, since AI will cover the gap"
+      },
+      "answer": "C",
+      "note": "AIOps readiness spans five dimensions: **people, processes, technology, governance and leadership**. On processes, the lecture is explicit: workflows should be **standardized and documented before automation is introduced** (LO1, slide 43).\nAIOps is an organizational transformation, not just a technology purchase. Change management matters too, because staff may fear job displacement (D)."
+    },
+    {
+      "question": "A ransomware attack requires security analysts, network administrators, legal counsel and executives to act together within hours. Which organizing activity matters most here?",
+      "options": {
+        "A": "Organizational structure design",
+        "B": "Coordination across teams",
+        "C": "Task delegation by expertise",
+        "D": "Budget and resource management"
+      },
+      "answer": "B",
+      "note": "**Coordination** is critical because IT services often span multiple departments and vendors. The lecture's own example is a cybersecurity incident that needs security teams, network administrators, legal counsel and executive leadership to work together (LO1, slide 11).\nThe other organizing activities matter too: structure design sets reporting lines and decision authority, delegation matches tasks to expertise and workload, and resource management prevents burnout, service degradation and excess cost."
+    },
+    {
+      "question": "As an AIOps platform is introduced, many operations staff worry it will replace them, and engagement drops. Under the 'leading' management function, what should the manager do?",
+      "options": {
+        "A": "Keep the rollout confidential until it is complete to avoid unrest",
+        "B": "Move the most anxious employees into non-technical roles for now",
+        "C": "Let the AI vendor handle all employee communication about the change",
+        "D": "Help staff adapt, showing that AI enhances their work, not replaces it"
+      },
+      "answer": "D",
+      "note": "In AI-enabled environments, **leading** includes helping employees adapt to technological change and making sure **AI enhances human capabilities rather than creating fear, uncertainty or disengagement** (LO1, slide 12).\nLeading also covers motivation, communication, conflict resolution, decision-making and leadership development. Secrecy (A) or leaving the message to a vendor (C) undermines the trust that leaders need."
+    },
+    {
+      "question": "Under the controlling function, which set of methodologies does the lecture name for systematic process improvement?",
+      "options": {
+        "A": "ITIL, Lean, Six Sigma and Continual Service Improvement",
+        "B": "TOGAF, Zachman and enterprise architecture review boards",
+        "C": "Gantt charts, work breakdown structures and network diagrams",
+        "D": "SWOT, PESTLE and Porter's Five Forces analysis"
+      },
+      "answer": "A",
+      "note": "Controlling includes **process improvement**: identifying inefficiencies and implementing corrective actions, supported by methodologies such as **ITIL, Lean, Six Sigma and Continual Service Improvement** (LO1, slide 13).\nTOGAF and Zachman are enterprise architecture frameworks (LO3), Gantt charts, WBS and network diagrams are project planning tools, and SWOT and PESTLE are strategic analysis tools."
+    },
+    {
+      "question": "Which reporting activity goes beyond describing past performance to identify trends, patterns and predictive insights?",
+      "options": {
+        "A": "Progress reporting",
+        "B": "Financial reporting",
+        "C": "Operational analytics",
+        "D": "Performance reviews"
+      },
+      "answer": "C",
+      "note": "**Operational analytics** extends traditional reporting by identifying **trends, patterns and predictive insights**, increasingly with AI-powered platforms. **Progress reporting** shows whether initiatives are on track, **financial reporting** covers budgets, spending and ROI, and **performance reviews** assess organizational, team and individual effectiveness (LO1, slide 14).\nReporting isn't just administration: it enables transparency, accountability and evidence-based management."
+    },
+    {
+      "question": "Business units keep demanding new IT capabilities faster than the operations team can realistically deliver them. Which stakeholder management activity addresses this most directly?",
+      "options": {
+        "A": "Relationship management",
+        "B": "Expectation management",
+        "C": "Stakeholder engagement",
+        "D": "Value delivery"
+      },
+      "answer": "B",
+      "note": "**Expectation management** matters because technology capabilities often evolve more slowly than stakeholder demands; clear communication sets realistic expectations about service levels, timelines and outcomes (LO1, slide 15).\n**Engagement** means actively learning stakeholders' needs instead of assuming them, and **relationship management** builds trust and credibility. All of them serve the ultimate goal of **delivering value**."
+    },
+    {
+      "question": "In the lecture's example of operational functions working together, monitoring detects an issue, Incident Management restores service, and Problem Management finds the root cause. Which function then oversees implementing the permanent solution?",
+      "options": {
+        "A": "Incident Management",
+        "B": "Configuration Management",
+        "C": "Change Management",
+        "D": "Capacity Management"
+      },
+      "answer": "C",
+      "note": "The lecture's integrated flow: monitoring detects an issue → **Incident Management** restores service → **Problem Management** investigates the root cause → **Configuration Management** provides visibility into affected systems → **Change Management** oversees the permanent solution (LO1, slide 17).\nOperational failures often happen not because one process fails but because **coordination between processes breaks down**."
+    },
+    {
+      "question": "Which of these incidents should receive the highest priority?",
+      "options": {
+        "A": "A company-wide email outage affecting thousands of employees",
+        "B": "A single user who cannot print a document before a meeting",
+        "C": "A test server that is down over a quiet holiday weekend",
+        "D": "A dashboard widget showing an outdated company logo"
+      },
+      "answer": "A",
+      "note": "Incident priority is based on **business impact and urgency**. The lecture contrasts a company-wide email outage affecting thousands of employees, which gets a higher priority, with a printing issue affecting a single user (LO1, slide 18).\nIncidents are logged, categorized, prioritized, assigned and resolved according to predefined procedures."
+    },
+    {
+      "question": "An AIOps rollout aims to shorten the time between when a fault begins and when the operations team becomes aware of it. Which incident metric tracks this?",
+      "options": {
+        "A": "Mean Time to Respond (MTTR)",
+        "B": "Mean Time to Resolve (MTTR)",
+        "C": "First Contact Resolution Rate",
+        "D": "Mean Time to Detect (MTTD)"
+      },
+      "answer": "D",
+      "note": "**MTTD (Mean Time to Detect)** measures how long it takes to notice an issue. The lecture also lists **Mean Time to Respond** and **Mean Time to Resolve** (both abbreviated MTTR, and LO2 uses MTTR for Mean Time to Repair, so check which one is meant), **First Contact Resolution Rate** and **incident volume trends** (LO1, slide 18).\nAI-enabled monitoring targets detection directly: it can spot incidents before users experience disruptions (slide 36)."
+    },
+    {
+      "question": "A change approval process requires five sign-offs and a two-week wait even for routine, low-risk updates, and teams have started bypassing it. What principle does the lecture apply?",
+      "options": {
+        "A": "Add more approvers so that nothing can slip through without review",
+        "B": "Scrap formal change management, since speed matters more than control",
+        "C": "Match approval effort to the change category, balancing speed and control",
+        "D": "Allow only emergency changes until the backlog of requests is cleared"
+      },
+      "answer": "C",
+      "note": "Technology managers must **balance innovation with stability**: excessive bureaucracy slows innovation, while inadequate governance increases operational risk. Changes are grouped into **standard, normal and emergency** categories, each with **different approval and governance procedures** (LO1, slide 22).\nWhen a process is so heavy that teams bypass it, it stops providing control at all."
+    },
+    {
+      "question": "A major release has just been deployed to production. In the lecture's release process, what should happen next?",
+      "options": {
+        "A": "Monitor post-release performance to catch any problems early",
+        "B": "Plan the scope of the release and agree on its contents",
+        "C": "Perform a readiness assessment of the target environment",
+        "D": "Schedule a deployment window with the affected stakeholders"
+      },
+      "answer": "A",
+      "note": "A successful release process runs: plan the release scope → schedule deployment windows → perform readiness assessments → test and validate → execute the deployment → **monitor post-release performance** (LO1, slide 24).\nAI can help at this last stage by **detecting anomalies after deployment**, and a documented rollback plan should be ready in case problems appear."
+    },
+    {
+      "question": "An online store runs on one server, in one cloud region, behind a single network connection. Which availability management activity is most urgently needed?",
+      "options": {
+        "A": "Capacity forecasting for next year's seasonal demand",
+        "B": "Release planning for the next feature deployment",
+        "C": "Root cause analysis of last month's incidents",
+        "D": "Identifying and removing single points of failure"
+      },
+      "answer": "D",
+      "note": "A **single point of failure (SPOF)** is a component whose failure would disrupt the whole service, such as a single server, network connection, power supply or cloud region. Availability Management reduces this risk through **redundancy, geographic failover, high-availability architectures and disaster recovery** (LO1, slides 26 and 53).\nThese improvements involve trade-offs between cost and resilience."
+    },
+    {
+      "question": "A company has a detailed disaster recovery plan that has never been tested. What does the lecture warn about this?",
+      "options": {
+        "A": "Testing is optional, because a well-documented plan is enough",
+        "B": "Untested plans frequently fail during actual crises",
+        "C": "Testing should be avoided, because it can trigger a real outage",
+        "D": "Plans only need testing when regulators specifically demand it"
+      },
+      "answer": "B",
+      "note": "Many organizations create continuity plans but rarely test them, and **untested plans frequently fail during actual crises**. **Recovery testing** is a core IT Service Continuity Management activity, alongside risk assessments, business impact analysis, continuity planning and crisis coordination (LO1, slide 27).\nContinuity requirements such as RTO and RPO should be agreed with business stakeholders."
+    },
+    {
+      "question": "Daily performance reports look normal, but average response time has crept up a little every week for three months. What does this illustrate?",
+      "options": {
+        "A": "Trend analysis reveals gradual deterioration that daily checks miss",
+        "B": "Nothing is wrong, since each day's figures stayed within target",
+        "C": "A new incident should be logged for every day of slower response",
+        "D": "The servers are over-provisioned and should be scaled down"
+      },
+      "answer": "A",
+      "note": "**Trend analysis** is valuable because it reveals **gradual deterioration** that isn't obvious from daily observations: rising response times, growing resource utilization, increasing incident volumes or declining satisfaction. Performance management should be **proactive**; waiting until users complain suggests monitoring is inadequate (LO1, slide 28)."
+    },
+    {
+      "question": "A university adds an AI chatbot to its IT service desk. Which approach matches the lecture's guidance?",
+      "options": {
+        "A": "Replace all human agents, since chatbots resolve every issue faster",
+        "B": "Avoid AI at the service desk, since users always prefer talking to people",
+        "C": "Let AI handle routine requests; keep people for complex or sensitive cases",
+        "D": "Limit the chatbot to collecting satisfaction scores after tickets close"
+      },
+      "answer": "C",
+      "note": "AI is transforming service desks through **virtual assistants, chatbots, automated ticket classification, intelligent routing and knowledge recommendations**, but **human empathy, communication skills and complex problem-solving remain essential** (LO1, slide 30).\nThe service desk is the face of IT for most users, so its performance shapes how people judge overall IT quality."
+    },
+    {
+      "question": "A script that disables 'stale' user accounts runs with a faulty filter and locks out 4,000 active users within minutes. What lesson about automation does this illustrate?",
+      "options": {
+        "A": "Automation should be avoided for any identity-related task",
+        "B": "Manual processes are always more reliable than scripts",
+        "C": "Orchestration is safer than automation in every situation",
+        "D": "Poorly governed automation can amplify errors at scale"
+      },
+      "answer": "D",
+      "note": "Automation improves consistency, speed, scalability and reliability, and user account provisioning is one of the lecture's examples. But managers must ensure **appropriate governance**, because **poorly designed automation can amplify errors and create operational risks** (LO1, slide 31).\nThe fix is better controls such as testing, approvals and safeguards, not abandoning automation."
+    },
+    {
+      "question": "Which of these is the kind of routine remediation the lecture suggests AIOps platforms can automate?",
+      "options": {
+        "A": "Deciding whether to notify regulators about a possible data breach",
+        "B": "Restarting a failed service or scaling cloud resources on demand",
+        "C": "Approving a major data center migration over a long weekend",
+        "D": "Choosing which customers to compensate after a major outage"
+      },
+      "answer": "B",
+      "note": "The lecture's automated remediation examples are routine: **restarting failed services, scaling cloud resources, clearing storage caches and rebalancing network traffic** (LO1, slide 36).\nDecisions with legal, financial or strategic consequences (A, C, D) need human judgment. Managers must decide carefully which actions can be automated and which require human approval."
+    },
+    {
+      "question": "Which component of an AIOps platform detects anomalies, predicts issues and identifies patterns?",
+      "options": {
+        "A": "Machine learning models",
+        "B": "Data collection layer",
+        "C": "Automation layer",
+        "D": "Visualization layer"
+      },
+      "answer": "A",
+      "note": "A typical AIOps platform has five components: the **data collection** layer gathers logs, events, metrics and traces; the **analytics engine** processes data from many sources; **machine learning models** detect anomalies, predict issues and identify patterns; the **automation** layer executes responses and workflows; and the **visualization** layer provides dashboards, reports and recommendations (LO1, slide 40)."
+    },
+    {
+      "question": "Engineers refuse to act on an AIOps platform's recommendations because nobody can explain how it reaches them. Which governance consideration is lacking?",
+      "options": {
+        "A": "Accountability",
+        "B": "Security",
+        "C": "Compliance",
+        "D": "Transparency"
+      },
+      "answer": "D",
+      "note": "**Transparency** means stakeholders understand how AI systems generate recommendations. The lecture's other governance considerations are **accountability** (clear responsibility for decisions involving AI), **security** (AI systems can themselves become attack targets), **privacy** (operational data may be sensitive) and **compliance** with legal and regulatory requirements (LO1, slide 42)."
+    },
+    {
+      "question": "An AIOps pilot stalls because it cannot secure a budget or cooperation from other departments. Which readiness dimension is weakest?",
+      "options": {
+        "A": "Technology",
+        "B": "Processes",
+        "C": "Leadership",
+        "D": "People"
+      },
+      "answer": "C",
+      "note": "The lecture's five AIOps readiness dimensions are **people** (skills in AI, analytics and automation), **processes** (standardized, documented workflows), **technology** (monitoring platforms, data infrastructure, integration), **governance** (accountability, security, ethics) and **leadership**, where **executive sponsorship** secures resources and supports organizational change (LO1, slide 43)."
+    },
+    {
+      "question": "In the lecture's industry examples, which company uses machine learning to improve energy efficiency and predict hardware failures across its global infrastructure?",
+      "options": {
+        "A": "Netflix",
+        "B": "Google",
+        "C": "IBM",
+        "D": "Amazon"
+      },
+      "answer": "B",
+      "note": "**Google** uses machine learning to optimize resource utilization, improve energy efficiency, predict hardware failures and support infrastructure management. **Netflix** relies on predictive monitoring, automated scaling and performance analytics, and **IBM**'s Watson AIOps platform offers event correlation, root cause analysis and automated remediation (LO1, slide 45)."
+    }
+  ]
+}

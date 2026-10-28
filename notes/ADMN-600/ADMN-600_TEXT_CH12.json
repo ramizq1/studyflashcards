@@ -1,0 +1,602 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "12",
+    "title": "Decision Making, Creativity, and Ethics"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 12",
+  "questions": [
+    {
+      "topic": "Rational model and bounded rationality",
+      "question": "Facing a budget shortfall, a manager defines the problem, lists the factors that matter, decides how important each is and then generates options. According to the rational model, what should come right after developing the alternatives?",
+      "options": {
+        "A": "Go back and allocate weights to criteria before listing them",
+        "B": "Evaluate the alternatives against the weighted criteria",
+        "C": "Define the problem the decision is meant to solve",
+        "D": "Select the first acceptable option that comes up"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The six steps are: define the problem, identify the criteria, allocate weights to the criteria, develop alternatives, evaluate the alternatives, and select the best alternative. (Ch 12: The Six-Step Rational Model, Exhibit 12-1)\n**Why not A:** Weights are allocated after criteria are identified and before alternatives are developed.\n**Why not C:** Defining the problem is the first step, which she has already done.\n**Why not D:** Choosing the first acceptable option is satisficing, not the rational model."
+    },
+    {
+      "topic": "Rational model and bounded rationality",
+      "question": "A company spends months perfecting a pricing fix for falling sales, only to discover the real cause was poor customer service. Which step of the rational model failed?",
+      "options": {
+        "A": "Evaluating the alternatives",
+        "B": "Defining the problem",
+        "C": "Selecting the best alternative",
+        "D": "Allocating weights to criteria"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The first step is to define the problem, and many poor decisions can be traced to overlooking a problem or defining the wrong one. (Ch 12: The Six-Step Rational Model)\n**Why not A:** Evaluating options carefully doesn't help if the problem was defined wrongly.\n**Why not C:** The chosen fix addressed the wrong problem, a failure of problem definition.\n**Why not D:** The failure happened earlier: the firm was solving the wrong problem."
+    },
+    {
+      "topic": "Rational model and bounded rationality",
+      "question": "A professor says the rational model describes decision making in an ideal world that rarely exists. Which assumptions of the model is she referring to?",
+      "options": {
+        "A": "Gut feelings, holistic associations and emotional charge",
+        "B": "Group input, consensus and shared responsibility for choices",
+        "C": "Complete information, unbiased options and maximum utility",
+        "D": "Limited information, quick choices and acceptable solutions"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The rational model assumes the decision maker has complete information, can identify all relevant options in an unbiased manner, and chooses the option with the highest utility. (Ch 12: Assumptions of the Model)\n**Why not A:** These describe intuitive decision making.\n**Why not B:** The rational model describes an individual's ideal process, not group consensus.\n**Why not D:** These describe bounded rationality and satisficing, not the rational model."
+    },
+    {
+      "topic": "Rational model and bounded rationality",
+      "question": "Choosing a university, a student looks at a few familiar schools near home, picks the first one that meets her main needs and stops searching. What is she doing, and is it necessarily a bad approach?",
+      "options": {
+        "A": "Optimizing, since she weighed every option against all criteria",
+        "B": "Using intuition, which is the least reliable way to decide",
+        "C": "Satisficing within bounded rationality; it can be sensible",
+        "D": "Escalating commitment, which always produces poor decisions"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Limited information-processing capacity leads people to satisfice, choosing the first acceptable option; this isn't always bad, since a fast-and-frugal process can be more sensible than costly full rationality when weights and preferences are unknown. (Ch 12: Bounded Rationality in Considering Alternatives)\n**Why not A:** She stopped at the first acceptable option rather than evaluating every alternative.\n**Why not B:** She's satisficing within bounded rationality, which can be a sensible approach.\n**Why not D:** Escalation means sticking with a failing decision; this is satisficing."
+    },
+    {
+      "topic": "Intuition",
+      "question": "A veteran ER nurse instantly senses that a patient is deteriorating before any test confirms it. How does the chapter characterize this kind of decision making?",
+      "options": {
+        "A": "Satisficing, choosing the first option that seems acceptable",
+        "B": "Intuition: fast, unconscious and drawn from distilled experience",
+        "C": "A paranormal sixth sense that can't be explained by experience",
+        "D": "The rational model applied quickly through conscious steps"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Intuitive decision making is an unconscious process created from distilled experience; it occurs outside conscious thought, relies on holistic associations, is fast and is affectively charged. It isn't a magical sixth sense. (Ch 12: Intuition)\n**Why not A:** Satisficing is a bounded-rationality search; this is rapid, unconscious pattern recognition.\n**Why not C:** Intuition is complex and based on years of experience and learning, not a sixth sense.\n**Why not D:** Intuition occurs outside conscious thought, unlike the step-by-step rational model."
+    },
+    {
+      "topic": "Intuition",
+      "question": "Chess grand masters and novices briefly viewed a position from a real game, then a random arrangement of pieces, and tried to reconstruct each. What did the results show?",
+      "options": {
+        "A": "Masters excelled only on real positions, by recognizing patterns",
+        "B": "Novices did better on random boards, being free of habits",
+        "C": "Masters excelled at both, since they simply have better memories",
+        "D": "Neither group could recall more than a few pieces either time"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Grand masters replaced 23 or 24 of about 25 pieces from a real game but only about 6, like novices, when pieces were random; their advantage came from recognizing patterns built over thousands of games, not better memory. (Ch 12: OB in the Street, Intuition Comes to the Chess Board)\n**Why not B:** Both groups placed about 6 pieces correctly on random boards.\n**Why not C:** On random boards, masters did no better than novices.\n**Why not D:** Masters recalled nearly every piece from the real game position."
+    },
+    {
+      "topic": "Intuition",
+      "question": "In a study of 57 Australian senior executives making marketing sponsorship decisions, when were they most likely to rely on intuition?",
+      "options": {
+        "A": "Only when they had no relevant experience to draw on",
+        "B": "When decision processes were highly formalized and strict",
+        "C": "When factors were vague or complex and benefits intangible",
+        "D": "When benefits were concrete, monetary and easy to measure"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Executives relied more on intuition when factors were vague or complex or benefits were largely nonmonetary and intangible; firms valuing trust used more intuition, and highly formalized processes reduced (but didn't eliminate) it. (Ch 12: Focus on Research, Putting Intuition to Work in the Workplace)\n**Why not A:** Effective intuition draws on experience; uncertainty, not inexperience, raised its use.\n**Why not B:** Highly formalized decision processes were linked to less use of intuition.\n**Why not D:** Intuition rose when benefits were nonmonetary and intangible."
+    },
+    {
+      "topic": "Intuition",
+      "question": "A manager has a strong hunch that a new product will succeed. What does the chapter recommend she do with that hunch?",
+      "options": {
+        "A": "Treat it as proof, since experienced managers rarely err",
+        "B": "Treat it as a hypothesis and test it with data and analysis",
+        "C": "Act on it immediately, since intuition beats careful analysis",
+        "D": "Ignore it, since intuition is superstition with no basis"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Not everyone's gut is reliable; intuition is useful for setting up a hypothesis but unacceptable as proof, so test hunches with objective data and rational analysis. (Ch 12: Intuition)\n**Why not A:** Intuition can set up a hypothesis but is unacceptable as proof.\n**Why not C:** Intuition should be checked with data rather than acted on as proof.\n**Why not D:** Intuition is based on experience and can complement rational analysis."
+    },
+    {
+      "topic": "Common judgment biases",
+      "question": "Asked to give answer ranges they're 90% sure are correct, a group of experts turns out to be right only about half the time. Which bias is this, and who tends to be most prone to it?",
+      "options": {
+        "A": "Overconfidence; experts are far less prone than novices are",
+        "B": "Overconfidence; the least able tend to overestimate most",
+        "C": "Anchoring; experts fixate on the first number they think of",
+        "D": "Availability; experts recall only the most vivid examples"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** When people say they're 90% confident, they're right only about 50% of the time, and experts are no more accurate than novices; people with the weakest intellectual and interpersonal abilities are most likely to overestimate. (Ch 12: Overconfidence Bias)\n**Why not A:** Experts were no more accurate than novices in setting confidence intervals.\n**Why not C:** Being too sure of one's answers is overconfidence, not anchoring.\n**Why not D:** The error here is excessive certainty, which is overconfidence."
+    },
+    {
+      "topic": "Common judgment biases",
+      "question": "Researchers found a negative relationship between entrepreneurs' optimism and the performance of their new ventures. Which bias might explain this?",
+      "options": {
+        "A": "Overconfidence that keeps them from planning for problems",
+        "B": "Hindsight bias that leads them to over-plan for problems",
+        "C": "Risk aversion that stops them from trying new ideas",
+        "D": "Anchoring on early sales that are unusually strong"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The more optimistic entrepreneurs were, the less successful their ventures; being too confident about their ideas may keep some from planning how to avoid problems, especially outside their area of expertise. (Ch 12: Overconfidence Bias)\n**Why not B:** The issue is under-planning caused by overconfidence.\n**Why not C:** Overly optimistic entrepreneurs are overconfident, not risk averse.\n**Why not D:** The research links weaker performance to overconfidence, not anchoring."
+    },
+    {
+      "topic": "Common judgment biases",
+      "question": "In a mock trial, jurors asked to award $15–50 million gave a median of $15 million, while those asked for $50–150 million gave $50 million. Which bias is this, and how can a job seeker use it?",
+      "options": {
+        "A": "Anchoring; set a realistic, precise anchor in salary talks",
+        "B": "Anchoring; always let the employer name the first number",
+        "C": "Availability; recall vivid past offers when negotiating pay",
+        "D": "Confirmation; seek only information that supports your ask"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The anchoring bias is fixating on initial information and failing to adjust; in salary talks, set the anchor only as high as is realistic, and a precise figure (say, $55 650) leads to smaller adjustments than a round one. (Ch 12: Anchoring Bias)\n**Why not B:** Setting the anchor yourself favours you, so you shouldn't automatically defer.\n**Why not C:** The jurors fixated on the initial range, which is anchoring.\n**Why not D:** The jury effect comes from fixating on the first figures, not selective search."
+    },
+    {
+      "topic": "Common judgment biases",
+      "question": "A manager who strongly favours a vendor reads only glowing reviews of it and dismisses negative reports as unreliable. Which bias is this, and when is it weaker?",
+      "options": {
+        "A": "Anchoring bias; it's weaker once the first offer is made",
+        "B": "Availability bias; it's weaker with very recent information",
+        "C": "Confirmation bias; it's strongest when accuracy feels vital",
+        "D": "Confirmation bias; it's weaker when accuracy feels important"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Confirmation bias is seeking information that reaffirms past choices and discounting contradictory information; we're most prone when we believe our information is good and our opinions are strong, and less prone when we feel a strong need to be accurate. (Ch 12: Confirmation Bias)\n**Why not A:** Discounting contradictory information is confirmation bias, not anchoring.\n**Why not B:** Selectively seeking supportive information is confirmation bias.\n**Why not C:** A strong need to be accurate makes people less prone to confirmation bias."
+    },
+    {
+      "topic": "Common judgment biases",
+      "question": "At annual review time, a manager rates an employee mainly on a mistake she made last month, overlooking her strong work earlier in the year. Which bias is at work?",
+      "options": {
+        "A": "Randomness error",
+        "B": "Hindsight bias",
+        "C": "Availability bias",
+        "D": "Anchoring bias"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The availability bias is basing judgments on readily available information; recent, vivid or emotional events are more available in memory, which is why managers give more weight to recent behaviour in appraisals. (Ch 12: Availability Bias)\n**Why not A:** The randomness error is believing we can predict random events.\n**Why not B:** Hindsight bias is believing after the fact that an outcome was predictable.\n**Why not D:** Anchoring is fixating on initial information; here recent information dominates."
+    },
+    {
+      "topic": "Escalation, risk and hindsight",
+      "question": "A manager keeps pouring money into a failing project, giving more weight to opinions that favour reinvesting. What does research say drives this escalation of commitment?",
+      "options": {
+        "A": "It's unrelated to how people search for and weigh information",
+        "B": "It happens only when people personally chose the course of action",
+        "C": "It disappears once others review the original decision",
+        "D": "Feeling responsible, even for projects that were assigned"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Escalation tends to occur when people see themselves as responsible for the outcome; fear of failure biases how they search for and weigh information, and they escalate whether they chose the course of action or it was assigned to them. (Ch 12: Escalation of Commitment)\n**Why not A:** Fear of failure biases how people search for and evaluate information.\n**Why not B:** People escalate commitment whether they chose the course or it was assigned.\n**Why not C:** Sharing decision authority can increase escalation by making the decision more public."
+    },
+    {
+      "topic": "Escalation, risk and hindsight",
+      "question": "A world-champion skier wears the same T-shirt at every competition because he wore it for his first big win. When this kind of thinking shapes judgments, what decision error does it represent?",
+      "options": {
+        "A": "Randomness error: creating meaning from random events",
+        "B": "Hindsight bias: believing the win was always predictable",
+        "C": "Risk aversion: preferring a sure thing to a gamble",
+        "D": "Anchoring bias: fixating on the first competition result"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The randomness error is believing we can predict the outcome of random events; we turn imaginary patterns into superstitions, which can be debilitating when they affect daily judgments or major decisions. (Ch 12: Randomness Error)\n**Why not B:** The superstition comes from reading meaning into a random pattern, not hindsight.\n**Why not C:** Risk aversion concerns choosing certainty over gambles, not superstitions.\n**Why not D:** The behaviour reflects seeing patterns in random events, not anchoring."
+    },
+    {
+      "topic": "Escalation, risk and hindsight",
+      "question": "Offered either a sure $50 or a 50–50 coin flip for $100 (or even $200), most people take the sure $50. What is this tendency, and what does it imply for pay systems?",
+      "options": {
+        "A": "Risk seeking; people overvalue the chance of a big payoff",
+        "B": "Risk aversion; firms pay commissioned staff more to offset risk",
+        "C": "Overconfidence; people overrate their own odds of winning a coin flip",
+        "D": "Anchoring; people fixate on the first amount that's offered"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Risk aversion is preferring a sure thing over a risky prospect, even one with a higher expected value; to offset the risk in commission-based pay, companies pay commissioned employees considerably more than salaried ones. (Ch 12: Risk Aversion)\n**Why not A:** Taking the sure $50 over a better gamble is risk aversion, not risk seeking.\n**Why not C:** Overconfident people would take the gamble; most people avoid it.\n**Why not D:** The choice reflects a preference for certainty, not fixation on a first number."
+    },
+    {
+      "topic": "Escalation, risk and hindsight",
+      "question": "A company facing a probable legal loss refuses a modest settlement and gambles on a costly trial instead. How does the chapter explain this reversal of risk aversion?",
+      "options": {
+        "A": "People are always risk averse, regardless of the stakes",
+        "B": "People take chances to try to avoid a certain loss",
+        "C": "Stress makes people more cautious about potential losses",
+        "D": "People gamble more when outcomes are positive and certain"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Risk preference is sometimes reversed: people prefer to gamble when trying to prevent a negative outcome, such as risking a lot at trial rather than settling, and stress strengthens risk seeking for negative outcomes. (Ch 12: Risk Aversion)\n**Why not A:** Risk preferences reverse when people face a likely loss.\n**Why not C:** Under stress, people become more risk seeking when facing negative outcomes.\n**Why not D:** People tend to be risk averse for gains and risk seeking for losses."
+    },
+    {
+      "topic": "Escalation, risk and hindsight",
+      "question": "After a product flops, a manager insists, 'I knew all along it wouldn't sell.' Which bias is this, and why is it harmful?",
+      "options": {
+        "A": "Escalation of commitment; it makes us stick with failure",
+        "B": "Availability bias; it makes recent events seem more likely",
+        "C": "Hindsight bias; it makes us overrate our ability to predict",
+        "D": "Confirmation bias; it makes us search for supporting data"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Hindsight bias is falsely believing, once an outcome is known, that we could have predicted it; it reduces our ability to learn from the past and makes us falsely confident in our predictive skills. (Ch 12: Hindsight Bias)\n**Why not A:** Escalation means persisting with a failing course; this is after-the-fact certainty.\n**Why not B:** The error is believing the outcome was predictable, not overweighting recent events.\n**Why not D:** Claiming you knew all along after the fact is hindsight bias."
+    },
+    {
+      "topic": "Escalation, risk and hindsight",
+      "question": "Soccer goalies facing penalty kicks almost always dive left or right, even though staying in the centre stops more shots. What explains this, according to Azar's research?",
+      "options": {
+        "A": "A bias for action: doing nothing and missing feels worse",
+        "B": "Risk aversion: goalies prefer the safest option available",
+        "C": "Pure skill: diving is the statistically best strategy",
+        "D": "Randomness error: goalies think kicks are truly random"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Goalies stayed in the centre only 6.3% of the time, though centre saves succeeded 33.3% of the time versus 14.2% diving left and 12.6% right; a 'bias for action' makes missing while doing nothing feel worse. (Ch 12: OB in the Street, Penalty Kick Decisions)\n**Why not B:** The safer, better-odds option was staying put; goalies moved because of a bias for action.\n**Why not C:** Staying in the centre had much better odds than diving.\n**Why not D:** Azar attributes the choice to a bias for action, not to beliefs about randomness."
+    },
+    {
+      "topic": "Group decisions and techniques",
+      "question": "A firm must choose a new strategy and wants a solution that employees will actually support. Which strength of group decision making matters most here?",
+      "options": {
+        "A": "Groups always use fewer total work hours",
+        "B": "Groups increase acceptance of the final solution",
+        "C": "Groups make responsibility for outcomes very clear",
+        "D": "Groups decide much faster than individuals do"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Groups generate more complete information and diverse views, and they increase acceptance: members who took part in a decision tend to support it enthusiastically and encourage others to accept it. (Ch 12: Strengths of Group Decision Making, Exhibit 12-2)\n**Why not A:** Group decisions usually consume more work hours than individual ones.\n**Why not C:** Ambiguous responsibility is a weakness of group decisions.\n**Why not D:** Individuals are superior when it comes to speed."
+    },
+    {
+      "topic": "Group decisions and techniques",
+      "question": "A team of analysts produces a sales forecast together. Compared with the members' individual forecasts, how accurate is the group's decision likely to be?",
+      "options": {
+        "A": "More accurate than even the group's most accurate member",
+        "B": "Exactly as accurate as the average of members' judgments",
+        "C": "Better than the average member but not the best one",
+        "D": "Less accurate than the average member of the group"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Group decisions are generally more accurate than the decisions of the average individual in the group, but less accurate than the judgments of the most accurate group member. (Ch 12: Effectiveness and Efficiency)\n**Why not A:** Groups tend to fall short of their most accurate member.\n**Why not B:** Groups tend to beat the average member, though not the best one.\n**Why not D:** Groups are generally more accurate than their average member."
+    },
+    {
+      "topic": "Group decisions and techniques",
+      "question": "A manager is deciding whether to hand a decision to a group or make it herself. What trade-off does the chapter say she should weigh?",
+      "options": {
+        "A": "Whether speed gains outweigh the loss in creativity",
+        "B": "Whether lower costs offset the loss of member acceptance",
+        "C": "Whether effectiveness gains offset lost efficiency",
+        "D": "Whether clearer accountability offsets slower decisions"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** With few exceptions, group decision making consumes more work hours than an individual working alone, so managers should assess whether gains in effectiveness (such as creativity and acceptance) offset the reduced efficiency. (Ch 12: Effectiveness and Efficiency)\n**Why not A:** Groups are slower, not faster, and tend to be more creative than individuals.\n**Why not B:** Groups usually cost more work hours and increase acceptance.\n**Why not D:** Groups make accountability less clear, not more."
+    },
+    {
+      "topic": "Group decisions and techniques",
+      "question": "A team brainstorms ideas, but with members talking at once, people keep losing their train of thought and fixating on the first few suggestions. What does research say about this?",
+      "options": {
+        "A": "Individuals working alone usually generate more ideas",
+        "B": "Larger brainstorming groups would solve the blocking",
+        "C": "Allowing criticism during idea generation would fix it",
+        "D": "Brainstorming groups always outproduce individuals alone"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Research consistently shows individuals working alone generate more ideas than brainstorming groups, partly because of production blocking (many people talking at once) and fixation on a limited number of early solutions. (Ch 12: Brainstorming)\n**Why not B:** More people talking would increase production blocking, not reduce it.\n**Why not C:** Brainstorming withholds criticism by design; the problems are blocking and fixation.\n**Why not D:** Individuals working alone consistently generate more ideas."
+    },
+    {
+      "topic": "Group decisions and techniques",
+      "question": "A committee has each member silently write down ideas, present one at a time without discussion, discuss them for clarity and then silently rank them. What is this technique, and how does it compare with brainstorming?",
+      "options": {
+        "A": "Nominal group technique; it generally outperforms brainstorming",
+        "B": "Brainstorming; it generally outperforms the nominal technique",
+        "C": "Interacting group; it generally produces the most ideas",
+        "D": "Nominal group technique; it mainly builds group cohesion and morale"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In the nominal group technique, members meet but work independently: silent idea writing, round-robin presentation, discussion for clarity and independent ranking; research generally shows nominal groups outperform brainstorming groups. (Ch 12: Nominal Group Technique, Exhibit 12-3)\n**Why not B:** Silent, independent idea generation and ranking define the nominal group technique.\n**Why not C:** Interacting groups discuss freely and rate low on number and quality of ideas.\n**Why not D:** Nominal groups rate only moderate on cohesiveness; their strength is generating ideas."
+    },
+    {
+      "topic": "Group decisions and techniques",
+      "question": "A manager needs strong commitment to a solution and wants to build group cohesiveness. According to the chapter's comparison of techniques, which one rates high on both?",
+      "options": {
+        "A": "A brainstorming group",
+        "B": "An electronic group",
+        "C": "An interacting group",
+        "D": "A nominal group"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Interacting groups rate high on commitment to the solution and on developing group cohesiveness, though they're low on number and quality of ideas and high on social pressure and conflict potential. (Ch 12: Exhibit 12-4, Evaluating Group Effectiveness)\n**Why not A:** Brainstorming builds cohesiveness, but commitment to a solution isn't applicable to it.\n**Why not B:** Electronic groups rate moderate on commitment and low on cohesiveness.\n**Why not D:** Nominal groups rate only moderate on both commitment and cohesiveness."
+    },
+    {
+      "topic": "Groupthink and groupshift",
+      "question": "In a strategy meeting, members assume anyone who stays silent agrees, and one doubter keeps his misgivings to himself to avoid breaking the consensus. Which groupthink symptoms are these?",
+      "options": {
+        "A": "Illusion of invulnerability and assumption of morality",
+        "B": "Groupshift and diffusion of responsibility",
+        "C": "Rationalized resistance and direct peer pressure",
+        "D": "Illusion of unanimity and minimized doubts"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The illusion of unanimity treats silence as a yes vote; minimized doubts means members with differing views keep silent about misgivings and even minimize their importance to themselves. (Ch 12: Groupthink)\n**Why not A:** Those symptoms involve overconfidence and unquestioned moral rightness.\n**Why not B:** These relate to groups taking more extreme positions, not to silence and self-censorship.\n**Why not C:** Those involve explaining away contrary evidence and pressuring doubters openly."
+    },
+    {
+      "topic": "Groupthink and groupshift",
+      "question": "When is groupthink most likely to occur?",
+      "options": {
+        "A": "When a new group has no clear identity or shared image",
+        "B": "When a group protects its prized image from a threat",
+        "C": "When the group focuses on learning more than performance",
+        "D": "When members are skeptical about their chosen course"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Groupthink occurs most often where there's a clear group identity, members hold a positive image they want to protect, and the group perceives a collective threat to that image; it's less about suppressing dissenters than protecting the group's image. (Ch 12: Groupthink)\n**Why not A:** Groupthink is most likely in groups with a clear identity and a positive image.\n**Why not C:** Groups focused more on performance than learning are especially vulnerable.\n**Why not D:** Groups that believe too strongly in their course are the ones that suppress dissent."
+    },
+    {
+      "topic": "Groupthink and groupshift",
+      "question": "A CEO wants to minimize groupthink on her executive team. Which set of practices does the chapter recommend?",
+      "options": {
+        "A": "Strong consensus norms and avoiding discussion of negatives",
+        "B": "Larger teams, early leader opinions, and quick majority votes",
+        "C": "Impartial leaders, a devil's advocate and risk-first talks",
+        "D": "Rewarding agreement and limiting minority viewpoints"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Managers can monitor group size (people feel less responsible in groups larger than about 10), have leaders play an impartial role, appoint a devil's advocate, and stimulate discussion of diverse alternatives, such as discussing risks first. (Ch 12: Groupthink)\n**Why not A:** Focusing on negatives first actually helps groups avoid stifling dissent.\n**Why not B:** Larger groups, leaders voicing opinions early and fast votes all encourage groupthink.\n**Why not D:** Suppressing minority views is the core problem of groupthink."
+    },
+    {
+      "topic": "Groupthink and groupshift",
+      "question": "Before Target opened over 100 Canadian stores in under a year, U.S. team members reportedly dismissed any idea that hadn't come from or worked in the U.S. What does this illustrate?",
+      "options": {
+        "A": "Groupthink that blocked critical appraisal of the plan",
+        "B": "Bounded rationality that led to an optimal decision",
+        "C": "Groupshift toward caution that slowed down the store expansion",
+        "D": "Healthy task conflict that improved the strategy"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Former employees said U.S. team members treated anything not from the U.S. as off the table and copied the U.S. 'playbook,' a groupthink pattern that kept the team from critically appraising its strategy. (Ch 12: OB in the Street, Groupthink at Target Canada)\n**Why not B:** The launch went badly; the problem was suppressed critical appraisal.\n**Why not C:** The expansion was extremely rapid, not cautious.\n**Why not D:** Dissenting ideas were shut down rather than debated."
+    },
+    {
+      "topic": "Groupthink and groupshift",
+      "question": "After discussion, a cautious investment committee becomes even more cautious, while an aggressive one becomes more aggressive. What is this, and which direction has the shift more often taken?",
+      "options": {
+        "A": "Groupshift; the shift has more often been toward caution",
+        "B": "Groupthink; members always converge on a moderate middle",
+        "C": "Anchoring; groups fixate on the first position stated",
+        "D": "Groupshift; the shift has more often been toward risk"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Groupshift (group polarization) exaggerates members' initial positions; its direction depends on the dominant prediscussion norm, but the shift has been shown more often to be toward greater risk. (Ch 12: Groupshift or Group Polarization)\n**Why not A:** The shift has been shown more often to be toward greater risk.\n**Why not B:** Group discussion tends to exaggerate positions, not moderate them.\n**Why not C:** Exaggeration of initial positions through discussion is groupshift."
+    },
+    {
+      "topic": "Groupthink and groupshift",
+      "question": "Why might a group take on more extreme risks than its members would on their own?",
+      "options": {
+        "A": "Groups gather more information, which reduces risk",
+        "B": "Members want to look just like the outgroup does",
+        "C": "Members feel more personally accountable in groups",
+        "D": "Responsibility is diffused across members"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Explanations for groupshift include greater comfort expressing extreme positions, diffusion of responsibility (no single member is accountable, so greater risks are taken) and wanting to stand apart from the outgroup. (Ch 12: Groupshift or Group Polarization)\n**Why not A:** Groupshift explains why groups take greater risks, not smaller ones.\n**Why not B:** People take extreme positions to show how different they are from the outgroup.\n**Why not C:** Group decisions free individual members from accountability."
+    },
+    {
+      "topic": "Creativity",
+      "question": "An engineer proposes an idea that's highly original but doesn't solve the problem at hand. According to the chapter's definition, is it creative?",
+      "options": {
+        "A": "No; creativity requires ideas that are novel and useful",
+        "B": "Yes; originality alone is enough to count as creativity",
+        "C": "Yes, as long as at least one manager approves of it",
+        "D": "No; only ideas that are already proven count as creative"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Creativity is the ability to produce novel and useful ideas; creative outcomes are ideas stakeholders judge to be both novel and useful, so 'off-the-wall' solutions count only if they help solve the problem. (Ch 12: Creativity in Organizational Decision Making)\n**Why not B:** Novelty without usefulness doesn't produce a creative outcome.\n**Why not C:** Creativity is defined by novelty and usefulness, not by one manager's approval.\n**Why not D:** Usefulness can be judged before success is known; proof isn't required."
+    },
+    {
+      "topic": "Creativity",
+      "question": "A software firm wants to hire people with the highest creative potential for its engineering team. According to the chapter, what's the single most important predictor?",
+      "options": {
+        "A": "High general intelligence",
+        "B": "A strong tolerance for risk",
+        "C": "Expertise in the field",
+        "D": "Extraversion and sociability"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Expertise is the foundation for all creative work and the single most important predictor of creative potential; intelligence, openness, proactivity, self-confidence, risk taking, tolerance for ambiguity and perseverance also help. (Ch 12: Causes of Creative Behaviour, Creative Potential)\n**Why not A:** Intelligence is related to creativity, but expertise is the most important predictor.\n**Why not B:** Risk taking is one creative trait, but expertise is the single most important predictor.\n**Why not D:** Openness to experience, not extraversion, is the personality trait linked to creativity."
+    },
+    {
+      "topic": "Creativity",
+      "question": "A research lab is full of creative people, but little comes of their potential. Which environmental factor does a 2013 review of 26 studies link fairly strongly to creative outcomes?",
+      "options": {
+        "A": "Punitive leaders who push teams to meet tight deadlines",
+        "B": "Intrinsic motivation from interesting, challenging work",
+        "C": "Large cash bonuses tied to the number of ideas submitted",
+        "D": "Strict rules that keep researchers focused on assigned work"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Perhaps the most important environmental factor is motivation: the review found intrinsic motivation correlates fairly strongly with creative outcomes; recognition of creative work, freedom and supportive leadership also matter. (Ch 12: Causes of Creative Behaviour, Creative Environment)\n**Why not A:** Teams were less creative when leaders behaved in punitive, unsupportive ways.\n**Why not C:** The review linked creative outcomes to intrinsic, not extrinsic, motivation.\n**Why not D:** Freedom from excessive rules encourages creativity."
+    },
+    {
+      "topic": "Creativity",
+      "question": "A manager assumes that forming diverse teams will automatically boost creativity. What does recent research suggest?",
+      "options": {
+        "A": "Only diversity of age, not of function, raises a team's creativity",
+        "B": "Diverse teams are always more creative than uniform teams",
+        "C": "Diverse teams are more creative only under certain conditions",
+        "D": "Diverse teams are never more creative than uniform teams"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Earlier research found diverse teams weren't more creative, but recent studies show they can be when members practise perspective-taking, when leaders are inspirational, or when members share knowledge of one another's expertise. (Ch 12: Causes of Creative Behaviour, Creative Environment)\n**Why not A:** Functional diversity helped when members shared knowledge of each other's expertise.\n**Why not B:** Diversity raised creativity only under specific conditions.\n**Why not D:** Under the right conditions, diverse teams were more creative."
+    },
+    {
+      "topic": "Creativity",
+      "question": "An employee shares a genuinely creative idea, but her managers reject it. According to a 2012 study, why might this happen?",
+      "options": {
+        "A": "Managers accept creative ideas only when they come from experts",
+        "B": "Creative ideas are usually judged too familiar to be worth trying",
+        "C": "Rejection shows the idea wasn't actually novel or creative",
+        "D": "People resist creative ideas because they create uncertainty"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Most people have a bias against accepting creative ideas because ideas create uncertainty, and feeling uncertain blocks the ability to see an idea as creative; creative behaviour doesn't always produce a creative outcome. (Ch 12: Creative Outcomes, Innovation)\n**Why not A:** The study points to a general bias rooted in uncertainty.\n**Why not B:** The bias stems from the uncertainty novel ideas create, not familiarity.\n**Why not C:** Creative ideas are often rejected because of bias, not because they lack creativity."
+    },
+    {
+      "topic": "Creativity",
+      "question": "In a study of a large agribusiness company, which employees were most likely to have their creative ideas implemented?",
+      "options": {
+        "A": "Those who generated the largest number of new ideas",
+        "B": "Those who held the most senior job titles in the firm",
+        "C": "Those who kept their ideas private until they were fully developed",
+        "D": "Those motivated to implement them and skilled at networking"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Creative ideas were most likely to be implemented when the individual was motivated to translate the idea into practice and had strong networking ability; ideas don't implement themselves. (Ch 12: Creative Outcomes, Innovation)\n**Why not A:** The quantity of ideas wasn't the key; motivation and networking were.\n**Why not B:** The study identified motivation and networking ability, not seniority.\n**Why not C:** Implementation depended on networking, which requires sharing ideas."
+    },
+    {
+      "topic": "Ethics in decision making",
+      "question": "An executive justifies laying off 15% of staff by arguing it secures the greatest good for the greatest number. Which ethical criterion is he using, and what's its weakness?",
+      "options": {
+        "A": "Utilitarianism; it can sideline the rights of some individuals",
+        "B": "Rights; it can create a legalistic, unproductive environment",
+        "C": "Care; it can make impartial decisions very difficult",
+        "D": "Justice; it can create entitlement and reduce innovation"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Utilitarianism judges decisions solely by outcomes, ideally the greatest good for the greatest number; it promotes efficiency and productivity but can sideline the rights of some individuals, particularly minorities. (Ch 12: Four Ethical Decision Criteria)\n**Why not B:** That's the weakness of the rights criterion, but his argument is about outcomes.\n**Why not C:** Care concerns protecting special relationships, not the greatest good.\n**Why not D:** That's the weakness of the justice criterion; his argument is utilitarian."
+    },
+    {
+      "topic": "Ethics in decision making",
+      "question": "A union argues that everyone in the same job should earn the same wage regardless of performance, with seniority deciding layoffs. Which ethical criterion is this, and what's its downside?",
+      "options": {
+        "A": "Rights; it can override due process and free speech",
+        "B": "Care; it can lead to favouring strangers over colleagues",
+        "C": "Justice; it can foster entitlement and reduce risk-taking",
+        "D": "Utilitarianism; it can ignore the needs of the majority"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The justice criterion imposes and enforces rules fairly and impartially; union members typically favour it, and it protects the less powerful but can encourage an entitlement that reduces risk-taking, innovation and productivity. (Ch 12: Four Ethical Decision Criteria)\n**Why not A:** The rights criterion protects due process and free speech rather than overriding them.\n**Why not B:** Care concerns protecting close relationships, not equal treatment by rule.\n**Why not D:** Equal pay and seniority rules reflect the justice criterion, not utilitarianism."
+    },
+    {
+      "topic": "Ethics in decision making",
+      "question": "An employee reports her company's illegal dumping to a government agency, exercising her right to free speech. Which ethical criterion protects her?",
+      "options": {
+        "A": "The care criterion",
+        "B": "The rights criterion",
+        "C": "The utilitarian criterion",
+        "D": "The justice criterion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** An emphasis on rights respects and protects basic individual rights such as privacy, free speech and due process, and it protects whistle-blowers who report unethical or illegal practices. (Ch 12: Four Ethical Decision Criteria)\n**Why not A:** Care concerns protecting special relationships among people.\n**Why not C:** Utilitarianism focuses on outcomes, which could even favour silence.\n**Why not D:** Justice concerns fair, impartial rules and distribution of benefits and costs."
+    },
+    {
+      "topic": "Ethics in decision making",
+      "question": "A manager makes a decision mainly to protect the close relationship she has with a long-time colleague. Which ethical criterion does this reflect?",
+      "options": {
+        "A": "Rights",
+        "B": "Care",
+        "C": "Utilitarianism",
+        "D": "Justice"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The ethics of care holds that the morally correct action expresses care in protecting the special relationships individuals have with one another; it also reminds us how hard it is to be impartial. (Ch 12: Four Ethical Decision Criteria)\n**Why not A:** Rights concern basic liberties such as privacy and free speech.\n**Why not C:** Utilitarianism weighs the greatest good for the greatest number.\n**Why not D:** Justice calls for impartial rules, not protecting particular relationships."
+    },
+    {
+      "topic": "Ethics in decision making",
+      "question": "A sales office is filled with displays of wealth and status, and ethical lapses there are common. Which idea from behavioural ethics might help explain this?",
+      "options": {
+        "A": "Displays of wealth make people more careful about ethics",
+        "B": "Ethics improves when talk of moral issues is discouraged",
+        "C": "Ethical behaviour depends only on each person's fixed character",
+        "D": "Signals in the environment, as broken windows theory suggests"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Broken windows theory suggests disorderly environments signal antisocial norms; behavioural ethics research shows superficial features such as lighting, displays of wealth and status, and cleanliness can affect ethical behaviour. (Ch 12: Making Ethical Decisions)\n**Why not A:** Signs of status and money can make them seem more important than ethical standards.\n**Why not B:** Encouraging conversations about moral issues increases ethical decision making.\n**Why not C:** Behavioural ethics shows that ethical behaviour varies widely across situations."
+    },
+    {
+      "topic": "Ethics in decision making",
+      "question": "A volunteer-run gift shop is losing money, but not from the cash drawer: volunteers are helping themselves to merchandise. What insight about cheating does this illustrate?",
+      "options": {
+        "A": "Cheating is rare unless the stakes are extremely high",
+        "B": "Cheating is driven mainly by careful cost–benefit calculations",
+        "C": "Cheating happens mostly when cash is directly accessible",
+        "D": "Cheating happens more when people are a step removed from cash"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People steal more when they're a couple of steps removed from cash, as in the gallery gift shop and the dorm fridges where Cokes vanished within 72 hours but the $1 bills didn't. (Ch 12: Focus on Research, Why People Cheat)\n**Why not A:** High stakes encourage cheating, but here everyday cheating happened at low stakes.\n**Why not B:** Research shows cheating is less rational than a simple cost–benefit calculation.\n**Why not C:** The research found people take goods more readily than cash."
+    },
+    {
+      "topic": "Ethics in decision making",
+      "question": "Using the chapter's decision tree, a manager asks whether a decision is self-serving, whether it respects the rights of those affected and whether it's fair and equitable. Which three ethical criteria is the tree built on?",
+      "options": {
+        "A": "Utilitarianism, rights and justice",
+        "B": "Rights, care and strict legal compliance",
+        "C": "Justice, care and self-interest",
+        "D": "Care, rights and utilitarianism"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The decision tree is built on three ethical criteria: utilitarianism (self-interest versus organizational goals), rights (respecting the rights of others) and justice (fairness and equity). (Ch 12: Making Ethical Decisions, Exhibit 12-6)\n**Why not B:** The tree's questions reflect utilitarianism, rights and justice.\n**Why not C:** The tree draws on utilitarianism, rights and justice, not care.\n**Why not D:** The care criterion isn't one of the tree's three questions."
+    },
+    {
+      "topic": "Social responsibility and culture",
+      "question": "An economist argues a company's only social responsibility is to make as much money as possible for its shareholders. Whose view is this, and how does Joel Bakan's critique differ?",
+      "options": {
+        "A": "Bakan's; Friedman sees firms as having psychopathic traits",
+        "B": "Friedman's; Bakan agrees that profits are firms' only duty",
+        "C": "Bakan's; Friedman wants laws changed to make firms act responsibly",
+        "D": "Friedman's; Bakan wants laws changed to make firms act responsibly"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Milton Friedman argued accepting any social responsibility beyond making money for shareholders would undermine a free society; Bakan says corporations act psychopathically because their only legal duty is maximizing profit, and proposes legal changes. (Ch 12: Corporate Social Responsibility)\n**Why not A:** It's Bakan who compares corporations to psychopathic personalities.\n**Why not B:** Bakan is more critical of corporations and proposes changing the laws.\n**Why not C:** This reverses the two thinkers' positions."
+    },
+    {
+      "topic": "Social responsibility and culture",
+      "question": "A Canadian manager in Thailand is frustrated that local colleagues are slow to treat a situation as a 'problem' to be fixed. What cultural difference might explain this?",
+      "options": {
+        "A": "Some cultures accept situations rather than solving them",
+        "B": "Thai managers avoid all group input on decisions",
+        "C": "Thai managers decide faster and with less information",
+        "D": "Thai managers value rationality far more than Canadians do"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Some cultures emphasize solving problems (such as Canada), while others focus on accepting situations as they are (such as Thailand and Indonesia), so Canadian managers may identify a problem long before Thai counterparts would. (Ch 12: Global Implications, Decision Making)\n**Why not B:** The chapter contrasts problem-solving and situation-accepting cultures.\n**Why not C:** The issue is whether a situation is seen as a problem to fix at all.\n**Why not D:** The difference concerns accepting versus changing situations, not rationality."
+    },
+    {
+      "topic": "Social responsibility and culture",
+      "question": "Before a major decision, a Japanese CEO gathers a great deal of information and builds consensus among colleagues. What does this reflect?",
+      "options": {
+        "A": "Autocratic decision making by a single top manager",
+        "B": "Satisficing on the first acceptable option to save time",
+        "C": "Intuitive decision making with very little information",
+        "D": "Group-oriented decision making that values conformity"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Japanese decision making is much more group-oriented than Canada's; valuing conformity and cooperation, Japanese CEOs collect large amounts of information and use it in consensus-forming group decisions. (Ch 12: Global Implications, Decision Making)\n**Why not A:** The CEO builds consensus rather than deciding alone.\n**Why not B:** Extensive information gathering and consensus building aren't satisficing.\n**Why not C:** The CEO collects a large amount of information first."
+    },
+    {
+      "topic": "Social responsibility and culture",
+      "question": "When doing business in Japan, North American executives wondered whether customary exchanges of expensive gifts amounted to bribery. How have most responded?",
+      "options": {
+        "A": "They've banned all gift giving in Japan as bribery",
+        "B": "They've adopted unlimited gift giving in every country",
+        "C": "They've left Japan rather than accept the tradition",
+        "D": "They've accepted it and set country-specific gift limits"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Gift exchange is part of Japanese tradition; most North American executives have come to accept it and set different limits on gift giving in Japan than elsewhere, as global firms adapt ethical principles to cultural norms. (Ch 12: Global Implications, Ethics)\n**Why not A:** Most have accepted the tradition rather than banning it.\n**Why not B:** They set limits specific to Japan rather than abandoning limits everywhere.\n**Why not C:** Most stayed and adapted their gift-giving rules."
+    },
+    {
+      "topic": "Social responsibility and culture",
+      "question": "A 2011 Transparency International study looked at how OECD countries enforce their 1997 agreement to tackle corporate bribery. How was Canada rated?",
+      "options": {
+        "A": "Highest in the number of bribery cases filed",
+        "B": "Little or no enforcement, the only G7 country rated so",
+        "C": "Moderate enforcement, in line with other G7 countries",
+        "D": "Fully compliant, with strong active enforcement"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The study found 21 OECD countries doing little or nothing to enforce the agreement, and Canada was criticized as the only G7 country in the 'little or no enforcement' category. (Ch 12: Global Implications, Ethics)\n**Why not A:** The U.S. and Germany rated highest on cases filed.\n**Why not C:** Canada was the only G7 country rated as having little or no enforcement.\n**Why not D:** Canada was criticized for little or no enforcement."
+    }
+  ]
+}

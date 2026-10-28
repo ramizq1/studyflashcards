@@ -1,0 +1,218 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "OB on the Edge",
+    "short": "EDGE",
+    "number": "01",
+    "title": "Stress at Work"
+  },
+  "collection": "Textbook: OB on the Edge",
+  "collectionOrder": 3,
+  "source": "OB textbook (7th Cdn ed.), OB on the Edge: Stress at Work",
+  "questions": [
+    {
+      "topic": "What stress is",
+      "question": "A concert pianist feels her heart race and her muscles tense before a major performance, then plays the best show of her career. How does the section view this kind of stress?",
+      "options": {
+        "A": "All stress is harmful and should be eliminated",
+        "B": "Stress helps only when the outcome is unimportant",
+        "C": "It wasn't stress, since stress only involves threats",
+        "D": "Stress can be positive when it offers a chance for gain"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Stress isn't necessarily bad: the body's stress response is an opportunity when it offers potential gain, which is why performers and athletes often rise to the occasion in 'clutch' situations. (OB on the Edge: What Is Stress?)\n**Why not A:** The section stresses that stress also has positive value when it offers potential gain.\n**Why not B:** By definition, stress arises when the outcome is perceived as both uncertain and important.\n**Why not C:** Stress involves an opportunity, demand or resource whose outcome is uncertain and important, so opportunities count."
+    },
+    {
+      "topic": "What stress is",
+      "question": "Two employees feel stretched. Ana faces a heavy workload and tight deadlines; Ben faces red tape, office politics and confusion over who is responsible for what. What does early evidence suggest?",
+      "options": {
+        "A": "Both face challenge stressors, since every stressor is a challenge",
+        "B": "Both face hindrance stressors, which produce the same level of strain",
+        "C": "Ben's challenge stressors cause less strain than Ana's hindrance stressors",
+        "D": "Ana's challenge stressors cause less strain than Ben's hindrance stressors"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Challenge stressors (workload, time pressure) operate differently from hindrance stressors (red tape, politics, unclear responsibilities), and early evidence suggests challenge stressors produce less strain. (OB on the Edge: What Is Stress?)\n**Why not A:** Red tape, politics and role confusion are hindrance stressors that keep people from reaching their goals.\n**Why not B:** Workload and time urgency are challenge stressors, not hindrances, and the two types differ in their effects.\n**Why not C:** This reverses the categories: workload and deadlines are challenge stressors; red tape and politics are hindrances."
+    },
+    {
+      "topic": "What stress is",
+      "question": "A student feels much less stressed about an exam after preparing thoroughly for it. Which perspective from the section best explains this?",
+      "options": {
+        "A": "Hindrance stressors fade once a goal comes into view",
+        "B": "The demands–resources view: resources offset demands",
+        "C": "The additive view: stress builds up from many sources",
+        "D": "Selective withdrawal: stressed people leave the situation"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Demands are responsibilities, pressures and uncertainties; resources are things within your control that resolve them. Having resources (like preparation) is as important in offsetting stress as demands are in increasing it. (OB on the Edge: What Is Stress?)\n**Why not A:** An exam is a performance pressure, and the stress fell because of resources, not because a hindrance faded.\n**Why not C:** Additivity explains how stressors accumulate, not how preparation reduces stress.\n**Why not D:** Selective withdrawal explains why experienced employees report less stress; the student didn't withdraw."
+    },
+    {
+      "topic": "What stress is",
+      "question": "Sales pressure rises sharply across a company. According to the section, which employees are most likely to turn that stress into greater focus and higher sales?",
+      "options": {
+        "A": "Those with low commitment, since they have less to lose",
+        "B": "Those who are workaholics and put in the most hours",
+        "C": "Those with strong affective commitment to the organization",
+        "D": "Those with an external locus of control over their work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Employees with stronger affective commitment can transfer psychological stress into greater focus and higher sales performance, while those with low commitment perform worse under stress; high organizational support also helps under challenge stress. (OB on the Edge: What Is Stress?)\n**Why not A:** Employees with low commitment perform worse under stress, not better.\n**Why not B:** Workaholics aren't necessarily more productive, and their strain leads to work–life conflict and burnout.\n**Why not D:** People with an external locus of control tend to be more prone to stress, and more control can increase their exhaustion."
+    },
+    {
+      "topic": "Causes of stress",
+      "question": "A wave of automation threatens to make a machinist's skills obsolete within a year, and he becomes increasingly anxious. Which source of stress is this?",
+      "options": {
+        "A": "Personal: household economic problems",
+        "B": "Environmental: technological uncertainty",
+        "C": "Organizational: conflicting role demands",
+        "D": "Organizational: interpersonal demands"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Environmental uncertainty (economic, political, technological) is a major cause of stress; innovations like computers, robotics and automation can quickly make skills obsolete. (OB on the Edge: Causes of Stress)\n**Why not A:** Personal economic problems are about managing one's own finances, not technological change.\n**Why not C:** Role demands are pressures tied to the particular role a person plays in the organization.\n**Why not D:** Interpersonal demands are pressures created by other employees."
+    },
+    {
+      "topic": "Causes of stress",
+      "question": "An assembly-line worker feels pressure because the line runs faster than she can comfortably manage, in a noisy, crowded space with constant interruptions. Which category of organizational stressor is this?",
+      "options": {
+        "A": "Task demands",
+        "B": "Interpersonal demands",
+        "C": "Role demands",
+        "D": "Environmental uncertainty"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Task demands relate to the job itself: its design, working conditions and physical layout, including a line speed perceived as excessive and noisy, crowded settings. (OB on the Edge: Causes of Stress, organizational factors)\n**Why not B:** Interpersonal demands come from other people, such as poor relationships or harassment.\n**Why not C:** Role demands come from the particular role a person plays, such as conflicting or unclear expectations.\n**Why not D:** Environmental uncertainty comes from economic, political or technological change outside the organization."
+    },
+    {
+      "topic": "Causes of stress",
+      "question": "An employee is repeatedly belittled by a co-worker and treated with incivility by her supervisor. What does research summarized in the section say about this type of stressor?",
+      "options": {
+        "A": "They cause stress only for people with a low need for social contact",
+        "B": "They're personal factors that employees bring from home",
+        "C": "They matter less than task demands such as workload",
+        "D": "Such interpersonal stressors are especially strongly tied to stress"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A growing body of research shows negative co-worker and supervisor behaviours (fights, bullying, incivility, harassment) are especially strongly related to stress at work. (OB on the Edge: Causes of Stress, interpersonal demands)\n**Why not A:** Lack of social support hits people with a high social need hardest, not a low one.\n**Why not B:** These pressures come from other employees at work, which makes them interpersonal (organizational) demands.\n**Why not C:** The research singles out these interpersonal behaviours as especially strongly related to stress."
+    },
+    {
+      "topic": "Causes of stress",
+      "question": "Studies in three organizations found that people who reported stress symptoms before starting a job accounted for most of the stress symptoms reported nine months later. What did the researchers conclude?",
+      "options": {
+        "A": "New jobs themselves are the main source of employee stress",
+        "B": "Personal finances explain most stress reported on the job",
+        "C": "Some stress may originate in a person's tendency to see the negative",
+        "D": "Stress symptoms usually fade within nine months of starting a new job"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The researchers concluded some people may have an inherent tendency to accentuate negative aspects of the world, so stress symptoms on the job may originate in personality. (OB on the Edge: Causes of Stress, personal factors)\n**Why not A:** The point is that symptoms existed before the job started and carried over.\n**Why not B:** The study pointed to personality, not finances, as the likely source.\n**Why not D:** The symptoms persisted; earlier symptoms predicted later ones."
+    },
+    {
+      "topic": "Causes of stress",
+      "question": "An employee copes fine with a tight deadline, then a sick parent, then a big car-repair bill. But when the printer jams one afternoon, she breaks down. Which property of stress does this illustrate?",
+      "options": {
+        "A": "Selective withdrawal removes stress-prone employees",
+        "B": "Stress is additive and builds up over time",
+        "C": "Perception turns minor events into major threats",
+        "D": "Hindrance stressors are always worse than challenges"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Each new, persistent stressor adds to a person's stress level, so a minor stressor added to an already high level can be the 'straw that breaks the camel's back'. (OB on the Edge: Causes of Stress)\n**Why not A:** Selective withdrawal explains lower stress among long-tenured staff, not a sudden breakdown.\n**Why not C:** Perception moderates stress, but the key here is that many stressors piled up.\n**Why not D:** Hindrance stressors do produce more strain, but the scenario is about stressors accumulating."
+    },
+    {
+      "topic": "Consequences and individual differences",
+      "question": "A manager notices three stressed employees: Raj is irritable, bored and procrastinating; Lea has rising blood pressure and frequent headaches; Tom is smoking more and missing work. Which symptom categories do these represent, in order?",
+      "options": {
+        "A": "Psychological, physiological, behavioural",
+        "B": "Psychological, behavioural, physiological",
+        "C": "Behavioural, psychological, physiological",
+        "D": "Physiological, behavioural, psychological"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Psychological symptoms include tension, anxiety, irritability, boredom and procrastination; physiological ones include blood pressure and headaches; behavioural ones include smoking, absence and turnover. (OB on the Edge: Consequences of Stress)\n**Why not B:** Lea's blood pressure and headaches are physiological, and Tom's smoking and absence are behavioural.\n**Why not C:** Irritability and procrastination are psychological, and blood pressure is physiological.\n**Why not D:** Rising blood pressure is physiological (Lea), and smoking and absence are behavioural (Tom)."
+    },
+    {
+      "topic": "Consequences and individual differences",
+      "question": "Why do long-serving employees tend to report less work stress than newcomers, according to the section?",
+      "options": {
+        "A": "Long experience stops people from perceiving any workplace stressors at all",
+        "B": "Senior employees are given far fewer demands than newcomers",
+        "C": "Stress-prone people tend to leave, and stayers develop coping skills",
+        "D": "Senior employees always have full control over their work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Two explanations: selective withdrawal (people who feel more stress are more likely to quit, so stayers are more stress-resistant) and the gradual development of coping mechanisms. (OB on the Edge: Why Do Individuals Differ in Their Experience of Stress?)\n**Why not A:** Experienced employees still face stressors; they're more resistant and better at coping.\n**Why not B:** The explanations offered are selective withdrawal and coping, not lighter demands.\n**Why not D:** Control matters, but the section's explanations for the experience effect are withdrawal and coping."
+    },
+    {
+      "topic": "Consequences and individual differences",
+      "question": "Two nurses work equally high-strain jobs. One has close, supportive relationships with colleagues and her supervisor; the other works largely in isolation. What best explains why the first nurse copes better?",
+      "options": {
+        "A": "Social support buffers the impact of stress",
+        "B": "High-strain jobs affect every nurse equally",
+        "C": "An external locus of control lowers her strain",
+        "D": "Workaholism helps her push through the strain"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Collegial relationships with co-workers or supervisors buffer the impact of stress, one of the best-documented relationships in the stress literature, even in high-strain jobs. (OB on the Edge: Why Do Individuals Differ in Their Experience of Stress?)\n**Why not B:** Individual differences, especially social support, moderate how much stress people experience.\n**Why not C:** People with an external locus of control tend to be more prone to stress.\n**Why not D:** Workaholism is linked to more work–life conflict and burnout, not better coping."
+    },
+    {
+      "topic": "Consequences and individual differences",
+      "question": "An employee works 70-hour weeks, thinks about work constantly when off the job, and creates extra tasks for himself to satisfy an inner compulsion. What does the section say about such workaholics?",
+      "options": {
+        "A": "They are the ideal employees that interviewers look for",
+        "B": "They experience less stress overall because they truly love their work",
+        "C": "They aren't necessarily more productive, and they risk burnout",
+        "D": "They are reliably the most productive people on any team"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Working compulsively differs from working hard: workaholics aren't necessarily more productive despite their effort, and the strain leads to more work–life conflict and psychological burnout. (OB on the Edge: Why Do Individuals Differ in Their Experience of Stress?)\n**Why not A:** They may seem ideal, but compulsive work brings strain rather than higher productivity.\n**Why not B:** The strain of compulsive work wears on them, raising work–life conflict and burnout.\n**Why not D:** Despite their extreme effort, workaholics are not necessarily more productive."
+    },
+    {
+      "topic": "Managing stress",
+      "question": "An overwhelmed analyst wants to use the section's time-management principles. Which practice fits them?",
+      "options": {
+        "A": "Check email frequently so that nothing piles up during the day",
+        "B": "Do the most demanding work during your most alert time of day",
+        "C": "Tackle tasks strictly in the order in which they happen to arrive",
+        "D": "Save the hardest work for the end of the day once things are quiet"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Recommended principles include daily to-do lists, prioritizing by importance and urgency, scheduling by those priorities, doing demanding work during your productivity peak, and avoiding constant email checking. (OB on the Edge: Individual Approaches)\n**Why not A:** Frequently checking email limits attention and reduces efficiency.\n**Why not C:** Activities should be prioritized by importance and urgency, not order of arrival.\n**Why not D:** Demanding work belongs in the high part of your daily productivity cycle."
+    },
+    {
+      "topic": "Managing stress",
+      "question": "Role stress at a firm is high because employees are unsure of their goals, what's expected of them, and how they'll be evaluated. Which set of organizational actions would most directly help?",
+      "options": {
+        "A": "Giving every employee more responsibility whether or not they want it",
+        "B": "Sabbaticals for everyone so they can recover away from work",
+        "C": "Hiring only experienced people with an internal locus of control",
+        "D": "Clear goals with feedback, more involvement and better communication"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Specific, attainable goals with feedback clarify expectations; involvement in decisions increases control; and more formal communication reduces role ambiguity and conflict. (OB on the Edge: Organizational Approaches)\n**Why not A:** Not everyone wants more responsibility, and adding it doesn't by itself clarify expectations.\n**Why not B:** Sabbaticals can rejuvenate people headed for burnout, but they don't clarify goals or expectations.\n**Why not C:** Selection can help in high-stress jobs, but the section says management shouldn't restrict hiring to such people, and it doesn't fix role ambiguity."
+    },
+    {
+      "topic": "Managing stress",
+      "question": "A manager plans to cut stress by giving every employee more responsibility and autonomy. What caution does the section raise?",
+      "options": {
+        "A": "Some prefer structure, and more control can raise some people's stress",
+        "B": "Responsibility reduces stress only when pay rises at the same time",
+        "C": "None, since more autonomy always reduces stress for every employee",
+        "D": "Autonomy matters only for senior managers, not frontline staff"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Not all employees want more responsibility: those with a low need for growth may do better with less responsibility and more specialization, structured jobs suit people who prefer routine, and for people with an external locus of control, more job control increases stress and exhaustion. (OB on the Edge: Organizational Approaches; Psychological symptoms)\n**Why not B:** The section doesn't tie the effect to pay; it ties it to individual needs and preferences.\n**Why not C:** The section notes that people react to autonomy differently.\n**Why not D:** The section's caution is about individual preferences, not job level."
+    },
+    {
+      "topic": "Managing stress",
+      "question": "A CFO asks whether a corporate wellness program is worth funding. Which evidence does the section cite?",
+      "options": {
+        "A": "Employees missed about 1.5–1.7 fewer days, saving roughly $251 each",
+        "B": "Wellness programs had no measurable effect on absenteeism",
+        "C": "Benefits appeared only after programs had run for a decade",
+        "D": "Savings appeared only when employee participation was made fully mandatory"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A Sun Life–Ivey study found employees in companies with wellness programs missed 1.5 to 1.7 fewer days due to absenteeism, an estimated saving of $251 per employee per year. (OB on the Edge: Organizational Approaches)\n**Why not B:** The study found a measurable drop in days missed.\n**Why not C:** The study reports annual savings; it doesn't say a decade is needed.\n**Why not D:** The section doesn't tie the benefits to mandatory participation."
+    }
+  ]
+}

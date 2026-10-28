@@ -1,0 +1,4 @@
+# Static site. data.js (project root) is built locally (double-click update-decks.bat) and committed,
+# so Netlify only needs to publish the files as they are: no build command.
+[build]
+  publish = "."

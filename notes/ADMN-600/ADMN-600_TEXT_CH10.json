@@ -1,0 +1,578 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "10",
+    "title": "Organizational Culture"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 10",
+  "questions": [
+    {
+      "topic": "What culture is",
+      "question": "A consultant tells a CEO that his restructuring plan won't fix the company on its own. Drawing on Henry Mintzberg's metaphor, what is she suggesting the restructuring misses?",
+      "options": {
+        "A": "The brain, since culture is where all formal decisions get made",
+        "B": "The muscles, since culture is what supplies the daily work effort",
+        "C": "The soul: shared beliefs and values that give it life",
+        "D": "The skin, since culture is only the visible surface people see"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Mintzberg described structure as the skeleton and the flesh and blood, and culture as the soul of the organization (its beliefs and values and how they're manifested), which holds it together and gives it life force. (Ch 10: What Is Organizational Culture?)\n**Why not A:** Mintzberg's metaphor casts culture as the soul, not as a decision-making centre.\n**Why not B:** Mintzberg compared culture to the soul that holds the organization together.\n**Why not D:** Culture includes deeper beliefs, values and assumptions, not just a visible surface."
+    },
+    {
+      "topic": "What culture is",
+      "question": "At one firm, managers must document every decision and creative risks are discouraged; at another, staff are told to 'run with' ideas and failures are treated as learning experiences. Which cultural characteristic most clearly differs?",
+      "options": {
+        "A": "Innovation and risk-taking",
+        "B": "Attention to detail",
+        "C": "People orientation",
+        "D": "Stability and the status quo"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Innovation and risk-taking (the degree to which employees are encouraged to be innovative and take risks) is one of the seven primary characteristics of culture, and it most clearly separates these two firms. (Ch 10: Definition of Organizational Culture, Exhibit 10-1)\n**Why not B:** Attention to detail concerns precision and analysis, not encouragement of risk.\n**Why not C:** People orientation concerns how decisions consider their effects on people.\n**Why not D:** Stability concerns maintaining the status quo versus growth; the sharpest contrast here is risk-taking."
+    },
+    {
+      "topic": "What culture is",
+      "question": "A manager says her firm cares only about whether targets are hit, not about the methods employees use to hit them. Which of the seven culture characteristics is she describing as high?",
+      "options": {
+        "A": "Attention to detail",
+        "B": "Aggressiveness",
+        "C": "Outcome orientation",
+        "D": "Team orientation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Outcome orientation is the degree to which management focuses on results, or outcomes, rather than on the techniques and processes used to achieve them. (Ch 10: Definition of Organizational Culture)\n**Why not A:** Attention to detail concerns working with precision and analysis.\n**Why not B:** Aggressiveness concerns how competitive people are, not results versus methods.\n**Why not D:** Team orientation concerns organizing work around teams rather than individuals."
+    },
+    {
+      "topic": "What culture is",
+      "question": "A CEO wants both very positive employee attitudes and strong financial performance, and wonders which culture types deliver them. What did a review of 94 studies using the Competing Values Framework find?",
+      "options": {
+        "A": "Adhocracy cultures had the best attitudes; hierarchy the best finances",
+        "B": "Market cultures had the best attitudes; clan cultures the best finances",
+        "C": "Hierarchy cultures had the best attitudes and the best finances",
+        "D": "Clan cultures had the best attitudes; market cultures the best finances"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Job attitudes were especially positive in clan (collaborative, cohesive) cultures, while innovation and financial performance were especially strong in market (competitive, customer-focused) cultures. (Ch 10: Definition of Organizational Culture)\n**Why not A:** Attitudes were best in clan cultures, and finances in market cultures.\n**Why not B:** This reverses the findings.\n**Why not C:** Neither outcome peaked in controlled, consistent hierarchy cultures."
+    },
+    {
+      "topic": "What culture is",
+      "question": "Touring a firm, a job candidate notices modern art in the lobby, casual dress and open offices, but can't directly see what the company truly values. What does the chapter's layered model of culture suggest?",
+      "options": {
+        "A": "Assumptions are what you see first, before any artifacts appear",
+        "B": "Artifacts are visible clues to deeper beliefs, values and assumptions",
+        "C": "Values are visible, while artifacts are hidden below the surface",
+        "D": "Artifacts are the deepest layer, so they reveal everything directly"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Culture is very visible at the level of artifacts (what you see, hear and feel), while beliefs, values and assumptions aren't readily observable; we rely on artifacts like symbols, language, rituals and stories to uncover them. (Ch 10: Levels of Culture, Exhibit 10-2)\n**Why not A:** Assumptions are the deepest, taken-for-granted layer, not the first thing you see.\n**Why not C:** This reverses the layers: artifacts are visible and values lie below.\n**Why not D:** Artifacts are the visible surface; beliefs, values and assumptions lie beneath."
+    },
+    {
+      "topic": "What culture is",
+      "question": "Some students take it for granted that universities shouldn't consider costs when setting tuition, and they can hardly imagine any other approach. Which level of culture does this represent?",
+      "options": {
+        "A": "Assumptions",
+        "B": "Artifacts",
+        "C": "Values",
+        "D": "Beliefs"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Assumptions are the taken-for-granted notions of how something should be; when held by the whole group, members have difficulty conceiving of another way of doing things. (Ch 10: Levels of Culture)\n**Why not B:** Artifacts are what you see, hear and feel, such as symbols and rituals.\n**Why not C:** Values are stable, long-lasting beliefs about what's important, not taken-for-granted notions.\n**Why not D:** Beliefs are understandings of how objects and ideas relate to each other."
+    },
+    {
+      "topic": "Culture's functions and climate",
+      "question": "A company is decentralizing, cutting formal rules and supervisory controls. What does the chapter say about culture's role in this situation?",
+      "options": {
+        "A": "Culture matters less, since teams now set all their own rules",
+        "B": "Culture matters more, yet a strong one becomes harder to build",
+        "C": "Culture matters less, since formal controls now guide behaviour",
+        "D": "Culture matters more, and decentralizing makes it easier to build"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Decentralization makes culture more important, since shared meaning can point everyone in the same direction when formal controls shrink, but it also makes a strong culture harder to establish, as teams favour their own values and virtual work limits shared norms. (Ch 10: Culture's Functions)\n**Why not A:** With fewer formal controls, culture becomes more important, not less.\n**Why not C:** Formal controls are being reduced, which raises culture's importance.\n**Why not D:** Decentralization makes a strong culture more difficult to establish."
+    },
+    {
+      "topic": "Culture's functions and climate",
+      "question": "New hires at a firm quickly learn 'how things are done around here,' and the culture shapes their behaviour without any written rules. Which function of culture is this?",
+      "options": {
+        "A": "A boundary-defining role that sets the firm apart from rivals",
+        "B": "A source of identity that tells members who they are",
+        "C": "A control mechanism that guides attitudes and behaviour",
+        "D": "A commitment to something larger than self-interest"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Culture serves as a control mechanism that guides and shapes employees' attitudes and behaviour and helps them make sense of the organization; it defines the rules of the game. (Ch 10: Culture's Functions)\n**Why not A:** Boundary definition distinguishes the organization from others; here culture is guiding behaviour.\n**Why not B:** Identity is a separate function; the scenario is about shaping behaviour.\n**Why not D:** Commitment is another function; the focus here is guiding how people act."
+    },
+    {
+      "topic": "Culture's functions and climate",
+      "question": "In one department, staff share a strong sense that safety comes first; in another, safety rules are treated as optional. What concept describes these shared perceptions, and what does research link a positive version to?",
+      "options": {
+        "A": "Material symbols; fewer injuries, since posters remind staff",
+        "B": "Organizational climate; more injuries, since people get complacent",
+        "C": "Dominant culture; no effect on injuries, only on attitudes",
+        "D": "Organizational climate; fewer documented injuries on the job"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Organizational climate is members' shared perceptions of their organization and work environment; a positive safety climate leads people to wear safety gear and follow procedures, and decreases documented injuries. (Ch 10: Culture Creates Climate)\n**Why not A:** These are shared perceptions (climate), not material symbols.\n**Why not B:** Studies show a positive safety climate decreases documented injuries.\n**Why not C:** Shared perceptions of the work environment are climate, which does affect injuries."
+    },
+    {
+      "topic": "Culture's functions and climate",
+      "question": "A firm builds a strong climate of worker empowerment. According to research, under what condition does this lead to higher performance?",
+      "options": {
+        "A": "When employees have no responsibility for outcomes",
+        "B": "Only when it replaces every other climate dimension",
+        "C": "When there's also a climate of personal accountability",
+        "D": "When there's also a climate of strict hierarchical control"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Climates can interact: a positive climate for worker empowerment can lead to higher performance in organizations that also have a climate for personal accountability. (Ch 10: Culture Creates Climate)\n**Why not A:** Accountability for outcomes is what makes empowerment pay off.\n**Why not B:** Climates work together; the finding is about an interaction between them.\n**Why not D:** The research pairs empowerment with personal accountability, not tight control."
+    },
+    {
+      "topic": "Culture's functions and climate",
+      "question": "In one firm, managers assume employees and the company act mainly from self-interest. In another, managers expect their decisions to benefit as many stakeholders as possible. Which ethical climates are these?",
+      "options": {
+        "A": "Rules and law and code",
+        "B": "Independence and rules",
+        "C": "Instrumental and caring",
+        "D": "Law and code, and independence"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In an instrumental ethical climate, managers frame decisions around the assumption that people are motivated by self-interest; in a caring climate, they expect decisions to positively affect the greatest number of stakeholders. (Ch 10: The Ethical Dimension of Culture)\n**Why not A:** Rules climates follow internal standards like policy manuals; law and code climates follow external codes.\n**Why not B:** Independence climates rely on personal morals; rules climates on internal policies.\n**Why not D:** Law and code relies on external codes, and independence on each person's own morals."
+    },
+    {
+      "topic": "Culture's functions and climate",
+      "question": "A hospital expects its staff to use their professional association's code of conduct as their moral compass at work. Which ethical climate is this?",
+      "options": {
+        "A": "Independence",
+        "B": "Caring",
+        "C": "Rules",
+        "D": "Law and code"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Law and code climates require managers and employees to use an external standardized moral compass, such as a professional code of conduct; rules climates rely on internal standards like a policy manual. (Ch 10: The Ethical Dimension of Culture)\n**Why not A:** Independence climates rely on each person's own moral ideas.\n**Why not B:** Caring climates focus on decisions that benefit the most stakeholders.\n**Why not C:** Rules climates operate by internal standards, such as an organizational policy manual."
+    },
+    {
+      "topic": "Subcultures and strength",
+      "question": "At a large bank, the IT department has its own jargon and work habits that differ from the branches', yet both share the bank's core commitment to client trust. How does the chapter describe this?",
+      "options": {
+        "A": "A weak culture, since departments behave differently from each other",
+        "B": "A dominant culture with core values, plus departmental subcultures",
+        "C": "Two dominant cultures competing equally for members' loyalty",
+        "D": "No real culture, since only subcultures guide what people do"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Most large organizations have a dominant culture (core values shared by most members) along with subcultures that reflect common problems or experiences in a department or location. (Ch 10: Do Organizations Have Uniform Cultures?)\n**Why not A:** Shared core values across departments indicate a dominant culture, not a weak one.\n**Why not C:** There's one dominant culture plus subcultures.\n**Why not D:** The shared core commitment is the dominant culture."
+    },
+    {
+      "topic": "Subcultures and strength",
+      "question": "At a retailer, nearly every employee intensely shares the same commitment to customer service. What does research link this kind of culture to?",
+      "options": {
+        "A": "Lower profitability, since everyone thinks the same way",
+        "B": "Higher turnover, since strong values push misfits to leave",
+        "C": "Weak behavioural control, since values are too uniform",
+        "D": "Strong behavioural control, more loyalty and lower turnover"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In a strong culture, core values are intensely held and widely shared, creating high behavioural control; it builds cohesiveness, loyalty and commitment, which lessen turnover, and agreement on customer orientation was linked to higher profitability. (Ch 10: Strong vs. Weak Cultures)\n**Why not A:** Greater agreement on customer orientation was linked to higher profitability.\n**Why not B:** Strong cultures lessen employees' tendency to leave.\n**Why not C:** Widely shared, intensely held values create high behavioural control."
+    },
+    {
+      "topic": "Subcultures and strength",
+      "question": "A team manager believes the company strongly supports employees, but her team members think it offers little support. What does research suggest about this gap?",
+      "options": {
+        "A": "It raises performance, since managers push harder for staff",
+        "B": "It has no effect, as long as the manager feels supported",
+        "C": "It brings negative moods and lower team performance",
+        "D": "It matters only if the manager sees less support than staff"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** When team managers and members disagreed about organizational support, members experienced more negative moods and teams performed worse, especially when managers believed the organization gave more support than employees thought. (Ch 10: Strong vs. Weak Cultures)\n**Why not A:** The research found lower, not higher, team performance.\n**Why not B:** The disagreement itself harmed moods and performance.\n**Why not D:** Effects are especially strong when the manager sees more support than staff."
+    },
+    {
+      "topic": "Subcultures and strength",
+      "question": "A consultant surveys employees at two firms about their organization's mission and values. At Firm A, answers vary widely; at Firm B, nearly everyone gives the same answer. What can she conclude?",
+      "options": {
+        "A": "Firm B has the stronger culture",
+        "B": "Both have equally strong cultures",
+        "C": "Neither has a dominant culture",
+        "D": "Firm A has the stronger culture"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** If most employees hold the same opinions about the organization's mission and values, the culture is strong; if opinions vary widely, the culture is weak. (Ch 10: Strong vs. Weak Cultures)\n**Why not B:** Agreement on mission and values is what distinguishes a strong culture.\n**Why not C:** Firm B's widely shared views suggest a strong dominant culture.\n**Why not D:** Widely varying opinions indicate a weak culture."
+    },
+    {
+      "topic": "Reading culture: artifacts",
+      "question": "To build a customer-centric culture, a bank requires someone at every meeting to share a recent tale about a customer interaction, from feel-good successes to horror stories. Which artifact of culture is mainly carrying the message?",
+      "options": {
+        "A": "Rituals",
+        "B": "Stories",
+        "C": "Language",
+        "D": "Material symbols"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Stories anchor the present in the past and legitimate current practices; requiring a customer story at every meeting, as BMO did, makes employees pay attention to customer interactions. (Ch 10: Reading an Organization's Culture, Stories)\n**Why not A:** Rituals are repetitive activity sequences such as company chants; what carries the value here is the narratives themselves.\n**Why not C:** Language refers to special terms and jargon members use.\n**Why not D:** Material symbols are things like offices, perks and dress codes."
+    },
+    {
+      "topic": "Reading culture: artifacts",
+      "question": "Every morning, store employees join in a company cheer that the founder started to unite the workforce. Which artifact of culture is this, and what does it do?",
+      "options": {
+        "A": "Jargon that marks insiders from outsiders",
+        "B": "A ritual that reinforces key values and bonds employees",
+        "C": "A story that anchors the present in the company's past",
+        "D": "A material symbol that shows who is most important"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Rituals are repetitive sequences of activities that express and reinforce key values, which goals matter and which people are important; Walmart's cheer bonds employees and reinforces the founder's belief in them. (Ch 10: Reading an Organization's Culture, Rituals)\n**Why not A:** The cheer is a repeated activity rather than special vocabulary.\n**Why not C:** A daily cheer is a repeated activity (a ritual), not a narrative.\n**Why not D:** Material symbols are physical things like offices and perks."
+    },
+    {
+      "topic": "Reading culture: artifacts",
+      "question": "At one manufacturer, executives and employees share the same parking lot, dining room and washrooms. What does this material symbol convey?",
+      "options": {
+        "A": "A cost-cutting culture with no interest in employee status",
+        "B": "A weak culture, since no symbols separate the levels",
+        "C": "An egalitarian culture with little executive–staff separation",
+        "D": "A strict hierarchy in which everyone's status is clearly displayed"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Material symbols such as offices, perks, cars and dress convey who is important, how much egalitarianism top management wants and what behaviour is appropriate; shared facilities signal an egalitarian culture. (Ch 10: Reading an Organization's Culture, Material Symbols)\n**Why not A:** The symbol conveys egalitarian values, not indifference.\n**Why not B:** Shared facilities are themselves a deliberate symbol of egalitarianism.\n**Why not D:** Shared facilities signal the opposite: little separation between levels."
+    },
+    {
+      "topic": "Reading culture: artifacts",
+      "question": "New baristas at a coffee chain must learn its special names for drink sizes and elaborate orders. Which artifact of culture is this, and what's its purpose?",
+      "options": {
+        "A": "Language that helps members identify with the culture",
+        "B": "A story that explains how the company's founder began",
+        "C": "A ritual that shows which customers are most important",
+        "D": "A material symbol that displays status within the store"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Organizations and subunits use language to help members identify with the culture, show their acceptance of it and help preserve it, as with Starbucks' drink terminology. (Ch 10: Reading an Organization's Culture, Language)\n**Why not B:** The terms are vocabulary, not a narrative about the founder.\n**Why not C:** Special terms are language, not a repeated sequence of activities.\n**Why not D:** Material symbols are physical items like offices and perks."
+    },
+    {
+      "topic": "Creating and sustaining culture",
+      "question": "A start-up founder hires only people who think as she does, coaches them in her way of working and models the behaviour she expects. What process is this?",
+      "options": {
+        "A": "Culture change driven by a dramatic crisis and new leadership",
+        "B": "Culture creation through her hiring, socializing and example",
+        "C": "Socialization through formal, collective and fixed programs",
+        "D": "Assimilation of the culture of an acquired company"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Founders create culture in three ways: hiring and keeping employees who think and feel as they do, indoctrinating and socializing them, and behaving in ways that lead employees to identify with them and internalize their beliefs. (Ch 10: How a Culture Begins)\n**Why not A:** Nothing here involves a crisis or new leaders; the founder is creating the culture.\n**Why not C:** The founder's hiring, coaching and role modelling go beyond any formal programs.\n**Why not D:** Assimilation is a merger strategy, not how founders create culture."
+    },
+    {
+      "topic": "Creating and sustaining culture",
+      "question": "Decades after its founder's death, a construction firm still hires and trains staff according to his written principles, such as employing the highest-grade people available. What does this illustrate?",
+      "options": {
+        "A": "Written rules end up mattering more than culture in large firms",
+        "B": "Founders influence culture only while the company is still small",
+        "C": "Founders' philosophies can shape culture long after they're gone",
+        "D": "Cultures usually change quickly once the founder has left the firm"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The ultimate source of an organization's culture is its founders; when the organization succeeds, the founder's vision becomes embedded, as 'Poole's rules' still shape how PCL hires and trains. (Ch 10: How a Culture Begins)\n**Why not A:** The principles shape culture; the point is the founder's lasting influence.\n**Why not B:** Successful founders' visions become embedded long after the firm grows.\n**Why not D:** The example shows a founder's influence persisting for decades."
+    },
+    {
+      "topic": "Creating and sustaining culture",
+      "question": "A credit union gives job candidates its interview questions in advance and encourages two-way communication throughout hiring. How does this practice help sustain its culture?",
+      "options": {
+        "A": "It guarantees new hires will never leave the organization",
+        "B": "Selection signals its values and lets misfits opt out",
+        "C": "It lowers hiring standards so more people can join",
+        "D": "It replaces socialization, so no orientation is needed"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Selection identifies people whose values fit and gives applicants information about the organization; signalling dignity and respect lets candidates who see a values conflict remove themselves, making selection a two-way street. (Ch 10: Keeping a Culture Alive, Selection)\n**Why not A:** Selection reduces mismatches but can't guarantee retention.\n**Why not C:** The practice communicates values; it doesn't lower standards.\n**Why not D:** New hires still need socialization to adapt to the culture."
+    },
+    {
+      "topic": "Creating and sustaining culture",
+      "question": "New employees at a Japanese electronics firm spend five months eating, sleeping and even vacationing together while learning the company's way of doing everything. What is this, and what's its purpose?",
+      "options": {
+        "A": "Selection, to screen out people whose values don't fit",
+        "B": "Intensive socialization to adapt newcomers to the culture",
+        "C": "Assimilation following a merger with another company",
+        "D": "A ritual of rewarding the firm's highest performers"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Socialization is the process that adapts new employees to an organization's culture; Sanyo's long, immersive program aims to turn new graduates into dedicated 'corporate warriors.' (Ch 10: Keeping a Culture Alive, Socialization)\n**Why not A:** These people are already hired; the program adapts them to the culture.\n**Why not C:** No merger is involved; this is socialization of new hires.\n**Why not D:** The program is for all newcomers, not a reward for top performers."
+    },
+    {
+      "topic": "Creating and sustaining culture",
+      "question": "An HR director wants to justify investing in a better onboarding program. According to a 2011 study, what does socialization done well develop in new employees?",
+      "options": {
+        "A": "Stronger loyalty to their previous employers",
+        "B": "Greater independence from their work groups",
+        "C": "Self-efficacy, hope, optimism and resilience",
+        "D": "Higher pay expectations and faster promotions"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A 2011 study suggests that socialization done well develops a new employee's self-efficacy, hope, optimism and resilience. (Ch 10: Keeping a Culture Alive, Socialization)\n**Why not A:** Socialization adapts people to the new organization, not to past employers.\n**Why not B:** The study identified self-efficacy, hope, optimism and resilience.\n**Why not D:** The study linked good socialization to psychological resources, not pay or promotions."
+    },
+    {
+      "topic": "Creating and sustaining culture",
+      "question": "Through her words and behaviour, a CEO makes it clear that calculated risk-taking will be rewarded with raises and promotions. Which culture-sustaining force is at work?",
+      "options": {
+        "A": "The actions of top management",
+        "B": "The organization's selection process",
+        "C": "Divestiture socialization",
+        "D": "The prearrival stage"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Through words and behaviour, senior executives establish norms that filter through the organization about whether risk-taking is desirable, how much freedom to give employees, appropriate dress and what actions pay off. (Ch 10: Keeping a Culture Alive, Top Management)\n**Why not B:** Selection sustains culture by hiring people who fit; here the CEO's behaviour sets norms.\n**Why not C:** Divestiture strips away newcomers' characteristics; this is top management setting norms.\n**Why not D:** Prearrival is a socialization stage before joining, not leaders' signals."
+    },
+    {
+      "topic": "Socialization stages and options",
+      "question": "Before her first day, a graduate has formed strong assumptions about what working at a famous tech company will be like. Which socialization stage is this, and what predicts how well she'll adjust?",
+      "options": {
+        "A": "Prearrival; how much she's paid compared with her peers",
+        "B": "Prearrival; what she knows beforehand and how proactive she is",
+        "C": "Metamorphosis; how many rules she memorizes in training",
+        "D": "Encounter; how quickly she earns her first promotion at the firm"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The prearrival stage recognizes that people arrive with values, attitudes and expectations; what they know before joining and how proactive their personality is are critical predictors of how well they adjust. (Ch 10: The Prearrival Stage, Exhibit 10-4)\n**Why not A:** Prior knowledge and a proactive personality, not pay, predict adjustment.\n**Why not C:** Metamorphosis comes later, as newcomers adjust to norms and values.\n**Why not D:** She hasn't started yet, so she's in prearrival, and promotions aren't the predictor."
+    },
+    {
+      "topic": "Socialization stages and options",
+      "question": "A new hire discovers her job is far less glamorous than she expected and is thinking of quitting. Which stage is she in, and what does research suggest would help?",
+      "options": {
+        "A": "Encounter; leaving her to figure things out on her own",
+        "B": "Prearrival; lowering her expectations before her next job",
+        "C": "Metamorphosis; stricter rules so she stops questioning",
+        "D": "Encounter; orientation, mentoring and friendship ties"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In the encounter stage, newcomers confront the gap between expectations and reality; friendship ties help, and Saks and Gruman found orientation, training and mentorship make newcomers happier, more confident about fit and more engaged. (Ch 10: The Encounter Stage)\n**Why not A:** Support such as orientation and mentoring, not isolation, helps newcomers adjust.\n**Why not B:** She has already joined, so she's past the prearrival stage.\n**Why not C:** She's confronting expectations versus reality, which is the encounter stage."
+    },
+    {
+      "topic": "Socialization stages and options",
+      "question": "A police academy puts recruits through a formal, collective, fixed and serial program that strips away their prior habits. What outcome is this approach most likely to produce?",
+      "options": {
+        "A": "Random outcomes, since no role models are used",
+        "B": "Standardized behaviour, strong fit and commitment",
+        "C": "Role innovation, with recruits inventing new methods",
+        "D": "Low commitment, since recruits resent the structure"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Formal, collective, fixed and serial programs that emphasize divestiture replace newcomers' differences with standardized, predictable behaviour; such institutional practices encourage person–organization fit and high commitment. (Ch 10: The Metamorphosis Stage, Exhibit 10-5)\n**Why not A:** Serial socialization uses role models; random socialization withholds them.\n**Why not C:** Role innovation comes from individual practices: informal, individual, variable, random and investiture.\n**Why not D:** Institutional practices are associated with high levels of commitment."
+    },
+    {
+      "topic": "Socialization stages and options",
+      "question": "An advertising agency wants its new creative staff to bring fresh perspectives to their roles. Which socialization approach fits best?",
+      "options": {
+        "A": "Formal and collective, with divestiture of prior skills",
+        "B": "Fixed and serial, with strict probationary stages",
+        "C": "Formal, collective, fixed and serial, with divestiture of habits",
+        "D": "Informal, individual, variable and random, with investiture"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Programs that are informal, individual, variable and random and that emphasize investiture (confirming newcomers' qualities) give newcomers an innovative sense of their role; creative fields like advertising rely on these practices. (Ch 10: The Metamorphosis Stage, Exhibit 10-5)\n**Why not A:** Divestiture strips away the qualities the agency wants to keep.\n**Why not B:** These institutional features favour conformity over role innovation.\n**Why not C:** That institutional approach produces standardized, predictable behaviour."
+    },
+    {
+      "topic": "Socialization stages and options",
+      "question": "A mentoring program pairs each new hire with an experienced role model who trains and encourages them. Which socialization option is this?",
+      "options": {
+        "A": "Collective socialization",
+        "B": "Divestiture socialization",
+        "C": "Random socialization",
+        "D": "Serial socialization"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Serial socialization uses role models who train and encourage newcomers, as in apprenticeship and mentoring programs; in random socialization, role models are deliberately withheld. (Ch 10: Exhibit 10-5, Entry Socialization Options)\n**Why not A:** Collective socialization processes newcomers as a group through identical experiences.\n**Why not B:** Divestiture strips away certain characteristics of the recruit.\n**Why not C:** Random socialization deliberately withholds role models."
+    },
+    {
+      "topic": "Socialization stages and options",
+      "question": "A few months into a new job, an employee's satisfaction dips as her idealized hopes meet everyday reality. What has research found about this pattern?",
+      "options": {
+        "A": "It shows socialization is complete and successful",
+        "B": "It's rare, and it usually signals she was a poor hiring choice",
+        "C": "It's common: a honeymoon is often followed by a hangover",
+        "D": "It's caused by role underload, which falls over time"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Studies tracking newcomers found patterns of 'honeymoons' and 'hangovers': initial adjustment is often marked by falling satisfaction as idealized hopes meet reality, and role conflict and overload can rise over time. (Ch 10: The Metamorphosis Stage)\n**Why not A:** Completed metamorphosis brings comfort and acceptance, not a dip in satisfaction.\n**Why not B:** The pattern is common among newcomers.\n**Why not D:** Research points to rising role conflict and overload, not underload."
+    },
+    {
+      "topic": "Socialization stages and options",
+      "question": "A new analyst now feels comfortable in her job, has internalized her team's norms, feels accepted and competent, and knows exactly how she'll be evaluated. What does this indicate?",
+      "options": {
+        "A": "Metamorphosis and entry socialization are complete",
+        "B": "She is still in the prearrival stage of socialization",
+        "C": "She has just entered the encounter stage of socialization",
+        "D": "She is ready for divestiture socialization to begin"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Metamorphosis is complete when the newcomer is comfortable with the organization and job, has internalized and accepted its norms, feels accepted and competent, and understands how work will be evaluated. (Ch 10: The Metamorphosis Stage)\n**Why not B:** Prearrival happens before joining; she has clearly adjusted on the job.\n**Why not C:** The encounter stage involves confronting expectations, not settled comfort.\n**Why not D:** Divestiture is an entry option, not a stage that follows successful adjustment."
+    },
+    {
+      "topic": "Liabilities of culture",
+      "question": "A firm whose consistent, tradition-bound culture served it well for decades now struggles as its market changes rapidly. Which liability of culture does this illustrate?",
+      "options": {
+        "A": "Culture as a barrier to change when the market shifts",
+        "B": "Culture as a barrier to diversity among new employees",
+        "C": "Culture as a weak force with no influence on behaviour",
+        "D": "Culture as a barrier to mergers with other companies"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Consistency of behaviour is an asset in a stable environment, but when the environment changes rapidly, an entrenched culture may no longer fit; practices that once led to success can lead to failure. (Ch 10: The Liabilities of Organizational Culture, Barrier to Change)\n**Why not B:** The problem is adapting to market change, not assimilating diverse hires.\n**Why not C:** A strong, consistent culture is exactly what's making change difficult.\n**Why not D:** No merger is involved; the culture is struggling with environmental change."
+    },
+    {
+      "topic": "Liabilities of culture",
+      "question": "A company hires people from diverse backgrounds for their fresh perspectives, but strong pressure to fit in leads newcomers to suppress their differences. What paradox does this illustrate?",
+      "options": {
+        "A": "Diversity automatically strengthens any strong culture",
+        "B": "Strong cultures can erase the diversity firms hired for",
+        "C": "Weak cultures prevent diverse employees from being hired",
+        "D": "Diverse hires reject the culture and leave within weeks"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Management supports newcomers' differences, but those who want to fit in must accept core values, so diverse behaviours and unique strengths diminish as people assimilate; strong cultures can eliminate these advantages. (Ch 10: The Liabilities of Organizational Culture, Barrier to Diversity)\n**Why not A:** Strong cultures can undermine the benefits of diversity.\n**Why not C:** The paradox arises in strong cultures, after diverse employees are hired.\n**Why not D:** The issue is that newcomers assimilate and lose their distinct strengths."
+    },
+    {
+      "topic": "Liabilities of culture",
+      "question": "Two companies plan a merger based mainly on financial and product synergies. What does evidence suggest is often the real reason mergers fail?",
+      "options": {
+        "A": "Clashing organizational cultures and people issues",
+        "B": "Legal restrictions on combining large companies",
+        "C": "Too much attention paid to cultural compatibility",
+        "D": "Overestimated product synergies between the firms"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A survey found 58% of mergers failed to reach their financial goals, and experts say failures are almost always due to people issues, that is, conflicting cultures; culture clash is often cited in the AOL Time Warner disaster. (Ch 10: The Liabilities of Organizational Culture, Barrier to Mergers and Acquisitions)\n**Why not B:** The chapter attributes failures to people and culture issues, not legal limits.\n**Why not C:** Cultural compatibility has become a primary concern precisely because it matters.\n**Why not D:** The chapter points to culture clash as the usual cause."
+    },
+    {
+      "topic": "Liabilities of culture",
+      "question": "A large firm acquires a small start-up with a weak culture and wants a single culture across the combined organization. Which merger strategy fits best, and what's the caution?",
+      "options": {
+        "A": "Assimilation; it works best when both cultures are strong",
+        "B": "Integration; it works best when both cultures are ideal",
+        "C": "Assimilation; it works poorly if simply imposed",
+        "D": "Separation; it works best with heavy industry overlap"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Assimilation (the new organization takes on one merging firm's culture) works best when one organization has a relatively weak culture, but a culture that is simply imposed rarely works. (Ch 10: Strategies for Merging Cultures)\n**Why not A:** Assimilation works best when one culture is relatively weak.\n**Why not B:** Integration works best when aspects of each culture need improvement.\n**Why not D:** Separation suits organizations with little industry overlap, and it keeps cultures apart."
+    },
+    {
+      "topic": "Liabilities of culture",
+      "question": "Two merging companies operate in industries with almost no overlap. Which strategy for merging their cultures makes the most sense?",
+      "options": {
+        "A": "Separation: each keeps its own culture",
+        "B": "Divestiture: each strips its old values away",
+        "C": "Assimilation: one adopts the other's culture",
+        "D": "Integration: a new blended culture is formed"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Separation, in which the organizations remain separate and keep their individual cultures, works best when they have little overlap in the industries in which they operate. (Ch 10: Strategies for Merging Cultures)\n**Why not B:** Divestiture is a socialization option, not a merger strategy.\n**Why not C:** Assimilation suits cases where one culture is relatively weak.\n**Why not D:** Integration suits cases where aspects of each culture need improvement."
+    },
+    {
+      "topic": "Changing culture and ethics",
+      "question": "A CEO wants to change his firm's culture. Which combination of conditions does the chapter say makes cultural change most likely?",
+      "options": {
+        "A": "A large, old firm whose employees all share the same values",
+        "B": "Quick top-down orders, since culture changes within months",
+        "C": "Stable profits, long-serving leaders and a very strong culture",
+        "D": "A crisis, new leadership, a young small firm and a weak culture"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Cultural change is most likely with a dramatic crisis, turnover in leadership, a young and small organization and a weak culture; even then it takes years, not months. (Ch 10: Changing Organizational Culture)\n**Why not A:** Older, larger organizations with widely shared values resist change.\n**Why not B:** Cultural change is a lengthy process measured in years.\n**Why not C:** Strong, entrenched cultures with stable leadership are the hardest to change."
+    },
+    {
+      "topic": "Changing culture and ethics",
+      "question": "A board wants a culture that encourages ethical behaviour. Which cultural profile does the chapter say is most likely to shape high ethical standards?",
+      "options": {
+        "A": "Low risk tolerance, high aggressiveness, focus on outcomes only",
+        "B": "Short-term focus on shareholders with strict outcome targets",
+        "C": "High risk tolerance, low–moderate aggressiveness, focus on means",
+        "D": "High aggressiveness and intense internal competition for rewards"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The culture most likely to shape high ethical standards is high in risk tolerance, low to moderate in aggressiveness and focused on means as well as outcomes, with a long-term view that balances stakeholders' rights. (Ch 10: Creating an Ethical Organizational Culture)\n**Why not A:** This profile reverses the features linked to high ethical standards.\n**Why not B:** Ethical cultures take a long-term view and balance multiple stakeholders.\n**Why not D:** Unbridled competition is discouraged in ethical cultures."
+    },
+    {
+      "topic": "Changing culture and ethics",
+      "question": "A company wants employees to be able to raise ethical dilemmas and report wrongdoing without fear of reprimand. Which of the chapter's principles addresses this?",
+      "options": {
+        "A": "Keep reports informal so that no records are ever created",
+        "B": "Communicate expectations by posting the code on the intranet",
+        "C": "Reward results, since the means matter less than the ends",
+        "D": "Provide protective mechanisms such as ethics officers"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The principles are to be a visible role model, communicate ethical expectations, provide ethics training, visibly reward ethical acts and punish unethical ones, and provide protective mechanisms such as ethics counsellors, ombudspersons or ethics officers. (Ch 10: Creating an Ethical Organizational Culture)\n**Why not A:** The chapter calls for formal mechanisms for discussing and reporting concerns.\n**Why not B:** Sharing a code minimizes ambiguity, but it doesn't protect those who report.\n**Why not C:** Ethical cultures review the means taken to achieve goals, not just the ends."
+    },
+    {
+      "topic": "Changing culture and ethics",
+      "question": "A CEO wonders whether her strong public emphasis on ethics will actually trickle down. What did a study of 195 managers find?",
+      "options": {
+        "A": "It led to ethical supervisors and less deviance among staff",
+        "B": "It increased deviance, as staff resented being told how to act",
+        "C": "It had no effect unless supervisors were paid ethics bonuses",
+        "D": "It mattered only for executives, not for line employees"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** When top management emphasizes strong ethical values, supervisors are more likely to practise ethical leadership, and line employees show lower deviance and more cooperation and assistance. (Ch 10: Creating an Ethical Organizational Culture)\n**Why not B:** Line employees showed lower levels of deviant behaviour.\n**Why not C:** The effect came from top management's emphasis, not bonuses.\n**Why not D:** The positive effects transferred down to line employees."
+    },
+    {
+      "topic": "Positive culture and global issues",
+      "question": "In the middle of layoffs, an agribusiness CEO focused on helping employees discover and use their natural talents rather than dwelling on what was wrong. Which element of a positive organizational culture is this?",
+      "options": {
+        "A": "Divestiture of weak performers",
+        "B": "Rewarding more than punishing",
+        "C": "Emphasizing vitality and growth",
+        "D": "Building on employee strengths"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A positive culture emphasizes building on employee strengths, rewarding more often than punishing, and individual vitality and growth; Auglaize Provico's turnaround came from people using their natural talents. (Ch 10: Creating a Positive Organizational Culture)\n**Why not A:** Divestiture is a socialization option, not part of a positive culture.\n**Why not B:** That element concerns praise and recognition; this example centres on discovering talents.\n**Why not C:** That element concerns careers and personal development; the focus here is using strengths."
+    },
+    {
+      "topic": "Positive culture and global issues",
+      "question": "A new plant manager makes recognition and praise her top priority, even though her staff at first seem uncomfortable receiving it. Which positive-culture element is she using?",
+      "options": {
+        "A": "Rewarding more often than punishing",
+        "B": "Building on employee strengths",
+        "C": "Emphasizing employees' career growth",
+        "D": "Formal, collective socialization"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Part of a positive culture is 'catching employees doing something right'; many managers withhold praise, not realizing its costs, but at International Paper's Kwidzyn plant staff came to value and even return it. (Ch 10: Creating a Positive Organizational Culture)\n**Why not B:** That element concerns discovering and using talents, not giving praise.\n**Why not C:** That element concerns personal and professional development.\n**Why not D:** That's a newcomer socialization option, not a positive-culture element."
+    },
+    {
+      "topic": "Positive culture and global issues",
+      "question": "Critics question a company that assigns 'happiness coaches' to keep employees upbeat despite low pay. Which limit of positive culture does this raise?",
+      "options": {
+        "A": "It can become coercive and stigmatize those who don't fit",
+        "B": "It requires eliminating all serious work and rules",
+        "C": "It works the same way in every national culture",
+        "D": "It always lowers productivity, so it should be avoided"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A positive culture can be pursued past the point of effectiveness: promoting an orthodoxy of positiveness can stigmatize those who don't fit the template, and critics call coerced positivity manipulative. (Ch 10: Limits of Positive Culture; Point/Counterpoint)\n**Why not B:** The concern is coercion and stigma, not abandoning serious work.\n**Why not C:** Not all national cultures value being positive as much as Canada and the U.S. do.\n**Why not D:** The chapter cites possible benefits; the concern is going too far."
+    },
+    {
+      "topic": "Positive culture and global issues",
+      "question": "At a Japanese game maker's Canadian unit, staff greet the boss in unison, punch a time clock and are expected to serve tea to executive guests; Canadian employees say it feels 'like school.' What lesson does this illustrate?",
+      "options": {
+        "A": "Strong cultures transfer easily to any country",
+        "B": "National culture never affects organizational culture",
+        "C": "Canadian employees dislike all forms of structure",
+        "D": "Organizational culture often reflects national culture"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Organizational cultures often reflect national culture, and a company that opens operations in another country ignores the local culture at its own risk; Tecmo Koei's practices fit its own culture but not Canada's. (Ch 10: Global Implications)\n**Why not A:** The example shows a culture fitting poorly when transferred.\n**Why not B:** Organizational cultures often reflect national culture.\n**Why not C:** The issue is cultural fit, not structure in general."
+    },
+    {
+      "topic": "Positive culture and global issues",
+      "question": "A Canadian manager in a developing economy sees local managers' special favours for family and friends as corruption, while they see such favours as a responsibility. What does the chapter suggest?",
+      "options": {
+        "A": "Local managers are simply corrupt and should be replaced",
+        "B": "The Canadian view is universal, so local norms don't matter",
+        "C": "Multinationals should adopt each country's norms entirely",
+        "D": "Ethics views differ, so firms need clear multinational values"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Canadian managers tend to see profit maximization as a moral obligation and favouritism as unethical, while managers in developing economies see ethics as embedded in social relationships; multinationals should build a culture of corporate values that respects differences. (Ch 10: Global Implications)\n**Why not A:** The chapter explains these as different ethical worldviews, not simple corruption.\n**Why not B:** Views of ethics differ across cultures and must be addressed.\n**Why not C:** Corporate values should be distinct from any one country's norms while respecting differences."
+    }
+  ]
+}

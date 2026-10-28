@@ -1,0 +1,340 @@
+{
+  "course": "MGMT 600",
+  "learningObjective": {
+    "number": "02",
+    "title": "Examine Service Level Agreements (SLAs)"
+  },
+  "source": "LO2 MGMT600 revised.pptx",
+  "questions": [
+    {
+      "question": "Which SLA clause is written the way the lecture recommends?",
+      "options": {
+        "A": "The provider will deliver excellent, timely service to all users",
+        "B": "Support staff will respond promptly to any critical incident",
+        "C": "Critical incidents: response within 15 minutes, resolution within 4 hours",
+        "D": "The provider will make every reasonable effort to restore service quickly"
+      },
+      "answer": "C",
+      "note": "A good SLA is **documented, measurable and enforceable**. Words like 'excellent', 'promptly' or 'quickly' can't be objectively evaluated, and the lecture names **poorly defined metrics** as one of the most common reasons SLAs fail (LO2, slides 3 and 26).\nMeasurable commitments look like 99.95% uptime, a 15-minute response or a 4-hour resolution."
+    },
+    {
+      "question": "Under an SLA, which of these is a responsibility of the customer rather than the service provider?",
+      "options": {
+        "A": "Clearly defining requirements and monitoring the service quality received",
+        "B": "Delivering the agreed services and addressing any service failures",
+        "C": "Measuring service performance and reporting results to stakeholders",
+        "D": "Drafting the agreement and administering it over the contract term"
+      },
+      "answer": "A",
+      "note": "Responsibility is shared. **Providers** define commitments, draft and administer the agreement, deliver services, measure performance, report results and address failures. **Customers** define requirements, take part in negotiations, review terms carefully, monitor quality and escalate concerns (LO2, slide 4).\nA common failure is customers signing agreements without understanding the service's limitations."
+    },
+    {
+      "question": "Which feature most clearly distinguishes a customer (external) SLA from an internal SLA?",
+      "options": {
+        "A": "It contains measurable targets such as availability and response times",
+        "B": "It defines escalation paths for issues that are not resolved in time",
+        "C": "It sets out the roles and responsibilities of each party involved",
+        "D": "It is legally binding between separate organizations and carries penalties"
+      },
+      "answer": "D",
+      "note": "**Internal SLAs** (for example between IT and HR or Finance) serve similar operational purposes but are **generally not legally enforceable**. **Customer SLAs** are legally binding agreements between separate legal entities, often part of wider contracts, with **penalties and remedies** (LO2, slides 8–9).\nMeasurable targets, escalation paths and roles (A–C) belong in both types."
+    },
+    {
+      "question": "A managed service provider supports dozens of clients. Why would it structure its agreements as a multilevel SLA?",
+      "options": {
+        "A": "So that every client receives an identical agreement with no variations",
+        "B": "To set common terms once while tailoring client- and service-specific needs",
+        "C": "To make the agreements legally unenforceable and easier to change later",
+        "D": "To replace operational level agreements with a single combined contract"
+      },
+      "answer": "B",
+      "note": "Multilevel SLAs split commitments into **corporate**, **customer** and **service** levels. The main advantage is **flexibility**: common terms aren't duplicated, yet unique customer and service requirements can still be accommodated (LO2, slide 10).\nThey are common in cloud computing, managed services and enterprise outsourcing."
+    },
+    {
+      "question": "An external IT provider's agreement says Finance's critical financial-system issues get a 15-minute response, while Marketing's critical issues get a 1-hour response. In a multilevel SLA, which level do these terms belong to?",
+      "options": {
+        "A": "Corporate level",
+        "B": "Customer level",
+        "C": "Service level",
+        "D": "Operational level"
+      },
+      "answer": "B",
+      "note": "The **customer level** applies to a particular customer, department or business unit, which is why Finance and Marketing get different response times based on their business needs (LO2, slide 12).\nThe **corporate level** applies across the whole organization (e.g. security incidents reported within 1 hour), and the **service level** applies to one IT service, such as payroll or email (slides 11 and 13)."
+    },
+    {
+      "question": "A provider's SLA measures only response time. Tickets are acknowledged within minutes, but many take days to resolve. What lesson about SLA metrics does this show?",
+      "options": {
+        "A": "Response time should be dropped, since acknowledging tickets adds no value",
+        "B": "The SLA succeeded, because every response-time target was met",
+        "C": "Customer satisfaction should be the only metric in future agreements",
+        "D": "Badly chosen metrics can drive the wrong behavior, so they need balancing"
+      },
+      "answer": "D",
+      "note": "The lecture warns that measuring **only response times** may encourage providers to acknowledge incidents quickly without focusing on **resolution quality** (LO2, slide 15).\nMetrics should be **SMART** (Specific, Measurable, Achievable, Relevant, Time-bound) and combined, for example with resolution time, FCR and CSAT, because no single metric gives the full picture (slide 19)."
+    },
+    {
+      "question": "A critical incident has bounced between the network team and an outside vendor for two days, with neither taking ownership. Which SLA element is missing or weak?",
+      "options": {
+        "A": "Escalation procedures",
+        "B": "Service credits",
+        "C": "Service description",
+        "D": "Availability commitments"
+      },
+      "answer": "A",
+      "note": "**Escalation procedures** define who is notified, when escalation happens, how decisions are made, what authority levels apply and what communication is required. Without them, issues stay unresolved or get **trapped between teams** (LO2, slide 17).\nThe lecture treats escalation as an operational risk control, and recurring escalations signal deeper service delivery problems."
+    },
+    {
+      "question": "Why would a hospital set stricter availability targets for its clinical systems than for its marketing website?",
+      "options": {
+        "A": "Clinical systems are newer technology, so they can reliably meet higher targets",
+        "B": "Regulators require every hospital system to have identical, maximum targets",
+        "C": "Targets should reflect business priorities; clinical outages affect patient care",
+        "D": "Higher targets on every system always lower the hospital's overall IT costs"
+      },
+      "answer": "C",
+      "note": "The lecture treats SLAs as **strategic management tools**, not just operational documents. They align IT services with business objectives, so service expectations follow organizational priorities and acceptable levels of risk.\nIts own example is a hospital needing higher availability than a marketing department, because disruptions could affect patient care (LO2, slide 18)."
+    },
+    {
+      "question": "The service desk promises customers resolution within 4 hours. To support that, the network team commits internally to fix escalated network faults within 2 hours. What is the network team's commitment?",
+      "options": {
+        "A": "A Service Level Agreement (SLA)",
+        "B": "A Key Performance Indicator (KPI)",
+        "C": "A service credit",
+        "D": "An Operational Level Agreement (OLA)"
+      },
+      "answer": "D",
+      "note": "In the lecture's comparison, an **SLA** is an external, customer-focused, contractual commitment; a **KPI** is a performance measure (a measurement tool); and an **OLA** is an **internal, team-focused agreement** that provides internal accountability (LO2, slide 18).\nThe network team's internal promise, which makes the customer-facing SLA achievable, is an OLA."
+    },
+    {
+      "question": "An SLA commits to 99.95% availability. This month's report shows the service achieved 99.97%. How would you describe the 99.97% figure?",
+      "options": {
+        "A": "A KPI: it measures actual performance against the SLA commitment",
+        "B": "An SLA: it is the provider's binding service commitment",
+        "C": "An OLA: it is the internal target behind the SLA",
+        "D": "A service credit: it is owed because the target was exceeded"
+      },
+      "answer": "A",
+      "note": "The **SLA defines the commitment** (99.95%); a **KPI measures how actual performance compares** with it (99.97% achieved). Managers usually track several KPIs to evaluate SLA compliance (LO2, slides 18 and 34).\nService credits are paid when targets are **missed**, not exceeded (slide 21)."
+    },
+    {
+      "question": "A service desk wants to know what percentage of issues it solves during the user's first call or chat, with no follow-up needed. Which metric is this?",
+      "options": {
+        "A": "Mean Time to Repair (MTTR)",
+        "B": "Customer Satisfaction (CSAT)",
+        "C": "First Contact Resolution (FCR)",
+        "D": "Service availability (%)"
+      },
+      "answer": "C",
+      "note": "**FCR** is the percentage of issues resolved during the initial contact. **MTTR** is the average recovery time after incidents, **CSAT** measures customers' perceptions of service quality, and **availability** is the percentage of time a service is operational (LO2, slide 19).\nThe lecture recommends a balanced scorecard of operational, customer, financial and strategic indicators rather than any single metric."
+    },
+    {
+      "question": "A company signed an SLA two years ago and has only reviewed the provider's performance after major outages. What governance practice is missing?",
+      "options": {
+        "A": "Stronger penalty clauses that make each failure more expensive for the provider",
+        "B": "A regular cycle of monitoring, reporting, review meetings and improvement",
+        "C": "A longer contract term so the provider has time to stabilize the service",
+        "D": "A move to an internal SLA so the agreement is easier to change"
+      },
+      "answer": "B",
+      "note": "Creating an SLA is only the beginning. **SLA governance** means ongoing **monitoring, reporting, review meetings, escalation management and continual improvement**, run as regular cycles rather than waiting for failures (LO2, slide 20).\nWeak governance is one of the common causes of SLA failure: without measurement and review, agreements quickly lose their effectiveness (slide 26)."
+    },
+    {
+      "question": "A cloud outage costs an online retailer $500,000 in lost sales. Under its SLA, the retailer receives a 10% service credit on its $20,000 monthly fee. What does this show?",
+      "options": {
+        "A": "Credits rarely cover the real cost of downtime, so prevention matters most",
+        "B": "The service credit has fully compensated the retailer for the outage",
+        "C": "The retailer can now claim unlimited damages from the provider",
+        "D": "Service credits are designed to replace all revenue lost in an outage"
+      },
+      "answer": "A",
+      "note": "The credit here is $2,000 against a $500,000 loss. The lecture notes that service credits can be **far lower than the actual cost of downtime**, and reputational damage may matter even more, so mature organizations focus on **prevention** rather than penalties (LO2, slides 21 and 27).\nProviders generally **limit** their liability, so unlimited damages (C) are unrealistic (slide 37)."
+    },
+    {
+      "question": "A cloud vendor sends its standard SLA template and asks you to sign by Friday. What does the lecture recommend?",
+      "options": {
+        "A": "Sign it, since vendor templates reflect industry-standard best practice",
+        "B": "Focus on the uptime figure, since that is the only term that really matters",
+        "C": "Have the legal team review it alone, since SLAs are purely legal documents",
+        "D": "Review it against business needs with IT and legal, focusing on exclusions"
+      },
+      "answer": "D",
+      "note": "Many SLA problems start at negotiation. Don't accept generic vendor templates without review: start from business requirements (critical services, acceptable downtime, required response times) and look closely at **exclusions, liability limits, performance definitions, escalation and penalties** (LO2, slide 22).\n**Cross-functional** input is essential, because technical teams understand operational needs and legal teams understand contractual implications."
+    },
+    {
+      "question": "What is the main advantage of AI-based SLA monitoring over traditional fixed-threshold monitoring?",
+      "options": {
+        "A": "It raises alerts only after a target is breached, keeping monthly reports clean",
+        "B": "It spots gradual trends early enough to predict likely SLA breaches",
+        "C": "It lets the provider adjust SLA targets automatically when performance drops",
+        "D": "It removes the need for review meetings, since dashboards are always current"
+      },
+      "answer": "B",
+      "note": "AI can identify subtle patterns that fixed thresholds miss. For example, a model may notice response times **creeping up** and predict a missed commitment weeks ahead, so the organization can intervene **proactively** (LO2, slide 24).\nAI also automates alerts, reports and trend analysis, but it **doesn't remove the need for governance and human oversight**."
+    },
+    {
+      "question": "A company's virtual machine on Microsoft Azure becomes unreachable because the company misconfigured its own network security rules. Can it expect a service credit under Azure's SLA?",
+      "options": {
+        "A": "Yes, because Azure guarantees 100% uptime for every virtual machine it hosts",
+        "B": "Yes, because under cloud SLAs the provider is responsible for every layer",
+        "C": "Unlikely: customer misconfigurations are usually excluded from cloud SLAs",
+        "D": "Yes, provided the company files its claim within the month of the outage"
+      },
+      "answer": "C",
+      "note": "Cloud SLAs are rarely absolute guarantees. Under the **shared responsibility** model, customers remain responsible for much of their security, configuration and application design, and agreements typically **exclude** maintenance windows, **customer misconfigurations** and force majeure events (LO2, slide 27).\nAzure's commitments usually range from 99.9% to 99.99% depending on configuration, never 100%."
+    },
+    {
+      "question": "According to the lecture, every SLA should answer three critical questions. Which set is correct?",
+      "options": {
+        "A": "What service is provided, how it's measured, and what happens if it falls short",
+        "B": "Who the vendor is, what the service will cost, and how long the contract runs",
+        "C": "Which technology is used, who will maintain it, and when it will be replaced",
+        "D": "How many users there are, where they work, and which devices they will use"
+      },
+      "answer": "A",
+      "note": "At its core, an SLA answers three questions: **What service is being provided? How will performance be measured? What happens if expectations are not met?** (LO2, slide 3).\nThe lecture adds that effective SLAs protect **both** parties, not just customers, by establishing clear expectations and reducing ambiguity."
+    },
+    {
+      "question": "A provider and a customer argue over whether 'support hours' include weekends, even though the service itself never failed. Which SLA objective was not achieved?",
+      "options": {
+        "A": "Setting penalties high enough to deter service failures",
+        "B": "Publishing real-time availability dashboards to users",
+        "C": "Clarifying expectations by documenting commitments upfront",
+        "D": "Creating separate agreements for each customer department"
+      },
+      "answer": "C",
+      "note": "Many service disputes happen **not because services fail, but because expectations were never clearly established**. SLAs turn expectations into documented commitments, which reduces misunderstandings and makes disputes easier to resolve (LO2, slide 5).\nThe lecture describes SLAs as **risk management tools** for exactly this reason."
+    },
+    {
+      "question": "According to the lecture, how is trust mainly built in an SLA relationship?",
+      "options": {
+        "A": "By including the strictest penalty clauses the provider will accept",
+        "B": "By keeping performance data confidential to avoid disputes",
+        "C": "By signing the longest contract term available to both parties",
+        "D": "By consistently meeting commitments and communicating openly"
+      },
+      "answer": "D",
+      "note": "Trust **isn't built through contract language alone**; it develops when providers **consistently meet commitments and communicate openly** about challenges and performance. Many organizations now publish operational dashboards that show SLA compliance in real time, which strengthens transparency further (LO2, slide 6).\nHiding performance data (B) would undermine exactly that transparency."
+    },
+    {
+      "question": "New hires at a company often wait a week for their system accounts because HR and IT each assume the other will start the process. What would best fix this?",
+      "options": {
+        "A": "A customer SLA with an external onboarding vendor",
+        "B": "An internal SLA between IT and HR for onboarding",
+        "C": "Service credits that IT pays to HR for each delay",
+        "D": "Moving the HR system onto a new cloud platform"
+      },
+      "answer": "B",
+      "note": "**Internal SLAs** govern service relationships between departments in the same organization. The lecture's example is HR relying on IT for **employee onboarding**, payroll systems, identity management and collaboration platforms.\nThey're valuable because **many organizational failures occur at departmental boundaries**, where misaligned expectations create delays (LO2, slide 8)."
+    },
+    {
+      "question": "In a multilevel SLA, which of these terms belongs at the corporate level?",
+      "options": {
+        "A": "Payroll system: 99.9% availability, with backups taken every day",
+        "B": "Finance department: critical issues get a response within 15 minutes",
+        "C": "All services: meet security policy; report security incidents in 1 hour",
+        "D": "Email service: 99.5% availability with a 30-minute critical response"
+      },
+      "answer": "C",
+      "note": "The **corporate level** applies across the whole relationship. The lecture's examples are complying with company security policies, monthly performance reviews, agreed reporting requirements, and reporting security incidents within 1 hour (LO2, slide 11).\nThe payroll and email terms are **service level** (slide 13), and Finance's 15-minute response is **customer level** (slide 12)."
+    },
+    {
+      "question": "An SLA describes the service in detail but never states what is excluded. When an outage is caused by a third-party API, the two sides disagree about whether it is covered. Which building block should have prevented this?",
+      "options": {
+        "A": "A service description stating what is included and excluded",
+        "B": "Penalties and remedies stating the credits owed for breaches",
+        "C": "Availability commitments stating the required uptime",
+        "D": "Compliance requirements stating regulatory obligations"
+      },
+      "answer": "A",
+      "note": "The first SLA building block is a **clear service description that defines exactly what is included and excluded**. The lecture warns that **omissions often create more risk than poorly written provisions**, so a comprehensive SLA should leave minimal room for interpretation (LO2, slide 14).\nThe other building blocks are availability commitments, performance standards, roles and responsibilities, escalation procedures, compliance requirements, and penalties and remedies."
+    },
+    {
+      "question": "The same type of issue has been escalated to senior management five times this quarter. According to the lecture, what does this pattern signal?",
+      "options": {
+        "A": "The escalation procedure is working exactly as intended",
+        "B": "The SLA should remove escalation for this type of issue",
+        "C": "Senior managers should start resolving these issues personally",
+        "D": "An underlying service problem that needs strategic attention"
+      },
+      "answer": "D",
+      "note": "Escalation procedures improve incident response and also **provide valuable information for service improvement**: **recurring escalations often indicate underlying service delivery challenges** that require strategic attention (LO2, slide 17).\nTreat repeated escalations as a signal to investigate, which links to Problem Management (LO1) and Continual Service Improvement (LO4)."
+    },
+    {
+      "question": "During procurement, a company is comparing three cloud vendors. How do SLAs support this decision?",
+      "options": {
+        "A": "They don't, since SLAs only matter after a contract is signed",
+        "B": "Comparing vendors' SLA commitments is part of strategic sourcing",
+        "C": "The vendor advertising the highest uptime should always win",
+        "D": "SLAs only apply to internal services, not to outside vendors"
+      },
+      "answer": "B",
+      "note": "SLAs **support strategic sourcing decisions**: organizations evaluating vendors often **compare SLA commitments** as part of procurement and contract management (LO2, slide 18).\nDon't just pick the highest advertised number (C), though. Read the exclusions, liability limits and definitions behind it (slides 9 and 27)."
+    },
+    {
+      "question": "Which SLA metric calculates the average time it takes to recover service after incidents?",
+      "options": {
+        "A": "Mean Time to Repair (MTTR)",
+        "B": "First Contact Resolution (FCR)",
+        "C": "Response time",
+        "D": "Customer Satisfaction (CSAT)"
+      },
+      "answer": "A",
+      "note": "**MTTR (Mean Time to Repair)** calculates the average recovery time after incidents. **Response time** measures how quickly providers **acknowledge** issues, **FCR** is the share of issues resolved during the initial contact, and **CSAT** measures customers' perceptions of service quality (LO2, slide 19).\nHeads-up: LO1 uses MTTR for Mean Time to Respond and Mean Time to Resolve, so check which one a question means."
+    },
+    {
+      "question": "Which SLA remedy is a percentage reduction in the customer's monthly service fee?",
+      "options": {
+        "A": "A financial penalty",
+        "B": "Additional services",
+        "C": "A service credit",
+        "D": "Contract termination"
+      },
+      "answer": "C",
+      "note": "From the lecture: **service credits** are a percentage reduction in monthly service fees, **financial penalties** are direct monetary compensation, and **additional services** are extra support or consulting offered as remediation (LO2, slide 21).\nBeyond these remedies, breaches can cause lost productivity, lost revenue, regulatory consequences and brand damage, and can even lead to contract termination."
+    },
+    {
+      "question": "What does the lecture describe as the goal of SLA negotiation?",
+      "options": {
+        "A": "Winning the strictest terms possible, whether or not they are achievable",
+        "B": "Setting realistic commitments that support a long-term partnership",
+        "C": "Shifting all risk to the provider through unlimited liability",
+        "D": "Keeping the agreement vague so that both sides stay flexible"
+      },
+      "answer": "B",
+      "note": "Successful negotiations start from business requirements and involve both technical and legal experts, but **the goal is not an adversarial agreement**: it's **realistic commitments that support long-term partnership success** (LO2, slide 22).\nVagueness (D) is a recipe for disputes, and providers generally limit their liability (C)."
+    },
+    {
+      "question": "An executive SLA dashboard crams 60 detailed operational metrics onto one screen. What is the main problem?",
+      "options": {
+        "A": "It should show even more metrics so nothing is missed",
+        "B": "Executives should receive raw data exports instead",
+        "C": "Dashboards should only ever show availability figures",
+        "D": "Executives need focused, high-level summaries, not detail"
+      },
+      "answer": "D",
+      "note": "Dashboards should turn data into **actionable information**. Executives usually need **high-level summaries**, operational teams need detailed performance data, and the lecture warns against **dashboards that contain excessive information** (LO2, slide 25).\nA good SLA dashboard answers: Are commitments being met? Which services are at risk? What trends are emerging? Where should improvement efforts focus?"
+    },
+    {
+      "question": "An IT team writes SLAs for each business unit without consulting them, and the agreements end up missing what users actually need. Which common SLA failure is this?",
+      "options": {
+        "A": "Poorly defined performance metrics",
+        "B": "Weak governance and review",
+        "C": "Lack of stakeholder engagement",
+        "D": "Inadequate performance monitoring"
+      },
+      "answer": "C",
+      "note": "The lecture's common SLA failures are **poorly defined metrics, unclear responsibilities, weak governance, inadequate monitoring and lack of stakeholder engagement**. SLAs **developed without customer input often fail to address actual business requirements** (LO2, slide 26).\nOrganizations that treat SLAs as **living governance documents** rather than static contracts generally achieve better outcomes."
+    },
+    {
+      "question": "Two companies run the same type of virtual machine on Microsoft Azure but are offered different availability commitments. What best explains the difference?",
+      "options": {
+        "A": "Azure's commitments vary with configuration choices, such as redundancy",
+        "B": "Azure negotiates a unique SLA privately with every single customer",
+        "C": "Larger customers always receive a guaranteed 100% availability",
+        "D": "Commitments depend only on how long each customer has been with Azure"
+      },
+      "answer": "A",
+      "note": "Azure publishes availability commitments that often range from **99.9% to 99.99% depending on configuration choices**, and it offers regional redundancy options (LO2, slide 27). Building in more redundancy typically earns a higher commitment.\nNo realistic cloud service guarantees 100% availability, and under shared responsibility customers still own much of their configuration and design."
+    }
+  ]
+}

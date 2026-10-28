@@ -1,0 +1,446 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "06",
+    "title": "Groups and Teamwork"
+  },
+  "collection": "Lecture slides (9th Canadian ed.)",
+  "collectionOrder": 1,
+  "source": "06.txt – Chapter 6 lecture slides",
+  "questions": [
+    {
+      "topic": "Groups vs. teams",
+      "question": "Five accountants share an office and a manager, but each prepares separate client files, and the unit's output is simply the total of their individual work. What best describes them?",
+      "options": {
+        "A": "A team, since they share a manager, an office and common goals",
+        "B": "A cross-functional team, since they serve many kinds of clients",
+        "C": "A group, since their output is simply the sum of individual work",
+        "D": "A self-managed team, since they work without close supervision"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A group is two or more people with a common relationship. A team's efforts produce performance greater than the sum of individual inputs, with shared leadership, accountability and purpose, which isn't the case here. (Ch 6 slides: Teams versus Groups)\n**Why not A:** Sharing a manager or a workspace doesn't make a team; a team's performance exceeds the sum of individual inputs.\n**Why not B:** Cross-functional teams bring together people from different work areas; these are all accountants doing the same work.\n**Why not D:** Self-managed teams take on many of their former manager's responsibilities; these accountants still report to a manager."
+    },
+    {
+      "topic": "Groups vs. teams",
+      "question": "A manager wants a work group to function as a true team. Which change best fits the chapter's description of a team?",
+      "options": {
+        "A": "Appoint a single supervisor to review each member's work individually",
+        "B": "Reward each member strictly on the basis of individual output",
+        "C": "Share leadership and accountability and judge success by team results",
+        "D": "Add more members so that more individual inputs can be combined"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Teams share leadership and accountability, develop their own purpose, work on problem-solving continuously, and measure effectiveness by team outcomes and goals. (Ch 6 slides: Teams versus Groups)\n**Why not A:** Individual review by one supervisor keeps the focus on individual inputs, which is how a group works.\n**Why not B:** Purely individual rewards reinforce individual effort, not shared accountability for team outcomes.\n**Why not D:** Combining more inputs doesn't create a team's synergy, and larger teams need more coordination."
+    },
+    {
+      "topic": "Groups vs. teams",
+      "question": "A company faces a sudden shift in customer demand and must respond within weeks. Why might it form a temporary team rather than rely on its permanent departments?",
+      "options": {
+        "A": "Teams cost less to run because they never need a formal leader",
+        "B": "Teams outperform individuals on every task, whatever skills it needs",
+        "C": "Teams don't need any coordination across different work areas",
+        "D": "Teams can quickly assemble, deploy, refocus and disband as needs change"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The chapter explains teams' popularity by their flexibility: they're more responsive to changing events than traditional departments or permanent groups. (Ch 6 slides: Why Have Teams Become So Popular?)\n**Why not A:** The chapter doesn't claim teams are cheaper or leaderless; effective teams still have leadership and structure.\n**Why not B:** Teams typically outperform individuals when tasks require multiple skills, judgment and experience, not on every task.\n**Why not C:** Teams still need coordination, and larger teams need more of it."
+    },
+    {
+      "topic": "Types of teams",
+      "question": "Eight employees from the same department meet two hours a week to discuss ways to cut defects and improve their work environment, while their managers decide which ideas are adopted. Which type of team is this?",
+      "options": {
+        "A": "Problem-solving team",
+        "B": "Cross-functional team",
+        "C": "Self-managed team",
+        "D": "Virtual team"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A problem-solving (process-improvement) team is a group of employees who meet a few hours each week to discuss ways of improving quality, efficiency and the work environment. (Ch 6 slides: Types of Teams)\n**Why not B:** Cross-functional teams draw members from different work areas; these employees are all from one department.\n**Why not C:** Self-managed teams take on many of their former managers' responsibilities; here managers still make the decisions.\n**Why not D:** Virtual teams use technology to connect physically dispersed members; nothing suggests that here."
+    },
+    {
+      "topic": "Types of teams",
+      "question": "Twelve assembly workers now schedule their own shifts, assign tasks among themselves and handle quality checks, all duties their supervisor used to perform. Which type of team are they?",
+      "options": {
+        "A": "Multiteam system",
+        "B": "Problem-solving team",
+        "C": "Cross-functional team",
+        "D": "Self-managed team"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A self-managed team is a group of about 10 to 15 employees who take on many of the responsibilities of their former managers. (Ch 6 slides: Types of Teams)\n**Why not A:** A multiteam system is a team of interdependent teams; this is a single team.\n**Why not B:** Problem-solving teams meet a few hours a week to discuss improvements; they don't take over managerial duties.\n**Why not C:** Cross-functional teams combine people from different work areas; these are all assembly workers."
+    },
+    {
+      "topic": "Types of teams",
+      "question": "Engineers, marketers and financial analysts at roughly the same level, from different departments, join forces for six months to launch a new product. Which type of team is this?",
+      "options": {
+        "A": "Cross-functional team",
+        "B": "Multiteam system",
+        "C": "Self-managed team",
+        "D": "Problem-solving team"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Cross-functional teams bring together employees at about the same hierarchical level, but from different work areas, to accomplish a task. (Ch 6 slides: Types of Teams)\n**Why not B:** A multiteam system links several interdependent teams; this is one team drawn from several departments.\n**Why not C:** Self-managed teams take over supervisory duties for their own unit; this team is defined by its mix of functions.\n**Why not D:** Problem-solving teams usually come from one area and meet a few hours a week to discuss improvements."
+    },
+    {
+      "topic": "Types of teams",
+      "question": "Members based in Halifax, Vancouver and Manila collaborate on a project entirely through video calls and shared online workspaces and have never met in person. Which type of team is this?",
+      "options": {
+        "A": "Self-managed team",
+        "B": "Multiteam system",
+        "C": "Virtual team",
+        "D": "Cross-functional team"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A virtual team uses computer technology to tie together physically dispersed members to achieve a common goal. (Ch 6 slides: Types of Teams)\n**Why not A:** Nothing suggests the team has taken over managerial responsibilities.\n**Why not B:** A multiteam system is a set of interdependent teams, not one dispersed team.\n**Why not D:** Cross-functional teams are defined by members from different work areas; the defining feature here is dispersion linked by technology."
+    },
+    {
+      "topic": "Types of teams",
+      "question": "A hospital's trauma response depends on separate paramedic, emergency-room and surgical teams, each relying on the others to reach the shared goal of saving the patient. What concept describes this arrangement?",
+      "options": {
+        "A": "A problem-solving team",
+        "B": "A cross-functional team",
+        "C": "A self-managed team",
+        "D": "A multiteam system"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A multiteam system is a collection of two or more interdependent teams that share a superordinate goal: a team of teams. (Ch 6 slides: Multiteam Systems)\n**Why not A:** Problem-solving teams meet periodically to suggest improvements; they don't describe linked operational teams.\n**Why not B:** A cross-functional team is a single team of people from different areas; this involves several distinct teams.\n**Why not C:** Self-managed teams take on managerial duties; the key feature here is interdependence among teams."
+    },
+    {
+      "topic": "Roles",
+      "question": "A nurse's unit manager tells her to discharge patients quickly to free up beds, while the attending physician insists she keep monitoring the same patients longer. What is she experiencing?",
+      "options": {
+        "A": "Role overload",
+        "B": "Role ambiguity",
+        "C": "Role underload",
+        "D": "Role conflict"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Role conflict occurs when complying with one role requirement makes it harder to comply with another, as with these divergent expectations. (Ch 6 slides: Roles)\n**Why not A:** Role overload means too much is expected overall; the issue here is incompatible demands.\n**Why not B:** Role ambiguity means being unclear about one's role; her expectations are clear, they just clash.\n**Why not C:** Role underload means too little is expected; she faces competing demands, not too few."
+    },
+    {
+      "topic": "Roles",
+      "question": "A newly hired project coordinator receives no job description, and nobody can tell her who has final say on her project's decisions. What is she experiencing?",
+      "options": {
+        "A": "Role underload",
+        "B": "Role ambiguity",
+        "C": "Role conflict",
+        "D": "Role overload"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Role ambiguity is when people are unclear about their role, which is exactly her situation. (Ch 6 slides: Roles)\n**Why not A:** Role underload is about too little being expected; her problem is not knowing what's expected.\n**Why not C:** Role conflict involves clear but incompatible expectations, not a lack of clarity.\n**Why not D:** Role overload is about too much being expected, not uncertainty about what is expected."
+    },
+    {
+      "topic": "Roles",
+      "question": "A highly skilled analyst on a project team is given only minor formatting tasks and feels she isn't contributing anything to the group. What is she experiencing?",
+      "options": {
+        "A": "Role conflict",
+        "B": "Role ambiguity",
+        "C": "Social loafing",
+        "D": "Role underload"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Role underload is when too little is expected of people and they feel they aren't contributing to the group. (Ch 6 slides: Roles)\n**Why not A:** There are no competing demands; the problem is too few demands.\n**Why not B:** Her role is clear; it's just too small.\n**Why not C:** Social loafing is choosing to put in less effort in a group; she wants to contribute more."
+    },
+    {
+      "topic": "Norms",
+      "question": "At a new team's first meeting the leader arrives 10 minutes late and nobody comments. Months later, the team's meetings still routinely start late. How did this norm most likely develop?",
+      "options": {
+        "A": "Explicit statements: a member said meetings could start late",
+        "B": "A critical event: a crisis changed how the group behaved",
+        "C": "Carry-over: members brought habits from their past groups",
+        "D": "Primacy: the group's first behaviour set the pattern"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Primacy means a group's initial patterns of behaviour set expectations for later behaviour, like the late start at the very first meeting. (Ch 6 slides: How Norms Develop)\n**Why not A:** No one stated that meetings should start late.\n**Why not B:** No significant incident shaped this norm; it grew out of the first meeting's pattern.\n**Why not C:** Carry-over means bringing habits from other situations; this pattern began in this team's first meeting."
+    },
+    {
+      "topic": "Norms",
+      "question": "Ever since a serious near-miss two years ago, a maintenance crew always double-checks lockout procedures, though no one remembers anyone formally asking them to. How did this norm develop?",
+      "options": {
+        "A": "Carry-over behaviour from past jobs",
+        "B": "A critical event in the group's history",
+        "C": "Primacy in the group's first meetings",
+        "D": "Explicit statements by a group member"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Critical events in a group's history, such as a near-miss, can establish lasting norms. (Ch 6 slides: How Norms Develop)\n**Why not A:** Carry-over means bringing habits from other situations; this norm grew out of the crew's own experience.\n**Why not C:** Primacy refers to initial patterns of behaviour; this norm began after a specific incident well into the group's life.\n**Why not D:** No one formally asked for the practice."
+    },
+    {
+      "topic": "Norms",
+      "question": "A new hire who used to take long lunches starts returning after 30 minutes because everyone else on her team does, even though no rule requires it. What is this an example of?",
+      "options": {
+        "A": "Conformity",
+        "B": "Deviant workplace behaviour",
+        "C": "Role expectations",
+        "D": "Social loafing"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Conformity is adjusting one's behaviour to align with the norms of the group. (Ch 6 slides: Norms, Conformity)\n**Why not B:** Deviant behaviour violates significant norms; she's aligning with them.\n**Why not C:** Role expectations are how others believe someone in a given position should act; here she's matching the group's shared standard.\n**Why not D:** Social loafing is reduced effort when working collectively; she's adapting her behaviour to the group."
+    },
+    {
+      "topic": "Norms",
+      "question": "An employee regularly spreads damaging rumours about co-workers and deliberately corrupts shared files, harming the team's work. Which concept describes this?",
+      "options": {
+        "A": "Role conflict between duties",
+        "B": "Storming-stage group conflict",
+        "C": "Deviant workplace behaviour",
+        "D": "Social loafing on team tasks"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Deviant workplace behaviour (also called antisocial behaviour or workplace incivility) is voluntary behaviour that violates significant organizational norms and threatens the organization or its members. (Ch 6 slides: Norms, Deviant Workplace Behaviour)\n**Why not A:** Role conflict arises from incompatible role requirements, not intentional harm.\n**Why not B:** Storming is a normal development stage marked by intragroup conflict, not deliberate sabotage.\n**Why not D:** Social loafing is reduced effort in a group, not deliberately harmful acts."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "A new project team argues about who should lead and how work should be divided, and some members openly challenge the coordinator's authority. Which stage of the five-stage model is the team in?",
+      "options": {
+        "A": "Storming",
+        "B": "Performing",
+        "C": "Norming",
+        "D": "Forming"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Storming is characterized by intragroup conflict, including questions about who's in charge and who does what. (Ch 6 slides: The Five-Stage Model, Exhibit 6.3)\n**Why not B:** Performing is reached when the group is fully functional and focused on the job.\n**Why not C:** Norming is marked by close relationships, cohesiveness and agreement on roles.\n**Why not D:** Forming is marked by uncertainty and anxiety about why the group exists, not open conflict over control."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "Members of a newly created task force are polite but hesitant, unsure why they were selected and what is expected of them. Which stage of group development are they in?",
+      "options": {
+        "A": "Adjourning",
+        "B": "Forming",
+        "C": "Norming",
+        "D": "Storming"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Forming is characterized by uncertainty and anxiety: How do I fit in? Why are we here? (Ch 6 slides: The Five-Stage Model, Exhibit 6.3)\n**Why not A:** Adjourning is when a temporary group wraps up; this group has only just formed.\n**Why not C:** Norming comes after the conflict stage, when members build close relationships and agree on roles.\n**Why not D:** Storming involves open conflict over leadership and roles, which isn't happening yet."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "An airline crew that has never flown together works smoothly and efficiently from the moment they board. What does this suggest about the five-stage model?",
+      "options": {
+        "A": "Context matters; some groups move straight to performing",
+        "B": "The model applies only to permanent groups, not temporary ones",
+        "C": "The crew skipped storming, so conflict is bound to erupt later",
+        "D": "The crew must actually be norming rather than performing"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The chapter notes groups don't necessarily progress one stage at a time, and context matters: airline crews can reach the performing stage immediately. (Ch 6 slides: Stages of Group and Team Development)\n**Why not B:** The model includes an adjourning stage precisely because it covers temporary groups.\n**Why not C:** The model doesn't require every group to pass through every stage, so skipping storming doesn't predict later conflict.\n**Why not D:** Working smoothly and efficiently as a fully functional unit is what performing looks like."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "A task force has eight weeks to deliver a proposal. Little changes for about a month; then, right around the four-week mark, the group suddenly overhauls its whole approach. Which model best explains this pattern?",
+      "options": {
+        "A": "The punctuated-equilibrium model",
+        "B": "The norming stage of the five-stage model",
+        "C": "Role ambiguity among the task force's members",
+        "D": "The storming stage of the five-stage model"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Temporary groups go through a first phase of inertia, then a transition when about half their allotted time is used up, which triggers major changes. (Ch 6 slides: The Punctuated-Equilibrium Model, Exhibit 6.4)\n**Why not B:** Norming is about cohesion and agreeing on roles, not a sudden overhaul at the halfway mark.\n**Why not C:** Role ambiguity is a lack of clarity about one's role; it doesn't explain a midpoint transition.\n**Why not D:** Storming is intragroup conflict early in development, not a time-triggered shift at the midpoint."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "According to the punctuated-equilibrium model, what typically happens at a temporary group's final meeting?",
+      "options": {
+        "A": "The group's major transition in approach begins",
+        "B": "The group sets its overall direction for the first time",
+        "C": "Activity accelerates sharply to finish the work",
+        "D": "The group returns to the inertia of its first phase"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The model says the last meeting is characterized by markedly accelerated activity. (Ch 6 slides: The Punctuated-Equilibrium Model)\n**Why not A:** The transition happens at the midpoint, when half the allotted time is used up.\n**Why not B:** Direction is set at the first meeting, not the last.\n**Why not D:** The second phase involves inertia, but the final meeting is marked by a burst of activity."
+    },
+    {
+      "topic": "Characteristics of effective teams",
+      "question": "To save time on an important decision, a team leader skips the discussion and calls an immediate vote. Which characteristic of effective teams does this undermine?",
+      "options": {
+        "A": "Clear rules and work assignments",
+        "B": "Consensus decisions",
+        "C": "Shared leadership",
+        "D": "Self-assessment"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** For important decisions, effective teams aim for substantial (not necessarily unanimous) agreement through open discussion of everyone's ideas, avoiding formal voting or easy compromises. (Ch 6 slides: Exhibit 6.5 Characteristics of an Effective Team)\n**Why not A:** That concerns clear role expectations and task assignments, not how decisions are reached.\n**Why not C:** Shared leadership is about leadership functions shifting with circumstances, not voting versus discussion.\n**Why not D:** Self-assessment means periodically examining how well the team is functioning."
+    },
+    {
+      "topic": "Characteristics of effective teams",
+      "question": "During a technical crisis, a team's formal leader steps back so the member with the most relevant expertise can direct the work, then resumes leading afterward. Which characteristic of effective teams is this?",
+      "options": {
+        "A": "Style diversity",
+        "B": "Shared leadership",
+        "C": "External relations",
+        "D": "Informality"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In effective teams, leadership functions shift with the circumstances, the group's needs and members' skills, even though there is a formal leader. (Ch 6 slides: Exhibit 6.5 Characteristics of an Effective Team)\n**Why not A:** Style diversity means having a broad range of team-player types, not shifting who leads.\n**Why not C:** External relations is about building outside relationships, mobilizing resources and credibility.\n**Why not D:** Informality describes a relaxed, comfortable climate, not who directs the work."
+    },
+    {
+      "topic": "Characteristics of effective teams",
+      "question": "During planning, two members strongly disagree about a launch date. The team discusses the disagreement openly and keeps working, without smoothing it over or suppressing it. Which characteristic of effective teams does this show?",
+      "options": {
+        "A": "Consensus decisions",
+        "B": "Open communication",
+        "C": "Civilized disagreement",
+        "D": "Informal team climate"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Effective teams have disagreement but are comfortable with it, with no signs of avoiding, smoothing over or suppressing conflict. (Ch 6 slides: Exhibit 6.5 Characteristics of an Effective Team)\n**Why not A:** Consensus is about how the final decision is reached, not how disagreement is handled along the way.\n**Why not B:** Open communication means members freely express feelings and there are few hidden agendas; the defining behaviour here is comfortable conflict.\n**Why not D:** Informality refers to a relaxed climate without obvious tension, not how conflict is handled."
+    },
+    {
+      "topic": "Team context and composition",
+      "question": "A highly capable team keeps missing deadlines because it lacks equipment and budget, and its evaluations and rewards recognize only individual performance. Which part of the team effectiveness model needs attention?",
+      "options": {
+        "A": "Process",
+        "B": "Context",
+        "C": "Team size",
+        "D": "Composition"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Context factors include adequate resources, leadership and structure, a climate of trust, and performance evaluation and rewards that reflect team contributions. (Ch 6 slides: Exhibit 6.6 A Model of Team Effectiveness)\n**Why not A:** Process covers purpose, goals, efficacy, cohesion, mental models, conflict and social loafing; the problems described are resources and rewards.\n**Why not C:** Size is one composition factor, and nothing suggests the team is too large or too small.\n**Why not D:** Composition covers members' abilities, personalities, roles, diversity and size; the team itself is capable."
+    },
+    {
+      "topic": "Team context and composition",
+      "question": "A manager is assembling a project team. According to the chapter, which composition is most likely to underperform?",
+      "options": {
+        "A": "A team that includes several highly conscientious members",
+        "B": "A team made up of five or six carefully chosen members",
+        "C": "A team that includes one or more highly disagreeable members",
+        "D": "A team whose members are high in openness to new ideas"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The chapter notes teams underperform when there are one or more highly disagreeable members. (Ch 6 slides: Personality of Members)\n**Why not A:** Conscientious members help teams by sensing when support is needed and backing others up.\n**Why not B:** Five or six members is described as the most effective size.\n**Why not D:** Open members communicate better, which leads to more creativity and innovation."
+    },
+    {
+      "topic": "Team context and composition",
+      "question": "On a project team, Omar makes sure deadlines are met and the work gets done, while Sara smooths over tensions and keeps relationships positive. Which roles are they filling?",
+      "options": {
+        "A": "Both are filling task-oriented roles for the team",
+        "B": "Omar a maintenance role; Sara a task-oriented role",
+        "C": "Omar a controller role; Sara an adviser role",
+        "D": "Omar a task-oriented role; Sara a maintenance role"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Task-oriented roles ensure tasks are accomplished; maintenance roles maintain good relations within the group. (Ch 6 slides: Allocation of Roles)\n**Why not A:** Sara's focus on relationships is a maintenance role.\n**Why not B:** This reverses the definitions.\n**Why not C:** In the key-roles model, the controller examines details and enforces rules and the adviser encourages a search for more information; neither describes Sara's relationship-building."
+    },
+    {
+      "topic": "Team context and composition",
+      "question": "Ava rarely comes up with new ideas herself, but once a colleague proposes one she enthusiastically champions it and wins over stakeholders. Which key team role does she fill?",
+      "options": {
+        "A": "Assessor",
+        "B": "Linker",
+        "C": "Promoter",
+        "D": "Creator"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In the chapter's key roles of teams, the promoter champions ideas after they're initiated. (Ch 6 slides: Exhibit 6.8 Key Roles of Teams)\n**Why not A:** The assessor offers insightful analysis of options rather than championing them.\n**Why not B:** The linker coordinates and integrates the team.\n**Why not D:** The creator initiates creative ideas; Ava champions other people's ideas."
+    },
+    {
+      "topic": "Team context and composition",
+      "question": "In a team debate, Mei defends her position with evidence, resists pressure to switch without good arguments, changes her view when a teammate makes a defensible case, and stays courteous throughout. Which teamwork skill is she showing?",
+      "options": {
+        "A": "Appropriately promoting her perspective",
+        "B": "Facilitating and managing task conflict",
+        "C": "Orienting the team to the problem",
+        "D": "Promoting a positive team environment"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** This skill involves defending stated preferences, withstanding pressure that isn't backed by logic, changing position when a defensible argument is made, and staying courteous while arguing. (Ch 6 slides: Exhibit 6.7 Teamwork Skills)\n**Why not B:** Managing conflict means recognizing the type and source of conflict and applying a resolution strategy such as win-win negotiation.\n**Why not C:** That skill is about helping the team reach a common understanding of the situation and seeking relevant data.\n**Why not D:** That skill is about reinforcing norms of tolerance and respect and praising others' efforts."
+    },
+    {
+      "topic": "Diversity, size and social loafing",
+      "question": "A manager forms a culturally diverse team for a strategy project that needs many different viewpoints, but in the first weeks the team's processes are clumsy. What does the chapter suggest?",
+      "options": {
+        "A": "Diversity only matters on virtual teams, not on co-located ones",
+        "B": "Diversity can hinder process at first but helps on varied-viewpoint tasks",
+        "C": "Diversity improves process immediately, so the problem must lie elsewhere",
+        "D": "Diversity always hurts results, so the team should be restructured"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Cultural diversity interferes with team processes, at least in the short term, but it seems to be an asset for tasks that call for a variety of viewpoints. (Ch 6 slides: Team Cultural Diversity and Team Performance)\n**Why not A:** The chapter's findings on diversity apply to teams generally, not only virtual ones.\n**Why not C:** The chapter says cultural diversity interferes with team processes, at least in the short term.\n**Why not D:** The chapter says diversity is an asset for tasks needing varied viewpoints, despite early friction."
+    },
+    {
+      "topic": "Diversity, size and social loafing",
+      "question": "In one department most staff were hired in the same year and are of similar age, and analysts find this shared attribute is linked to when people leave the firm. Which concept describes this?",
+      "options": {
+        "A": "Role expectations",
+        "B": "Group diversity",
+        "C": "Organizational demography",
+        "D": "Group cohesiveness"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Organizational demography is the degree to which members of a work unit share a demographic attribute (such as age or length of service) and that attribute's impact on turnover. (Ch 6 slides: Diversity of Members)\n**Why not A:** Role expectations are beliefs about how someone in a position should act.\n**Why not B:** Group diversity is a heterogeneous mix of individuals, the opposite of members sharing an attribute.\n**Why not D:** Cohesiveness is how tight-knit a group is, not the link between shared attributes and turnover."
+    },
+    {
+      "topic": "Diversity, size and social loafing",
+      "question": "A manager must staff two projects: a routine task that has to be finished quickly, and a complex problem that benefits from many perspectives. What does the chapter's research on team size suggest?",
+      "options": {
+        "A": "A small team for the quick task and a larger one for the complex problem",
+        "B": "Large teams for both projects, since extra members add more ideas",
+        "C": "A large team for the quick task and a small one for the complex problem",
+        "D": "The same size for both projects, since size has little effect on results"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Research shows smaller groups are faster at completing tasks, while larger groups do better at problem-solving. (Ch 6 slides: Size of Teams)\n**Why not B:** Larger teams need more coordination and invite social loafing; they're only better for problem-solving.\n**Why not C:** This reverses the findings on speed and problem-solving.\n**Why not D:** The chapter reports that size affects both speed and problem-solving performance."
+    },
+    {
+      "topic": "Diversity, size and social loafing",
+      "question": "On a 14-person team, several members contribute little, assuming others will pick up the slack. Which pair of remedies does the chapter recommend?",
+      "options": {
+        "A": "Add members so that the workload spreads more widely across the team",
+        "B": "Keep the team no larger than necessary and hold individuals accountable",
+        "C": "Rotate the leader every week so that every member feels responsible",
+        "D": "Reward only the team's overall output so no one is singled out"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** To reduce social loafing (expending less effort when working collectively), teams shouldn't be larger than necessary and individuals should be held accountable for their actions. (Ch 6 slides: Social Loafing)\n**Why not A:** Larger teams make loafing more likely, not less.\n**Why not C:** The chapter's remedies are a smaller team and individual accountability; rotating leaders isn't among them.\n**Why not D:** Rewarding only collective output reduces individual accountability, which encourages loafing."
+    },
+    {
+      "topic": "Team context and composition",
+      "question": "When staffing a high-stakes team, why should a manager consider whether candidates actually prefer working in teams?",
+      "options": {
+        "A": "Preference affects members' satisfaction but not team results",
+        "B": "Preference matters only on virtual teams, not co-located ones",
+        "C": "Members who prefer teamwork tend to loaf and lean on others",
+        "D": "Members who'd rather work alone can threaten the team's morale"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Team members who would prefer to work on their own threaten the team's morale, while high-performing teams tend to be made up of people who prefer teamwork. (Ch 6 slides: Members' Preference for Teamwork)\n**Why not A:** The chapter links preference to team morale and high performance.\n**Why not B:** The chapter treats preference for teamwork as a composition factor for teams generally.\n**Why not C:** The chapter links a preference for teamwork to high performance, not loafing."
+    },
+    {
+      "topic": "Team processes and when to use teams",
+      "question": "Members of a product team each picture the project differently (one sees a quick fix, another a full redesign) and they keep working at cross-purposes. Which team process element is missing?",
+      "options": {
+        "A": "A shared mental model of the work",
+        "B": "A stronger sense of team cohesion",
+        "C": "A shared belief in team efficacy",
+        "D": "A clearer sense of team identity"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Effective teams have an accurate shared mental model of what is to be accomplished; without one, members work at cross-purposes. (Ch 6 slides: Team Process; For Managers)\n**Why not B:** Cohesion is how tight-knit the team is; a close team can still hold different pictures of the task.\n**Why not C:** Team efficacy is members' belief in the team's capabilities, not a shared picture of the work.\n**Why not D:** Team identity concerns members identifying with the team, not their understanding of what's to be done."
+    },
+    {
+      "topic": "Team processes and when to use teams",
+      "question": "A manager wants to turn five sales reps, who each cover a separate territory and never depend on each other's work, into a team. What does the chapter's checklist suggest?",
+      "options": {
+        "A": "A team will help, because teams outperform individuals in general",
+        "B": "A team may not help, because the reps aren't interdependent",
+        "C": "A team may not help, because five members is too small a team",
+        "D": "A team will help, as long as the reps meet as a virtual team"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Teams work best when the work is done better by more than one person, creates a common purpose beyond individual goals, and requires members to be interdependent. Independent territories fail that test. (Ch 6 slides: Beware! Teams Are Not Always the Answer)\n**Why not A:** Teams typically outperform individuals only when tasks require multiple skills, judgment and experience.\n**Why not C:** Five or six members is described as the most effective size.\n**Why not D:** Meeting virtually doesn't create the interdependence or common purpose a team needs."
+    },
+    {
+      "topic": "Team processes and when to use teams",
+      "question": "Research across cultures examined what makes teams more tight-knit. Which approach did it find creates a more cohesive group?",
+      "options": {
+        "A": "Closely supervising the team so that everyone follows the same steps",
+        "B": "Separating members into subgroups by culture to reduce friction",
+        "C": "Giving the team easy tasks so members can share quick successes",
+        "D": "Giving the team difficult tasks and more freedom to accomplish them"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Regardless of culture, giving teams difficult tasks and more freedom to accomplish them created more tight-knit groups. (Ch 6 slides: Group Cohesiveness)\n**Why not A:** The finding was about more freedom, not closer supervision.\n**Why not B:** The finding held regardless of culture and didn't involve separating members.\n**Why not C:** The research points to difficult tasks, not easy ones."
+    }
+  ]
+}

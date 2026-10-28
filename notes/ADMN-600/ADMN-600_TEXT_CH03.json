@@ -1,0 +1,446 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "03",
+    "title": "Values, Attitudes, and Diversity in the Workplace"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 3",
+  "questions": [
+    {
+      "topic": "Values and value frameworks",
+      "question": "Nadia says that in life she wants 'a sense of accomplishment and inner harmony,' and that along the way she tries to be 'honest, capable and broad-minded.' How does the Rokeach Value Survey classify these two sets of values?",
+      "options": {
+        "A": "The first set is instrumental values; the second is terminal values",
+        "B": "Both sets are terminal values, since all of them describe life goals",
+        "C": "Both sets are instrumental values, since all values guide behaviour",
+        "D": "The first set is terminal values; the second is instrumental values"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Terminal values are desirable end-states, the goals a person wants to achieve in life; instrumental values are preferred modes of behaviour, the means of achieving those goals. (Ch 3: Rokeach Value Survey)\n**Why not A:** This reverses the definitions: accomplishment and inner harmony are end-states, while honesty and capability are ways of behaving.\n**Why not B:** Honest, capable and broad-minded describe how she behaves, not end-states she wants to reach.\n**Why not C:** Accomplishment and inner harmony are desired end-states, which makes them terminal values."
+    },
+    {
+      "topic": "Values and value frameworks",
+      "question": "Two managers both value honesty and loyalty. When the two values clash, one always chooses honesty and the other always chooses loyalty. Which concept explains the difference?",
+      "options": {
+        "A": "Their attitudes differ, even though their values are identical",
+        "B": "Their values differ in content rather than in intensity",
+        "C": "Their value systems rank the same values differently",
+        "D": "Their values are unstable and shift from situation to situation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A value system is a person's hierarchy of values ranked by intensity; two people can hold the same values but order them differently. (Ch 3: Values)\n**Why not A:** The clash is about which value takes priority, which is a matter of value systems, not attitudes.\n**Why not B:** Both hold the same values (same content); the difference is how important each value is to them.\n**Why not D:** Values tend to be relatively stable and enduring, formed largely in early years."
+    },
+    {
+      "topic": "Values and value frameworks",
+      "question": "A manager deciding whether to close a plant asks which choice will accomplish the greatest good for the greatest number of people. Which of Hodgson's 'Magnificent Seven' principles is she applying?",
+      "options": {
+        "A": "Loyalty",
+        "B": "Fairness",
+        "C": "The common good",
+        "D": "Humaneness"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Hodgson's 'common good' principle says actions should accomplish the greatest good for the greatest number of people. (Ch 3: Hodgson's General Moral Principles)\n**Why not A:** Loyalty means honouring promises, contracts and commitments.\n**Why not B:** Fairness means people should be treated justly.\n**Why not D:** Humaneness says actions should accomplish good and avoid evil; the specific 'greatest number' test belongs to the common good."
+    },
+    {
+      "topic": "Hofstede and GLOBE",
+      "question": "At a company's overseas subsidiary, employees rarely question managers, accept large status differences, and wait for direction from the top. Which Hofstede dimension is most evident?",
+      "options": {
+        "A": "High power distance",
+        "B": "Strong collectivism",
+        "C": "High masculinity",
+        "D": "High uncertainty avoidance"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Power distance is the degree to which people accept that power in institutions is distributed unequally; high scores mean large inequalities of power and status are tolerated. (Ch 3: Hofstede's Framework for Assessing Cultures)\n**Why not B:** Collectivism concerns tight groups whose members look after one another, not deference to the top.\n**Why not C:** Masculinity concerns favouring traditional masculine roles (achievement, power, control) over gender equality.\n**Why not D:** Uncertainty avoidance concerns preferring structure and rules to reduce ambiguity, not accepting status differences."
+    },
+    {
+      "topic": "Hofstede and GLOBE",
+      "question": "Employees in one country insist on detailed written procedures, feel anxious about ambiguous assignments, and resist risky change. Which Hofstede dimension does this reflect?",
+      "options": {
+        "A": "Restraint over indulgence",
+        "B": "High power distance",
+        "C": "High uncertainty avoidance",
+        "D": "Long-term orientation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** High uncertainty-avoidance cultures feel anxious about uncertainty and ambiguity and use laws and controls to reduce it; low scorers accept ambiguity, take more risks and accept change more readily. (Ch 3: Hofstede's Framework for Assessing Cultures)\n**Why not A:** Restraint concerns controlling the gratification of needs, not avoiding ambiguity.\n**Why not B:** Power distance concerns accepting unequal power, not discomfort with ambiguity.\n**Why not D:** Long-term orientation values the future, thrift, persistence and tradition."
+    },
+    {
+      "topic": "Hofstede and GLOBE",
+      "question": "Which profile best describes Canada on Hofstede's dimensions, according to the chapter?",
+      "options": {
+        "A": "Collectivist, high in power distance, and strongly long-term in orientation",
+        "B": "Low in masculinity, much like Sweden and Norway",
+        "C": "Individualistic, but high in uncertainty avoidance and long-term",
+        "D": "Individualistic, low in power distance, fairly tolerant of uncertainty"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Canada is among the top five individualistic countries, low in power distance, relatively low in uncertainty avoidance, and short-term in orientation. (Ch 3: Exhibit 3-1 Hofstede's Cultural Values by Nation)\n**Why not A:** Canada is individualistic, low in power distance and short-term in orientation.\n**Why not B:** Canada scores much higher on masculinity than Sweden and Norway, though lower than the United States.\n**Why not C:** Canadians are relatively tolerant of uncertainty and tend to be short-term oriented."
+    },
+    {
+      "topic": "Hofstede and GLOBE",
+      "question": "A manager assumes every employee from a highly collectivist country will prefer group-based rewards. What does recent research on Hofstede's framework suggest?",
+      "options": {
+        "A": "Individuals' own values predict outcomes better than national averages",
+        "B": "Only individualism–collectivism reliably predicts work outcomes",
+        "C": "Country scores predict each individual's behaviour almost perfectly",
+        "D": "Hofstede's dimensions no longer predict any meaningful outcomes"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A review of 598 studies found that measuring individuals' own scores predicted outcomes much better than assigning everyone their country's values, so it's risky to assume everyone from a country shares the same values. (Ch 3: Research Findings: Hofstede)\n**Why not B:** The five original dimensions were equally strong predictors, so culture should be viewed holistically.\n**Why not C:** The research found individual scores predicted far better than national scores.\n**Why not D:** The dimensions still predicted relevant outcomes; the caution is about applying national averages to individuals."
+    },
+    {
+      "topic": "Hofstede and GLOBE",
+      "question": "A society strongly rewards people for being altruistic, generous and kind to others. Which dimension from the GLOBE framework captures this?",
+      "options": {
+        "A": "Performance orientation",
+        "B": "Gender differentiation",
+        "C": "Future orientation",
+        "D": "Humane orientation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** GLOBE added humane orientation: the degree to which a society rewards individuals for being altruistic, generous and kind to others. (Ch 3: The GLOBE Framework for Assessing Cultures)\n**Why not A:** Performance orientation is about encouraging and rewarding performance improvement and excellence.\n**Why not B:** Gender differentiation resembles Hofstede's masculinity–femininity dimension.\n**Why not C:** Future orientation resembles Hofstede's long-term orientation."
+    },
+    {
+      "topic": "Values in Canadian workplaces",
+      "question": "A new hire's personal values closely match her organization's values. What does the research in the chapter predict?",
+      "options": {
+        "A": "More positive attitudes, lower turnover and greater productivity",
+        "B": "Higher turnover, since she will soon outgrow the organization",
+        "C": "Little effect, since values rarely influence work behaviour",
+        "D": "Less creativity, since everyone ends up thinking alike"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Shared values between employee and organization lead to better adjustment, more positive work attitudes, higher satisfaction and commitment, lower turnover and greater productivity. (Ch 3: Values in the Canadian Workplace)\n**Why not B:** Research links value alignment to lower turnover, not higher.\n**Why not C:** Values often underlie and explain attitudes and behaviour, and alignment has clear positive effects.\n**Why not D:** The chapter reports positive outcomes of value fit; it doesn't claim fit reduces creativity."
+    },
+    {
+      "topic": "Values in Canadian workplaces",
+      "question": "A manager plans to motivate her Millennial staff on the assumption that they all want rapid promotion and constant praise. What caution does the chapter offer?",
+      "options": {
+        "A": "Millennials value only extrinsic rewards, so she should focus on those",
+        "B": "None, because research strongly confirms generational stereotypes",
+        "C": "Generational labels lack solid support, so treat people as individuals",
+        "D": "Generational differences outweigh individual differences at work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Generational classifications lack solid research support, recent reviews find many generalizations overblown or wrong, and the chapter warns against stereotyping individuals on that basis. (Ch 3: Research Findings: Generational Differences)\n**Why not A:** The chapter doesn't say Millennials value only extrinsic rewards, and it warns against generalizing.\n**Why not B:** Recent reviews suggest many generational generalizations are overblown or incorrect.\n**Why not D:** The chapter stresses that values differ among individuals within every generation."
+    },
+    {
+      "topic": "Values in Canadian workplaces",
+      "question": "A forestry company negotiating with a First Nation finds decisions take longer because the community emphasizes consensus. What approach does the chapter's evidence support?",
+      "options": {
+        "A": "Insist on a legalistic, contract-first process to move faster",
+        "B": "Treat consensus decision making as a barrier to development",
+        "C": "Teach the community Western management practices to speed things up",
+        "D": "Invest in dialogue and community involvement in decision making"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Aboriginal cultures emphasize consensus, collectivism and lower power distance. Shifting from a legalistic, contract-first approach to dialogue and collaboration eased long-standing tensions, and the recommended ground rules call for more community involvement in decisions. (Ch 3: Aboriginal Values)\n**Why not A:** Alcan found that moving away from a legalistic approach toward dialogue and collaboration reduced tension.\n**Why not B:** That's how non-Aboriginals have often perceived these values; Aboriginal people see them as a potential business strength.\n**Why not C:** First Nations reject the assumption that non-Native people must teach them how to run their own organizations."
+    },
+    {
+      "topic": "Values in Canadian workplaces",
+      "question": "A Vancouver firm wants to win contracts with companies in mainland China. Based on the research on guanxi, what should it prioritize?",
+      "options": {
+        "A": "Offering the lowest price, which outweighs relationships",
+        "B": "Building long-term, reciprocal personal relationships",
+        "C": "Drafting detailed contracts, since guanxi relies on law",
+        "D": "Seeking quick wins, since guanxi relationships are short"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Guanxi relationships are long-term and based on reciprocation, rely more on personal power than on institutional law, and are seen as more important to success in China than location, price or strategy. (Ch 3: Asian Values)\n**Why not A:** Guanxi is seen as more important to business success than price, location or strategy.\n**Why not C:** Guanxi relies less on institutional law and more on personal power and authority.\n**Why not D:** Guanxi relationships are meant to be long-term and enduring."
+    },
+    {
+      "topic": "Values in Canadian workplaces",
+      "question": "A Toronto firm opening a Montreal office expects its francophone managers to run things very differently from its anglophone managers. What does recent research in the chapter suggest?",
+      "options": {
+        "A": "Francophone managers are far more individualistic than anglophones",
+        "B": "Differences appear to be shrinking, so large gaps are unlikely",
+        "C": "Large management differences persist and are steadily growing",
+        "D": "Francophone managers take far more risks than anglophone managers"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Recent studies suggest differences between anglophone and francophone managers are decreasing, and both are trained in similar organizational theories, so large differences in management aren't expected. (Ch 3: Francophone and Anglophone Values)\n**Why not A:** Anglophone managers were traditionally seen as more individualistic, and recent research finds growing similarity.\n**Why not C:** Recent research points to decreasing, not growing, differences.\n**Why not D:** Recent studies found francophones placed the highest value on reducing uncertainty at work."
+    },
+    {
+      "topic": "Attitudes",
+      "question": "An employee says: (1) 'My manager promoted someone less qualified than me,' (2) 'I really resent her,' and (3) 'I'm going to start job hunting.' Which components of an attitude do these statements represent, in order?",
+      "options": {
+        "A": "Behavioural, affective, cognitive",
+        "B": "Cognitive, behavioural, affective",
+        "C": "Cognitive, affective, behavioural",
+        "D": "Affective, cognitive, behavioural"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The cognitive component is a belief or evaluation, the affective component is the feeling, and the behavioural component is the intention to act. (Ch 3: Attitudes, Exhibit 3-4)\n**Why not A:** Job hunting is the behavioural intention, and the belief about the promotion is cognitive.\n**Why not B:** Resentment is a feeling (affective), and job hunting is an intended action (behavioural).\n**Why not D:** The first statement is a belief (cognitive) and the second a feeling (affective), not the other way round."
+    },
+    {
+      "topic": "Attitudes",
+      "question": "A manager wants to change a team member's strongly held negative attitude toward a new system, an attitude he has voiced loudly in team meetings. What does the chapter suggest?",
+      "options": {
+        "A": "It will be easy, since stating views publicly makes people flexible",
+        "B": "It will be hard, since strong, public attitudes resist change",
+        "C": "Credibility matters little; the strength of the argument is everything",
+        "D": "Asking for a big change at once works better than a small one"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Strongly held attitudes are harder to change, and publicly expressed ones are harder still because changing means admitting a mistake. Change is more likely from someone liked, credible and convincing, and when the change needed is small. (Ch 3: From Concepts to Skills, Changing Attitudes)\n**Why not A:** Publicly expressed attitudes are harder to change, not easier.\n**Why not C:** People respond most to someone who is liked, credible and convincing; all three matter.\n**Why not D:** It's easier to change attitudes when the change required is not very significant."
+    },
+    {
+      "topic": "Job satisfaction",
+      "question": "A firm raises the salaries of employees who already earn a comfortable $80,000 a year, expecting a big jump in job satisfaction. What does the chapter predict?",
+      "options": {
+        "A": "Little change, since pay matters little once living is comfortable",
+        "B": "A large rise, since pay is the single strongest driver of job satisfaction",
+        "C": "A rise only among those who supervise other employees",
+        "D": "A drop, since raises signal heavier demands to come"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Pay correlates with satisfaction for people who are poor, but once a comfortable standard of living is reached (about $40,000 in Canada) the relationship virtually disappears. Interesting, varied work with training and independence matters more. (Ch 3: What Causes Job Satisfaction?)\n**Why not B:** Above a comfortable income level, pay and satisfaction are barely related.\n**Why not C:** Supervising others is linked to being happier in a job, but it has nothing to do with this raise.\n**Why not D:** The chapter doesn't predict that raises lower satisfaction; it predicts they add little."
+    },
+    {
+      "topic": "Job satisfaction",
+      "question": "Two employees in similar roles differ sharply in job satisfaction. One believes in her worth and competence and seeks out challenging assignments; the other doubts himself and stays in repetitive tasks. What does the chapter conclude?",
+      "options": {
+        "A": "Personality, such as core self-evaluation, shapes satisfaction",
+        "B": "Satisfaction depends only on job conditions, not on personality",
+        "C": "Self-doubt pushes people toward more challenging work",
+        "D": "Pay differences explain the gap better than personality"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** People with positive core self-evaluations see their work as more fulfilling and gravitate toward challenging jobs, while those with negative ones set less ambitious goals and get stuck in boring work. (Ch 3: What Causes Job Satisfaction?)\n**Why not B:** The chapter says job satisfaction isn't just about job conditions; personality plays a role.\n**Why not C:** It's the opposite: people with negative core self-evaluations give up more easily and stay in repetitive jobs.\n**Why not D:** Nothing suggests a pay difference, and pay matters little above a comfortable level."
+    },
+    {
+      "topic": "Job satisfaction",
+      "question": "A skeptical executive calls the link between job satisfaction and job performance 'a management myth.' What does the research reviewed in the chapter show?",
+      "options": {
+        "A": "It is a myth, as some early reviews of the research concluded",
+        "B": "The link is fairly strong, especially in jobs with more discretion",
+        "C": "The link holds only in simple, routine jobs with little discretion",
+        "D": "The link appears for individuals but not at the organization level"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A review of more than 300 studies found a quite strong satisfaction–performance correlation, higher in complex jobs that give employees discretion, and organizations with more satisfied employees tend to be more effective. (Ch 3: Job Satisfaction and Productivity)\n**Why not A:** Some researchers once called it illusory, but the larger review found a strong relationship.\n**Why not C:** The correlation is higher for complex jobs with more discretion, not lower.\n**Why not D:** Organizations with more satisfied employees also tend to be more effective."
+    },
+    {
+      "topic": "Job satisfaction",
+      "question": "A manager wants to use job satisfaction scores to anticipate withdrawal problems. Which outcome does satisfaction predict more strongly, according to the chapter?",
+      "options": {
+        "A": "Neither, since satisfaction is unrelated to withdrawal",
+        "B": "Absenteeism, more strongly than turnover",
+        "C": "Turnover, more strongly than absenteeism",
+        "D": "Absenteeism, especially where sick leave is generous"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The satisfaction–turnover relationship is stronger; the link with absenteeism is consistent but moderate to weak, partly because policies like generous sick leave encourage even satisfied employees to take days off. (Ch 3: Job Satisfaction and Absenteeism and Turnover)\n**Why not A:** Both relationships are negative and consistent; satisfaction does matter.\n**Why not B:** The relationship with absenteeism is moderate to weak and weaker than the one with turnover.\n**Why not D:** Generous sick leave weakens the satisfaction–absence link, since even satisfied employees take paid days off."
+    },
+    {
+      "topic": "Job satisfaction",
+      "question": "A dissatisfied, highly educated engineer works in a booming job market. Compared with an equally dissatisfied colleague who has few job options, how likely is she to quit?",
+      "options": {
+        "A": "Less likely, since booming markets make people more satisfied",
+        "B": "More likely, since many options and high human capital ease exits",
+        "C": "Less likely, since highly educated staff tend to be more loyal",
+        "D": "Equally likely, since job alternatives don't affect that link"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Dissatisfaction is more likely to turn into turnover when jobs are plentiful and when employees have high human capital (education, ability) and so see many alternatives. (Ch 3: Job Satisfaction and Absenteeism and Turnover)\n**Why not A:** The question is about dissatisfied employees, and booming markets make it easier for them to leave.\n**Why not C:** High human capital makes dissatisfaction more likely to lead to turnover, not less.\n**Why not D:** Alternative job prospects clearly moderate the satisfaction–turnover relationship."
+    },
+    {
+      "topic": "Job satisfaction",
+      "question": "Why are satisfied employees more likely to engage in organizational citizenship behaviour, according to the chapter?",
+      "options": {
+        "A": "Because citizenship behaviour is formally rewarded in most firms",
+        "B": "Because citizenship is written into their formal job descriptions",
+        "C": "They want to reciprocate good experiences, especially fair treatment",
+        "D": "Because satisfied employees have more spare time at work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Satisfied employees tend to reciprocate their positive experiences; fairness perceptions, supportive co-workers, certain personality traits and good moods all help explain the link. (Ch 3: Job Satisfaction and Organizational Citizenship Behaviour)\n**Why not A:** OCB is discretionary and usually not formally rewarded.\n**Why not B:** By definition, OCB isn't part of formal job requirements.\n**Why not D:** The chapter explains the link through reciprocity and fairness, not spare time."
+    },
+    {
+      "topic": "Job satisfaction",
+      "question": "A study of 15 countries finds South Korean employees report the lowest job satisfaction, yet South Korea is seen as an economic success story. What does the chapter suggest about this?",
+      "options": {
+        "A": "Low satisfaction there hasn't meant poor overall performance",
+        "B": "It shows South Korean jobs are objectively the world's worst",
+        "C": "It shows satisfaction can't be compared across cultures",
+        "D": "It proves job satisfaction is purely an American concept"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Job satisfaction applies across cultures, but levels differ, with Western employees generally higher. South Korea's low scores may reflect a conformist, hierarchical business culture or exposure to other countries' practices, yet its performance remains strong. (Ch 3: Global Implications)\n**Why not B:** The chapter offers several explanations, including culture and exposure to outside practices; it doesn't conclude the jobs are objectively the worst.\n**Why not C:** The chapter does compare satisfaction across countries and finds Western cultures generally higher.\n**Why not D:** People in other cultures do form satisfaction judgments, with similar causes and results."
+    },
+    {
+      "topic": "Responses to dissatisfaction",
+      "question": "Unhappy with new scheduling rules, nurses at a hospital stay in their jobs but meet with management and file a formal grievance proposing alternatives. Which response to dissatisfaction is this?",
+      "options": {
+        "A": "Neglect",
+        "B": "Voice",
+        "C": "Exit",
+        "D": "Loyalty"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Voice is active and constructive: trying to improve conditions by suggesting improvements, discussing problems with superiors or using union channels such as grievances. (Ch 3: Exhibit 3-7 Responses to Job Dissatisfaction)\n**Why not A:** Neglect is passively letting conditions worsen through absence, lateness or reduced effort.\n**Why not C:** Exit is actively trying to leave the organization; the nurses are staying.\n**Why not D:** Loyalty is passively waiting for conditions to improve; the nurses are acting."
+    },
+    {
+      "topic": "Responses to dissatisfaction",
+      "question": "An unhappy employee starts arriving late, calls in sick more often and makes more errors, while doing nothing to change the situation. Which response to dissatisfaction is this?",
+      "options": {
+        "A": "Loyalty",
+        "B": "Exit",
+        "C": "Voice",
+        "D": "Neglect"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Neglect is passive and destructive: allowing conditions to worsen through chronic absenteeism or lateness, reduced effort and more errors. (Ch 3: Exhibit 3-7 Responses to Job Dissatisfaction)\n**Why not A:** Loyalty is passive but optimistic, trusting management to fix things, not withdrawing effort.\n**Why not B:** Exit means actively looking for another job or resigning.\n**Why not C:** Voice means actively and constructively trying to improve conditions."
+    },
+    {
+      "topic": "Responses to dissatisfaction",
+      "question": "To curb absenteeism caused by low morale, a firm introduces a strict attendance policy. Absences fall, but theft and personal Internet use rise. What does the chapter advise?",
+      "options": {
+        "A": "Add equally strict policies for theft and Internet use",
+        "B": "Encourage dissatisfied employees to exit as quickly as possible",
+        "C": "Accept the new behaviours, since they're less costly than absence",
+        "D": "Attack the dissatisfaction itself, not each separate response"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Dissatisfied employees 'get even' in creative ways, so controlling one behaviour leaves the root cause untouched; employers should tackle the source, which is the dissatisfaction. (Ch 3: How Employees Can Express Dissatisfaction)\n**Why not A:** Controlling responses one at a time leaves the cause untouched, and dissatisfaction resurfaces elsewhere.\n**Why not B:** Exit is destructive from the organization's point of view; the advice is to reduce the dissatisfaction.\n**Why not C:** The chapter treats these as part of a broader pattern of deviant behaviour to be addressed at its source."
+    },
+    {
+      "topic": "Responses to dissatisfaction",
+      "question": "A firm's senior managers are confident morale is high, though they have never surveyed employees. What does the chapter's evidence suggest?",
+      "options": {
+        "A": "They may be overestimating it, so they should measure satisfaction",
+        "B": "Managers usually underestimate how satisfied their staff really are",
+        "C": "Measurement is unnecessary as long as staff turnover stays low",
+        "D": "A rising stock price confirms morale is high, so no survey is needed"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Studies show managers often overestimate satisfaction (for example, 86% of senior managers believed employees were treated well versus 55% of employees), so managers should care about satisfaction and measure it rather than assume. (Ch 3: Managers Often 'Don't Get It')\n**Why not B:** The evidence shows managers tend to overestimate satisfaction, not underestimate it.\n**Why not C:** Low turnover can coexist with low satisfaction, for example when employees use voice or loyalty.\n**Why not D:** High-morale firms did see stronger stock growth, but a rising price doesn't confirm satisfaction in a given firm."
+    },
+    {
+      "topic": "Commitment and other job attitudes",
+      "question": "Mei stays with her employer mainly because her salary and pension would be hard to replace; she feels no real attachment or obligation. Which form of commitment is this, and what is it linked to?",
+      "options": {
+        "A": "Affective: the form most strongly tied to overall organizational performance",
+        "B": "Normative: a sense of moral obligation that raises performance",
+        "C": "Continuance: the form most beneficial to performance and attendance",
+        "D": "Continuance: lower intent to quit, but more absence and weaker performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Continuance commitment means staying because of the perceived costs of leaving. It's linked to a lower intention to quit but more absence and lower performance, since the employee is merely 'tethered' to the employer. (Ch 3: Organizational Commitment)\n**Why not A:** Affective commitment is emotional attachment and belief in the organization's values, which Mei doesn't feel.\n**Why not B:** Normative commitment is a feeling of obligation to stay, and Mei feels none.\n**Why not C:** Continuance commitment is linked to more absence and lower performance."
+    },
+    {
+      "topic": "Commitment and other job attitudes",
+      "question": "Arjun is leading a key initiative and turns down a better offer because he feels he'd be leaving his employer 'in the lurch.' Which form of commitment does this show?",
+      "options": {
+        "A": "Continuance commitment",
+        "B": "Affective commitment",
+        "C": "Job involvement",
+        "D": "Normative commitment"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Normative commitment is the obligation an individual feels to stay with an organization for moral or ethical reasons, as in the chapter's 'leave the employer in the lurch' example. (Ch 3: Organizational Commitment)\n**Why not A:** Continuance commitment is staying because of the economic costs of leaving.\n**Why not B:** Affective commitment is emotional attachment to the organization and belief in its values, not a sense of obligation.\n**Why not C:** Job involvement is identifying psychologically with one's job, not feeling obliged to stay with the organization."
+    },
+    {
+      "topic": "Commitment and other job attitudes",
+      "question": "A nurse identifies strongly with her work and considers her performance central to her sense of self-worth. Which job attitude does this describe?",
+      "options": {
+        "A": "Normative commitment",
+        "B": "Job involvement",
+        "C": "Psychological empowerment",
+        "D": "Perceived organizational support"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Job involvement is the degree to which people identify psychologically with their job and consider their performance important to their self-worth. (Ch 3: Job Involvement)\n**Why not A:** Normative commitment is an obligation to stay with an organization.\n**Why not C:** Psychological empowerment is about believing one influences the work environment and has competence, meaning and autonomy.\n**Why not D:** POS is the belief that the organization values one's contribution and cares about one's well-being."
+    },
+    {
+      "topic": "Commitment and other job attitudes",
+      "question": "When an engineer is diagnosed with leukemia, his CEO and hundreds of colleagues cover his out-of-pocket costs and stay in touch through his recovery. Which attitude does this build among employees, and with what typical outcomes?",
+      "options": {
+        "A": "Job involvement, linked to identifying with the tasks themselves",
+        "B": "Perceived organizational support, linked to more OCB and better service",
+        "C": "Continuance commitment, linked to lower absenteeism and higher output",
+        "D": "Psychological empowerment, linked to greater autonomy on the job"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** POS is the belief that the organization values your contribution and cares about your well-being; strong POS is linked to more citizenship behaviour, less tardiness and better customer service, mainly in low power-distance cultures. (Ch 3: Perceived Organizational Support)\n**Why not A:** Job involvement is about identifying with one's job; the scenario is about the organization caring for employees.\n**Why not C:** Continuance commitment is about the costs of leaving, and it's linked to more absence and lower performance.\n**Why not D:** Empowerment concerns beliefs about one's influence, competence and autonomy, not the organization's care."
+    },
+    {
+      "topic": "Commitment and other job attitudes",
+      "question": "A senior manager is so engaged in her work that she has begun to resent family responsibilities that interrupt it. What possible downside of engagement does the chapter note?",
+      "options": {
+        "A": "Engagement is really just job satisfaction under a new name",
+        "B": "Engagement steadily lowers performance over time",
+        "C": "Engagement can be linked to greater work–family conflict",
+        "D": "Engagement makes people less absorbed in their tasks"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Critics note engagement may have a 'dark side', as shown by positive relationships between engagement and work–family conflict. (Ch 3: Employee Engagement)\n**Why not A:** Research shows engagement is distinct from satisfaction and involvement and predicts behaviour beyond them.\n**Why not B:** Engagement may predict important outcomes better than traditional attitudes; the chapter doesn't say it lowers performance.\n**Why not D:** Engagement measures assess motivation and absorption; engaged people are more absorbed, not less."
+    },
+    {
+      "topic": "Diversity and cultural intelligence",
+      "question": "A company wants a diversity program that actually changes who reaches management. Which design best reflects the chapter's guidance?",
+      "options": {
+        "A": "Ongoing practices with measured goals and manager accountability",
+        "B": "Messaging that stresses which groups need extra assistance",
+        "C": "Training focused on what employees must not say or do",
+        "D": "A single mandatory diversity workshop for all staff each year"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** One-shot training rarely changes outcomes; effective programs measure the representation of women and visible minorities in management, hold managers accountable, and focus on the positive benefits of diversity. (Ch 3: Effective Diversity Programs)\n**Why not B:** The chapter warns that emphasizing that certain groups need more help can backfire; focus on qualifications and performance.\n**Why not C:** Focusing on the positive benefits of diversity reduced prejudice more than telling people what they should and shouldn't do.\n**Why not D:** Organizations that provided diversity training weren't consistently more likely to have women and minorities in upper management; one-shot sessions rarely work."
+    },
+    {
+      "topic": "Diversity and cultural intelligence",
+      "question": "A Canadian multinational expanding into India wants to apply its Canadian diversity rules unchanged everywhere. What does the chapter note?",
+      "options": {
+        "A": "A consistent global diversity philosophy is impossible",
+        "B": "Laws differ by country, so policies must be tailored locally",
+        "C": "Use quotas everywhere, since Canadian law requires them",
+        "D": "Diversity law is uniform worldwide, so one policy suffices"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Each country's legal framework reflects its own diversity concerns: Canada forbids quotas, while India's framework includes quotas and set-asides for lower castes. A consistent global philosophy is possible, but policies need local adaptation, as the TRANSCO case shows. (Ch 3: Is Diversity Managed Differently across Cultures?)\n**Why not A:** The TRANSCO case shows a consistent global philosophy is possible, with locally tailored policies.\n**Why not C:** Canada's legal framework specifically forbids the use of quotas.\n**Why not D:** Legal frameworks vary widely across countries, so one policy won't fit everywhere."
+    },
+    {
+      "topic": "Diversity and cultural intelligence",
+      "question": "A manager on assignment in Germany meets two German engineers and can tell which of their behaviours stem from being engineers, which from being German, and which are simply personal quirks. Which ability is she showing?",
+      "options": {
+        "A": "High self-monitoring",
+        "B": "Emotional intelligence",
+        "C": "Cultural intelligence",
+        "D": "Low uncertainty avoidance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Cultural intelligence (CQ) is the ability to interpret unfamiliar, ambiguous behaviour as people from that culture would, including judging whether behaviour reflects the group or just the individual, as in the chapter's German-engineer example. (Ch 3: Cultural Intelligence)\n**Why not A:** Self-monitoring is adjusting one's own behaviour to situations, not decoding others' cultural behaviour.\n**Why not B:** CQ 'picks up where emotional intelligence leaves off'; EI concerns perceiving and managing emotions.\n**Why not D:** That's a national culture dimension about tolerating ambiguity, not an individual skill in reading cultures."
+    },
+    {
+      "topic": "Diversity and cultural intelligence",
+      "question": "Before meeting local partners, a manager methodically studies the foreign culture's rules and expectations to work out how she should behave. Which cultural intelligence profile fits her?",
+      "options": {
+        "A": "Ambassador",
+        "B": "Mimic",
+        "C": "Natural",
+        "D": "Analyst"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Analysts work out a foreign culture's rules and expectations to figure out how to interact with others. (Ch 3: Research Findings: Cultural Intelligence)\n**Why not A:** Ambassadors convincingly communicate that they fit in, even without knowing much about the culture.\n**Why not B:** Mimics copy others' actions even without understanding the cultural cues.\n**Why not C:** Naturals rely on intuition rather than systematic study."
+    },
+    {
+      "topic": "Diversity and cultural intelligence",
+      "question": "An expatriate easily changes her gestures, posture, accent and tone to suit local colleagues, which builds trust quickly. Which component of cultural intelligence is strongest in her?",
+      "options": {
+        "A": "Physical CQ",
+        "B": "Cognitive CQ",
+        "C": "The chameleon profile",
+        "D": "Emotional/motivational CQ"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Physical CQ is learning the customs and gestures of other cultures and acting more like them, which increases understanding, trust and openness. (Ch 3: Research Findings: Cultural Intelligence)\n**Why not B:** Cognitive CQ is looking for clues to a culture's shared understandings, the 'head' component.\n**Why not C:** Chameleons are high on all three CQ components (only about 5% of managers); the scenario describes the physical component.\n**Why not D:** This component is confidence and persistence in understanding other cultures, the 'heart'."
+    }
+  ]
+}

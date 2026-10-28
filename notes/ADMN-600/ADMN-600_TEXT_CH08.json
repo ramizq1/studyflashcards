@@ -1,0 +1,602 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "08",
+    "title": "Power and Politics"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 8",
+  "questions": [
+    {
+      "topic": "Power and dependence",
+      "question": "In a large company, nearly everyone up to the CEO relies on a small IT group to keep systems running, and few others have the skills to do it. Why does the IT group have considerable power?",
+      "options": {
+        "A": "Others depend on it, and it's seen as irreplaceable",
+        "B": "It controls rewards such as pay raises and promotions",
+        "C": "It's well liked, so others want to be like its staff",
+        "D": "It holds the most legitimate authority in the hierarchy"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Power is a function of dependence: because everyone relies on IT and few have the expertise, IT staff are viewed as irreplaceable, which gives them a lot of power. (Ch 8: A Definition of Power)\n**Why not B:** IT doesn't control rewards; its power comes from dependence on its scarce skills.\n**Why not C:** That would be referent power; here the source is dependence on scarce expertise.\n**Why not D:** IT's power doesn't come from its position in the hierarchy but from others' dependence on it."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "A manufacturer buys a critical component from a single supplier, which keeps raising its prices. What does the general dependency postulate suggest the manufacturer should do?",
+      "options": {
+        "A": "Develop alternative suppliers to reduce its dependence",
+        "B": "Ask the supplier for more information to build trust",
+        "C": "Sign a longer contract to show its loyalty to the supplier",
+        "D": "Accept the prices, since dependence can't be changed"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Dependence is inversely proportional to the alternative sources of supply; the more options you have, the less power you place in others' hands, which is why organizations develop multiple suppliers. (Ch 8: The General Dependency Postulate)\n**Why not B:** The postulate concerns alternatives and dependence, not information exchange.\n**Why not C:** Loyalty doesn't reduce dependence; alternatives do.\n**Why not D:** Dependence can be reduced by creating alternatives."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "A university easily hires English instructors but struggles to find corporate finance professors, who negotiate higher pay and lighter teaching loads. What creates the finance professors' bargaining power?",
+      "options": {
+        "A": "Referent appeal: students admire finance faculty",
+        "B": "Legitimacy: their academic rank gives them formal authority",
+        "C": "Importance: finance matters more to universities than English",
+        "D": "Scarcity: demand for their skills far exceeds supply"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A resource must be perceived as scarce to create dependence; the market for finance faculty is tight (high demand, limited supply), giving them bargaining power, unlike the plentiful English instructors. (Ch 8: What Creates Dependence? Scarcity)\n**Why not A:** The example concerns labour-market scarcity, not admiration.\n**Why not B:** Their power isn't positional; it comes from the scarcity of their skills.\n**Why not C:** The chapter's contrast is about supply and demand, which is scarcity."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "A highly published professor gets job offers from other universities, while a colleague with no publications has no offers and defers to every request from the department head. Which source of dependence explains the difference?",
+      "options": {
+        "A": "Nonsubstitutability: the published professor is hard to replace",
+        "B": "Coercion: the department head threatens the unpublished colleague",
+        "C": "Legitimacy: the published professor holds a higher formal position",
+        "D": "Importance: only research, not teaching, matters to the university"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The fewer substitutes there are for a resource, the more power it brings; highly published, visible faculty are more mobile, while those with few publications have the least mobility and are most subject to their superiors' influence. (Ch 8: What Creates Dependence? Nonsubstitutability)\n**Why not B:** Nothing suggests threats; the difference is how replaceable each professor is.\n**Why not C:** The difference comes from mobility and replaceability, not formal rank.\n**Why not D:** The chapter frames this as substitutability and mobility."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "A senior executive harshly condemns employees who pad expense reports, yet pads his own without a second thought. What does research on power suggest?",
+      "options": {
+        "A": "Power makes people stricter with themselves than with others",
+        "B": "Only people without legitimate power show this double standard",
+        "C": "Power can foster moral hypocrisy, especially legitimate power",
+        "D": "Moral hypocrisy reflects low status, not holding power"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People with power judged others more harshly for acts like dodging taxes than when they did the same things themselves, and those with legitimate power were even more likely to indulge in moral hypocrisy. (Ch 8: A Definition of Power)\n**Why not A:** The research shows the reverse: the powerful are stricter with others.\n**Why not B:** Those with legitimate power were even more likely to be hypocritical.\n**Why not D:** The study links this double standard to holding power."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "In an experiment, people who imagined being in a powerless employee role chose a store with 15 options over one with 3, even if it meant driving farther. What does this suggest?",
+      "options": {
+        "A": "Power and choice are unrelated to people's sense of control",
+        "B": "Powerful people demand more choice than powerless ones",
+        "C": "Choice and power both satisfy a need for control",
+        "D": "Choice reduces motivation for people in low-power roles"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People with power don't feel the need for as much choice, while those lacking power demand more; power and choice each replenish a sense of control. (Ch 8: Focus on Research, Power: It's All About Control)\n**Why not A:** The research ties both power and choice to a sense of control.\n**Why not B:** It was the powerless, not the powerful, who sought more choice.\n**Why not D:** For people in low-power positions, having choice feels good."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "A supervisor can assign unpleasant shifts, suspend employees and withhold information others need to do their jobs. Which base of power does all of this reflect?",
+      "options": {
+        "A": "Legitimate power",
+        "B": "Reward power",
+        "C": "Expert power",
+        "D": "Coercive power"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Coercive power rests on fear of negative results; at work it includes being able to dismiss, suspend or demote, assign unpleasant work, embarrass people, and withhold key information others need. (Ch 8: Formal Power, Coercive Power)\n**Why not A:** Legitimate power comes from a position and acceptance of its authority; this scenario centres on fear of negative outcomes.\n**Why not B:** Reward power is the ability to distribute things others value.\n**Why not C:** Expert power is influence based on special skills or knowledge."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "A team lead has no say over pay, but she decides who gets the most interesting projects and preferred sales territories, and her team works hard to stay in her good books. Which base of power is she using?",
+      "options": {
+        "A": "Coercive power, through fear of losing current pay",
+        "B": "Reward power, through valued nonfinancial rewards",
+        "C": "Legitimate power, through her place in the hierarchy",
+        "D": "Referent power, through her team's admiration of her"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Reward power comes from distributing rewards others value, which can be financial (pay, bonuses) or nonfinancial (recognition, interesting assignments, preferred shifts or territories). (Ch 8: Formal Power, Reward Power)\n**Why not A:** She doesn't control pay; she controls desirable assignments.\n**Why not C:** Her influence comes from controlling valued rewards, not from her position alone.\n**Why not D:** The team is motivated by access to rewards, not a desire to be like her."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "In Milgram's experiment, subjects kept giving what they believed were dangerous shocks whenever a lab-coated experimenter told them to continue. Which base of power does this demonstrate most strongly?",
+      "options": {
+        "A": "Coercive power: subjects feared being punished themselves",
+        "B": "Legitimate power: many obey apparent authority",
+        "C": "Expert power: subjects trusted the experimenter's science",
+        "D": "Referent power: subjects wanted to be like the experimenter"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** No subject stopped before 300 volts, and 65% continued to the end despite the 'Danger XXX' label; many people will obey those who appear to have legitimate authority, even in questionable circumstances. (Ch 8: Focus on Research, A Shocking Experiment)\n**Why not A:** Subjects weren't threatened; they complied with authority.\n**Why not C:** The chapter uses Milgram to show how far people go to comply with authority figures, which is legitimate power.\n**Why not D:** Compliance came from perceived authority, not admiration."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "A beverage company pays a popular athlete millions of dollars to appear in its ads. Which base of power is it trying to borrow?",
+      "options": {
+        "A": "Expert power from the athlete's skill",
+        "B": "Legitimate power from the athlete's fame",
+        "C": "Reward power from sponsorship money",
+        "D": "Referent power from fans' admiration"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Referent power develops from admiration of another person and a desire to be like them, which explains why celebrities are paid to endorse products. (Ch 8: Personal Power, Referent Power)\n**Why not A:** Expert power is influence from knowledge relevant to the matter at hand; endorsements rely on admiration.\n**Why not B:** Legitimate power comes from a formal position in an organization's hierarchy.\n**Why not C:** The company pays the athlete, but the influence on consumers comes from admiration."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "A manager relies mainly on threats of discipline to get results. Which employee response does research most associate with this approach?",
+      "options": {
+        "A": "Commitment, since clear consequences focus effort",
+        "B": "Satisfaction, since rules are applied consistently",
+        "C": "Resistance, plus more mistrust and lower commitment",
+        "D": "Compliance with high initiative and persistence"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Coercive power leads to resistance and increased mistrust, and it's negatively related to employee satisfaction and commitment. (Ch 8: Evaluating the Bases of Power, Exhibit 8-1)\n**Why not A:** Expert and referent power, not coercion, are most likely to produce commitment.\n**Why not B:** Coercive power is negatively related to employee satisfaction.\n**Why not D:** Compliance involves minimal effort and little initiative; coercion tends to produce resistance."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "Two managers want their teams to go beyond the minimum. One relies on her formal title; the other is admired for her expertise and character. Which is more likely to win commitment, and what does the chapter note about managers' habits?",
+      "options": {
+        "A": "The second; and most managers already rely on personal power",
+        "B": "The second; yet managers most often use the less effective bases",
+        "C": "The first; formal authority reliably inspires extra effort",
+        "D": "Both equally, since any power base produces commitment"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Expert and referent power are most likely to produce commitment, while legitimate power yields compliance. Ironically, the least effective bases for commitment (coercive, reward, legitimate) are the ones managers use most, perhaps because they're easiest. (Ch 8: Evaluating the Bases of Power)\n**Why not A:** Managers most often rely on coercive, reward and legitimate power.\n**Why not C:** Legitimate power produces compliance but doesn't generally increase commitment.\n**Why not D:** The bases of power differ in their impact on commitment."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "A project manager needs approval for a new system from a steering committee that cares deeply about the outcome. Which tactics are most likely to work?",
+      "options": {
+        "A": "A combination of ingratiation and appeals to legitimacy",
+        "B": "Pressure, claims of legitimacy, and frequent deadline reminders",
+        "C": "Exchange and coalition building as the very first steps",
+        "D": "Rational persuasion, inspirational appeals and consultation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Rational persuasion, inspirational appeals and consultation tend to be the most effective tactics, especially when the audience is highly interested in the outcome of a decision. (Ch 8: Influence Tactics)\n**Why not A:** That combination helps mainly when the audience doesn't really care about the outcome or the policy is routine.\n**Why not B:** Pressure frequently backfires and is typically the least effective of the nine tactics.\n**Why not C:** Harder tactics like exchange and coalitions should follow softer ones if those fail."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "An employee wants to persuade a peer in another department to share equipment. Which tactics does research find most effective for this kind of lateral influence?",
+      "options": {
+        "A": "Inspirational appeals and pressure",
+        "B": "Ingratiation alone, without any data",
+        "C": "Personal appeals and coalitions",
+        "D": "Pressure and claims of legitimacy"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Personal appeals and coalitions are most effective in lateral influence attempts; rational persuasion works across all levels, while inspirational appeals and pressure work mainly downward. (Ch 8: Influence Tactics)\n**Why not A:** These tactics work mainly as downward influence with subordinates.\n**Why not B:** The research singles out personal appeals and coalitions for lateral influence.\n**Why not D:** Pressure, when it works at all, works mainly downward."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "A manager wants to influence her boss, a peer and her own staff on the same issue. Which single tactic does research find effective in all three directions?",
+      "options": {
+        "A": "Rational persuasion",
+        "B": "Personal appeals",
+        "C": "Pressure",
+        "D": "Inspirational appeals"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Studies have found that rational persuasion is the only tactic that's effective across organizational levels. (Ch 8: Influence Tactics)\n**Why not B:** Personal appeals are most effective for lateral influence.\n**Why not C:** Pressure, when it works, achieves only downward influence.\n**Why not D:** Inspirational appeals work best as a downward tactic with subordinates."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "A team leader opens with pressure and threats to get a colleague's support, and the attempt backfires. What sequence does the chapter recommend instead?",
+      "options": {
+        "A": "Start with soft tactics, then move to harder ones if needed",
+        "B": "Use a single hard tactic, since it's more effective than soft",
+        "C": "Combine several hard tactics to maximize the pressure",
+        "D": "Start with hard tactics, then soften once compliance is won"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** You're more effective starting with soft tactics that rely on personal power (personal and inspirational appeals, rational persuasion, consultation) and moving to hard tactics (exchange, coalitions, pressure) only if those fail. (Ch 8: Influence Tactics)\n**Why not B:** A single soft tactic is more effective than a single hard one.\n**Why not C:** Combining two soft tactics, or a soft tactic with rational persuasion, beats combinations of hard tactics.\n**Why not D:** This reverses the recommended sequence."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "A manager must influence two staff members. Aisha is reflective, intrinsically motivated and high in self-esteem; Leo is action-oriented, extrinsically motivated and focused on getting along. Who is more likely to respond to soft tactics?",
+      "options": {
+        "A": "Both equally, since tactic effectiveness doesn't vary",
+        "B": "Aisha, since soft tactics suit reflective, intrinsic types",
+        "C": "Leo, since soft tactics suit action-oriented, social types",
+        "D": "Neither, since soft tactics work only on subordinates"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** People likely to comply with soft tactics are more reflective and intrinsically motivated, with high self-esteem and a greater desire for control; those who comply with hard tactics are action-oriented, extrinsically motivated and focused on getting along. (Ch 8: Influence Tactics)\n**Why not A:** The effectiveness of tactics depends on the audience.\n**Why not C:** Action-oriented, extrinsically motivated people are more likely to comply with hard tactics.\n**Why not D:** Soft tactics aren't limited to subordinates; rational persuasion works across levels."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "A politically skilled manager influences others smoothly, without them noticing. In which kind of organization might her political skill actually be negatively related to her performance ratings?",
+      "options": {
+        "A": "One with a warm, relaxed and supportive culture",
+        "B": "One with open, fairly applied rules and no favouritism",
+        "C": "One with low procedural and distributive justice overall",
+        "D": "One where the stakes and accountability are high"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The politically skilled seem most able to use their skills where procedural and distributive justice are low; in organizations with open, fairly applied rules free of favouritism or bias, political skill is negatively related to performance ratings. (Ch 8: Influence Tactics, Political Skill)\n**Why not A:** The finding concerns the fairness of rules, not the warmth of the culture.\n**Why not C:** That's where political skill seems most usable.\n**Why not D:** Political skill appears more effective when the stakes are high."
+    },
+    {
+      "topic": "How power affects people",
+      "question": "In an experiment, a student assigned to be the 'boss' evaluating two writers is far more likely than they are to take the extra cookie from a shared plate, and chews with his mouth open. What does this suggest?",
+      "options": {
+        "A": "Power makes people more careful about others' judgments",
+        "B": "Power makes people focus more on threats and punishment",
+        "C": "Power makes people less inhibited and more counter-normative",
+        "D": "Bosses were simply hungrier, since they did much less of the writing"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In the cookie experiment, 'bosses' took the fourth cookie and ate sloppily, suggesting powerful people are less inhibited and sometimes act counter-normatively, while the powerless inhibit themselves and act contingently on others. (Ch 8: Focus on Research, The Cookie Experiment)\n**Why not A:** It's the powerless who make more careful, controlled judgments about others.\n**Why not B:** The powerless are the ones more likely to attend to punishment and threat.\n**Why not D:** The researchers interpreted the behaviour as a sign of power's disinhibiting effect."
+    },
+    {
+      "topic": "How power affects people",
+      "question": "A newly promoted supervisor, previously very low in status, begins abusing her authority over her former peers. What does research suggest about who is most likely to abuse power?",
+      "options": {
+        "A": "High-status people who gain more power are most likely to abuse it",
+        "B": "Status has no bearing on who goes on to abuse newly gained power",
+        "C": "Anxious personalities are most likely to be corrupted by power",
+        "D": "Low-status people who gain power are most likely to abuse it"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The people most likely to abuse power are those low in status who gain power; low status is threatening, and that fear gets used in negative ways once power is given. (Ch 8: How Power Affects People)\n**Why not A:** The research points to low-status people who gain power.\n**Why not B:** Low status, and the threat it brings, makes abuse more likely.\n**Why not C:** Power doesn't seem to corrupt anxious people, who are less likely to think using power benefits them."
+    },
+    {
+      "topic": "How power affects people",
+      "question": "A company worries that giving its managers more authority will make them self-serving. Which safeguard does research suggest can stop self-serving behaviour?",
+      "options": {
+        "A": "Giving powerful people even more autonomy and discretion",
+        "B": "Holding powerful people accountable for their behaviour",
+        "C": "Choosing only managers with highly confident personalities",
+        "D": "Rewarding risky gains while rarely penalizing any losses"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The corrosive effect of power can be contained by organizational systems: a 2012 study found that when accountability for self-serving behaviour was introduced, the behaviour stopped. (Ch 8: How Power Affects People)\n**Why not A:** More discretion doesn't contain power's self-serving effects; accountability does.\n**Why not C:** Power already breeds overconfident decisions; it's anxious personalities that power tends not to corrupt.\n**Why not D:** That creates a moral hazard, which makes powerful people more likely to decide in their own interest."
+    },
+    {
+      "topic": "How power affects people",
+      "question": "Two executives receive the same big promotion. One becomes more self-interested; the other becomes more morally aware. What best explains the difference?",
+      "options": {
+        "A": "The strength of each person's moral identity",
+        "B": "Whether each person holds legitimate or expert power",
+        "C": "How long each person waited to be promoted",
+        "D": "The size of each person's new salary increase"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Power reveals more than it corrupts: it led to self-interested behaviour only for people with weak moral identities, while for those with strong moral identities it enhanced moral awareness. (Ch 8: How Power Affects People)\n**Why not B:** The research on this point concerns moral identity, not the base of power.\n**Why not C:** Waiting time isn't the factor; moral identity is.\n**Why not D:** The research explains the difference through moral identity, not pay."
+    },
+    {
+      "topic": "How power affects people",
+      "question": "An employee who often clashes with a powerful VP makes a point of sincerely thanking her for her support on a project. What does research suggest may follow?",
+      "options": {
+        "A": "The VP will feel obligated to grant him a promotion",
+        "B": "The VP sees the thanks as weakness and becomes more aggressive",
+        "C": "Gratitude has no effect, since the powerful ignore subordinates",
+        "D": "The VP becomes less likely to act aggressively toward him"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** We have some power to blunt power's negative effects: one study showed that simply expressing gratitude toward powerful others made them less likely to aggress against us. (Ch 8: How Power Affects People)\n**Why not A:** The finding concerns reduced aggression, not obligations to promote.\n**Why not B:** The research found gratitude reduced, rather than increased, aggression.\n**Why not C:** Expressing gratitude did change how powerful people behaved."
+    },
+    {
+      "topic": "Empowerment",
+      "question": "A company tells employees they're 'empowered' to resolve customer complaints, but every refund still needs a manager's sign-off and supervisors second-guess each decision. What's the likely result?",
+      "options": {
+        "A": "Cynicism, since staff lack the authority to act on decisions",
+        "B": "Higher commitment, since being told you're empowered is enough",
+        "C": "Better decisions, since managers' oversight catches errors",
+        "D": "Higher satisfaction, as long as rewards remain unchanged"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Managers often give empowerment lip service, assigning responsibility without the authority to carry out decisions; this breeds cynicism, especially when 'empowered' employees are micromanaged. (Ch 8: Definition of Empowerment)\n**Why not B:** Full empowerment needs information, rewards and real authority to decide.\n**Why not C:** Micromanaging 'empowered' employees undermines empowerment and breeds cynicism.\n**Why not D:** The core problem is the lack of authority, not rewards."
+    },
+    {
+      "topic": "Empowerment",
+      "question": "A hotel wants its front-desk staff to be fully empowered to fix guests' problems on the spot. According to the chapter, what must it provide?",
+      "options": {
+        "A": "A clear script, close supervision, and penalties for mistakes",
+        "B": "Information, rewards for responsible action, and real authority",
+        "C": "Higher pay, a new title, and a seat on the management team",
+        "D": "Training only, since skills alone let staff act independently"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** To be fully empowered, an employee needs access to the information required to make decisions, rewards for acting in appropriate and responsible ways, and the authority to make the necessary decisions. (Ch 8: Definition of Empowerment)\n**Why not A:** Scripts, close supervision and penalties are the opposite of empowerment.\n**Why not C:** Empowerment rests on information, rewards for responsible action and authority, not titles.\n**Why not D:** Skills help, but employees also need information, rewards and authority."
+    },
+    {
+      "topic": "Empowerment",
+      "question": "A software developer feels free to choose how she does her work, believes it matters, knows she can do it well and sees her ideas influence her unit. According to Quinn and Spreitzer, what does this profile describe?",
+      "options": {
+        "A": "The four drives that motivate people at work",
+        "B": "The critical psychological states of the JCM",
+        "C": "The four characteristics shared by empowered people",
+        "D": "The three determinants of a person's trustworthiness"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Quinn and Spreitzer found that empowered people share self-determination, a sense of meaning, a sense of competence and a sense of impact. (Ch 8: Definition of Empowerment, Exhibit 8-2)\n**Why not A:** The drives to acquire, bond, comprehend and defend are a Chapter 5 model of motivation.\n**Why not B:** The JCM's states are experienced meaningfulness, experienced responsibility and knowledge of results.\n**Why not D:** Integrity, benevolence and ability determine trust, not empowerment."
+    },
+    {
+      "topic": "Empowerment",
+      "question": "A firm wants employees to think like owners without giving them any shares. According to Professor Ondrack, which conditions must it meet?",
+      "options": {
+        "A": "A flat structure with no managers, no rules and no evaluations",
+        "B": "Clear values and mission, skills, support for risks, recognition",
+        "C": "Tight rules, close monitoring, clear penalties and regular audits",
+        "D": "Stock grants, profit sharing, board seats and voting rights"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Ondrack's four conditions: a clear definition of the company's values and mission, help acquiring relevant skills, support rather than criticism when employees try something extraordinary, and recognition of their efforts. (Ch 8: Definition of Empowerment)\n**Why not A:** Empowerment needs clear values, skills, support and recognition, not the absence of structure.\n**Why not C:** These control employees rather than empowering them.\n**Why not D:** Ownership here means identifying with the organization's goals and mission, not financial ownership."
+    },
+    {
+      "topic": "Empowerment",
+      "question": "A manager puts a new, unconfident employee fully in charge of a complex project, believing empowerment is always good for people. What risk does one study flag?",
+      "options": {
+        "A": "Empowerment can make people ill if they lack confidence",
+        "B": "Unconfident employees perform best with full authority",
+        "C": "The only risk is financial, not personal, for the firm",
+        "D": "Empowerment always builds confidence through challenge"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Not every employee appreciates being empowered; one study found empowerment can make employees ill when they're put in charge at work but lack the confidence to handle their responsibilities. (Ch 8: Definition of Empowerment)\n**Why not B:** Lacking confidence while in charge can make people ill.\n**Why not C:** The study identified a personal, health-related risk for the employee.\n**Why not D:** The study found empowerment can harm people who lack confidence."
+    },
+    {
+      "topic": "Harassment and abuse of power",
+      "question": "An HR director assumes most sexual harassment comes from managers. What does the chapter say about who harasses most often?",
+      "options": {
+        "A": "Customers, since they face no workplace consequences",
+        "B": "Co-workers, often by withholding information, help or support",
+        "C": "Subordinates, since they resent their managers' power",
+        "D": "Managers, since only formal position power makes harassment possible"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Co-workers lack position power but can still use influence; their harassment tends to be somewhat less severe than managers', but they're the most frequent perpetrators, often by providing or withholding information, cooperation and support. (Ch 8: Harassment in the Workplace)\n**Why not A:** The chapter identifies co-workers as the most frequent perpetrators.\n**Why not C:** The chapter identifies co-workers as the most frequent perpetrators.\n**Why not D:** Co-workers are the most frequent perpetrators despite lacking position power."
+    },
+    {
+      "topic": "Harassment and abuse of power",
+      "question": "A manager who feels overwhelmed and fears she isn't up to her high-power role starts lashing out at her staff. What does recent research suggest?",
+      "options": {
+        "A": "Highly confident bosses are the ones most likely to bully their staff",
+        "B": "Feeling overwhelmed makes bosses withdraw rather than bully",
+        "C": "Feeling inadequate in a powerful role raises the risk of bullying",
+        "D": "Bullying stems only from staff provoking their managers"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Bosses who feel inadequate or overwhelmed are more likely to bully; the combination of a high-power role and fearing one isn't up to the task causes power holders to lash out. (Ch 8: Workplace Bullying)\n**Why not A:** The research links bullying to bosses who feel inadequate, not highly confident.\n**Why not B:** Feeling inadequate in a high-power role leads bosses to lash out.\n**Why not D:** The research locates the cause in the boss's feelings of inadequacy."
+    },
+    {
+      "topic": "Harassment and abuse of power",
+      "question": "An organization treats bullying complaints as less serious than sexual harassment complaints. What does research by Hershcovis and Barling suggest?",
+      "options": {
+        "A": "Both have identical effects on victims' satisfaction and turnover",
+        "B": "Bullying's consequences for victims were even more harmful",
+        "C": "Bullying is milder, since victims rarely quit over it",
+        "D": "Bullying hurts only performance, not job satisfaction"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Bullied employees more often quit, were less satisfied with their jobs and had more difficult relationships with supervisors; bullying's consequences were more harmful than those of sexual harassment. (Ch 8: Workplace Bullying)\n**Why not A:** Bullying's consequences were found to be more harmful.\n**Why not C:** Bullied employees more often quit their jobs.\n**Why not D:** Bullied employees were less satisfied with their jobs."
+    },
+    {
+      "topic": "Harassment and abuse of power",
+      "question": "An employee in Quebec alleges repeated, hostile conduct by her supervisor that harms her dignity. Under Quebec's anti-bullying legislation, what typically happens first?",
+      "options": {
+        "A": "The complaint is dismissed, since bullying isn't illegal in Canada",
+        "B": "The supervisor is automatically fired and fined by the province",
+        "C": "The case goes straight to criminal court for a jury trial",
+        "D": "The complaint goes to mediation with an independent third party"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Quebec's 2004 law, the first in North America, defines psychological harassment and sends allegations to mediation; if mediation fails, employers that allowed it can be fined up to $10 000 and ordered to pay damages. (Ch 8: Workplace Bullying)\n**Why not A:** Quebec introduced anti-bullying labour legislation in 2004.\n**Why not B:** The law starts with mediation; fines apply to employers if mediation fails.\n**Why not C:** Allegations are first sent to mediation, not criminal court."
+    },
+    {
+      "topic": "Harassment and abuse of power",
+      "question": "A new manager wants to prevent sexual harassment in her unit. Which approach reflects the chapter's guidance?",
+      "options": {
+        "A": "Clear policy, no retaliation, investigate every complaint",
+        "B": "Handle complaints informally so no one's reputation suffers",
+        "C": "Investigate only complaints that have witnesses to back them",
+        "D": "Let employees settle complaints among themselves privately"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Managers should have an active policy that defines harassment and sets complaint procedures, reassure employees there will be no retaliation, investigate every complaint and inform legal and HR, discipline offenders and run awareness seminars. (Ch 8: Sexual Harassment)\n**Why not B:** Every complaint should be investigated, with legal and HR informed.\n**Why not C:** Every complaint should be investigated; harassment often occurs without witnesses.\n**Why not D:** Managers need formal procedures and must make sure offenders are disciplined."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "An analyst quietly withholds a key report from a decision maker so her preferred vendor wins a contract. Why does this count as political behaviour?",
+      "options": {
+        "A": "It's outside her formal role and shapes who gains advantages",
+        "B": "It's part of her formal job duties to recommend the best vendor",
+        "C": "It's illegal, and politics refers only to illegal acts",
+        "D": "It's political only if she personally profits in money"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Political behaviour is activity outside one's formal role that influences, or tries to influence, the distribution of advantages and disadvantages; withholding key information from decision makers is one example. (Ch 8: Definition of Political Behaviour)\n**Why not B:** Political behaviour is defined as falling outside one's specified job requirements.\n**Why not C:** Political behaviour includes many legal acts, such as joining coalitions or exchanging favours.\n**Why not D:** The definition concerns influencing the distribution of advantages, not personal financial gain."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "A CEO vows to make his company completely 'politics-free.' According to the chapter, what would need to be true for that to happen?",
+      "options": {
+        "A": "A flatter structure with fewer managers and fewer levels",
+        "B": "Strict rules that ban lobbying, coalition building and favour-trading",
+        "C": "Hiring only employees who are low in political skill",
+        "D": "Shared goals, ample resources and objective performance outcomes"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** An organization could be politics-free only if all members held the same goals and interests, resources weren't scarce, and performance outcomes were completely clear and objective. (Ch 8: The Reality of Politics)\n**Why not A:** Structure doesn't remove differing goals, scarcity and ambiguous facts.\n**Why not B:** Politics arises from differing goals, scarce resources and ambiguity, which rules can't remove.\n**Why not C:** Politics stems from goals, scarcity and ambiguity, not just individuals' skills."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "Two managers argue over which team deserves a larger budget, each spinning the same performance data to favour their own team. What best explains why politics thrives here?",
+      "options": {
+        "A": "Performance measures are fully clear and objective",
+        "B": "The 'facts' are ambiguous and open to interpretation",
+        "C": "The managers share identical goals and interests",
+        "D": "The resources are abundant, so both can win anyway"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Perhaps the most important factor behind politics is that the 'facts' used to allocate limited resources are open to interpretation; in this ambiguous middle ground, people spin facts to support their goals. (Ch 8: The Reality of Politics)\n**Why not A:** Politics flourishes where the facts don't speak for themselves.\n**Why not C:** Politics arises from differing goals and interests.\n**Why not D:** Politics thrives because resources are limited, not abundant."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "An employee with modest political skill works in a highly political department. What outcomes does research link to his perceptions of politics?",
+      "options": {
+        "A": "Better performance, since he must work harder to keep up",
+        "B": "Higher satisfaction, since politics clarifies who holds power",
+        "C": "No effect, since politics only matters for senior managers",
+        "D": "Lower satisfaction, more anxiety and stress, more intent to quit"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** For most people, who have modest political skills, outcomes are predominantly negative: perceived politics is strongly linked to lower job satisfaction and higher anxiety and stress, and, when it becomes too much, to quitting. (Ch 8: Research Findings: Politicking)\n**Why not A:** For the politically unskilled, perceived politics tends to bring negative outcomes.\n**Why not B:** Perceptions of politics are negatively related to job satisfaction.\n**Why not C:** Perceived politics affects employees' satisfaction, stress and turnover."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "In an equally political firm, one employee understands who makes decisions and why, while another doesn't. How is politics likely to affect each one's performance?",
+      "options": {
+        "A": "It may help the second, who is shielded by not understanding it",
+        "B": "It will hurt both equally, since politics always lowers output",
+        "C": "It may help the first, who sees opportunity, but hurt the second",
+        "D": "It won't affect either, since performance is measured objectively"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Understanding the 'hows' and 'whys' of politics moderates its effect: with high understanding, politics is seen as an opportunity and performance may rise; with low understanding, it's seen as a threat that can hurt performance. (Ch 8: Research Findings: Politicking)\n**Why not A:** Low understanding makes politics feel like a threat, which can hurt performance.\n**Why not B:** The effect depends on how well each person understands the politics.\n**Why not D:** Performance evaluation is partly subjective, and politics can affect it."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "A leader who feels threatened by a socially dominant rival chooses to work in the same room as him and sit near him, even when told they'd perform better apart. What does research suggest she's doing?",
+      "options": {
+        "A": "Managing impressions, so others think she likes the rival",
+        "B": "Mentoring the rival, since she sees him as a successor",
+        "C": "Building a coalition, since she wants the rival's support",
+        "D": "Keeping a rival close to monitor him and protect her power"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Dominant leaders chose to work near and sit closer to a rival in-group member mainly to monitor the rival's behaviour and performance and protect their power, especially when the rival was socially dominant and competitive. (Ch 8: Focus on Research, Powerful Leaders Keep Their (Fr)Enemies Close)\n**Why not A:** The research points to monitoring and protecting power, not image.\n**Why not B:** The motive was protecting her power, not developing the rival.\n**Why not C:** The research found the motive was monitoring the rival, not winning his support."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "A manager decides that an employee's frequent helping is just impression management. How is this attribution likely to affect the employee's performance rating?",
+      "options": {
+        "A": "The attribution has no effect on how ratings are given",
+        "B": "The manager rates higher, since the effort still helps",
+        "C": "The manager feels angry and gives a lower rating",
+        "D": "The manager feels flattered and gives a higher rating"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** When managers attributed citizenship behaviour to impression management, they felt angry (probably manipulated) and gave lower ratings; when they attributed it to pro-social values, they felt happy and gave higher ratings. (Ch 8: Research Findings: Impression Management Techniques)\n**Why not A:** The attribution clearly changed managers' emotions and ratings.\n**Why not B:** Managers who saw helping as impression management rated employees lower.\n**Why not D:** Attributing helping to impression management led to anger and lower ratings."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "Two applicants for a customer-service job have very different qualifications, but both use impression management heavily in their interviews. What does research suggest?",
+      "options": {
+        "A": "Neither benefits, since credentials decide outcomes",
+        "B": "Both do worse, since interviewers see through it",
+        "C": "Both do better, whatever their actual qualifications",
+        "D": "Only the well-qualified one benefits from using it"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Most applicants use impression management, and it works: interviewers rated applicants who used it as performing better, and it didn't seem to matter whether they were well or poorly qualified. (Ch 8: Research Findings: Impression Management Techniques)\n**Why not A:** Impression management alone influenced the interviewers.\n**Why not B:** When impression management is used in interviews, it works.\n**Why not D:** The research found impression management helped regardless of qualifications."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "A new hire who won her job by confidently promoting her accomplishments keeps self-promoting with her supervisor. What does research suggest will happen?",
+      "options": {
+        "A": "It will keep working, as it did so well in her interview",
+        "B": "It may backfire, since supervisors can see her actual work",
+        "C": "It works better than ingratiation for performance ratings",
+        "D": "It helps only if she switches to criticizing her peers"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Self-promotion helps in interviews, but on the job it tends to bring lower performance ratings because supervisors observe actual performance; ingratiation, by contrast, is positively related to ratings. (Ch 8: Research Findings: Impression Management Techniques)\n**Why not A:** What works with an interviewer, who can't verify claims, often backfires with a supervisor.\n**Why not C:** Ingratiation is positively related to ratings, while self-promotion tends to backfire.\n**Why not D:** The research contrasts self-promotion with ingratiation, not with criticizing others."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "Two employees ingratiate and self-promote to the same degree. One gets higher appraisals; the other is hurt by it. Which factor most likely explains the difference?",
+      "options": {
+        "A": "Seniority, since tenure makes impression management safer",
+        "B": "Luck, since impression management has random effects",
+        "C": "Political skill, which helps impression management pay off",
+        "D": "Extraversion, since outgoing people are always rated higher"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People high in political skill can translate impression management into higher performance appraisals, whereas those lower in political skill are more likely to be hurt by their attempts. (Ch 8: Research Findings: Impression Management Techniques)\n**Why not A:** The research identifies political skill, not tenure, as the moderator.\n**Why not B:** The difference is systematic and tied to political skill.\n**Why not D:** The key moderator is political skill, not extraversion."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "A department head inflates a favoured employee's evaluation and deflates a disfavoured one's, then uses them to justify a big raise for one and nothing for the other. Which ethical test does this clearly fail?",
+      "options": {
+        "A": "Utility: it achieves nothing for the department head himself",
+        "B": "Visibility: it's unethical only if others find out about it",
+        "C": "Equity and justice: it treats the disfavoured employee unfairly",
+        "D": "Harm: it's harmless, since raises are his decision to make"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Questions for judging political actions include their utility, how that utility balances against harm to others, and whether they meet standards of equity and justice; manipulating evaluations clearly fails the last. (Ch 8: The Ethics of Behaving Politically)\n**Why not A:** The action may achieve his goals; the clear failure is its unfairness.\n**Why not B:** Whether others find out isn't one of the chapter's ethical tests.\n**Why not D:** It harms the disfavoured employee, who is treated unfairly."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "Why does the chapter say powerful, articulate people are most vulnerable to ethical lapses in organizational politics?",
+      "options": {
+        "A": "They can justify self-serving acts and often get away with them",
+        "B": "They have little political discretion, so they take risks",
+        "C": "They're watched more closely, so even small lapses get noticed",
+        "D": "They lack political skill, so they misjudge situations"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Powerful people can become very good at explaining self-serving behaviour as being in the organization's interests; those who are powerful, articulate and persuasive are most vulnerable because they can get away with unethical practices. (Ch 8: The Ethics of Behaving Politically)\n**Why not B:** It's the powerless who typically have little political discretion to exploit.\n**Why not C:** The issue is that they can persuasively justify lapses and get away with them.\n**Why not D:** Their vulnerability comes from persuasive skill, not a lack of it."
+    },
+    {
+      "topic": "Culture, power and influence",
+      "question": "A manager moving to a branch in a hierarchical, high power-distance country plans to empower his team the way he did at home. What does cross-cultural research suggest?",
+      "options": {
+        "A": "Avoid teams entirely, since hierarchical cultures dislike them",
+        "B": "Ask staff for their opinions often, to signal his openness",
+        "C": "Introduce it carefully; staff may expect the boss to have answers",
+        "D": "Empower everyone fully at once, since all cultures reward it equally"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Studies of plants in the U.S., Mexico, India and Poland, and of the U.S., Brazil and Argentina, suggest empowerment needs care in hierarchical societies: employees may expect their manager to have all the answers, and Indian employees rated supervisors lower when empowerment was high. (Ch 8: Global Implications, Views on Empowerment)\n**Why not A:** Employees in these countries may be quite used to teams; the issue is their expectations of the manager.\n**Why not B:** In some cultures, bosses who ask subordinates' opinions appear weak (Gagné).\n**Why not D:** Reactions to empowerment differed across countries."
+    },
+    {
+      "topic": "Culture, power and influence",
+      "question": "A U.S. manager and a Chinese manager each try to win support for a controversial proposal. According to research, which tactic would each likely prefer?",
+      "options": {
+        "A": "Both prefer ingratiation, since it works in every culture",
+        "B": "The U.S. manager coalitions; the Chinese manager rational appeals",
+        "C": "Both prefer pressure, since the proposal is controversial",
+        "D": "The U.S. manager rational appeals; the Chinese manager coalitions"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** U.S. managers prefer rational appeal, consistent with a preference for direct confrontation and reason, while Chinese managers prefer coalition tactics, consistent with indirect approaches to difficult requests. (Ch 8: Global Implications, Preference for Influence Tactics)\n**Why not A:** The research found culturally distinct preferences.\n**Why not B:** This reverses the findings.\n**Why not C:** The research found different preferences, rooted in each country's values."
+    },
+    {
+      "topic": "Culture, power and influence",
+      "question": "A Hong Kong manager uses pressure tactics in a meeting with Taiwanese colleagues, who seem taken aback. What does research comparing Chinese cultural subgroups suggest?",
+      "options": {
+        "A": "Taiwanese managers prefer pressure, so the reaction is unusual",
+        "B": "All Chinese managers rate pressure as the most effective tactic",
+        "C": "Cultural subgroups in China prefer exactly the same tactics",
+        "D": "Hong Kong managers rate pressure as more effective than others"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Managers from mainland China, Taiwan and Hong Kong all see rational persuasion and exchange as most effective, but Hong Kong managers rate pressure as more effective, while Taiwanese managers use more inspirational appeals and ingratiation. (Ch 8: Global Implications, Preference for Influence Tactics)\n**Why not A:** Taiwanese managers lean toward inspirational appeals and ingratiation.\n**Why not B:** All three groups rated rational persuasion and exchange as most effective.\n**Why not C:** Differences within a culture can be large and complicate business dealings."
+    },
+    {
+      "topic": "Culture, power and influence",
+      "question": "Influential U.S. leaders and influential East Asian leaders tend to focus on different things. Which contrast fits the research?",
+      "options": {
+        "A": "U.S.: personal goals and tasks; East Asia: relationships",
+        "B": "Both focus mainly on formal authority and position",
+        "C": "U.S.: relationships; East Asia: personal goals and tasks",
+        "D": "Both focus on pressure as the main route to influence"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Effective U.S. leaders achieve influence by focusing on members' personal goals and the task at hand (an analytical approach), while influential East Asian leaders focus on relationships and meeting the demands of people around them (a holistic approach). (Ch 8: Global Implications, Response to Politics in the Workplace)\n**Why not B:** The research contrasts analytical and holistic approaches, not formal authority.\n**Why not C:** This reverses the findings.\n**Why not D:** Neither approach centres on pressure."
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "06",
+    "title": "Groups and Teamwork"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 6",
+  "questions": [
+    {
+      "topic": "Teams and self-management",
+      "question": "Five commuters who wait at the same bus stop each morning often chat about local news. Based on the chapter's definitions, what are they?",
+      "options": {
+        "A": "Neither, since a group must do interdependent work",
+        "B": "A problem-solving team, since they discuss issues",
+        "C": "A group, but not a team",
+        "D": "A team, since they share a common relationship"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A group is two or more people with a common relationship, which can include people standing at a bus stop. Unlike teams, groups don't necessarily do collective work that requires interdependent effort. (Ch 6: Teams vs. Groups: What Is the Difference?)\n**Why not A:** Groups don't necessarily engage in interdependent work; that requirement is what distinguishes teams.\n**Why not B:** Problem-solving teams are employees from the same department who meet to improve quality, efficiency and the work environment.\n**Why not D:** A common relationship makes a group; a team also needs complementary skills, a common purpose and mutual accountability."
+    },
+    {
+      "topic": "Teams and self-management",
+      "question": "Two self-managed production teams argue equally often. In the first, disputes have turned into power struggles and members stopped cooperating; the second still performs well. What does research suggest distinguishes the second team?",
+      "options": {
+        "A": "Members feel psychologically safe to speak up without being punished",
+        "B": "Members are paid only for their own output, not for the team's results",
+        "C": "Members avoid open disagreement and smooth over their differences",
+        "D": "Members have a formal leader who settles every dispute for them"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** When disputes arise in self-managed teams, cooperation can collapse into power struggles; but when members feel psychologically safe (able to speak up without being embarrassed, rejected or punished), conflict is beneficial and boosts performance. (Ch 6: Self-Managed Teams)\n**Why not B:** In a study of self-managing teams, performance improved when pay depended on teammates' input, not purely individual output.\n**Why not C:** The second team does argue; effective teams show civilized disagreement rather than suppressing conflict.\n**Why not D:** The research highlights psychological safety, not a leader settling disputes; leaders can even obstruct self-managed teams."
+    },
+    {
+      "topic": "Teams and self-management",
+      "question": "A factory tells its self-managed teams that part of each member's pay will now depend on input from teammates. What did a study of 45 such teams find?",
+      "options": {
+        "A": "Nothing changed, since pay has no effect on self-managed teams",
+        "B": "Performance improved for both individuals and the whole team",
+        "C": "Team results rose, but individual performance dropped noticeably",
+        "D": "Performance fell, since members began competing with each other"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In a study of 45 self-managing factory teams, when members saw economic rewards such as pay as dependent on teammates' input, performance improved for individuals and for the team as a whole. (Ch 6: Self-Managed Teams)\n**Why not A:** Linking pay to teammates' input did change performance.\n**Why not C:** Both individual and team performance improved.\n**Why not D:** The study found improvement, not a competition-driven decline."
+    },
+    {
+      "topic": "Teams and self-management",
+      "question": "An executive wants to convert every traditional team into a self-managed team, expecting higher productivity and morale across the board. What does the evidence suggest?",
+      "options": {
+        "A": "Results are mixed; situational factors must be in place for real gains",
+        "B": "Members report lower satisfaction, but absenteeism falls sharply",
+        "C": "They reliably outperform traditional teams in labour productivity",
+        "D": "They work only when supervisors keep tight control of decisions"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Research on self-managed teams isn't uniformly positive: members report higher satisfaction but sometimes higher absenteeism and turnover, and a large British study found no evidence they outperform traditional teams. (Ch 6: Self-Managed Teams)\n**Why not B:** It's the reverse: satisfaction is higher, while absenteeism and turnover are sometimes higher too.\n**Why not C:** A large British study found no evidence that self-managed teams outperform traditional teams.\n**Why not D:** Self-managed teams take on managerial duties; leaders who interfere can obstruct their performance."
+    },
+    {
+      "topic": "Virtual and multiteam systems",
+      "question": "A global project team works almost entirely through email and chat. Compared with teams that mostly meet face to face, what does evidence from 94 studies suggest about its information sharing?",
+      "options": {
+        "A": "It shares less unique information because members feel isolated",
+        "B": "It shares more information overall but less of its unique information",
+        "C": "It shares information just as well, since technology removes barriers",
+        "D": "It's better at sharing unique information but shares less overall"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Evidence from 94 studies of more than 5000 groups found virtual teams are better at sharing unique information (held by individual members) but share less information overall; high virtuality hinders sharing. (Ch 6: Virtual Teams)\n**Why not A:** Virtual teams are actually better at sharing unique information.\n**Why not B:** This reverses the findings.\n**Why not C:** Virtual teams share less information overall, and high virtuality hinders sharing."
+    },
+    {
+      "topic": "Virtual and multiteam systems",
+      "question": "Members of a virtual team say they feel isolated and that the leader seems to favour the people based at head office. What does research suggest the leader should do?",
+      "options": {
+        "A": "Move all communication to email so there's a written record",
+        "B": "Communicate frequently and consistently with every member",
+        "C": "Limit contact to formal updates so no one appears favoured",
+        "D": "Let members self-organize and step back from communicating"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** One study found leaders can reduce virtual members' feelings of isolation by communicating frequently and consistently with all members, so none feel unfairly disfavoured. (Ch 6: Virtual Teams; OB in Action, Managing Virtual Teams)\n**Why not A:** The chapter's tips favour visual forms of communication and informal chitchat, not email alone.\n**Why not C:** Reducing contact would worsen isolation; frequent, consistent communication is what helps.\n**Why not D:** Leaders should be available and not wait for members to seek them out."
+    },
+    {
+      "topic": "Virtual and multiteam systems",
+      "question": "A company is launching several virtual teams. Which set of management actions does the chapter say makes such teams effective?",
+      "options": {
+        "A": "Avoid monitoring progress closely so members feel trusted and autonomous",
+        "B": "Keep the team's work low-profile to protect it from interference",
+        "C": "Rely on email for all exchanges so every decision is documented",
+        "D": "Build trust, monitor progress closely and publicize the team's work"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Management should establish trust (one inflammatory email can undermine it), monitor progress closely so the team keeps sight of its goals and no one 'disappears,' and publicize the team's efforts so it doesn't become invisible. (Ch 6: Virtual Teams)\n**Why not A:** Progress should be monitored closely so the team stays on track.\n**Why not B:** The team's efforts should be publicized so it doesn't become invisible.\n**Why not C:** The chapter's tips stress visual communication and informal conversation, not email alone."
+    },
+    {
+      "topic": "Virtual and multiteam systems",
+      "question": "As its task grows more complex, a product team keeps adding members, but each new person seems to make coordination worse. What does the chapter recommend?",
+      "options": {
+        "A": "Keep adding members, since larger teams bring more diverse views",
+        "B": "Assign a single strong leader to coordinate every member directly",
+        "C": "Split it into a team of teams that share one overarching goal",
+        "D": "Convert the team into a cross-functional team with new members"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Bigger teams bring higher coordination demands and a tipping point where another member does more harm than good; organizations solve this with multiteam systems, interdependent teams sharing a superordinate goal. (Ch 6: Multiteam Systems)\n**Why not A:** Beyond the tipping point, an added member does more harm than good.\n**Why not B:** In multiteam systems, leaders delegate and facilitate; shared leadership outperforms single-leader structures.\n**Why not D:** A cross-functional team is still one team; the problem here is size and coordination."
+    },
+    {
+      "topic": "Roles, norms and conformity",
+      "question": "After her company is acquired, an engineer feels torn between her original firm's way of doing things and the new parent company's expectations. What is she experiencing?",
+      "options": {
+        "A": "Role underload, since she feels she isn't contributing",
+        "B": "Role conflict from clashing identities in the same job",
+        "C": "Role ambiguity, since her job description is now unclear",
+        "D": "Role overload, since far too much is expected of her"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Employees belong to several groups at once, and these identities can clash; during mergers and acquisitions, people can be torn between their original organization and the new parent company. (Ch 6: Role Conflict)\n**Why not A:** Role underload means too little is expected of her, which isn't the issue.\n**Why not C:** Role ambiguity is uncertainty about expectations; here the expectations are clear but they clash.\n**Why not D:** Overload means demands exceed what she can do; the issue is conflicting identities."
+    },
+    {
+      "topic": "Roles, norms and conformity",
+      "question": "On a marketing team, two members each assume the other is booking the venue for a client event, and the deadline passes with no booking. What caused this, and what would most likely have prevented it?",
+      "options": {
+        "A": "Social loafing; making the team larger to share the workload",
+        "B": "Role overload; spreading the tasks across more of the members",
+        "C": "Role conflict; giving each member fewer competing role demands",
+        "D": "Role ambiguity; clear assignments that are accepted and tracked"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Role ambiguity (being unclear about role expectations) causes confusion, stress and bad feelings; effective teams make clear work assignments that are accepted and carried out. (Ch 6: Role Ambiguity; Exhibit 6-4)\n**Why not A:** Larger teams increase loafing; the problem here is unclear roles, not effort.\n**Why not B:** Overload means too much is expected; here the task fell through the cracks because no one knew who owned it.\n**Why not C:** Role conflict means meeting one role requirement makes another harder; the issue here is unclear responsibility."
+    },
+    {
+      "topic": "Roles, norms and conformity",
+      "question": "A surgical team strictly enforces a norm that members announce what they're about to do before doing it, so others can anticipate their actions. Why is this norm especially likely to be enforced?",
+      "options": {
+        "A": "It expresses the group's central values and distinct identity",
+        "B": "It increases the predictability of members' behaviour",
+        "C": "It keeps members from embarrassing interpersonal problems",
+        "D": "It protects the group from interference by outside groups"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Groups enforce the norms that matter to them; norms that increase predictability let members anticipate one another's actions and prepare appropriate responses. (Ch 6: The 'How' and 'Why' of Norms)\n**Why not A:** That's another reason norms matter, but this norm's purpose is letting members anticipate each other.\n**Why not C:** That reason concerns preventing interpersonal discomfort, not anticipating actions.\n**Why not D:** Survival-related norms protect the group from outside interference; this one is about anticipating actions."
+    },
+    {
+      "topic": "Roles, norms and conformity",
+      "question": "In a meeting, a new analyst privately disagrees with the group's estimate but goes along with it once everyone else agrees. What does Asch's research suggest about this?",
+      "options": {
+        "A": "Only people low in self-esteem ever conform to a group's answer",
+        "B": "Conformity happens only when the group's answer is objectively right",
+        "C": "People conform mainly to avoid being formally punished by leaders",
+        "D": "Group pressure can lead people to give answers they know are wrong"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Asch found subjects gave answers they knew were wrong but matched the group about 35% of the time; people want to be one of the group and avoid being visibly different. (Ch 6: Conformity)\n**Why not A:** Asch's findings show broad pressure; research ties conformity partly to keeping a favourable self-concept, not low self-esteem.\n**Why not B:** Asch's subjects conformed even to answers they knew were wrong.\n**Why not C:** The pressure comes from wanting acceptance by the group, not formal punishment."
+    },
+    {
+      "topic": "Roles, norms and conformity",
+      "question": "A new employee joins a crew whose members routinely take supplies home and mock the company. Within months she's doing the same. Which research best explains this?",
+      "options": {
+        "A": "Working with antisocial peers makes antisocial behaviour more likely",
+        "B": "Antisocial behaviour comes from personality, not from work groups",
+        "C": "Conformity only ever pushes people toward more pro-social behaviour",
+        "D": "Her role ambiguity left her unsure which behaviours were acceptable"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Robinson and O'Leary-Kelly found that people working with others who behaved antisocially were more likely to do so themselves; conformity can also push toward pro-social behaviour. (Ch 6: Conformity)\n**Why not B:** The research shows the work group's behaviour influences individuals through conformity.\n**Why not C:** Conformity can push either way; this case shows its negative side.\n**Why not D:** The crew's norms were clear; she conformed to them."
+    },
+    {
+      "topic": "Roles, norms and conformity",
+      "question": "When hiring, a work team consistently prefers candidates whose backgrounds and experience resemble its current members'. Which way that norms develop helps explain this preference?",
+      "options": {
+        "A": "Explicit statements from the team's most powerful member",
+        "B": "Primacy, since the group's first pattern sets expectations",
+        "C": "A critical event that set a precedent in the team's history",
+        "D": "Carry-over behaviours that members bring from past groups"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Members bring expectations from other groups they've belonged to, so groups prefer adding similar members whose expectations are likely to fit those already held. (Ch 6: The 'How' and 'Why' of Norms)\n**Why not A:** Nothing indicates a powerful member instructed this; it's about compatible expectations.\n**Why not B:** Primacy concerns the first behaviour pattern that emerges in a group, not hiring similar members.\n**Why not C:** Critical events set precedents after notable incidents; this is about matching expectations."
+    },
+    {
+      "topic": "Group development in depth",
+      "question": "Two new task forces start at the same time. One has a clear purpose and strategy from day one; the other doesn't. What does research suggest about how they'll develop?",
+      "options": {
+        "A": "The first will skip storming but stall later in the norming stage",
+        "B": "The first will reach high performance faster and keep improving",
+        "C": "Both will progress through the five stages at about the same rate",
+        "D": "The second will catch up once it gets past the storming stage"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Groups move through the stages at different rates: those with a strong sense of purpose and strategy rapidly achieve high performance and improve over time, while those with less purpose see performance worsen. (Ch 6: Putting the Five-Stage Model into Perspective)\n**Why not A:** The research links a clear purpose to rapid and improving performance, not stalling.\n**Why not C:** Groups proceed through the stages at different rates, depending on factors like purpose and social focus.\n**Why not D:** Groups with less sense of purpose actually see their performance worsen over time."
+    },
+    {
+      "topic": "Group development in depth",
+      "question": "A team that seemed to be performing well suddenly falls back into arguments over who controls key decisions. What does the chapter say about this?",
+      "options": {
+        "A": "Groups can regress to earlier stages, and stages can overlap",
+        "B": "It signals the team has moved forward into the adjourning stage",
+        "C": "It can't happen, since stages always proceed in a fixed sequence",
+        "D": "It proves the team was never really in the performing stage"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Groups don't always proceed cleanly from one stage to the next: storming and performing can occur at the same time, and groups can even regress to previous stages. (Ch 6: Putting the Five-Stage Model into Perspective)\n**Why not B:** Adjourning is about wrapping up a temporary group's work, not renewed power struggles.\n**Why not C:** We now know that not all groups pass through the stages in a linear way.\n**Why not D:** The model allows regression; it doesn't mean the earlier performance wasn't real."
+    },
+    {
+      "topic": "Group development in depth",
+      "question": "As a six-month project team wraps up, some members celebrate its accomplishments while others feel down about losing the friendships they formed. A new project for the same team is about to start. What does the chapter say?",
+      "options": {
+        "A": "The team should keep its exact structure for the next project",
+        "B": "Mixed feelings signal the team never reached the norming stage",
+        "C": "Mixed feelings are typical, and adjourning can lead to renewal",
+        "D": "High task performance should stay the top priority while closing"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In adjourning, attention shifts to wrapping up: some members bask in accomplishments while others feel the loss of camaraderie. When one project leads to another, the team may need to transform itself for a new focus, skills and members. (Ch 6: The Five-Stage Model, Stage V: Adjourning)\n**Why not A:** A new project may need a different focus, different skills and new members.\n**Why not B:** Mixed reactions are normal in adjourning, not a sign of incomplete norming.\n**Why not D:** In adjourning, high task performance is no longer the group's top priority."
+    },
+    {
+      "topic": "Group development in depth",
+      "question": "Two weeks into a ten-week project, a member realizes the team's approach is flawed, but the team won't change course. According to the punctuated-equilibrium model, why?",
+      "options": {
+        "A": "In Phase 1 inertia, a team can't act on new insights",
+        "B": "Teams only revisit plans at the final meeting before the deadline",
+        "C": "The team is stuck in storming and resists any constraints",
+        "D": "The member's idea lacked support because of social loafing"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The direction set at the first meeting is unlikely to be re-examined during the first half; in this period of inertia, the team can't act on insights that challenge its initial assumptions until the midpoint transition. (Ch 6: The Punctuated-Equilibrium Model, Phase 1)\n**Why not B:** The major transition comes at about the midpoint, not only at the last meeting.\n**Why not C:** Storming involves conflict over control; the punctuated-equilibrium model explains this as Phase 1 inertia.\n**Why not D:** Loafing concerns reduced effort; the issue here is the team's locked-in direction."
+    },
+    {
+      "topic": "Group development in depth",
+      "question": "A consultant claims the five-stage and punctuated-equilibrium models contradict each other, so teams should pick one. What does the chapter argue?",
+      "options": {
+        "A": "They're complementary: one covers interpersonal process, one time",
+        "B": "They describe the same thing, so the choice makes no difference",
+        "C": "The five-stage model has been replaced, since it ignores context",
+        "D": "They conflict, so the punctuated model should be used for all groups"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Rather than conflicting, the five-stage model considers the group's interpersonal process, while the punctuated-equilibrium model considers the time challenges the group faces. (Ch 6: Applying the Punctuated-Equilibrium Model)\n**Why not B:** They focus on different aspects: interpersonal process versus time pressures.\n**Why not C:** Ignoring context is a limitation, but the chapter still treats the five-stage model as useful.\n**Why not D:** The punctuated-equilibrium model describes temporary groups with deadlines; the two models are complementary."
+    },
+    {
+      "topic": "Context: leaders, trust and rewards",
+      "question": "A newly appointed team leader asks what her role involves. Based on Hackman's view of team leadership, which set of responsibilities fits best?",
+      "options": {
+        "A": "Stay out of the team's work, since teams perform best without leaders",
+        "B": "Set a clear direction, build a supportive structure, and coach expertly",
+        "C": "Make all key decisions, assign tasks daily, and monitor each member",
+        "D": "Reward individual stars, so others are motivated to match them"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Hackman says team leaders create a real team, set a clear and meaningful direction, make sure the structure supports effective work, ensure a supportive organizational context and provide expert coaching. (Ch 6: Leadership and Structure)\n**Why not A:** Leaders aren't always needed on self-managed teams, but Hackman describes an active role in setting a team up.\n**Why not C:** Hackman's role centres on direction, structure, context and coaching, not micromanaging.\n**Why not D:** Individually oriented rewards work against high-performance teams, and big pay gaps lower collaboration."
+    },
+    {
+      "topic": "Context: leaders, trust and rewards",
+      "question": "In a business course, mostly male project teams keep the same leader all term, while mostly female teams share leadership and work more egalitarian. According to Berdahl's research, which teams earned better grades?",
+      "options": {
+        "A": "Teams where women shared the leadership roles",
+        "B": "Mixed-gender teams led by a single male member",
+        "C": "Teams whose leader was chosen by the instructor",
+        "D": "Teams that kept one stable leader for the whole term"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Berdahl found male-led teams (predominantly male or mixed) received poorer grades than teams where women shared leadership; equal opportunity to participate matters on creative projects. (Ch 6: Focus on Research, A Leader's Gender Can Affect Team Performance)\n**Why not B:** Male-led teams, including mixed-gender ones, received poorer grades.\n**Why not C:** The study compared how leadership was shared, not who appointed the leader.\n**Why not D:** Teams with a single, unchanging leader (predominantly male) earned poorer grades."
+    },
+    {
+      "topic": "Context: leaders, trust and rewards",
+      "question": "A team's average trust level is high, but two members trust everyone while the others barely trust those two. What does the research suggest?",
+      "options": {
+        "A": "Uneven trust helps, since some members will monitor others",
+        "B": "Trust matters only between the leader and each member",
+        "C": "Uneven trust can erode the benefits of high overall trust",
+        "D": "High average trust guarantees strong performance across the team"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** It's not just a team's overall level of trust that matters; trust that's asymmetric and imbalanced among members can mitigate the performance advantages of high overall trust. (Ch 6: Climate of Trust)\n**Why not A:** Imbalanced trust undermines, rather than adds to, the benefits of trust.\n**Why not B:** Interpersonal trust among members facilitates cooperation and reduces the need to monitor one another.\n**Why not D:** How trust is dispersed among members also matters, not just the average."
+    },
+    {
+      "topic": "Context: leaders, trust and rewards",
+      "question": "A company's project teams are evaluated and rewarded purely on individual results. Which reward approach does the chapter recommend instead?",
+      "options": {
+        "A": "Individual rewards, with bonuses for the single best performer",
+        "B": "Rewards based on seniority so that no one feels left out",
+        "C": "Equal team rewards only, with no individual recognition at all",
+        "D": "A hybrid that rewards standout individuals and the whole team"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Individual evaluations and incentives don't fit high-performance teams; management should use hybrid systems that recognize members' exceptional contributions and reward the entire group for positive outcomes. (Ch 6: Performance Evaluation and Rewards)\n**Why not A:** Individually oriented rewards aren't consistent with developing high-performance teams.\n**Why not B:** Seniority-based rewards don't reflect team or individual contributions.\n**Why not C:** The hybrid approach keeps individual recognition for exceptional contributions."
+    },
+    {
+      "topic": "Context: leaders, trust and rewards",
+      "question": "Members of a new team doubt one another's ability and dependability, and they push back against a switch to group-based pay. What does research suggest?",
+      "options": {
+        "A": "Group pay works best when trust is low, since it forces sharing",
+        "B": "Low trust makes people prefer individual over team-based rewards",
+        "C": "Group pay will quickly build the trust that's currently missing",
+        "D": "Their resistance shows social loafing, which group pay will fix"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** When members didn't trust colleagues' ability, honesty and dependability, they preferred individual rewards, and the preference persisted even as trust improved; teams need very high trust to embrace group-based pay. (Ch 6: Performance Evaluation and Rewards)\n**Why not A:** Teams need a very high level of trust for members to truly embrace group-based pay.\n**Why not C:** The preference for individual rewards persisted even as trust improved over time.\n**Why not D:** The resistance reflects low trust in teammates, not reduced personal effort."
+    },
+    {
+      "topic": "Context: leaders, trust and rewards",
+      "question": "A sports franchise pays a few stars huge salaries and everyone else very little. What does research on pay dispersion suggest?",
+      "options": {
+        "A": "Pay gaps don't matter, as long as the stars perform well",
+        "B": "Big pay gaps motivate the lower-paid players to work harder",
+        "C": "Big pay gaps help, as they make each player's role clearer",
+        "D": "Big pay gaps lower collaboration and can hurt team results"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Large wage discrepancies among members lower collaboration (Langton's research), and baseball teams with more similar pay often outperformed teams of highly paid 'stars' and lowly paid 'scrubs.' (Ch 6: Performance Evaluation and Rewards)\n**Why not A:** Teams with more similar pay often outperformed star-heavy teams.\n**Why not B:** The research found large gaps reduce collaboration and performance.\n**Why not C:** Pay dispersion is linked to lower collaboration, not clearer roles."
+    },
+    {
+      "topic": "Context: leaders, trust and rewards",
+      "question": "In a simulation, some teams start with cooperative (shared) rewards and others with competitive (individual) rewards; later the reward structures are swapped. What did the researchers find?",
+      "options": {
+        "A": "Both sets adapted easily, since rewards don't shape team habits",
+        "B": "Competitive teams adapted to cooperation, but not the reverse",
+        "C": "Neither adapted, even when teams could choose their own roles",
+        "D": "Cooperative teams adapted to competition, but not the reverse"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Initially cooperative teams adapted easily to competitive rewards, but competitive teams found it hard to learn to cooperate, unless they were given freedom to allocate their own roles. (Ch 6: Focus on Research, The Impact of Rewards on Team Functioning)\n**Why not A:** The starting reward structure clearly shaped how well teams adapted.\n**Why not B:** This reverses the finding.\n**Why not C:** Formerly competitive teams could adapt when they were free to allocate their roles."
+    },
+    {
+      "topic": "Composition: ability, personality, roles",
+      "question": "A firm must re-engineer a complex assembly line and can choose between a team of very high-ability members or a mixed-ability team. What does research suggest, and what condition helps most?",
+      "options": {
+        "A": "The high-ability team, especially with one member doing most work",
+        "B": "The mixed team, since ability matters less than team spirit",
+        "C": "The high-ability team, especially with workload spread evenly",
+        "D": "Either, since team results are just the sum of members' abilities"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** On tasks needing considerable thought, high-ability teams outperform lower-ability teams, especially when workload is distributed evenly so performance doesn't depend on the weakest link; they also adapt better to change. (Ch 6: Composition, Skills)\n**Why not A:** Even distribution of the workload is what helps, so performance doesn't hinge on one person.\n**Why not B:** Ability sets limits on what members can do; upsets by mediocre teams make news because they're unusual.\n**Why not D:** A team's performance isn't merely the sum of members' abilities, though abilities set limits."
+    },
+    {
+      "topic": "Composition: ability, personality, roles",
+      "question": "A high-ability team is assigned a leader whose ability is noticeably weaker than its members'. What does the chapter suggest may happen?",
+      "options": {
+        "A": "Members will compensate by sharing leadership more effectively",
+        "B": "A less able leader can neutralize the high-ability team's edge",
+        "C": "A weaker leader helps, since members feel freer to take charge",
+        "D": "The leader's ability won't matter, as long as members are strong"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The leader's ability matters: smart leaders help members who struggle, while a less intelligent leader can neutralize the effect of a high-ability team. (Ch 6: Composition, Skills)\n**Why not A:** The chapter warns of neutralization; it doesn't predict that members will compensate.\n**Why not C:** The research points the other way: a less able leader can cancel out the team's ability advantage.\n**Why not D:** The leader's ability does matter, positively or negatively."
+    },
+    {
+      "topic": "Composition: ability, personality, roles",
+      "question": "An organization must form 12 four-person teams from 24 highly conscientious and 24 less conscientious employees. Which approach does the evidence favour?",
+      "options": {
+        "A": "Group the conscientious people together in their own teams",
+        "B": "Assign members at random, since personality doesn't affect teams",
+        "C": "Seed every team with two of each, so the strong lift the weaker",
+        "D": "Seed every team with one highly conscientious member as leader"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Performance across teams tends to be higher when highly conscientious people are grouped together; in mixed teams, a normalization dynamic (or simple resentment) pushes conscientious members to lower their expectations. (Ch 6: Personality of Members)\n**Why not B:** Personality, especially conscientiousness and openness, significantly affects team performance.\n**Why not C:** Mixed teams don't work to the peak of their conscientious members, because normalization lowers expectations.\n**Why not D:** The evidence favours putting conscientious members together, not spreading them out."
+    },
+    {
+      "topic": "Composition: ability, personality, roles",
+      "question": "A product team wants to boost its creativity and innovation. Which member trait does research link most directly to this?",
+      "options": {
+        "A": "Conscientiousness",
+        "B": "Emotional stability",
+        "C": "Agreeableness",
+        "D": "Openness to experience"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Open team members communicate better and throw out more ideas, which makes teams composed of open people more creative and innovative. (Ch 6: Personality of Members)\n**Why not A:** Conscientious members are good at backing others up and sensing when support is needed; openness is the trait linked to creativity.\n**Why not B:** Emotional stability isn't among the three Big Five traits the chapter highlights for team performance.\n**Why not C:** Agreeableness matters because one highly disagreeable member can hurt a team, but openness drives creativity."
+    },
+    {
+      "topic": "Composition: ability, personality, roles",
+      "question": "An analysis of baseball teams over 21 years found that skill and experience mattered most in certain positions. What's the lesson for staffing a project team?",
+      "options": {
+        "A": "Assign roles by seniority, since experience is all that counts",
+        "B": "Put the most able people in roles on the edge of the team",
+        "C": "Spread the most able people evenly across all of the roles",
+        "D": "Put the most able people in the roles central to the workflow"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In a study of 778 baseball teams, the experience and skill of those in core roles (pitchers and catchers), who handle more of the workflow and are central to all processes, were especially vital. (Ch 6: Allocation of Roles)\n**Why not A:** The lesson is to put the most able, experienced and conscientious people in central roles, not to rely on seniority.\n**Why not B:** Core, central roles benefit most from the most able members.\n**Why not C:** The study found ability matters most in core roles, so concentrate it there."
+    },
+    {
+      "topic": "Composition: ability, personality, roles",
+      "question": "A manager selects team members who value flexibility and cross-trains them to do one another's jobs. What benefit does the chapter predict?",
+      "options": {
+        "A": "Less need for maintenance roles such as harmonizing",
+        "B": "Lower training costs, since fewer skills need to be taught",
+        "C": "Greater adaptability and less reliance on any one member",
+        "D": "Clearer individual accountability for each specific task"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Members who can play multiple roles or complete one another's tasks improve a team's adaptability and make it less reliant on any single member, which should raise performance over time. (Ch 6: Allocation of Roles)\n**Why not A:** Cross-training affects task coverage; teams still need maintenance roles.\n**Why not B:** Cross-training means teaching more skills; the benefit is adaptability.\n**Why not D:** The benefit is flexibility and adaptability, not sharper ownership of each task."
+    },
+    {
+      "topic": "Diversity, size and loafing",
+      "question": "A manager assumes that adding demographic diversity (age, race, gender) to a team will automatically improve its performance. What do meta-analytic reviews suggest?",
+      "options": {
+        "A": "Demographic diversity is largely unrelated to team performance overall",
+        "B": "Demographic diversity strongly improves performance on every task",
+        "C": "Functional diversity hurts teams, while demographic diversity helps",
+        "D": "Diversity affects only satisfaction, never actual team performance"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Two meta-analyses found demographic diversity essentially unrelated to overall team performance (a third found race and gender diversity negatively related); diversity in function, education and expertise has small positive effects. (Ch 6: Diversity of Members)\n**Why not B:** The reviews found no such overall link.\n**Why not C:** It's functional, educational and expertise diversity that has small positive effects.\n**Why not D:** The reviews examined performance; one even found a negative link for race and gender."
+    },
+    {
+      "topic": "Diversity, size and loafing",
+      "question": "At an engineering firm where most employees are white men, a manager forms gender- and ethnically diverse teams. What does research suggest about diversity in this kind of setting?",
+      "options": {
+        "A": "It has more positive effects in fields dominated by one group",
+        "B": "The setting doesn't matter; diversity's effects are the same everywhere",
+        "C": "It tends to have more negative effects than in balanced fields",
+        "D": "It only matters when the teams are larger than about nine people"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Gender and ethnic diversity have more negative effects in occupations dominated by white or male employees; in more demographically balanced occupations, diversity is less of a problem. (Ch 6: Diversity of Members)\n**Why not A:** This reverses the finding.\n**Why not B:** The effects depend on how demographically balanced the occupation is.\n**Why not D:** Team size isn't the qualifier; the occupation's demographic balance is."
+    },
+    {
+      "topic": "Diversity, size and loafing",
+      "question": "A 16-person project team keeps struggling to coordinate under tight deadlines, and members say communication has broken down. What does the chapter recommend?",
+      "options": {
+        "A": "Break the team into smaller subteams of about five to nine",
+        "B": "Make the team an even number so that consensus is easier",
+        "C": "Keep the team intact but hold more frequent meetings",
+        "D": "Add more members so that each person's workload becomes lighter"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The most effective teams generally have five to nine members; excess members reduce cohesiveness and accountability, increase loafing and cut communication, so a large unit can be broken into subteams. (Ch 6: Size of the Team)\n**Why not B:** Size is the main problem here; odd numbers can help break ties, while even numbers may push for more consensus.\n**Why not C:** The chapter's remedy for an oversized team is a smaller team or subteams.\n**Why not D:** Adding members worsens coordination problems, which managers tend to underestimate."
+    },
+    {
+      "topic": "Diversity, size and loafing",
+      "question": "In a rope-pulling experiment, per-person force fell as group size grew from one to three to eight. Which statement correctly interprets this?",
+      "options": {
+        "A": "Total output rises with size, but each person's effort declines",
+        "B": "Each person's effort rises with size, but coordination falls",
+        "C": "Output per person stays stable until a group exceeds nine",
+        "D": "Total output falls as groups grow, since every member pulls less hard"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** This is social loafing: total group performance increases with size, but each added member brings diminishing returns in individual effort (63 kg alone, 53 kg each in threes, 31 kg each in eights). (Ch 6: Size and Social Loafing)\n**Why not B:** Per-person effort declined as groups grew.\n**Why not C:** Per-person force fell even when moving from one person to three.\n**Why not D:** Total performance still increases with group size; it's per-person effort that falls."
+    },
+    {
+      "topic": "Diversity, size and loafing",
+      "question": "On a class project, Jen notices a teammate doing little, so she quietly cuts back her own effort too. Which explanation of social loafing does this illustrate?",
+      "options": {
+        "A": "Role underload, since too little is expected of her on the team",
+        "B": "Conformity to a team norm set during the forming stage",
+        "C": "Dispersion of responsibility, since results can't be traced to her",
+        "D": "Restoring equity when others seem not to do their fair share"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Social loafing may stem from believing others aren't carrying their fair share; reducing your own effort re-establishes equity. (Ch 6: Size and Social Loafing)\n**Why not A:** Role underload is feeling you aren't contributing because too little is expected of you.\n**Why not B:** Jen is reacting to perceived unfairness, not to an established group norm.\n**Why not C:** That's the other explanation; here Jen is reacting to a teammate's low effort."
+    },
+    {
+      "topic": "Diversity, size and loafing",
+      "question": "A quiet teammate rarely speaks in meetings, and others start calling him a free rider. What does the chapter suggest they consider?",
+      "options": {
+        "A": "He's likely low in ability, since capable people always speak up",
+        "B": "He may be introverted or anxious, not exploiting the team",
+        "C": "Silence always signals social loafing, so they should report him",
+        "D": "He's showing role overload, since he has too much to handle"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Simply failing to contribute isn't enough to be labelled a free rider; the group must see the person as exploitive. Some quiet members are introverted or anxious about speaking up (Case Incident: Tongue-Tied in Teams). (Ch 6: Size and Social Loafing; Case Incident, Tongue-Tied in Teams)\n**Why not A:** Even highly intelligent people freeze in meetings when they're anxious.\n**Why not C:** Some people who seem to be free riders are introverted or anxious rather than loafing.\n**Why not D:** Nothing suggests overload; the case points to introversion and anxiety."
+    },
+    {
+      "topic": "Team processes",
+      "question": "A research team's combined output clearly exceeds what its scientists could produce working alone. In terms of the chapter's model of group processes, what does this show?",
+      "options": {
+        "A": "Process losses rose, but more members raised the total anyway",
+        "B": "The team's potential was reached, so no process effects occurred",
+        "C": "Process gains exceeded process losses, creating a positive synergy",
+        "D": "Social loafing was offset by the team's larger total headcount"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Actual group effectiveness equals potential effectiveness plus process gains minus process losses; scientists working in diverse teams produce positive synergy when gains exceed losses. (Ch 6: Process; Exhibit 6-8)\n**Why not A:** The point is positive synergy: process gains greater than process losses.\n**Why not B:** Exceeding the sum of individuals reflects process gains, not an absence of process effects.\n**Why not D:** Loafing is a process loss; the scientists' results reflect gains exceeding losses."
+    },
+    {
+      "topic": "Team processes",
+      "question": "On a new team, half the members want to master a new analytics tool, while the other half just want to deliver results quickly. What does research suggest about this mismatch?",
+      "options": {
+        "A": "Mixed learning and performance goals reduce sharing and results",
+        "B": "Learning goals should be dropped, since only output is measured",
+        "C": "The mismatch only matters if members' pay depends on results",
+        "D": "Mixed goals help, since the team gets both learning and output"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Differing perspectives on learning versus performance goals lower team performance overall, apparently by reducing discussion and information sharing; members should strive for the same type of goal. (Ch 6: Common Plan and Purpose)\n**Why not B:** The issue is agreeing on one type of goal, not that learning goals are bad.\n**Why not C:** The mismatch reduces discussion and information sharing whatever the pay system.\n**Why not D:** Differences in goal orientation lower team performance."
+    },
+    {
+      "topic": "Team processes",
+      "question": "A call-centre team sets a challenging goal for call accuracy but sets no goal for speed. What does goal research suggest will happen?",
+      "options": {
+        "A": "Speed and accuracy will both rise, since goals energize teams",
+        "B": "Accuracy will rise, since goals raise the criteria they target",
+        "C": "Accuracy will fall, since difficult goals create team anxiety",
+        "D": "Nothing changes, since goals work for individuals, not teams"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Difficult but achievable team goals raise performance on the criteria for which they're set: quantity goals raise quantity, speed goals raise speed, and accuracy goals raise accuracy. (Ch 6: Specific Goals)\n**Why not A:** Goals raise performance on the specific criteria they target.\n**Why not C:** Difficult but achievable goals raise team performance on those criteria.\n**Why not D:** Goals can energize teams just as they do individuals."
+    },
+    {
+      "topic": "Team processes",
+      "question": "A newly formed team lacks confidence after a rocky start. Which two actions does the chapter suggest management take to build its team efficacy?",
+      "options": {
+        "A": "Offer bigger individual bonuses tied to each member's output",
+        "B": "Assign it a very difficult project so it can prove itself",
+        "C": "Help it achieve small successes and provide skills training",
+        "D": "Replace its weakest members and add more high performers"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Small successes build confidence and the collective belief that future efforts will succeed; training in technical and interpersonal skills raises the chance the team develops confidence and can deliver on it. (Ch 6: Team Efficacy)\n**Why not A:** Individual incentives aren't a route to team efficacy and don't fit high-performance teams.\n**Why not B:** Small successes, not a high-risk challenge, rebuild efficacy after a rocky start.\n**Why not D:** The chapter suggests small successes and training rather than changing the membership."
+    },
+    {
+      "topic": "Team processes",
+      "question": "A highly cohesive warehouse crew has an informal norm of doing the bare minimum. What does research predict about its productivity?",
+      "options": {
+        "A": "High, since cohesive groups are always the more productive ones",
+        "B": "Moderate, since cohesion offsets the low norms somewhat",
+        "C": "Low, since cohesion strengthens its low performance norms",
+        "D": "Moderate to low, the same as a group low on both factors"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The cohesiveness–productivity link depends on performance norms: high cohesiveness with low norms produces low productivity, while high cohesiveness with high norms produces high productivity. (Ch 6: Team Efficacy; Exhibit 6-9)\n**Why not A:** Cohesiveness raises productivity only when performance-related norms are high.\n**Why not B:** High cohesion combined with low norms yields low productivity.\n**Why not D:** Moderate-to-low productivity is the outcome when both cohesiveness and norms are low."
+    },
+    {
+      "topic": "Team processes",
+      "question": "A project manager reminds members they need one another to finish, gives everyone a vital piece of the work, and recognizes each contribution fairly. Which type of cohesiveness is she building?",
+      "options": {
+        "A": "Group conformity",
+        "B": "Socio-emotional cohesiveness",
+        "C": "Team efficacy",
+        "D": "Instrumental cohesiveness"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Instrumental cohesiveness is togetherness based on mutual dependence; it grows when goals are clarified, each member gets a vital 'piece of the action,' contributions are equitably recognized and members are reminded they need one another. (Ch 6: Team Efficacy; OB in Action, Increasing Group Cohesiveness)\n**Why not A:** Conformity is adjusting one's behaviour to align with group norms.\n**Why not B:** Socio-emotional cohesiveness comes from emotional satisfaction; it's built through small size, a favourable image, interaction and common interests.\n**Why not C:** Team efficacy is a team's belief that it can succeed."
+    },
+    {
+      "topic": "Team processes",
+      "question": "Early in a creative design project, Team A members hardly disagree, Team B debates task ideas moderately, and Team C argues intensely about everything. Based on a study in China, which team is likely to be most creative?",
+      "options": {
+        "A": "Team B, with moderate task conflict early on",
+        "B": "Team A, since low conflict keeps the team focused",
+        "C": "All three equally, since early conflict has no effect",
+        "D": "Team C, since intense debate surfaces the most ideas"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Moderate task conflict in a team's initial phases was positively related to creativity, while both very low and very high levels of task conflict were negatively related to performance. (Ch 6: Managed Level of Conflict)\n**Why not B:** Too little disagreement early on can inhibit creative performance.\n**Why not C:** The level of early task conflict clearly mattered.\n**Why not D:** Very high levels of task conflict were negatively related to performance."
+    },
+    {
+      "topic": "Team processes",
+      "question": "You're chairing a meeting, and a debate about a proposal starts turning into personal jabs between two members. Following the chapter's meeting guidelines, what should you do?",
+      "options": {
+        "A": "End all disagreement so members can move toward a consensus",
+        "B": "Step in to stop the attacks while keeping the clash of ideas",
+        "C": "Move the item to the end of the agenda without comment",
+        "D": "Let it run its course, since conflict builds team cohesion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Effective meetings encourage the clash of ideas (different views, critical thinking, constructive disagreement) but discourage the clash of personalities; the chair should quickly intercede to stop personal attacks. (Ch 6: Managed Level of Conflict; From Concepts to Skills, Conducting a Team Meeting)\n**Why not A:** The chair should encourage constructive disagreement, not shut it down.\n**Why not C:** The guidance is to intercede quickly to stop personal attacks.\n**Why not D:** Personal attacks should be stopped quickly; relationship conflict is almost always dysfunctional."
+    },
+    {
+      "topic": "When to use teams, and culture",
+      "question": "A manufacturer plans to introduce teamwork and formal teamwork training, citing a Statistics Canada study. What did that study find for manufacturing compared with services?",
+      "options": {
+        "A": "Turnover fell in both sectors for high- and low-skilled staff",
+        "B": "Turnover fell in services but rose in manufacturing with teamwork",
+        "C": "Turnover rose in services but fell in manufacturing with teams",
+        "D": "Turnover didn't change in either sector after teams began"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Statistics Canada found that introducing teamwork lowered turnover in service industries, but manufacturing firms that introduced teamwork and training had higher turnover (15.8% versus 10.7%). (Ch 6: Beware! Teams Are Not Always the Answer)\n**Why not A:** Turnover rose in manufacturing firms that introduced teamwork.\n**Why not C:** This reverses the findings.\n**Why not D:** Teamwork lowered turnover in services and raised it in manufacturing."
+    },
+    {
+      "topic": "When to use teams, and culture",
+      "question": "A car dealership links service advisers, mechanics, parts specialists and salespeople into teams responsible for each customer's needs. Which of the chapter's tests for using teams does this best satisfy?",
+      "options": {
+        "A": "Each member's results can be summed to measure the outcome",
+        "B": "The task is simple enough that diverse input isn't needed",
+        "C": "The work creates a common purpose beyond individual goals",
+        "D": "Members can work independently without relying on others"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** One test asks whether the work creates a common purpose or goals that are more than the sum of individual goals; dealership teams can manage collective responsibility for meeting customers' needs. (Ch 6: Beware! Teams Are Not Always the Answer)\n**Why not A:** Purely additive work, like a swim team's, describes individuals performing individually.\n**Why not B:** Simple tasks that don't need diverse input are better left to individuals.\n**Why not D:** Teams make sense where tasks are interdependent, not independent."
+    },
+    {
+      "topic": "When to use teams, and culture",
+      "question": "A company plans to roll out self-managed teams at its plant in Mexico. What does the chapter suggest it consider?",
+      "options": {
+        "A": "Use the same design as in Canada, since teams work alike",
+        "B": "Remove supervisors entirely, since teams prefer full autonomy",
+        "C": "Spell out leadership roles, given strong respect for hierarchy",
+        "D": "Avoid teamwork altogether, since collectivists dislike teams"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Self-managed teams haven't fared well in Mexico because of low tolerance for ambiguity and strong respect for hierarchical authority; in high power-distance countries, teams may need clearly spelled-out leadership roles and power relationships. (Ch 6: Global Implications, Self-Managed Teams)\n**Why not A:** Evidence suggests self-managed teams haven't fared well in Mexico.\n**Why not B:** In high power-distance cultures, clear leadership roles help rather than removing them.\n**Why not D:** The issue is how teams are structured, not teamwork itself."
+    },
+    {
+      "topic": "When to use teams, and culture",
+      "question": "A multinational forms new teams, some culturally diverse and some culturally homogeneous. Early on, the diverse teams lag behind. What does research suggest about the gap?",
+      "options": {
+        "A": "It widens, as diverse teams find problem solving harder",
+        "B": "It tends to disappear after about three months",
+        "C": "It persists, since cultural diversity always hurts teams",
+        "D": "It closes only if the teams use individual-based goals"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Newly formed culturally diverse teams underperform homogeneous ones, but the differences disappear after about three months; diversity also helps on tasks that call for varied viewpoints. (Ch 6: Global Implications, Team Cultural Diversity)\n**Why not A:** Diverse teams struggle at first, but the differences fade.\n**Why not C:** The early gap disappears after about three months.\n**Why not D:** Group goals helped members from collectivistic and individualistic countries equally; the gap closes with time."
+    },
+    {
+      "topic": "When to use teams, and culture",
+      "question": "A bank gives teams at its U.S. and Hong Kong branches harder tasks and more autonomy to boost cohesiveness. Where should it expect the larger effect?",
+      "options": {
+        "A": "Neither, since autonomy weakens cohesion in bank branches",
+        "B": "In the Hong Kong branches, since collectivists value groups more",
+        "C": "Equally in both, since culture didn't affect the results at all",
+        "D": "In the U.S. branches, since individualists respond more strongly"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Harder tasks and more freedom increased cohesiveness in both cultures, but teams in individualistic cultures responded more strongly and earned higher ratings; collectivists already lean toward working as a group. (Ch 6: Global Implications, Group Cohesiveness)\n**Why not A:** Difficult tasks and more freedom created more tight-knit groups in both cultures.\n**Why not B:** Collectivists already have a strong predisposition to work together, so there was less need to increase cohesiveness.\n**Why not C:** Both responded, but teams in the individualistic culture responded more strongly."
+    },
+    {
+      "topic": "When to use teams, and culture",
+      "question": "A Canadian manager is building trust with new teammates in Mexico. What does cross-cultural research suggest they may rely on most when judging her trustworthiness?",
+      "options": {
+        "A": "Her willingness to take risks for the team",
+        "B": "Cognitive cues like reliability and professionalism",
+        "C": "Emotional cues like openness and social bonding",
+        "D": "Formal contracts that spell out each party's duties"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Chinese and Mexican employees appear to rely more than U.S. employees on emotional cues (mutual understanding, openness, social bonding) and less on cognitive cues (reliability, professionalism, economic cooperation). (Ch 6: Focus on Diversity, Developing Team Members' Trust across Cultures)\n**Why not A:** Risk taking appears more critical to building trust for U.S. and Canadian employees.\n**Why not B:** These cognitive cues matter relatively less for Mexican employees.\n**Why not D:** The research contrasts emotional and cognitive cues; formal contracts aren't the factor."
+    }
+  ]
+}

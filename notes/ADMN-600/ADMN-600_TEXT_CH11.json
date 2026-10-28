@@ -1,0 +1,638 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "11",
+    "title": "Leadership"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 11",
+  "questions": [
+    {
+      "topic": "Leadership and leader traits",
+      "question": "A department has a manager with the formal title and authority, but the team actually follows an informally respected engineer. What does the chapter say about this?",
+      "options": {
+        "A": "Influence can arise outside formal roles, so not all managers lead",
+        "B": "Neither is leading, since leadership requires an executive title",
+        "C": "The engineer is managing, since managers inspire and leaders plan",
+        "D": "Only the manager can lead, since leadership comes from formal rank"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Leadership is the ability to influence a group toward a vision or goals; its source may be formal, but nonsanctioned leadership arising outside the formal structure is often as important or more. Not all leaders are managers, nor are all managers leaders. (Ch 11: What Is Leadership?)\n**Why not B:** Leaders can emerge from within a group without any formal title.\n**Why not C:** It's the reverse: leaders inspire and create visions, while managers plan and oversee operations.\n**Why not D:** Leadership can come from outside the formal structure, as the engineer's does."
+    },
+    {
+      "topic": "Leadership and leader traits",
+      "question": "A star salesperson is promoted to sales manager and struggles badly in the new role. Which explanation does the chapter offer for why promotions like this so often produce bad bosses?",
+      "options": {
+        "A": "The Peter Principle: skills for one role don't transfer to the next",
+        "B": "Role ambiguity: sales managers never know what's expected of them",
+        "C": "Social loafing: managers coast once they're no longer selling",
+        "D": "Halo effect: sales success makes the manager seem more capable"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** When people are promoted into one job based on how well they did another, it's assumed the skills are the same; they stop being promoted only when they reach their level of incompetence. (Ch 11: Focus on Research, Bad Bosses Everywhere)\n**Why not B:** The issue is that selling skills differ from leading skills, not unclear expectations.\n**Why not C:** Loafing concerns reduced effort in groups; the problem here is a skills mismatch.\n**Why not D:** The chapter's explanation is the Peter Principle, about skills not transferring between roles."
+    },
+    {
+      "topic": "Leadership and leader traits",
+      "question": "A company names an employee 'team leader,' but her team doesn't think she's the best person for the job. What does research suggest?",
+      "options": {
+        "A": "Teams follow whoever is appointed, regardless of their views",
+        "B": "Respect matters only for leaders without formal authority",
+        "C": "The formal title alone ensures the team will follow her lead",
+        "D": "Lack of respect can stop people following her, title or not"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Lack of respect for a leader, such as feeling the leader isn't the best person for the job, significantly affects whether employees will follow; simply naming someone 'the leader' doesn't by itself create effective leadership. (Ch 11: Focus on Research, Bad Bosses Everywhere)\n**Why not A:** Employees' respect for the leader shaped whether they would follow.\n**Why not B:** Respect affected whether employees followed even an appointed leader.\n**Why not C:** Naming someone leader doesn't by itself create effective leadership."
+    },
+    {
+      "topic": "Leadership and leader traits",
+      "question": "A company wants to use personality tests to select future leaders. Based on Big Five research, which trait is most predictive of leadership, and what's the catch?",
+      "options": {
+        "A": "Agreeableness, though it predicts effectiveness more than emergence",
+        "B": "Emotional stability, since it's the strongest and most consistent",
+        "C": "Extraversion, though it predicts emergence more than effectiveness",
+        "D": "Extraversion, since it predicts effectiveness better than emergence"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Extraversion is the most predictive trait of effective leadership, but it's more strongly related to the way leaders emerge than to their effectiveness; very high assertiveness can even make leaders less effective. (Ch 11: Trait Theories)\n**Why not A:** Agreeableness didn't show the strong, consistent relationships that extraversion did.\n**Why not B:** Emotional stability wasn't among the traits with strong, consistent links to leadership.\n**Why not D:** Extraversion is more strongly related to leader emergence than to effectiveness."
+    },
+    {
+      "topic": "Leadership and leader traits",
+      "question": "A hiring panel already screens leadership candidates for extraversion. Which other Big Five traits does research say show strong, consistent links to leadership?",
+      "options": {
+        "A": "Agreeableness and emotional stability",
+        "B": "Agreeableness and conscientiousness",
+        "C": "Conscientiousness and openness",
+        "D": "Emotional stability and openness"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Unlike agreeableness and emotional stability, conscientiousness and openness to experience showed strong and consistent relationships to leadership, though not quite as strong as extraversion. (Ch 11: Trait Theories)\n**Why not A:** These two traits didn't show strong, consistent links to leadership.\n**Why not B:** Agreeableness wasn't among the traits strongly linked to leadership.\n**Why not D:** Emotional stability wasn't among the traits strongly linked to leadership."
+    },
+    {
+      "topic": "Leadership and leader traits",
+      "question": "Research found that conscientious and extraverted leaders received better performance ratings from their subordinates. What explained most of this effect?",
+      "options": {
+        "A": "The traits mean leaders delegate all their work to others",
+        "B": "The traits make leaders less demanding of their subordinates",
+        "C": "The traits help leaders avoid making any difficult decisions",
+        "D": "They raise leaders' self-efficacy, which followers trust"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Conscientiousness and extraversion are positively related to leaders' self-efficacy, which explained most of the variance in subordinates' ratings; people follow someone who's confident they're going in the right direction. (Ch 11: Trait Theories)\n**Why not A:** The effect ran through leaders' self-efficacy, not delegation.\n**Why not B:** The explanation is leaders' self-efficacy, not lower demands.\n**Why not C:** The research points to confidence (self-efficacy), not avoiding decisions."
+    },
+    {
+      "topic": "Leadership and leader traits",
+      "question": "A brilliant analyst with a compelling vision struggles to lead because he can't read or respond to his team's feelings. Which trait does the chapter suggest he's missing?",
+      "options": {
+        "A": "Extraversion, especially social dominance",
+        "B": "Openness, especially intellectual curiosity",
+        "C": "Emotional intelligence, especially empathy",
+        "D": "Cognitive ability, especially analytical skill"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Advocates argue that without emotional intelligence a person can have outstanding training, an analytical mind and a compelling vision and still not be a great leader; empathy (sensing needs, listening, reading reactions) is a core component. (Ch 11: Trait Theories)\n**Why not A:** The problem is reading and responding to feelings, which is emotional intelligence.\n**Why not B:** His vision suggests openness; the gap is in reading and responding to emotions.\n**Why not D:** He already has a highly analytical mind; what's missing is emotional intelligence."
+    },
+    {
+      "topic": "Leadership and leader traits",
+      "question": "A recruiter says, 'If a candidate has the right traits and people see her as a leader, she'll be a successful leader.' What does the chapter conclude about trait theories?",
+      "options": {
+        "A": "Traits can't predict leadership at all, as early research showed",
+        "B": "Traits fully determine success, so situations don't matter",
+        "C": "Traits predict emergence better than they predict effectiveness",
+        "D": "Traits predict effectiveness better than they predict emergence"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Traits can predict leadership, but they do a better job predicting the emergence and appearance of leadership than distinguishing effective from ineffective leaders; being seen as a leader doesn't mean the group reaches its goals. (Ch 11: Trait Theories)\n**Why not A:** Thanks to the Big Five model, we can now say traits do predict leadership.\n**Why not B:** Traits predict who emerges as leader, not whether the leader succeeds.\n**Why not D:** This reverses the conclusion."
+    },
+    {
+      "topic": "Behavioural theories",
+      "question": "A supervisor assigns people to specific tasks, expects definite standards of performance and emphasizes meeting deadlines. Which Ohio State dimension does this describe?",
+      "options": {
+        "A": "Employee orientation",
+        "B": "Laissez-faire leadership",
+        "C": "Consideration",
+        "D": "Initiating structure"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Initiating structure is the extent to which a leader defines and structures his or her own role and employees' roles to attain goals, such as assigning tasks, expecting definite standards and emphasizing deadlines. (Ch 11: The Ohio State Studies)\n**Why not A:** Employee orientation (Michigan) emphasizes interpersonal relations, similar to consideration.\n**Why not B:** Laissez-faire leaders abdicate responsibilities and avoid decisions.\n**Why not C:** Consideration concerns mutual trust, respect for ideas and regard for feelings."
+    },
+    {
+      "topic": "Behavioural theories",
+      "question": "A manager is friendly and approachable, helps employees with personal problems, treats everyone as equals and regularly expresses appreciation. Which leader behaviour is this, and what is it linked to?",
+      "options": {
+        "A": "Production orientation; better performance reviews",
+        "B": "Consideration; much higher group productivity",
+        "C": "Consideration; more satisfied, motivated followers",
+        "D": "Initiating structure; higher group productivity"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Consideration involves mutual trust, respect for employees' ideas and regard for their feelings; a review of 160 studies found followers of high-consideration leaders were more satisfied, more motivated and more respectful of their leaders. (Ch 11: The Ohio State and Michigan Studies)\n**Why not A:** Production orientation emphasizes the task, not interpersonal support.\n**Why not B:** Initiating structure, not consideration, is more strongly related to productivity.\n**Why not D:** This behaviour is consideration; initiating structure is about defining roles and goals."
+    },
+    {
+      "topic": "Behavioural theories",
+      "question": "A 2011 study integrated 59 earlier studies to compare how different leader behaviours affect group performance, leadership effectiveness and job satisfaction. Which conclusion fits?",
+      "options": {
+        "A": "Consideration matters most for both performance and effectiveness",
+        "B": "Task-oriented behaviours are essential to leadership effectiveness",
+        "C": "Leader behaviours explain almost nothing about group performance",
+        "D": "Supportiveness affects satisfaction far more than rewards do"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Task-oriented behaviours explained 47.6% of the variance in group performance and 33.3% in leadership effectiveness; consideration had smaller effects, and providing a reward structure explained the most variance in job satisfaction (43.9%). (Ch 11: Research Findings: Behavioural Theories of Leadership)\n**Why not A:** Consideration had a smaller, though significant, impact than task-oriented behaviours.\n**Why not C:** Task-oriented behaviours explained nearly half the variance in group performance.\n**Why not D:** A reward structure had a greater impact on satisfaction than being supportive."
+    },
+    {
+      "topic": "Behavioural theories",
+      "question": "Trait research suggested companies should focus on selecting the right people for leadership roles. What did behavioural theories imply instead?",
+      "options": {
+        "A": "People can be trained to become leaders",
+        "B": "Situations decide everything, so neither matters",
+        "C": "Leaders are born, so selection is the only option",
+        "D": "Followers, not leaders, determine all outcomes"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Trait research provides a basis for selecting the right people for leadership; behavioural theories implied that the behaviours of effective leaders could be taught, so people could be trained to be leaders. (Ch 11: Behavioural Theories)\n**Why not B:** That's closer to contingency thinking; behavioural theories focused on learnable behaviours.\n**Why not C:** Behavioural theories moved away from the idea that leaders must be selected for innate traits.\n**Why not D:** Behavioural theories studied leader behaviours, not follower control of outcomes."
+    },
+    {
+      "topic": "Fiedler's contingency model",
+      "question": "A well-respected payroll manager oversees clear, routine tasks and has full power to reward and discipline her staff. According to Fiedler, how much control does she have, and which leadership style fits?",
+      "options": {
+        "A": "Moderate control; a task-oriented style performs best",
+        "B": "High control; a relationship-oriented style performs best",
+        "C": "High control; a task-oriented style performs best",
+        "D": "Low control; a relationship-oriented style performs best"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Good leader–member relations, high task structure and strong position power give a leader high control; Fiedler found task-oriented leaders perform best in both high- and low-control situations. (Ch 11: Fiedler Contingency Model)\n**Why not A:** With good relations, high structure and strong power, the situation is high control.\n**Why not B:** Relationship-oriented leaders do best in moderate-control situations.\n**Why not D:** All three dimensions favour her, so the situation is high control."
+    },
+    {
+      "topic": "Fiedler's contingency model",
+      "question": "The disliked chair of a volunteer fundraising team has an ill-defined task and almost no power over the volunteers. According to Fiedler, which style is most likely to work?",
+      "options": {
+        "A": "Any style, since the situation is too weak for style to matter",
+        "B": "Relationship-oriented, since it builds trust with volunteers",
+        "C": "Task-oriented, since it may be the only way to get things done",
+        "D": "Laissez-faire, since the leader has no power to influence"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In a low-control situation (poor relations, ill-defined task, low influence), task orientation may be the only thing that makes it possible to get something done; relationship-oriented leaders do best in moderate control. (Ch 11: Fiedler Contingency Model)\n**Why not A:** Fiedler predicts task-oriented leaders do best in low-control situations.\n**Why not B:** Relationship-oriented leaders perform best in moderate-control situations, not low control.\n**Why not D:** Fiedler's model compares task- and relationship-oriented styles; in low control, task orientation fits."
+    },
+    {
+      "topic": "Fiedler's contingency model",
+      "question": "A relationship-oriented manager is leading a group in a highly unfavourable situation, and performance is suffering. Since Fiedler sees leadership style as fixed, what are the options?",
+      "options": {
+        "A": "Add a co-leader so the group has both styles at once",
+        "B": "Train the manager to switch to a task-oriented style",
+        "C": "Give the group more time, since its performance will soon improve",
+        "D": "Replace the leader or change the situation to fit the leader"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Because Fiedler views an individual's style as fixed, effectiveness can be improved only by changing the leader to fit the situation or changing the situation (restructuring tasks, adjusting position power) to fit the leader. (Ch 11: Fiedler Contingency Model)\n**Why not A:** The model's two remedies are changing the leader or changing the situation.\n**Why not B:** Fiedler assumes a leader's style can't be changed.\n**Why not C:** Fiedler's remedies involve matching leader and situation, not waiting."
+    },
+    {
+      "topic": "Fiedler's contingency model",
+      "question": "A consultant praises Fiedler's model but warns clients about using it in practice. Which criticism fits the research?",
+      "options": {
+        "A": "LPC scores are unstable and contingency factors hard to assess",
+        "B": "It assumes leaders change their style for every situation",
+        "C": "It ignores the leader's style and focuses only on followers",
+        "D": "No studies support any part of the model's predictions"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Studies support substantial parts of the model, but the logic behind the LPC questionnaire isn't well understood, respondents' scores aren't stable, and the contingency variables are complex and hard for practitioners to assess. (Ch 11: Fiedler Contingency Model)\n**Why not B:** Fiedler assumes the opposite: that a leader's style is fixed.\n**Why not C:** Fiedler's model centres on matching the leader's style to the situation.\n**Why not D:** Considerable evidence supports substantial parts of the model."
+    },
+    {
+      "topic": "Situational and path-goal theories",
+      "question": "A new hire is eager to learn but doesn't yet have the skills for a task. Under Hersey and Blanchard's Situational Leadership, how should the leader respond?",
+      "options": {
+        "A": "Delegate the task and step back from it entirely",
+        "B": "Be high on both task direction and relationship support",
+        "C": "Give clear, specific orders with little relationship focus",
+        "D": "Be supportive and participative with little direction"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** For followers who are unable but willing, the leader needs high task orientation to compensate for their lack of ability and high relationship orientation to get them to 'buy into' the leader's desires. (Ch 11: Situational Leadership, Exhibit 11-1)\n**Why not A:** Delegating suits followers who are both able and willing.\n**Why not C:** Clear, specific direction alone suits followers who are unable and unwilling.\n**Why not D:** A supportive, participative style suits followers who are able but unwilling."
+    },
+    {
+      "topic": "Situational and path-goal theories",
+      "question": "An experienced employee is fully capable of a task but reluctant to take it on. According to Situational Leadership, which style fits?",
+      "options": {
+        "A": "High task and high relationship",
+        "B": "A supportive, participative style",
+        "C": "Delegating with little involvement",
+        "D": "Clear, specific directions"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** If followers are able but unwilling (or apprehensive), the leader needs to use a supportive and participative style. (Ch 11: Situational Leadership, Exhibit 11-1)\n**Why not A:** That combination suits followers who are unable but willing.\n**Why not C:** Delegating suits followers who are both able and willing.\n**Why not D:** Clear, specific direction suits followers who are unable and unwilling."
+    },
+    {
+      "topic": "Situational and path-goal theories",
+      "question": "A training firm markets Situational Leadership as a proven, research-backed method. What does the chapter suggest about this claim?",
+      "options": {
+        "A": "It assumes a leader's style can never change",
+        "B": "It ignores followers and focuses only on leaders",
+        "C": "It has been fully disproven in every study",
+        "D": "Research support has generally been disappointing"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Situational Leadership has intuitive appeal and is widely popular, but research efforts to test and support it have generally been disappointing, possibly due to ambiguities in the model and methodological problems. (Ch 11: Situational Leadership)\n**Why not A:** That's Fiedler's assumption; Situational Leadership has leaders adapt to followers.\n**Why not B:** Situational Leadership focuses specifically on followers' readiness.\n**Why not C:** Support has been disappointing, not uniformly disproven; endorsement must simply be cautious."
+    },
+    {
+      "topic": "Situational and path-goal theories",
+      "question": "A team faces an ambiguous new task, and members are struggling to work out what to do. Under path-goal theory, which leader behaviour fits best?",
+      "options": {
+        "A": "Participative: ask for suggestions before any direction",
+        "B": "Supportive: focus mainly on friendliness and concern",
+        "C": "Directive: clarify expectations and give specific guidance",
+        "D": "Achievement-oriented: set very challenging stretch goals"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Directive leadership (letting followers know what's expected, scheduling work and giving specific guidance) is best when people have difficulty doing tasks or the tasks are ambiguous. (Ch 11: Path-Goal Theory)\n**Why not A:** Participative leadership suits situations where buy-in to decisions is needed.\n**Why not B:** Supportive leadership suits people under stress who need support.\n**Why not D:** Achievement orientation suits highly motivated people who like challenges, not those confused by ambiguity."
+    },
+    {
+      "topic": "Situational and path-goal theories",
+      "question": "A manager keeps explaining tasks in detail to a highly experienced, capable team that already understands the work. What does path-goal theory predict?",
+      "options": {
+        "A": "They'll feel supported, since attention signals care",
+        "B": "They'll become more motivated by the extra clarity",
+        "C": "They'll perform better, since direction always helps",
+        "D": "They'll see it as redundant or even insulting"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Leaders are effective when they compensate for what's lacking in the employee or work setting; explaining tasks that are already clear to capable, experienced employees is likely to be seen as redundant or even insulting. (Ch 11: Path-Goal Theory, Exhibit 11-2)\n**Why not A:** Unneeded direction tends to feel insulting rather than supportive.\n**Why not B:** The tasks are already clear, so the extra explanation adds nothing.\n**Why not C:** Direction helps only when something is lacking; here it's redundant."
+    },
+    {
+      "topic": "Situational and path-goal theories",
+      "question": "A team is under heavy stress from overwork. Under path-goal theory, which leader behaviour is most recommended, and which should be avoided?",
+      "options": {
+        "A": "Participative behaviour; avoid all forms of direction",
+        "B": "Directive behaviour; avoid any participative discussion",
+        "C": "Supportive behaviour; avoid achievement-oriented pressure",
+        "D": "Achievement-oriented behaviour; avoid supportive concern"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Supportive leadership (being friendly and concerned for followers' needs) is recommended when people are under stress; achievement-oriented leadership is less effective with less capable people or those highly stressed from overwork. (Ch 11: Path-Goal Theory)\n**Why not A:** Participative behaviour suits the need for buy-in; stress calls for support.\n**Why not B:** Directive behaviour suits ambiguous tasks; stress calls for support.\n**Why not D:** Achievement-oriented leadership works poorly with people stressed from overwork."
+    },
+    {
+      "topic": "Situational and path-goal theories",
+      "question": "In a document-processing firm, a supervisor sets clear goals and defines roles, responsibilities and priorities. Which employees are likely to benefit most, and who may suffer?",
+      "options": {
+        "A": "All staff benefit equally, regardless of personality",
+        "B": "Less conscientious staff gain; conscientious staff may resent it",
+        "C": "No one benefits, since goals reduce intrinsic motivation",
+        "D": "Conscientious staff gain; others may feel exhausted"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Workers' conscientiousness was linked to higher performance only when supervisors set goals and defined roles, while goal-focused leadership can bring emotional exhaustion for those low in conscientiousness and emotional stability. (Ch 11: Research Findings: Path-Goal Theory)\n**Why not A:** The effects depended on followers' conscientiousness and emotional stability.\n**Why not B:** This reverses the findings.\n**Why not C:** Conscientious followers performed better when supervisors set goals."
+    },
+    {
+      "topic": "Substitutes for leadership",
+      "question": "A team of experienced, highly trained professionals works on tasks that provide their own feedback, and members barely need their supervisor. What does this illustrate?",
+      "options": {
+        "A": "A situation that calls for much stronger directive leadership",
+        "B": "Substitutes that replace the need for task-oriented leadership",
+        "C": "Proof that leadership never affects performance anywhere",
+        "D": "Neutralizers that make all leader behaviour more powerful"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Experience and training, professionalism, highly structured tasks and tasks that provide their own feedback substitute for task-oriented leadership; in many situations, leaders' actions are irrelevant. (Ch 11: Substitutes for Leadership, Exhibit 11-3)\n**Why not A:** These characteristics reduce the need for task direction.\n**Why not C:** Substitutes matter, but that doesn't mean leadership never matters.\n**Why not D:** Neutralizers make it impossible for leader behaviour to matter; they don't strengthen it."
+    },
+    {
+      "topic": "Substitutes for leadership",
+      "question": "Employees in one unit are completely indifferent to the organization's rewards. What effect does this have on leadership?",
+      "options": {
+        "A": "It neutralizes both task- and relationship-oriented leadership",
+        "B": "It strengthens the effect of task-oriented leadership on staff",
+        "C": "It has no effect, since rewards aren't related to leadership at all",
+        "D": "It substitutes only for relationship-oriented leadership"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Indifference to rewards is a neutralizer: it makes it impossible for task- or relationship-oriented leader behaviour to make any difference to follower outcomes. (Ch 11: Substitutes for Leadership, Exhibit 11-3)\n**Why not B:** Indifference to rewards cancels leaders' effects rather than strengthening them.\n**Why not C:** Indifference to rewards neutralizes leader influence.\n**Why not D:** Indifference to rewards neutralizes both kinds of leadership."
+    },
+    {
+      "topic": "Substitutes for leadership",
+      "question": "A cohesive work group with explicit, formalized goals and rigid procedures functions well with little supervision. Which statement about these characteristics is accurate?",
+      "options": {
+        "A": "Cohesive groups substitute for both task and relationship leadership",
+        "B": "Cohesive groups make relationship leadership more necessary",
+        "C": "Rigid rules and procedures substitute for relationship leadership only",
+        "D": "Formalized goals neutralize all forms of leadership influence"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Cohesive work groups substitute for both relationship- and task-oriented leadership, while explicit formalized goals and rigid rules and procedures substitute for task-oriented leadership. (Ch 11: Substitutes for Leadership, Exhibit 11-3)\n**Why not B:** Cohesive groups substitute for relationship-oriented leadership.\n**Why not C:** Rigid rules and procedures substitute for task-oriented leadership.\n**Why not D:** Formalized goals substitute for task-oriented leadership; they aren't neutralizers."
+    },
+    {
+      "topic": "Charismatic leadership",
+      "question": "Employees describe their CEO as having a compelling vision, taking big personal risks for it, being attuned to their needs and behaving unconventionally. According to House's theory, what are they doing?",
+      "options": {
+        "A": "Responding to her formal position and legitimate authority",
+        "B": "Attributing extraordinary abilities and giving her power",
+        "C": "Rewarding her for meeting transactional performance goals",
+        "D": "Rating her on initiating structure and consideration"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Charismatic leadership theory says followers make attributions of heroic or extraordinary abilities when they observe certain behaviours (vision, personal risk, sensitivity to followers' needs, unconventional behaviour) and tend to give these leaders power. (Ch 11: Charismatic Leadership, Exhibit 11-4)\n**Why not A:** Charismatic influence comes from followers' attributions, not formal position.\n**Why not C:** These behaviours reflect charisma, not transactional exchanges.\n**Why not D:** Those are behavioural dimensions; these are the marks of charismatic leadership."
+    },
+    {
+      "topic": "Charismatic leadership",
+      "question": "A charismatic founder links today's work to a better future, sets high expectations, models new values and openly shows emotion about the mission. Through what process does she influence followers?",
+      "options": {
+        "A": "Clear role definitions, rules and close monitoring",
+        "B": "A vision, high expectations, role modelling and emotion",
+        "C": "Contingent rewards traded for meeting specific targets",
+        "D": "Formal authority and the threat of discipline"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Charismatic leaders articulate an appealing vision, build followers' self-esteem with high expectations, convey new values and set an example to imitate, and use emotion-inducing behaviour that followers 'catch.' (Ch 11: How Charismatic Leaders Influence Followers)\n**Why not A:** Those describe initiating structure and control, not charismatic influence.\n**Why not C:** Exchanging rewards for performance is transactional leadership.\n**Why not D:** Charismatic leaders influence through vision and emotion, not authority and threats."
+    },
+    {
+      "topic": "Charismatic leadership",
+      "question": "Under what conditions are people especially receptive to charismatic leadership?",
+      "options": {
+        "A": "In stable times, when things are running smoothly",
+        "B": "When followers have very high self-esteem and autonomy",
+        "C": "Only in mature, highly bureaucratic organizations",
+        "D": "In a crisis or under stress, and when self-esteem is low"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People are especially receptive when they sense a crisis, are under stress or fear for their lives, which is why charismatic leaders surface in politics, religion, wartime and crises; people who lack self-esteem are more susceptible. (Ch 11: Research Findings: Charismatic Leadership)\n**Why not A:** Charismatic leaders tend to surface in crises and times of great change.\n**Why not B:** People low in self-esteem are more likely to absorb a charismatic leader's direction.\n**Why not C:** Charisma surfaces in start-ups and crises, not mainly in mature bureaucracies."
+    },
+    {
+      "topic": "Charismatic leadership",
+      "question": "After leading his firm through a dramatic crisis, a charismatic CEO now brushes off challenges from staff and insists he's always right. What does the chapter warn about?",
+      "options": {
+        "A": "Charismatic leaders become more open to criticism over time",
+        "B": "Crises always end charismatic leadership automatically",
+        "C": "The board should give him more power to keep momentum",
+        "D": "He may become a liability now that the crisis has passed"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Once the crisis and the need for dramatic change subside, a charismatic leader's overwhelming self-confidence can be a disadvantage: unable to listen, uncomfortable when challenged and convinced of their own 'rightness'; charisma also silences criticism. (Ch 11: The Dark Side of Charismatic Leadership)\n**Why not A:** Charismatic leadership tends to silence criticism rather than invite it.\n**Why not B:** The danger is that charismatic leaders stay on and become a liability.\n**Why not C:** Even boards are often reluctant to challenge such leaders, which is part of the danger."
+    },
+    {
+      "topic": "Charismatic leadership",
+      "question": "A study of companies that went from good to great found their leaders were fiercely ambitious, yet credited others for successes and took responsibility for failures. What are these leaders called, and what sets them apart?",
+      "options": {
+        "A": "Transactional leaders: rewards tied to clear performance goals",
+        "B": "Charismatic leaders: ego-driven ambition and bold self-promotion",
+        "C": "Level 5 leaders: humility combined with professional will",
+        "D": "Servant leaders: avoiding any personal ambition at all"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Level 5 leaders have individual capability, team skills, managerial competence and the ability to stimulate others, plus a fifth quality: a paradoxical blend of personal humility and professional will, directing ambition toward the company, not themselves. (Ch 11: The Dark Side of Charismatic Leadership, Level 5 Leaders)\n**Why not A:** The distinguishing feature is humility plus professional will, not contingent rewards.\n**Why not B:** The key difference was the absence of being ego-driven.\n**Why not D:** These leaders were fiercely ambitious, but for the company rather than themselves."
+    },
+    {
+      "topic": "Transformational leadership",
+      "question": "One leader guides followers toward established goals by clarifying roles and tasks and rewarding performance. Another inspires followers to transcend self-interest for the good of the organization. What are they?",
+      "options": {
+        "A": "A directive leader and a participative leader",
+        "B": "A transactional leader and a transformational leader",
+        "C": "A servant leader and an authentic leader",
+        "D": "A charismatic leader and a laissez-faire, hands-off leader"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Transactional leaders guide or motivate followers toward established goals by clarifying role and task requirements; transformational leaders inspire followers to transcend their self-interests and can have an extraordinary effect on them. (Ch 11: Transformational Leadership, Exhibit 11-5)\n**Why not A:** These path-goal behaviours don't capture inspiring followers to transcend self-interest.\n**Why not C:** The first leader is defined by clarifying tasks and rewarding performance, which is transactional.\n**Why not D:** Laissez-faire leaders abdicate responsibility; neither description fits laissez-faire."
+    },
+    {
+      "topic": "Transformational leadership",
+      "question": "A manager steps in only when standards aren't met and otherwise stays out of the way. Where does this fall in the full range of leadership model?",
+      "options": {
+        "A": "Laissez-faire, considered the most active and effective",
+        "B": "Contingent reward, considered highly transformational",
+        "C": "Individualized consideration, considered very effective",
+        "D": "Management by exception (passive), considered ineffective"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Management by exception, active or passive, is slightly better than laissez-faire but still ineffective, since such leaders are available only when there's a problem, which is often too late. (Ch 11: Full Range of Leadership Model, Exhibit 11-6)\n**Why not A:** Laissez-faire is the most passive and least effective style.\n**Why not B:** Contingent reward exchanges rewards for effort; it's transactional, not transformational.\n**Why not C:** Individualized consideration means giving personal attention and coaching, not intervening only on problems."
+    },
+    {
+      "topic": "Transformational leadership",
+      "question": "A manager is a solid transactional leader who uses contingent rewards well, but she shows no transformational qualities. What does the chapter predict?",
+      "options": {
+        "A": "She'll likely be only a mediocre leader",
+        "B": "She'll be outstanding, since rewards drive everything",
+        "C": "She'll be ineffective, since transactional styles never work",
+        "D": "She'll match a transformational leader's results exactly"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Transformational leadership builds on transactional leadership and produces effort and performance beyond what transactional leadership alone can achieve, but not the reverse; the best leaders are both transactional and transformational. (Ch 11: Transformational Leadership)\n**Why not B:** Without transformational qualities, a good transactional leader is likely mediocre.\n**Why not C:** Contingent reward leadership can be effective; it just won't produce extra effort.\n**Why not D:** Transformational leadership adds effort and performance beyond transactional leadership."
+    },
+    {
+      "topic": "Transformational leadership",
+      "question": "In which setting is transformational leadership likely to have the greatest impact on the bottom line?",
+      "options": {
+        "A": "A large public firm with a complex bureaucratic structure",
+        "B": "Any setting equally, since its effects never vary by context",
+        "C": "A firm where leaders mainly report to an external board",
+        "D": "A smaller, privately held firm where leaders interact directly"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Transformational leadership has a greater impact on the bottom line in smaller, privately held firms than in complex organizations, perhaps because leaders can interact directly with the workforce rather than reporting to boards or navigating bureaucracy. (Ch 11: Research Findings: Transformational Leadership)\n**Why not A:** Its bottom-line impact is greater in smaller, privately held firms.\n**Why not B:** Transformational leadership isn't equally effective in all situations.\n**Why not C:** Reporting to an external board appears to reduce its impact."
+    },
+    {
+      "topic": "Transformational leadership",
+      "question": "Members of a transformational leader's team disagree about whether her behaviour empowers them: some feel empowered, others don't. What did a 2014 study find about situations like this?",
+      "options": {
+        "A": "Her effect on citizenship is stronger when views are divided",
+        "B": "Her effect on citizenship is weaker without shared agreement",
+        "C": "Group perceptions don't matter, only each individual's view",
+        "D": "Transformational leadership lowers citizenship in teams"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Transformational leadership consistently increased citizenship behaviour, and the effect was significantly stronger when the group as a whole agreed the leader's behaviours were empowering; if only some felt empowered, the impact lessened considerably. (Ch 11: Research Findings: Transformational Leadership)\n**Why not A:** The effect was stronger when the group agreed, not when views were divided.\n**Why not C:** The collective perception shared by the group made a significant difference.\n**Why not D:** Transformational leadership consistently increased citizenship behaviour."
+    },
+    {
+      "topic": "Transformational leadership",
+      "question": "A Canadian bank sends some branch managers through transformational leadership training. Based on research, what result should it expect?",
+      "options": {
+        "A": "Their branches show no measurable change",
+        "B": "Their branches perform significantly better",
+        "C": "Their branches do worse, as training disrupts routines",
+        "D": "Their staff become more dependent and less creative"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Like charisma, transformational leadership can be learned: branches managed by those who underwent transformational leadership training performed significantly better than branches whose managers weren't trained. (Ch 11: Research Findings: Transformational Leadership)\n**Why not A:** The trained managers' branches performed significantly better.\n**Why not C:** The research found better, not worse, branch performance.\n**Why not D:** Transformational leaders tend to increase followers' creativity and confidence."
+    },
+    {
+      "topic": "Mentoring, self- and team leadership",
+      "question": "A senior engineer coaches a junior colleague, counsels her through setbacks and lobbies for her to get strong assignments. What role is he playing, and where do the main gains tend to lie?",
+      "options": {
+        "A": "Sponsor; the gains are guaranteed promotions for her",
+        "B": "Mentor; the gains are mainly higher pay and better job performance",
+        "C": "Mentor; the gains are mainly psychological and via networks",
+        "D": "Coach; the gains are mainly in technical task mastery"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A mentor sponsors and supports a less-experienced protégé through coaching, counselling and sponsorship; research suggests the gains are primarily psychological, and much of a mentor's value lies in connecting the protégé to a powerful network. (Ch 11: Mentoring)\n**Why not A:** Mentoring doesn't guarantee promotions; ability and personality matter more.\n**Why not B:** Research suggests mentoring's gains are primarily psychological, not objective outcomes.\n**Why not D:** He's acting as a mentor, which includes sponsorship as well as coaching."
+    },
+    {
+      "topic": "Mentoring, self- and team leadership",
+      "question": "A company launches a formal mentoring program that assigns mentor–protégé pairs at random, and it falls flat. What does research suggest?",
+      "options": {
+        "A": "Formal programs need committed, well-matched pairs",
+        "B": "Random matching is ideal, since it avoids favouritism",
+        "C": "Formal programs always outperform informal mentoring",
+        "D": "Mentoring has no benefits for mentors, so few commit"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Formal mentoring tends to be less effective than informal mentoring, usually because of poor planning and design; mentor commitment is critical, protégés need input, and programs succeed when they match work styles, needs and skills. (Ch 11: Mentoring)\n**Why not B:** Programs work best when they match protégés' and mentors' styles, needs and skills.\n**Why not C:** Formal relationships tend to be less effective than informal ones.\n**Why not D:** Mentoring benefits mentors too; in one study mentors developed transformational abilities."
+    },
+    {
+      "topic": "Mentoring, self- and team leadership",
+      "question": "A manager wants to develop self-leaders on her team. According to the chapter, what's the most important part of self-leadership for her to encourage?",
+      "options": {
+        "A": "Employees creating specific, quantitative self-set goals",
+        "B": "Employees waiting for supervisors to set clear targets",
+        "C": "Employees punishing themselves for every small mistake",
+        "D": "Employees avoiding any criticism of their own performance"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Supporting employees in developing quantitative, specific goals is the most important part of self-leadership; other steps include modelling self-leadership, self-rewards, positive thought patterns, a self-leadership climate and self-criticism. (Ch 11: Self-Leadership or Self-Management)\n**Why not B:** Self-leadership means people set their own goals.\n**Why not C:** Self-punishment should be limited to occasions of dishonesty or destructive behaviour.\n**Why not D:** Leaders should encourage individuals to be critical of their own performance."
+    },
+    {
+      "topic": "Mentoring, self- and team leadership",
+      "question": "A team leader represents her team at senior management meetings, clarifies what other departments expect of the team and brings back information from customers. Which team-leader role is this?",
+      "options": {
+        "A": "Troubleshooter for team problems",
+        "B": "Liaison with external groups",
+        "C": "Conflict manager inside the team",
+        "D": "Coach to individual team members"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** As liaisons with external constituencies, team leaders represent the team to outsiders, secure needed resources, clarify others' expectations of the team, gather outside information and share it with members. (Ch 11: Team Leadership, Roles of Team Leaders)\n**Why not A:** Troubleshooters help resolve problems the team brings to them, often by asking penetrating questions.\n**Why not C:** Conflict managers help process disagreements within the team.\n**Why not D:** Coaches clarify expectations and roles, teach and support members' performance."
+    },
+    {
+      "topic": "Mentoring, self- and team leadership",
+      "question": "A newly appointed team leader keeps tight control of every decision even though her team needs more autonomy. What does the chapter say about the shift to team leadership?",
+      "options": {
+        "A": "Many managers struggle; command-and-control habits don't fit",
+        "B": "Team leaders should keep tight control to build trust",
+        "C": "Most managers turn out to be natural team leaders from day one",
+        "D": "No manager can ever learn to lead a team effectively"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Many leaders aren't equipped for team leadership because command-and-control habits are no longer appropriate; an estimated 15% are natural team leaders, 15% could never lead a team, and most can learn it. New leaders may retain too much control. (Ch 11: Team Leadership)\n**Why not B:** Effective team leaders learn to trust others and give up authority.\n**Why not C:** Only about 15% of managers are estimated to be natural team leaders.\n**Why not D:** The large middle group of managers can learn team leadership."
+    },
+    {
+      "topic": "Mentoring, self- and team leadership",
+      "question": "With no formal title, an employee persuades her company to adopt greener waste practices. She raises hard questions others avoid, focuses on this one issue and draws on close contact with front-line staff. Which benefits of leading without authority is she using?",
+      "options": {
+        "A": "Rank, title and control over staff evaluations",
+        "B": "Charisma, a big budget and executive sponsorship",
+        "C": "Creative deviance, issue focus and front-line information",
+        "D": "Formal power, control over rewards and legitimate authority"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Heifetz identifies three benefits of leading without authority: latitude for creative deviance, focus on a single issue rather than many, and front-line information from being closer to stakeholders. (Ch 11: Leading without Authority)\n**Why not A:** Leading without authority means acting without rank or title.\n**Why not B:** The benefits Heifetz describes don't depend on budgets or sponsors.\n**Why not D:** She has no formal authority; these are bases of formal power."
+    },
+    {
+      "topic": "Authentic, ethical and servant leadership",
+      "question": "A CEO knows what she values and acts on those values openly and candidly, sharing information and sticking to her ideals. What kind of leader is she, and what does this mainly produce?",
+      "options": {
+        "A": "An authentic leader; the main result is trust",
+        "B": "A transactional leader; the main result is compliance",
+        "C": "A charismatic leader; the main result is dependence",
+        "D": "A directive leader; the main result is clear structure"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Authentic leaders know who they are and what they value and act on those values openly and candidly; followers see them as ethical, and the primary quality authentic leadership produces is trust. (Ch 11: Authentic Leadership)\n**Why not B:** Transactional leadership centres on exchanges, not acting openly on deeply held values.\n**Why not C:** The description fits authentic leadership, whose main product is trust.\n**Why not D:** Directive leadership concerns task guidance, not openly living one's values."
+    },
+    {
+      "topic": "Authentic, ethical and servant leadership",
+      "question": "How do followers of leaders rated as highly ethical tend to behave, according to research?",
+      "options": {
+        "A": "More conflict, since ethical standards create friction",
+        "B": "More citizenship and more willingness to raise problems",
+        "C": "Less willingness to report problems, to protect the leader",
+        "D": "Less citizenship behaviour, since rules replace goodwill"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Leaders rated as highly ethical tend to have followers who engage in more organizational citizenship behaviour and are more willing to bring problems to the leaders' attention; ethical leadership also reduced interpersonal conflict. (Ch 11: Ethical Leadership)\n**Why not A:** Ethical leadership was found to reduce interpersonal conflicts.\n**Why not C:** Followers were more willing to bring problems to ethical leaders.\n**Why not D:** Followers of ethical leaders show more citizenship behaviour."
+    },
+    {
+      "topic": "Authentic, ethical and servant leadership",
+      "question": "A charismatic leader conveys other-centred rather than self-centred values, models ethical conduct and brings employees' values in line with her own. What is this called?",
+      "options": {
+        "A": "Transactional, contingent-reward leadership",
+        "B": "Socialized charismatic leadership",
+        "C": "Active management by exception",
+        "D": "Laissez-faire, hands-off leadership"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Socialized charismatic leadership conveys other-centred (not self-centred) values and models ethical conduct, bringing employees' values in line with the leader's through words and actions. (Ch 11: Ethical Leadership)\n**Why not A:** Transactional leadership clarifies tasks and exchanges rewards; it isn't defined by other-centred values.\n**Why not C:** Management by exception means intervening only when problems arise.\n**Why not D:** Laissez-faire leaders abdicate responsibility and avoid decisions."
+    },
+    {
+      "topic": "Authentic, ethical and servant leadership",
+      "question": "A new leader wants to build a moral foundation for her leadership. Which set of practices matches the four cornerstones in the chapter?",
+      "options": {
+        "A": "Truth telling, promise keeping, fairness and respect",
+        "B": "Creative deviance, issue focus and front-line information",
+        "C": "Vision, risk taking, sensitivity and unconventionality",
+        "D": "Liaison, troubleshooting, conflict management, coaching"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The four cornerstones of a moral foundation of leadership are truth telling, promise keeping, fairness (followers get their fair share) and respect for the individual (treating people with dignity). (Ch 11: Ethical Leadership)\n**Why not B:** These are benefits of leading without authority.\n**Why not C:** These are characteristics of charismatic leaders.\n**Why not D:** These are the roles of team leaders."
+    },
+    {
+      "topic": "Authentic, ethical and servant leadership",
+      "question": "A leader listens, empathizes, persuades rather than using power, and focuses on developing followers' potential. What kind of leadership is this, and what outcomes does research link to it?",
+      "options": {
+        "A": "Servant leadership; more narcissism and dependence on the leader",
+        "B": "Laissez-faire leadership; more autonomy and less structure",
+        "C": "Transactional leadership; more compliance with set goals",
+        "D": "Servant leadership; more commitment, efficacy and citizenship"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Servant leaders go beyond self-interest to help followers grow, emphasizing persuasion over power; this is linked to commitment to the supervisor, self-efficacy and perceived justice, which relate to citizenship behaviour, and to team potency and group performance. (Ch 11: Servant Leadership)\n**Why not A:** Servant leadership is negatively correlated with narcissism.\n**Why not B:** Laissez-faire leaders avoid responsibility rather than actively developing followers.\n**Why not C:** The behaviours described are those of servant leadership, not transactional exchanges."
+    },
+    {
+      "topic": "Leadership across cultures",
+      "question": "A multinational wonders whether transformational leadership works across cultures. What did the GLOBE research program conclude?",
+      "options": {
+        "A": "Each country needs a completely different leadership style",
+        "B": "Transformational leadership works only in North America",
+        "C": "Vision matters little outside individualistic cultures",
+        "D": "Elements such as vision and foresight are universal"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** GLOBE linked elements of transformational leadership with effective leadership regardless of country: vision, foresight, providing encouragement, trustworthiness, dynamism, positiveness and proactiveness top the list, though how a vision is formed and communicated may need adapting. (Ch 11: Research Findings: Transformational Leadership; Global Implications)\n**Why not A:** The finding disputes the view that leadership style must fully adapt to each culture.\n**Why not B:** GLOBE found key elements are effective regardless of country.\n**Why not C:** A vision is important in any culture, though its communication may vary."
+    },
+    {
+      "topic": "Leadership across cultures",
+      "question": "A Canadian manager takes over a team in France. Based on GLOBE findings, which leadership approach is likely to work best?",
+      "options": {
+        "A": "High initiating structure; relatively autocratic decisions",
+        "B": "Team-oriented and participative, with high LPC scores",
+        "C": "Participative at first, then taking charge of the final decision",
+        "D": "High consideration; humane, people-oriented decisions"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** French employees have a more bureaucratic view of leaders and are less likely to expect humane, considerate leaders; a task-oriented leader high on initiating structure who decides relatively autocratically will do best. (Ch 11: Global Implications)\n**Why not B:** That profile fits Brazil, according to GLOBE.\n**Why not C:** That approach fits Egypt, according to GLOBE.\n**Why not D:** A manager high on consideration may find that style backfiring in France."
+    },
+    {
+      "topic": "Leadership across cultures",
+      "question": "A manager in Egypt wants to lead participatively while respecting the culture's relatively high power distance. What does GLOBE suggest?",
+      "options": {
+        "A": "Delegate the decision fully to the team to show trust",
+        "B": "Decide alone without consulting anyone, to signal high status",
+        "C": "Seek opinions, minimize conflict, then make the final call",
+        "D": "Avoid any status differences and act as a peer only"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Egyptian employees value team-oriented, participative leadership, but status differences are expected; the leader should ask for opinions, try to minimize conflicts, and not be afraid to take charge and make the final decision. (Ch 11: Global Implications)\n**Why not A:** Status differences are expected, so the leader should still make the final call.\n**Why not B:** Egyptian employees value participation, so the leader should consult first.\n**Why not D:** In a high power-distance culture, status differences between leaders and followers are expected."
+    },
+    {
+      "topic": "Leadership across cultures",
+      "question": "A GE executive found that his vocal, U.S.-style leadership produced no results in Japan. According to the chapter, how did he adapt?",
+      "options": {
+        "A": "He spoke more often and more forcefully to be heard",
+        "B": "He acted as a consultant and decided with his team",
+        "C": "He made every decision alone to show strong authority",
+        "D": "He relied on written directives rather than discussion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** He realized he had to adapt, acting more as a consultant to colleagues and adopting a team-based motivational decision-making process rather than the vocal Western style; in Japan, a leader's silence can mean more than many words. (Ch 11: Global Implications)\n**Why not A:** He moved away from the vocal style, not toward more of it.\n**Why not C:** He adopted a team-based decision process instead.\n**Why not D:** He became more consultative, not more directive."
+    }
+  ]
+}

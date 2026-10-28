@@ -1,0 +1,386 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "04",
+    "title": "Theories of Motivation"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 4",
+  "questions": [
+    {
+      "topic": "Motivation basics",
+      "question": "An employee is visibly bored running a drill press all day, yet spends hours enthusiastically playing slot machines on weekends. What does this illustrate about motivation?",
+      "options": {
+        "A": "Theory X fully explains his behaviour at work",
+        "B": "He is driven only by extrinsic rewards in every setting",
+        "C": "Motivation is a stable trait that some people simply lack",
+        "D": "Motivation reflects the person and the situation interacting"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Motivation isn't a fixed personal trait: it results from the interaction of the individual and the situation, so it varies among people and within the same person at different times. (Ch 4: What Is Motivation?)\n**Why not A:** The chapter notes that neither Theory X nor Theory Y alone fully accounts for employee behaviour.\n**Why not B:** Nothing suggests his motivation is purely extrinsic; the point is how the situation changes it.\n**Why not C:** The chapter says it's incorrect to view motivation as a trait some people have and others don't."
+    },
+    {
+      "topic": "Motivation basics",
+      "question": "Before a big presentation, Nora tells herself, 'I will nail this.' Her colleague instead asks himself, 'Will I nail this?' Based on the research in the chapter, who is likely to be more motivated?",
+      "options": {
+        "A": "Nora, since positive affirmations reliably boost performance",
+        "B": "The colleague, since asking the question raised motivation",
+        "C": "Nora, since doubt in a question lowers self-efficacy",
+        "D": "Both equally, since self-talk has no effect on performance"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In a 2010 study, people who asked themselves whether they would complete a task outperformed those who told themselves they would; questioning increased intrinsic motivation. (Ch 4: Focus on Research, Talking to Yourself)\n**Why not A:** The study found that asking 'Will I?' worked better than affirming 'I will'.\n**Why not C:** The study found the questioning form improved performance rather than undermining it.\n**Why not D:** The research found a clear difference between the two kinds of self-talk."
+    },
+    {
+      "topic": "Needs theories in depth",
+      "question": "A manager argues that a 2011 study of 123 countries proved Maslow right, so needs must be met strictly in order. What did that study actually find?",
+      "options": {
+        "A": "Only lower-order needs had any link to people's happiness",
+        "B": "The needs were unrelated to happiness in most countries studied",
+        "C": "Needs related to happiness, but the order of fulfillment mattered little",
+        "D": "Needs had to be satisfied in exactly Maslow's order to bring happiness"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The study found Maslow's needs were universally related to individual happiness, but the order in which they were fulfilled had little bearing on life satisfaction and enjoyment. (Ch 4: Maslow's Hierarchy of Needs Theory)\n**Why not A:** Lower-order needs related to positive life evaluation and higher-order needs to enjoying life.\n**Why not B:** The study found the needs were universally related to happiness.\n**Why not D:** The order of fulfillment had little bearing on life satisfaction."
+    },
+    {
+      "topic": "Needs theories in depth",
+      "question": "Herzberg asked people to describe times they felt exceptionally good or bad about their jobs. Why do critics say this self-report method may have biased his findings?",
+      "options": {
+        "A": "The interviews measured productivity carefully but never measured satisfaction",
+        "B": "Respondents were mostly managers, who see work differently from other staff",
+        "C": "People credit themselves for success and blame the environment for failure",
+        "D": "Raters used a fixed scoring key, so no human judgment was ever involved"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Critics argue self-reports are limited because people take credit when things go well and blame the external environment when they don't, which could create the motivator–hygiene split. (Ch 4: Motivation–Hygiene Theory)\n**Why not A:** Herzberg measured satisfaction, not productivity; the critique is that he assumed the productivity link.\n**Why not B:** The criticisms concern self-report bias and rater interpretation, not respondents' job level.\n**Why not D:** The opposite concern applies: raters had to interpret responses, which raises reliability questions."
+    },
+    {
+      "topic": "Needs theories in depth",
+      "question": "In a game, players choose one of five targets: the nearest is easy to hit but pays little, and the farthest pays a lot but is almost impossible to hit. Which target would someone high in need for achievement most likely choose?",
+      "options": {
+        "A": "A middle target that about half the players can hit",
+        "B": "Whichever target their peers pick, to avoid standing out",
+        "C": "The nearest target, since a sure success feels rewarding",
+        "D": "The farthest target, since the payoff is by far the biggest"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** High achievers perform best when the probability of success is about 0.5. They dislike high-odds gambles, where success comes by chance, and easy targets that offer no challenge. (Ch 4: McClelland's Theory of Needs)\n**Why not B:** That reflects a concern with fitting in, not the drive to excel against a standard.\n**Why not C:** Easy targets offer no challenge to their skills, so high achievers avoid them.\n**Why not D:** High achievers dislike long-shot gambles, because success that comes by pure chance gives no achievement satisfaction."
+    },
+    {
+      "topic": "Needs theories in depth",
+      "question": "Based on McClelland's research, which needs profile is most closely linked to success as a manager in a large organization?",
+      "options": {
+        "A": "High need for affiliation and low need for power",
+        "B": "High need for achievement and high need for affiliation",
+        "C": "High need for achievement, regardless of other needs",
+        "D": "High need for power and low need for affiliation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Needs for power and affiliation are closely related to managerial success: the best managers are high in need for power and low in need for affiliation. A high need for achievement doesn't necessarily make a good manager. (Ch 4: McClelland's Theory of Needs)\n**Why not A:** This reverses the finding; a high power motive may even be required for managerial effectiveness.\n**Why not B:** High achievers focus on their own performance, and a high need for affiliation isn't linked to managerial success.\n**Why not C:** High nAch suits entrepreneurial roles, but it doesn't necessarily make someone a good manager in a large organization."
+    },
+    {
+      "topic": "Needs theories in depth",
+      "question": "McClelland's theory has the best research support of the needs theories. Why, then, do so few organizations apply it?",
+      "options": {
+        "A": "Its predictions have been disproven by later research",
+        "B": "Most employees refuse to complete its self-report survey",
+        "C": "The needs are subconscious and costly for experts to measure",
+        "D": "It applies only to entrepreneurs, not to employees"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** McClelland argued the three needs are subconscious, so they're usually measured by trained experts scoring stories people tell about pictures, a process that is time-consuming and expensive. (Ch 4: McClelland's Theory of Needs)\n**Why not A:** It actually has the best research support of the needs theories, especially on achievement.\n**Why not B:** It doesn't rely on a simple self-report survey; it relies on expert scoring of picture stories.\n**Why not D:** The theory applies to employees too, including its predictions about managers."
+    },
+    {
+      "topic": "Expectancy theory in depth",
+      "question": "A firm's performance appraisals mainly rate employees on 'loyalty' and 'courage' rather than results. According to expectancy theory, which link does this weaken?",
+      "options": {
+        "A": "Equity: employees will compare ratings with each other",
+        "B": "Expectancy: extra effort won't show up in the appraisal",
+        "C": "Valence: employees won't value loyalty as a reward",
+        "D": "Instrumentality: high ratings won't lead to any reward"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Expectancy asks whether maximum effort will be recognized in the appraisal. If appraisals assess non-performance factors such as loyalty or courage, more effort won't necessarily produce a higher evaluation. (Ch 4: Expectancy Theory, Effort–Performance Relationship)\n**Why not A:** Equity theory is about comparing input–outcome ratios, not the effort–appraisal link.\n**Why not C:** Valence concerns how attractive the reward is, not whether the appraisal reflects effort.\n**Why not D:** Instrumentality concerns whether a good appraisal leads to rewards; the problem here is earlier, in the effort–appraisal link."
+    },
+    {
+      "topic": "Expectancy theory in depth",
+      "question": "At one company, raises go mostly to employees with the most seniority or to those who flatter the boss. Which expectancy link is weakened, and how could its value be described?",
+      "options": {
+        "A": "Instrumentality, which could drop to zero or turn negative",
+        "B": "Valence, which could fall to zero for every employee",
+        "C": "Expectancy, which could fall below zero to as low as −1",
+        "D": "Instrumentality, which can never fall below zero"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Instrumentality (performance → rewards) ranges from −1 to +1. When rewards depend on seniority or 'kissing up,' the link is weak: zero means no relationship, and a negative value means high performance reduces the chance of reward. (Ch 4: Expectancy Theory, Performance–Rewards Relationship)\n**Why not B:** Valence concerns whether the rewards are attractive, and raises remain attractive.\n**Why not C:** Expectancy (effort → performance) is a probability ranging from 0 to 1, and it isn't the link affected here.\n**Why not D:** Instrumentality ranges from −1 to +1; it can turn negative when performing well hurts your chances."
+    },
+    {
+      "topic": "Expectancy theory in depth",
+      "question": "Stock analysts issue far more 'buy' ratings than 'sell' ratings, even in steady markets. How does expectancy theory explain this?",
+      "options": {
+        "A": "Analysts lack the skill needed to identify stocks that will fall",
+        "B": "Sell ratings carry negative valence, such as rebuke and exclusion",
+        "C": "Buy ratings get reinforced on a variable-ratio schedule over time",
+        "D": "Sell ratings are seen as distributively unfair to the rated companies"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Analysts weigh the benefit of accuracy against the risks of a sell rating (public rebuke, blackballing, exclusion from information), giving sell ratings a negative valence, while buy ratings carry no such trade-off. (Ch 4: OB in the Workplace, Stock Analyst Recommendations and Valence)\n**Why not A:** The explanation is about rewards and risks, not analysts' ability (expectancy).\n**Why not C:** The chapter explains the pattern through expectancy and valence, not reinforcement schedules.\n**Why not D:** The issue isn't fairness to companies; it's the analysts' expected outcomes."
+    },
+    {
+      "topic": "Expectancy theory in depth",
+      "question": "A warehouse installs screens so each picker can track their own pace against their target in real time. What does research in the chapter say about this kind of feedback?",
+      "options": {
+        "A": "It only works when paired with an annual formal appraisal review",
+        "B": "It's highly motivating, since self-generated feedback is more powerful",
+        "C": "It's less motivating than a supervisor's feedback, which carries authority",
+        "D": "It undermines motivation, since self-monitoring always feels controlling"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Self-generated feedback (employees monitoring their own progress, or feedback from the task itself) is a more powerful motivator than externally generated feedback. (Ch 4: The Importance of Providing Performance Feedback)\n**Why not A:** The chapter doesn't make self-generated feedback depend on formal appraisals.\n**Why not C:** Research shows self-generated feedback is more powerful than external feedback.\n**Why not D:** Self-monitoring of progress is described as motivating, not coercive."
+    },
+    {
+      "topic": "Expectancy theory in depth",
+      "question": "Early in a training plan, Sam overstates how much progress he has made; near the end, he downplays it. What does research suggest about this pattern?",
+      "options": {
+        "A": "Both distortions sustain his motivation at different stages",
+        "B": "Only the early overstatement helps; the later one demotivates",
+        "C": "It shows he lacks self-efficacy throughout the plan",
+        "D": "Both are self-serving biases that will hurt his results"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Early on, people exaggerate progress to believe the goal is attainable; near the end, they downplay progress to signal a remaining gap that calls for more effort. Both keep motivation up. (Ch 4: The Importance of Providing Performance Feedback)\n**Why not B:** Downplaying progress near the end signals a need for more effort, which sustains motivation.\n**Why not C:** The pattern reflects how people monitor progress, not a lack of confidence.\n**Why not D:** These are motivational ways of monitoring progress, not self-serving attributions of success and failure."
+    },
+    {
+      "topic": "Goal setting in depth",
+      "question": "A software team is given very specific numeric targets for a complex, novel design problem, and members fixate on hitting the numbers rather than exploring better solutions. What does the research say?",
+      "options": {
+        "A": "Specific goals always improve performance, whatever the task",
+        "B": "The goals simply need to be made even more difficult",
+        "C": "Assigned goals fail here only because no one participated",
+        "D": "Specific goals can hurt performance on complex tasks"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Specific goals raise performance under certain conditions, but on complex tasks people may become too goal-focused and miss alternative, better solutions; a learning goal may work better. (Ch 4: Research Findings: The Effects of Goal Setting)\n**Why not A:** Research shows specific goals can lead to poorer performance on complex tasks.\n**Why not B:** Harder goals don't fix an overly narrow focus on a complex task, and impossible goals don't work either.\n**Why not C:** Assigned and participative goals are about equally effective; the issue is task complexity."
+    },
+    {
+      "topic": "Goal setting in depth",
+      "question": "A manager wonders whether goals must be set jointly with employees to work. What does the research conclude?",
+      "options": {
+        "A": "Self-set goals are the only kind employees truly commit to",
+        "B": "Assigned goals always outperform goals set participatively",
+        "C": "Participation isn't essential but can raise goal acceptance",
+        "D": "Only goals set participatively with employees improve performance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Goals are about equally effective whether participatively set, assigned or self-set; a major advantage of participation is increasing acceptance. If goals are assigned, their purpose and importance should be clearly explained. (Ch 4: Research Findings: The Effects of Goal Setting)\n**Why not A:** Commitment is more likely with self-set goals, but assigned goals work too, especially when explained.\n**Why not B:** In some cases participative goals did better and in others assigned ones did; neither always wins.\n**Why not D:** Research shows assigned goals can work as well; how goals are set isn't clearly related to performance."
+    },
+    {
+      "topic": "Goal setting in depth",
+      "question": "A coach wants her athletes to stay committed to tough season goals. Which approach does the chapter's research on goal commitment support?",
+      "options": {
+        "A": "Keep goals private so that any failure won't be embarrassing",
+        "B": "Have others assign the goals so no one feels personally responsible",
+        "C": "Make goals public and self-set, based on each athlete's ability",
+        "D": "Set goals far beyond current ability to stretch everyone"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Goal commitment is most likely when goals are made public, when people have an internal locus of control, when goals are self-set rather than assigned, and when goals are based at least partly on ability. (Ch 4: Research Findings, Goal commitment)\n**Why not A:** Making goals public increases commitment rather than reducing it.\n**Why not B:** Self-set goals produce more commitment than assigned ones.\n**Why not D:** Commitment is stronger when goals are based at least partly on ability, and impossible goals don't work."
+    },
+    {
+      "topic": "Goal setting in depth",
+      "question": "A sales division sets a single aggressive quarterly revenue goal, and some reps begin booking sales improperly to hit it. Which downside of goal setting does this show?",
+      "options": {
+        "A": "Goals can narrow focus to one measure and invite unethical acts",
+        "B": "Goals backfire mainly when employees had no say in setting them",
+        "C": "Goals reduce persistence once people get close to the target",
+        "D": "Difficult goals lower effort because people expect to fall short"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Goals can lead people to focus on a single standard at the expense of others and can even encourage unethical behaviour, such as 'cooking the books,' to meet them. (Ch 4: Goal-Setting Theory, downsides of goals)\n**Why not B:** How the goal was set isn't the cause; a single, aggressive standard is.\n**Why not C:** Goals increase persistence; the issue here is how the goal was pursued.\n**Why not D:** Difficult goals increase effort and persistence; the problem here is narrow focus and ethics."
+    },
+    {
+      "topic": "Goal setting in depth",
+      "question": "A chemical plant wants better safety performance, while its R&D lab wants more innovation. Which self-regulation focus matters most for each?",
+      "options": {
+        "A": "Promotion focus for plant safety; prevention focus for R&D innovation",
+        "B": "Promotion focus for both, since it improves every outcome",
+        "C": "Prevention focus for both, since it reduces risky behaviour",
+        "D": "Prevention focus for plant safety; promotion focus for R&D innovation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A prevention focus (fulfilling duties, avoiding pitfalls) is related to safety performance, while a promotion focus (advancement and accomplishment) is related to task performance, citizenship behaviour and innovation. (Ch 4: Promotion and prevention focus)\n**Why not A:** This reverses the research findings.\n**Why not B:** Promotion focus isn't related to safety performance; prevention focus is.\n**Why not C:** Prevention focus isn't related to innovation; promotion focus is."
+    },
+    {
+      "topic": "Goal setting in depth",
+      "question": "A Canadian firm sets very difficult individual goals at its subsidiary in a collectivist, high power-distance country. What does the evidence in the chapter suggest?",
+      "options": {
+        "A": "Goal setting doesn't work at all outside North America",
+        "B": "Group goals will clearly outperform individual goals in that office",
+        "C": "Achievable, moderate goals may motivate more than very hard ones",
+        "D": "Assigned goals will generate less commitment than at home"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Evidence suggests that in collectivistic and high power-distance cultures, achievable moderate goals can be more motivating than difficult ones, and assigned goals generate greater commitment in high power-distance cultures. (Ch 4: Global Implications, Goal Setting)\n**Why not A:** The chapter says more research is needed, not that goals don't work elsewhere.\n**Why not B:** Research hasn't shown group-based goals are more effective in collectivistic cultures.\n**Why not D:** Assigned goals appear to generate greater commitment in high power-distance cultures."
+    },
+    {
+      "topic": "Self-efficacy and reinforcement",
+      "question": "Two employees receive the same critical feedback on a report. One redoubles her effort; the other gives up. Which concept best explains the difference?",
+      "options": {
+        "A": "Their equity sensitivity: benevolents work harder after criticism",
+        "B": "Their self-efficacy: high-efficacy people try harder after criticism",
+        "C": "Their reinforcement history: criticism acts as negative reinforcement",
+        "D": "Their need for affiliation: affiliative people persist after criticism"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** People high in self-efficacy respond to negative feedback with increased effort and motivation, while those low in self-efficacy tend to lessen their effort. (Ch 4: Self-Efficacy Theory)\n**Why not A:** Equity sensitivity concerns preferences about input–outcome ratios, not reactions to feedback.\n**Why not C:** Criticism is an unpleasant consequence; negative reinforcement means removing something unpleasant.\n**Why not D:** Need for affiliation concerns close relationships, not persistence after feedback."
+    },
+    {
+      "topic": "Self-efficacy and reinforcement",
+      "question": "Teachers who were told (falsely) that certain students had very high IQs spent more time with them and expected more, and those students' grades rose. Which mechanism raised the students' self-efficacy?",
+      "options": {
+        "A": "The Pygmalion effect, a self-fulfilling prophecy",
+        "B": "Arousal created by competition with their peers",
+        "C": "Enactive mastery from their earlier successes",
+        "D": "Vicarious modelling of the top-scoring students"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Believing something can make it true: the teachers' high expectations led to more attention and challenge, raising the students' self-efficacy and grades. It's the chapter's recommended use of verbal persuasion. (Ch 4: Self-Efficacy Theory, Pygmalion effect)\n**Why not B:** Arousal is an energized state; nothing here involved getting 'psyched up'.\n**Why not C:** The students hadn't changed; the teachers' expectations did, which is the Pygmalion effect.\n**Why not D:** The students weren't watching similar others succeed; they were treated differently."
+    },
+    {
+      "topic": "Self-efficacy and reinforcement",
+      "question": "A manager pumps up her team with a high-energy rally right before they start a day of meticulous proofreading. What caution does the chapter raise about this source of self-efficacy?",
+      "options": {
+        "A": "Arousal can hurt performance on steady, low-key tasks",
+        "B": "Arousal works only for people who already have high self-efficacy",
+        "C": "Arousal is the strongest of the four sources for any task",
+        "D": "Arousal lowers efficacy because it feels coercive"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Arousal is an energized state that gets people 'psyched up,' but for tasks that require a steady, lower-key perspective, like careful editing, it may hurt performance. (Ch 4: Self-Efficacy Theory, four sources)\n**Why not B:** The caution is about the type of task, not the person's existing efficacy.\n**Why not C:** The chapter doesn't rank arousal highest; it notes it can backfire on steady tasks.\n**Why not D:** Coercion is a self-determination concern; the caution here is about task fit."
+    },
+    {
+      "topic": "Self-efficacy and reinforcement",
+      "question": "Your manager promises that working overtime during the busy season will be recognized at your appraisal, but it isn't. Next year she asks again. What does operant conditioning predict?",
+      "options": {
+        "A": "You'll volunteer more, because negative reinforcement occurred",
+        "B": "You'll volunteer the same, since past consequences don't matter",
+        "C": "You'll volunteer more, hoping to earn the recognition this time",
+        "D": "You'll be less likely to volunteer, since it wasn't reinforced"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** If a behaviour fails to be positively reinforced, the probability it will be repeated declines; the chapter uses this very overtime example. (Ch 4: Reinforcement Theory)\n**Why not A:** Nothing unpleasant was removed; the expected reward simply never came.\n**Why not B:** Reinforcement theory says behaviour is a function of its consequences.\n**Why not C:** Operant conditioning predicts that the unreinforced behaviour becomes less likely, not more."
+    },
+    {
+      "topic": "Self-efficacy and reinforcement",
+      "question": "Why does the chapter say reinforcement theory isn't, strictly speaking, a theory of motivation?",
+      "options": {
+        "A": "It focuses only on punishment, not on rewards",
+        "B": "It applies only to animals, not to employees",
+        "C": "It has been largely disproven by goal-setting research",
+        "D": "It ignores inner states and what initiates behaviour"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Reinforcement theory concentrates on what happens when a person acts and on the consequences; it ignores feelings, attitudes, expectations and the inner state that starts behaviour. (Ch 4: Reinforcement Theory)\n**Why not A:** It covers positive and negative reinforcement, punishment and extinction.\n**Why not B:** The chapter applies it widely to work behaviours such as quality, persistence and absenteeism.\n**Why not C:** It's still a powerful way to analyze what controls behaviour; it simply takes a behaviourist view."
+    },
+    {
+      "topic": "Equity and organizational justice",
+      "question": "Rena discovers she's paid noticeably more than colleagues doing the same work. What does research on equity theory predict she will most likely do?",
+      "options": {
+        "A": "Quit, since any inequity eventually leads people to leave",
+        "B": "Rationalize it, e.g. 'I'm worth it because I work harder'",
+        "C": "Put in many more hours to match her higher outcomes",
+        "D": "Ask to have part of her salary returned to the company"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Inequities from overpayment don't seem to significantly affect behaviour in most situations; people restore equity by rationalizing rather than returning pay or working more. (Ch 4: Research Findings: Inequitable Pay)\n**Why not A:** Leaving is one possible response to inequity, but overpaid people typically rationalize instead.\n**Why not C:** Overpayment doesn't reliably lead people to increase their inputs.\n**Why not D:** Research finds people rarely give back pay when they're overpaid."
+    },
+    {
+      "topic": "Equity and organizational justice",
+      "question": "Two employees are both denied raises. One learns raises were based on transparent merit criteria; the other suspects favouritism. Who is more likely to accept the outcome?",
+      "options": {
+        "A": "The one who suspects favouritism, since he can blame others",
+        "B": "Neither, since fair process only matters for good outcomes",
+        "C": "Both equally, since outcomes matter far more than process",
+        "D": "The one who sees a fair, merit-based process"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** When outcomes are unfavourable, people pay close attention to the process; if it's judged fair, they're more accepting of bad outcomes. When outcomes are favourable, the process matters less. (Ch 4: Fair Process and Treatment)\n**Why not A:** Perceived favouritism undermines procedural justice and acceptance of the outcome.\n**Why not B:** It's the reverse: process matters less when outcomes are good, and more when they're bad.\n**Why not C:** Procedural justice matters most precisely when outcomes are unfavourable."
+    },
+    {
+      "topic": "Equity and organizational justice",
+      "question": "Which practice would most improve the perceived procedural fairness of a promotion process?",
+      "options": {
+        "A": "Letting each manager use whatever criteria seem best",
+        "B": "Applying consistent, unbiased criteria and allowing appeals",
+        "C": "Keeping the criteria confidential so employees can't game them",
+        "D": "Making every decision final, with no chance of review"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Procedures feel fairer when people have a voice and decision makers are consistent, avoid bias, use accurate information, consider those affected, act ethically and stay open to appeals or correction. (Ch 4: Fair Process and Treatment, procedural justice)\n**Why not A:** Inconsistent criteria across people violate a core rule of procedural fairness.\n**Why not C:** Hiding how decisions are made undermines the sense of a fair, open process.\n**Why not D:** Staying open to appeals or correction is one of the rules of fair procedures."
+    },
+    {
+      "topic": "Equity and organizational justice",
+      "question": "A manager has to tell an employee he didn't get the corner office. According to research in the chapter, which explanation is likely to be received best?",
+      "options": {
+        "A": "'I wanted to give it to you, but it wasn't my decision'",
+        "B": "'I gave it to Sam, but having it isn't a big deal anyway'",
+        "C": "'I can't discuss how the decision was made, sorry'",
+        "D": "'You'll get the next one if you keep working hard'"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Explanations for bad news work better as post hoc excuses (acknowledging it's bad and that it wasn't the manager's choice) than as justifications that minimize the loss. (Ch 4: Informational Justice)\n**Why not B:** This is a justification that minimizes the loss, which is received worse than an excuse.\n**Why not C:** Withholding explanations hurts informational justice and is linked to more intentions to litigate.\n**Why not D:** This doesn't explain the decision, and it promises something the manager may not control."
+    },
+    {
+      "topic": "Equity and organizational justice",
+      "question": "A manager can't change her firm's pay policies or budgets. Which forms of justice does the chapter suggest she focus on, and why?",
+      "options": {
+        "A": "Procedural, since formal policies are entirely in her control",
+        "B": "Informational and interpersonal, as they're practically free",
+        "C": "Distributive, since pay outcomes drive all justice perceptions",
+        "D": "None, since justice depends only on company-wide policy"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Distributive and procedural justice may be constrained by policy or cost, but providing information and treating people with dignity are practically 'free'; these two forms are also more strongly linked to citizenship behaviour. (Ch 4: Fair Process and Treatment)\n**Why not A:** Formal policies may constrain procedures, which is why the chapter points elsewhere.\n**Why not C:** She can't change pay, and distributive justice is only one of four dimensions.\n**Why not D:** Managers can still shape informational and interpersonal justice in daily interactions."
+    },
+    {
+      "topic": "Self-determination and culture",
+      "question": "A senior sales rep loves closing deals and earns a commission on each one. A programmer who loves problem-solving is rewarded for writing a set number of lines of code a day, a standard she doesn't accept. According to self-determination theory, what happens to their intrinsic motivation?",
+      "options": {
+        "A": "The programmer's will grow, while the rep's will likely suffer",
+        "B": "Both will rise, since all rewards boost intrinsic motivation",
+        "C": "The rep's may grow, while the programmer's will likely suffer",
+        "D": "Both will decline, since any extrinsic reward cuts intrinsic interest"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Rewards that signal competence (the rep's commission) can enhance intrinsic motivation, while rewards tied to an imposed standard someone doesn't accept feel coercive and undermine it. (Ch 4: Self-Determination Theory, Extrinsic vs. Intrinsic Rewards)\n**Why not A:** This reverses the prediction: the controlling standard is what harms motivation.\n**Why not B:** Rewards seen as coercive or controlling diminish motivation, as with the programmer.\n**Why not D:** Self-determination researchers acknowledge that non-coercive rewards providing competence feedback can improve intrinsic motivation."
+    },
+    {
+      "topic": "Self-determination and culture",
+      "question": "A manager coaches and supports her staff, gives positive feedback, and recognizes their skills. Which of Thomas's leadership approaches is she using, and which intrinsic reward does it build?",
+      "options": {
+        "A": "Leading for competence, building a sense of competence",
+        "B": "Leading for choice, building a sense of choice",
+        "C": "Leading for meaningfulness, building a sense of meaningfulness",
+        "D": "Leading for progress, building a sense of progress"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Leading for competence means supporting and coaching employees, with knowledge, positive feedback, skill recognition, challenge and high standards, which builds the feeling of doing a good job. (Ch 4: Increasing Intrinsic Motivation, Exhibit 4-14)\n**Why not B:** Leading for choice means empowering and delegating, with trust and security for honest mistakes.\n**Why not C:** Leading for meaningfulness means inspiring and modelling, with an exciting vision and relevant purposes.\n**Why not D:** Leading for progress means monitoring and rewarding, with milestones, celebrations and measured improvement."
+    },
+    {
+      "topic": "Self-determination and culture",
+      "question": "A multinational is designing needs-based incentives for its offices in Japan and Sweden. What does the chapter suggest about Maslow's hierarchy in those countries?",
+      "options": {
+        "A": "Social needs may top the list in Japan, and security needs in Sweden",
+        "B": "Self-actualization will top the list in both countries",
+        "C": "Security may top the list in Japan, and social needs in Sweden",
+        "D": "The hierarchy applies identically in both offices"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The hierarchy, if it applies at all, fits Canadian and U.S. culture. In high uncertainty-avoidance countries like Japan, security needs may be at the top; in nurturing cultures like Sweden, social needs may be on top. (Ch 4: Global Implications, Needs Theories)\n**Why not A:** This reverses the chapter's suggestion.\n**Why not B:** The chapter points to security (Japan) and social needs (Sweden) as more likely to be on top.\n**Why not D:** The chapter suggests the order of needs varies with national culture."
+    }
+  ]
+}

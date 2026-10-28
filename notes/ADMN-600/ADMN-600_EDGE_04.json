@@ -1,0 +1,206 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "OB on the Edge",
+    "short": "EDGE",
+    "number": "04",
+    "title": "Spirituality in the Workplace"
+  },
+  "collection": "Textbook: OB on the Edge",
+  "collectionOrder": 3,
+  "source": "OB textbook (7th Cdn ed.), OB on the Edge: Spirituality in the Workplace",
+  "questions": [
+    {
+      "topic": "What workplace spirituality is",
+      "question": "A manager assumes 'workplace spirituality' means bringing religious practice into the office. How does the chapter actually define it?",
+      "options": {
+        "A": "Requiring staff to set aside personal values while on the job",
+        "B": "Adopting one shared faith and holding organized prayer at work",
+        "C": "Valuing people's inner life, meaningful work and community",
+        "D": "Replacing management decisions with theology-based guidance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Workplace spirituality isn't about organized religion or theology; it recognizes that people have an inner life that nourishes and is nourished by meaningful work in the context of community. (OB on the Edge, Spirituality: What Is Spirituality?)\n**Why not A:** Spiritual organizations help people integrate personal values with work, not set them aside.\n**Why not B:** The chapter stresses that workplace spirituality is not about organized religious practices.\n**Why not D:** Workplace spirituality isn't about God or theology."
+    },
+    {
+      "topic": "What workplace spirituality is",
+      "question": "An employee feels connected to something larger than herself, her values consistently guide her behaviour, and she's growing toward her potential. Which three dimensions of workplace spirituality, as proposed by Ashforth and Pratt, does she show?",
+      "options": {
+        "A": "Attention, memory and creativity gained through practice",
+        "B": "Meaningfulness, responsibility and knowledge of results",
+        "C": "Transcendence of self, holism and harmony, and growth",
+        "D": "Purpose, trust and respect, and humanistic work practices"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The three dimensions are transcendence of self (connection to something greater), holism and harmony (an integrated self that informs behaviour) and growth (self-development and achieving potential), which together lead to connection, coherence and completeness. (OB on the Edge, Spirituality: What Is Spirituality?)\n**Why not A:** Those are advantages of mindfulness.\n**Why not B:** Those are the critical psychological states of the job characteristics model.\n**Why not D:** Those are cultural characteristics of spiritual organizations, not Ashforth and Pratt's dimensions."
+    },
+    {
+      "topic": "What workplace spirituality is",
+      "question": "A Vancouver retailer pays artisans in developing countries well above market prices so their communities and traditional crafts can thrive. How does the chapter describe this kind of commitment?",
+      "options": {
+        "A": "Encouraging a more spiritual culture with a strong, clear purpose",
+        "B": "A legal requirement for firms that import goods to Canada",
+        "C": "A marketing tactic with no link to organizational culture",
+        "D": "Poor cost control that undermines the firm's profitability"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Companies that pay suppliers in developing countries a fair, above-market price to support community development encourage a more spiritual culture; spiritual organizations build their cultures around a meaningful purpose beyond profit. (OB on the Edge, Spirituality: Strong Sense of Purpose)\n**Why not B:** Paying above-market prices is a choice, not a legal requirement.\n**Why not C:** The chapter links this commitment to a more spiritual organizational culture.\n**Why not D:** The chapter presents this as evidence of a purposeful, spiritual culture."
+    },
+    {
+      "topic": "What workplace spirituality is",
+      "question": "An HR director asks why interest in workplace spirituality has surged in recent years. Which explanation fits the chapter?",
+      "options": {
+        "A": "Formal religion now fully meets most people's need for meaning",
+        "B": "Employees increasingly want fewer connections with co-workers",
+        "C": "New laws now require all employers to offer spiritual programs",
+        "D": "People seek community and meaning amid hectic lives"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Reasons include spirituality as a counterbalance to stress and a lack of community, formal religion not working for many, work dominating lives while people question its meaning, wanting to integrate personal values, and material pursuits leaving people unfulfilled. (OB on the Edge, Spirituality: Reasons for the Growing Interest in Spirituality)\n**Why not A:** Formal religion hasn't worked for many people, who look for other anchors.\n**Why not B:** Many people feel a lack of community and want more connection.\n**Why not C:** The growing interest reflects employees' needs, not legal requirements."
+    },
+    {
+      "topic": "Mindfulness and meditation",
+      "question": "A manager wants to practise mindfulness as Harvard psychologist Ellen Langer defines it. What should she do?",
+      "options": {
+        "A": "Empty her mind of all thoughts during every working hour",
+        "B": "Actively notice new things, staying in the present",
+        "C": "Focus on past successes so she can repeat them efficiently",
+        "D": "Follow established routines exactly as they've always been done"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Langer defines mindfulness as the process of actively noticing new things, which puts you in the present and makes you more sensitive to context and perspective; it's the essence of engagement. (OB on the Edge, Spirituality: Spirituality and Mindfulness)\n**Why not A:** Langer's mindfulness is about actively noticing, not emptying the mind.\n**Why not C:** Mindfulness puts you in the present rather than in past routines.\n**Why not D:** Mindfulness means not simply accepting 'the way we've always done things.'"
+    },
+    {
+      "topic": "Mindfulness and meditation",
+      "question": "A mindful supervisor still uses her company's procedures and goals every day. According to Langer, what role do rules and routines play for someone who is mindful?",
+      "options": {
+        "A": "They govern her rather than guide her",
+        "B": "They disappear, since mindful people need no rules",
+        "C": "They guide her rather than govern her",
+        "D": "They become rigid habits she never questions"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Langer explains that when you're mindful, rules, routines and goals guide you; they don't govern you. (OB on the Edge, Spirituality: Spirituality and Mindfulness)\n**Why not A:** This reverses Langer's point.\n**Why not B:** Mindful people still use rules and routines, as guides.\n**Why not D:** Mindfulness involves noticing new things rather than unquestioned habit."
+    },
+    {
+      "topic": "Mindfulness and meditation",
+      "question": "A team lead wonders what she'd gain from practising mindfulness. Which benefit does Langer describe?",
+      "options": {
+        "A": "You judge others more sharply and accurately",
+        "B": "People like you more, since you're less evaluative",
+        "C": "You rely less on memory and more on routine",
+        "D": "You become less creative but much more efficient"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Langer's advantages of mindfulness include paying attention more easily, remembering more, being more creative, seizing opportunities, averting danger, liking people more and being liked because you're less evaluative, and being more charismatic. (OB on the Edge, Spirituality: Advantages to Mindfulness)\n**Why not A:** Mindful people are less evaluative of others, not more.\n**Why not C:** Mindfulness helps you remember more of what you've done.\n**Why not D:** Langer lists greater creativity among mindfulness's advantages."
+    },
+    {
+      "topic": "Mindfulness and meditation",
+      "question": "A manager keeps dwelling on the money already spent on a failing project when deciding what to do next. Which research finding suggests a brief practice that could help?",
+      "options": {
+        "A": "Fifteen minutes of brainstorming made sunk costs feel smaller",
+        "B": "Meditation increased attachment to earlier investments",
+        "C": "A week of overtime made the sunk costs easier to recover",
+        "D": "Brief mindful meditation helped people set sunk costs aside"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Fifteen minutes of mindful meditation helped stop people from thinking about sunk costs when making decisions, letting them focus on the present; meditation is also linked to less stress, less rigid thinking and more creativity. (OB on the Edge, Spirituality: Spirituality and Mindfulness)\n**Why not A:** The finding concerns mindful meditation, not brainstorming.\n**Why not B:** Meditation reduced, rather than increased, sunk-cost thinking.\n**Why not C:** The research involved brief meditation, not extra work."
+    },
+    {
+      "topic": "Mindfulness and meditation",
+      "question": "After snapping angrily at a customer, a business owner retreats to meditate, names her emotions and realizes she's upset about breaking her word. What does research suggest about meditation's effects?",
+      "options": {
+        "A": "It's linked to less stress and less rigid, emotional reacting",
+        "B": "It helps creativity but has no effect on stress at all",
+        "C": "It increases emotional reactivity by focusing on feelings",
+        "D": "It only helps after months of daily practice of several hours"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Research shows people who meditate suffer less stress, are less rigid in their thinking and are less likely to react overly emotionally to difficulties; even three successive days of 25-minute sessions can reduce stress. (OB on the Edge, Spirituality: Spirituality and Mindfulness)\n**Why not B:** Meditation is linked to both greater creativity and lower stress.\n**Why not C:** Meditators are less likely to have overly emotional reactions.\n**Why not D:** Even three days of 25-minute sessions were found to reduce stress."
+    },
+    {
+      "topic": "Spiritual organizations",
+      "question": "A consultant is assessing whether a company has a spiritual culture. Which four characteristics should she look for?",
+      "options": {
+        "A": "Wide pay gaps, individual rewards, tight control, secrecy",
+        "B": "Purpose, trust and respect, humanistic practices, expression",
+        "C": "Shared religion, daily prayer, doctrine and strict hierarchy",
+        "D": "Profit focus, strict rules, close monitoring, formal dress"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Spiritual organizations tend to show a strong sense of purpose, trust and respect, humanistic work practices, and toleration of employee expression. (OB on the Edge, Spirituality: Characteristics of a Spiritual Organization)\n**Why not A:** Spiritual organizations narrow pay gaps and value openness.\n**Why not C:** Workplace spirituality isn't about organized religion.\n**Why not D:** Profits aren't the primary value of spiritual organizations, which favour trust over control."
+    },
+    {
+      "topic": "Spiritual organizations",
+      "question": "A company handles a downturn with shorter workweeks shared by everyone, narrows pay and status differences, and guarantees individual employee rights. Which characteristic of spiritual organizations is this?",
+      "options": {
+        "A": "Humanistic work practices",
+        "B": "Trust and respect between levels",
+        "C": "A strong sense of purpose",
+        "D": "Toleration of employee expression"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Humanistic work practices include flexible schedules, group- and organization-based rewards, narrower pay and status differentials, guaranteed employee rights, empowerment and job security, as with HP's shared shortened workweeks. (OB on the Edge, Spirituality: Humanistic Work Practices)\n**Why not B:** Trust and respect concern honesty and openness, such as admitting mistakes.\n**Why not C:** Purpose concerns building culture around a meaningful mission beyond profit.\n**Why not D:** Expression concerns letting people show moods and feelings without fear."
+    },
+    {
+      "topic": "Spiritual organizations",
+      "question": "At one company, employees hold annual one-on-one meetings to voice any frustration without fear and apologize to each other after conflicts; the CEO apologizes too when he 'blows a gasket.' Which characteristic does this reflect most?",
+      "options": {
+        "A": "A strong sense of purpose",
+        "B": "Humanistic work practices",
+        "C": "Toleration of employee expression",
+        "D": "A values-based, secular organization model"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Spiritual organizations don't stifle emotions; they let people express moods and feelings without guilt or fear of reprimand, as with Aliments Ouimet-Cordon Bleu's annual meetings and 'gestures of reconciliation.' (OB on the Edge, Spirituality: Toleration of Employee Expression)\n**Why not A:** Purpose concerns a meaningful mission rather than expressing feelings.\n**Why not B:** Humanistic practices concern schedules, rewards, rights and job security.\n**Why not D:** The values-based model is one of several organizational models, not this characteristic."
+    },
+    {
+      "topic": "Spiritual organizations",
+      "question": "A firm firmly rejects religious doctrine but guides all its policies by secular virtues such as honesty, dignity, respect and trust, with the Golden Rule as its prime business principle. Which organizational model for fostering spirituality is this?",
+      "options": {
+        "A": "An evolutionary organization",
+        "B": "A values-based organization",
+        "C": "A religion-based organization",
+        "D": "A recovering organization"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The values-based model rejects all notions of religious doctrine, favours secular values or virtues (awareness, dignity, honesty, openness, respect, integrity and above all trust) and treats the Golden Rule as its prime business principle. (OB on the Edge, Spirituality: Organizational Models for Fostering Spirituality)\n**Why not A:** Evolutionary organizations encourage spiritual openness using mixed texts.\n**Why not C:** Religion-based organizations follow biblical teachings and emphasize prayer.\n**Why not D:** Recovering organizations model themselves on the 12-step program."
+    },
+    {
+      "topic": "Criticisms and evidence",
+      "question": "Critics argue that businesses have no right to impose spiritual values on employees. When is this 'legitimacy' criticism most valid?",
+      "options": {
+        "A": "When it means helping staff find meaning in their work",
+        "B": "When it means supporting employees' work–life balance",
+        "C": "When it means offering quiet rooms for reflection",
+        "D": "When it means bringing religion and God into work"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The criticism that secular businesses shouldn't impose spiritual values is undoubtedly valid when spirituality means bringing religion and God into the workplace, but it's less stinging when the goal is helping employees find meaning and purpose. (OB on the Edge, Spirituality: Criticisms of Spirituality)\n**Why not A:** The criticism is weaker when the goal is helping people find meaning and purpose.\n**Why not B:** Supporting work–life balance is a recommended practice, not the target of this criticism.\n**Why not C:** Quiet rooms don't impose religion; the criticism targets bringing religion into work."
+    },
+    {
+      "topic": "Criticisms and evidence",
+      "question": "An investor asks whether spirituality and profits can go together. What does the limited evidence suggest?",
+      "options": {
+        "A": "No research has examined the link between the two",
+        "B": "They conflict, since spirituality distracts from results",
+        "C": "Spirituality helps morale but always lowers profits",
+        "D": "They appear compatible; spiritual firms often outperform"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In one study, organizations that gave employees opportunities for spiritual development outperformed those that didn't, and spirituality has been linked to creativity, satisfaction, team performance and commitment; WestJet's low turnover and labour costs are an example. (OB on the Edge, Spirituality: Criticisms of Spirituality)\n**Why not A:** Some studies have examined it and found positive links.\n**Why not B:** The evidence, though limited, indicates spirituality and profits are compatible.\n**Why not C:** Spiritual organizations have been found to outperform others."
+    },
+    {
+      "topic": "Criticisms and evidence",
+      "question": "A skeptical professor calls workplace spirituality 'just a management buzzword.' Which of the three major criticisms is she raising?",
+      "options": {
+        "A": "Its scientific foundation is thin and loosely defined",
+        "B": "It is legally banned in most Canadian workplaces",
+        "C": "It is too narrowly defined to apply to most firms",
+        "D": "It has been proven harmful by extensive research"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Critics question its scientific foundation: little research exists, the concept may be a buzzword, and it's sometimes defined so broadly that practices from job rotation to meditation retreats are labelled spiritual. (OB on the Edge, Spirituality: Criticisms of Spirituality)\n**Why not B:** The criticisms concern science, legitimacy and economics, not legality.\n**Why not C:** The concern is that it's sometimes defined too broadly, not too narrowly.\n**Why not D:** There's comparatively little research, and what exists suggests support."
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "02",
+    "title": "Perception, Personality, and Emotions"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 2",
+  "questions": [
+    {
+      "topic": "Perception and its effects at work",
+      "question": "At a Saturday-night club, nobody notices Raj's flashy suit. When he wears the same suit to an 8 a.m. Monday management class, everyone stares. What explains the difference in perception?",
+      "options": {
+        "A": "The situation: only the time and setting changed",
+        "B": "Selective perception: people notice what interests them",
+        "C": "The target: the suit itself is novel and eye-catching",
+        "D": "The perceivers: observers' moods differ on Mondays"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Perception is shaped by the perceiver, the target and the situation. Neither Raj nor the observers changed; the time and setting did, as in the chapter's nightclub-versus-class example. (Ch 2: Factors That Influence Perception)\n**Why not B:** Selective perception explains which details a person picks out based on their interests; it doesn't explain why the same target is noticed in one setting but not another.\n**Why not C:** The suit is the same in both places; it only stands out because the context changed.\n**Why not D:** Nothing suggests the observers' attitudes, motives or expectations changed; the context did."
+    },
+    {
+      "topic": "Perception and its effects at work",
+      "question": "Managers at a firm insist their new bonus plan is generous, but employees see it as unfair and morale drops. Which principle from the chapter best explains the employees' reaction?",
+      "options": {
+        "A": "Morale depends on the bonus amount, not on how it's perceived",
+        "B": "Perceptions affect behaviour only when they are accurate",
+        "C": "People act on their perception of reality, not on reality itself",
+        "D": "Objective facts about pay will soon override their false perceptions"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Behaviour is based on what people perceive reality to be; the world as it is perceived is the world that matters behaviourally, whatever the plan's actual generosity. (Ch 2: Perception)\n**Why not A:** The chapter's point is that perceived reality, not objective reality, shapes behaviour.\n**Why not B:** Inaccurate perceptions drive behaviour too, which is why perception matters so much in OB.\n**Why not D:** The chapter notes perceptions can be hard to change even when people are shown contrary evidence."
+    },
+    {
+      "topic": "Perception and its effects at work",
+      "question": "An interviewer forms her view of each candidate within the first few minutes and rarely changes it afterward. What does the chapter's research suggest about this pattern?",
+      "options": {
+        "A": "It's reliable, because first impressions accurately predict performance",
+        "B": "Early impressions dominate, so pooling independent evaluators helps",
+        "C": "It's rare, since interviewers usually weight the final answers most",
+        "D": "It favours candidates who show many strong traits early on"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Interviewers' decisions change little after the first four or five minutes, so early information carries extra weight. One person's intuition isn't a reliable predictor, but input from multiple independent evaluators can be. (Ch 2: Why Do Perception and Judgment Matter? Employment Interviews)\n**Why not A:** First impressions have some validity, but individual intuition about candidates isn't a reliable predictor of job performance.\n**Why not C:** Information that comes out early carries more weight than information that comes out later.\n**Why not D:** A 'good applicant' tends to be defined more by the absence of unfavourable characteristics than by the presence of favourable ones."
+    },
+    {
+      "topic": "Perception and its effects at work",
+      "question": "A new manager is told her team are 'low performers,' so she gives them only routine work and little encouragement. Within months their performance drops further. Which concept explains this?",
+      "options": {
+        "A": "The self-serving bias",
+        "B": "The fundamental attribution error",
+        "C": "The self-fulfilling prophecy",
+        "D": "A contrast effect between teams"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People tend to behave in line with others' expectations of them (also called the Pygmalion effect): low expectations led to treatment that produced low performance. (Ch 2: Performance Expectations)\n**Why not A:** Self-serving bias concerns how people explain their own successes and failures.\n**Why not B:** That error is about over-blaming internal causes for others' behaviour; here, expectations are shaping the behaviour itself.\n**Why not D:** Contrast effects distort judgments through comparison with others recently encountered."
+    },
+    {
+      "topic": "Perception and its effects at work",
+      "question": "Two supervisors give the same employee very different subjective ratings for the same year. What does the chapter suggest is the most likely explanation?",
+      "options": {
+        "A": "Subjective ratings absorb evaluators' errors such as halo and contrast",
+        "B": "The employee must have behaved inconsistently between supervisors",
+        "C": "One supervisor must be deliberately misrepresenting the employee",
+        "D": "Objective measures like sales totals are distorted in the same way"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Subjective evaluations are vulnerable to all the perceptual errors (selective perception, contrast effects, halo effect and so on), so ratings can say as much about the evaluator as about the employee. (Ch 2: Performance Evaluations)\n**Why not B:** That's possible, but the chapter stresses that evaluators' perceptual errors shape subjective ratings.\n**Why not C:** Different ratings don't imply deception; perceptual errors distort honest judgments.\n**Why not D:** Objective measures are less affected; subjective ratings are where perceptual errors do the most damage."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "Liam is late to Monday's team meeting. He's also often late to client calls and training sessions, colleagues who take the same route arrive on time, and he's been late most Mondays this year. How will his manager most likely explain it?",
+      "options": {
+        "A": "Neither, since attribution requires high consensus",
+        "B": "External: traffic or circumstances caused it",
+        "C": "External, because his lateness is so consistent",
+        "D": "Internal: the cause lies with Liam himself"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Low distinctiveness (late in many situations), low consensus (others aren't late) and high consistency (late over time) all point to an internal attribution. (Ch 2: Attribution Theory, Exhibit 2-2)\n**Why not A:** Attributions draw on all three cues, and low consensus actually supports an internal attribution.\n**Why not B:** High consensus or high distinctiveness would suggest an external cause; here both are low.\n**Why not C:** High consistency points to internal causes, not external ones."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "Every employee who used the new expense software this month submitted claims late, including Mia, who is normally prompt. How will Mia's late claim most likely be explained?",
+      "options": {
+        "A": "Externally, because everyone using the software was late",
+        "B": "Internally, because she should have planned around the software",
+        "C": "Externally, but only if Mia is usually late with her claims",
+        "D": "Internally, because late claims signal low conscientiousness"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** High consensus (everyone in the same situation responded the same way) and the fact that lateness is unusual for Mia both point to an external attribution. (Ch 2: Attribution Theory, consensus)\n**Why not B:** This ignores the consensus cue: when everyone in the situation is late, the cause is likely external.\n**Why not C:** Being usually late (high consistency) would point to an internal cause, not an external one.\n**Why not D:** There's no pattern of lateness; Mia is normally prompt, which points away from internal causes."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "A sales manager blames her team's falling sales on laziness, without considering that a competitor has just launched a cheaper, innovative product line. Which bias is she showing?",
+      "options": {
+        "A": "Contrast effect with rivals",
+        "B": "Self-serving attribution bias",
+        "C": "Fundamental attribution error",
+        "D": "Halo effect in team judgments"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** When judging others, we tend to underestimate external factors (the competitor's launch) and overestimate internal ones (laziness); the chapter uses this very sales example. (Ch 2: How Attributions Get Distorted)\n**Why not A:** Contrast effects come from comparing someone with others recently encountered.\n**Why not B:** Self-serving bias concerns how we explain our own successes and failures, not other people's.\n**Why not D:** The halo effect is forming an overall impression of someone from one characteristic."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "When his project succeeds, Dev credits his own skill and effort; when the next one fails, he blames bad luck and unclear instructions. Which bias is this?",
+      "options": {
+        "A": "Selective perception",
+        "B": "Self-serving bias",
+        "C": "Fundamental attribution error",
+        "D": "Projection"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Self-serving bias means attributing your own successes to internal factors such as ability or effort, and your failures to external factors such as luck. (Ch 2: How Attributions Get Distorted)\n**Why not A:** Selective perception is picking out what fits our interests, background and attitudes.\n**Why not C:** That error applies to judging other people's behaviour, not to explaining our own outcomes.\n**Why not D:** Projection is attributing our own characteristics to other people."
+    },
+    {
+      "topic": "Perceptual shortcuts",
+      "question": "An interviewer is so impressed by a candidate's polished presentation that she also rates him highly on technical skill, teamwork and reliability, though she has no evidence on any of them. Which shortcut is at work?",
+      "options": {
+        "A": "Stereotyping",
+        "B": "Projection",
+        "C": "Halo effect",
+        "D": "Contrast effect"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The halo effect is drawing a general impression of someone from a single characteristic, here presentation polish. (Ch 2: Halo Effect)\n**Why not A:** Stereotyping judges someone by the group they belong to; here one trait drives the whole impression.\n**Why not B:** Projection means assuming others share our own characteristics.\n**Why not D:** Contrast effects come from comparison with other recent candidates, not from one trait colouring the rest."
+    },
+    {
+      "topic": "Perceptual shortcuts",
+      "question": "A strong candidate is interviewed immediately after three outstanding applicants and receives a lower rating than she would have otherwise. Which shortcut distorted her evaluation?",
+      "options": {
+        "A": "Self-fulfilling prophecy",
+        "B": "Selective perception",
+        "C": "Halo effect",
+        "D": "Contrast effect"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Our reaction to one person is influenced by others we've recently encountered; following strong applicants made her look weaker. (Ch 2: Contrast Effects)\n**Why not A:** That's about others' expectations shaping a person's actual behaviour.\n**Why not B:** Selective perception is noticing what fits our interests and background, not comparing candidates.\n**Why not C:** The halo effect is one characteristic colouring the overall impression of the same person."
+    },
+    {
+      "topic": "Perceptual shortcuts",
+      "question": "A manager who loves challenge and responsibility assumes everyone on her team does too, and is surprised when two employees ask for more routine work. Which perceptual error has she made?",
+      "options": {
+        "A": "Projection",
+        "B": "Fundamental attribution error",
+        "C": "Stereotyping",
+        "D": "Halo effect"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Projection is attributing our own characteristics to others, which makes people seem more alike than they really are and compromises a manager's ability to respond to individual differences. (Ch 2: Projection)\n**Why not B:** That error is about over-attributing others' behaviour to internal causes.\n**Why not C:** Stereotyping judges people by a group they belong to, not by assuming they're like you.\n**Why not D:** The halo effect is one trait colouring the overall impression of someone."
+    },
+    {
+      "topic": "Perceptual shortcuts",
+      "question": "A hiring manager assumes an older applicant 'won't be able to learn our new software,' and he also simply dislikes working with older people. How does the chapter distinguish these two reactions?",
+      "options": {
+        "A": "Both = selective perception based on age",
+        "B": "Assumption = prejudice; dislike = stereotype",
+        "C": "Assumption = stereotype; dislike = prejudice",
+        "D": "Both = acceptable decision heuristics"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Stereotyping is judging someone by perceptions of their group. Prejudice is dislike based on preconceived, unfounded opinions; it usually starts with a stereotype and adds negative emotional content. (Ch 2: Stereotyping; Prejudice)\n**Why not A:** Selective perception is choosing what to notice based on interests; these are group-based judgments and dislike.\n**Why not B:** This reverses the definitions; prejudice is the emotionally negative dislike.\n**Why not D:** Generalizations can be useful shortcuts, but applied inaccurately they're harmful and can lead to discrimination."
+    },
+    {
+      "topic": "Perceptual shortcuts",
+      "question": "Reviewing the same project report, an engineer notices only the technical flaws, while a finance analyst immediately spots the budget problems. Which concept explains the difference?",
+      "options": {
+        "A": "Selective perception",
+        "B": "Halo effect",
+        "C": "Contrast effect",
+        "D": "Projection"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** We can't take in everything, so we select according to our interests, background, experience and attitudes; each reader sees what fits their background. (Ch 2: Selective Perception)\n**Why not B:** The halo effect is forming an overall impression from a single characteristic.\n**Why not C:** Contrast effects arise from comparison with recently encountered people or things.\n**Why not D:** Projection is attributing our own characteristics to other people."
+    },
+    {
+      "topic": "Personality foundations",
+      "question": "A company uses self-report personality tests to screen applicants. What does the chapter suggest would improve the tests' ability to predict job success?",
+      "options": {
+        "A": "Use observer ratings only, since self-reports are always faked",
+        "B": "Drop personality testing, since it doesn't help with job fit",
+        "C": "Rely on self-reports alone, since they match observer ratings",
+        "D": "Add observer ratings, since combining both predicts best"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Applicants rate themselves as more conscientious and stable when tests count for hiring. Observer ratings predict job success better, and combining self- and observer-reports predicts performance best. (Ch 2: Measuring Personality)\n**Why not A:** Self-reports can be inflated but work when well constructed; the chapter recommends using both.\n**Why not B:** Research shows personality tests are useful in hiring decisions.\n**Why not C:** The two are strongly correlated, but each adds unique information and the combination predicts better."
+    },
+    {
+      "topic": "Personality foundations",
+      "question": "Identical twins raised in different households turn out more alike in personality than either is to the adoptive siblings they grew up with. What does this suggest about personality?",
+      "options": {
+        "A": "Personality is fixed at birth and can't change across a lifetime",
+        "B": "Heredity plays a large role, and parenting adds less than expected",
+        "C": "The situation alone determines personality, so twins faced similar ones",
+        "D": "Upbringing matters more than genes in shaping adult personality"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Twin studies show genetics accounts for about half of personality similarities, and twins raised apart are more alike than siblings raised together; parents contribute mainly through their genes. (Ch 2: Personality Determinants)\n**Why not A:** Some aspects change over time (conscientiousness rises with age), and situations also matter.\n**Why not C:** Situations moderate personality, but heredity is a major determinant, and these twins grew up in different households.\n**Why not D:** The twin evidence points the other way: a shared upbringing adds little beyond genes."
+    },
+    {
+      "topic": "Personality foundations",
+      "question": "At 25, Ana is more conscientious than her brother. By 45, both have become more conscientious. What does research predict about their relative ranking?",
+      "options": {
+        "A": "They'll likely be identical, since the trait converges with age",
+        "B": "Ana will most likely still be the more conscientious of the two",
+        "C": "They'll most likely have swapped places by middle age",
+        "D": "Neither will have changed, since adult traits are completely fixed"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** People tend to change by about the same amount over time, so rank orderings stay roughly the same even as conscientiousness rises; adult personality is fairly stable. (Ch 2: Personality Determinants)\n**Why not A:** Individual differences stay strong even as everyone grows more conscientious.\n**Why not C:** Rank orders don't change much in adulthood.\n**Why not D:** Conscientiousness does tend to increase with age; it's the rank order that's stable."
+    },
+    {
+      "topic": "MBTI and the Big Five",
+      "question": "An HR director wants to use the Myers-Briggs Type Indicator to screen applicants for a sales job. What does the chapter advise?",
+      "options": {
+        "A": "Avoid it entirely, since it has no legitimate organizational use",
+        "B": "Use it for selection, as long as candidates' types are E rather than I",
+        "C": "Use it for selection, since it's the world's most widely used test",
+        "D": "Use it for self-awareness and team discussion, not for selection"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Much of the evidence is against the MBTI's validity, it forces people into either/or types, and results tend to be unrelated to job performance. It can still help with self-awareness, career guidance and team communication. (Ch 2: The Myers-Briggs Type Indicator)\n**Why not A:** The chapter says the MBTI may have a place in training, development and team communication.\n**Why not B:** There's no evidence that MBTI type predicts sales performance; the chapter advises against using it as a selection test.\n**Why not C:** Popularity isn't validity; MBTI results tend to be unrelated to job performance."
+    },
+    {
+      "topic": "MBTI and the Big Five",
+      "question": "A hospital wants to screen for the one Big Five trait most consistently linked to good job performance across many different roles. Which trait should it focus on?",
+      "options": {
+        "A": "Openness to experience",
+        "B": "Conscientiousness",
+        "C": "Extraversion",
+        "D": "Agreeableness"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Conscientiousness is the trait most consistently related to job performance across occupations; conscientious people are dependable, organized, persistent and achievement-oriented. (Ch 2: Research Findings: The Big Five)\n**Why not A:** Openness predicts creativity, training performance and adaptability rather than performance across all roles.\n**Why not C:** Extraversion predicts performance mainly in interpersonal jobs, and it predicts leadership emergence.\n**Why not D:** Agreeableness helps in interpersonally oriented jobs such as customer service."
+    },
+    {
+      "topic": "MBTI and the Big Five",
+      "question": "An outgoing, assertive employee often emerges as the leader in group projects, but she also has more absences than her quieter colleagues. How does this fit the chapter's research?",
+      "options": {
+        "A": "Typical of high agreeableness, the trait linked to emerging as leader",
+        "B": "Unusual: extraverts typically have the best attendance records",
+        "C": "Typical of low emotional stability, which drives assertiveness",
+        "D": "Typical: extraverts emerge as leaders but are absent more often"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Extraversion is a relatively strong predictor of leadership emergence, but extraverts are also more impulsive and more likely to be absent from work. (Ch 2: Big Five, Extraversion)\n**Why not A:** Leadership emergence is linked to extraversion; agreeable people are better liked and more compliant.\n**Why not B:** Research finds extraverts are more likely to be absent, not less.\n**Why not C:** Low emotional stability is linked to anxiety and stress, not social dominance and leadership."
+    },
+    {
+      "topic": "MBTI and the Big Five",
+      "question": "A company facing major restructuring wants employees who are comfortable with ambiguity and adapt well to change. Which Big Five trait matters most here?",
+      "options": {
+        "A": "Agreeableness",
+        "B": "Openness to experience",
+        "C": "Conscientiousness",
+        "D": "Extraversion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** People high in openness are more comfortable with ambiguity and change, cope better with organizational change, and adapt better in changing contexts. (Ch 2: Big Five, Openness to Experience)\n**Why not A:** Agreeableness relates to being liked, compliant and cooperative, not to coping with change.\n**Why not C:** Conscientiousness predicts performance generally, but conscientious people don't adapt as well to changing contexts.\n**Why not D:** Extraversion relates to sociability and leadership emergence, not specifically to adapting to change."
+    },
+    {
+      "topic": "MBTI and the Big Five",
+      "question": "Two equally skilled call-centre agents handle the same stream of stressful calls. One stays calm and satisfied with the job; the other becomes anxious and drained. Which Big Five trait best explains the difference?",
+      "options": {
+        "A": "Extraversion",
+        "B": "Emotional stability",
+        "C": "Agreeableness",
+        "D": "Conscientiousness"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Emotional stability is the Big Five trait most strongly related to life satisfaction, job satisfaction and low stress; low scorers are hyper-vigilant and vulnerable to stress. (Ch 2: Big Five, Emotional Stability)\n**Why not A:** Extraverts tend to be happier, but emotional stability is the trait most strongly tied to satisfaction and low stress.\n**Why not C:** Agreeable people are only slightly happier than disagreeable people; the stress link is much weaker.\n**Why not D:** Conscientiousness predicts performance, not resilience to stress specifically."
+    },
+    {
+      "topic": "Dark Triad and other traits",
+      "question": "Hao manipulates colleagues, keeps his emotional distance, and believes the ends justify the means. He has won three quick promotions. What does research predict over the long term?",
+      "options": {
+        "A": "His gains may fade because high Machs aren't well liked",
+        "B": "He'll keep outperforming, since Mach strongly predicts job performance",
+        "C": "He'll be drawn to employers known for social responsibility",
+        "D": "He'll be easily persuaded by colleagues' arguments over time"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** High Machs manipulate more and win more in the short term, but they lose those gains over time because they're not well liked; Machiavellianism doesn't significantly predict overall job performance. (Ch 2: The Dark Triad, Machiavellianism)\n**Why not B:** A 2012 review found Machiavellianism doesn't significantly predict overall job performance.\n**Why not C:** High-Mach job seekers weren't positively affected by an employer's high level of CSR.\n**Why not D:** High Machs are persuaded less, not more, than low Machs."
+    },
+    {
+      "topic": "Dark Triad and other traits",
+      "question": "The business press praises a narcissistic CEO as a bold visionary. According to research on narcissistic CEOs, how is he likely to respond?",
+      "options": {
+        "A": "By becoming more cautious to protect his strong reputation",
+        "B": "By sharing the credit widely to build loyalty in his team",
+        "C": "By making even more acquisitions, often at higher premiums",
+        "D": "By focusing more closely on objective measures of performance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Narcissistic CEOs make more acquisitions, pay higher premiums for them, respond less clearly to objective performance measures, and respond to media praise by making even more acquisitions. (Ch 2: The Dark Triad, Narcissism)\n**Why not A:** The research shows the opposite: praise leads to more acquisitions, not more caution.\n**Why not B:** Narcissism involves a grandiose sense of self-importance and a need for admiration, not sharing credit.\n**Why not D:** Narcissistic CEOs respond less clearly to objective performance measures."
+    },
+    {
+      "topic": "Dark Triad and other traits",
+      "question": "An employee shows no concern for the colleagues his decisions hurt and feels no guilt about it. He relies on threats and bullying to get his way. Which Dark Triad trait does this describe?",
+      "options": {
+        "A": "Narcissism",
+        "B": "Machiavellianism",
+        "C": "Low self-monitoring",
+        "D": "Psychopathy"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In OB, psychopathy means a lack of concern for others and a lack of guilt or remorse when one's actions cause harm; it's linked to hard influence tactics like threats, and to bullying. (Ch 2: The Dark Triad, Psychopathy)\n**Why not A:** Narcissism centres on grandiosity, entitlement and needing admiration, not lack of remorse.\n**Why not B:** Machiavellianism is pragmatic manipulation and believing ends justify means; the defining feature here is lack of guilt or remorse.\n**Why not C:** Low self-monitors simply show their true dispositions consistently, and it isn't a Dark Triad trait."
+    },
+    {
+      "topic": "Dark Triad and other traits",
+      "question": "A life-insurance agent hears 'no' on nine of every ten calls, yet she sets ambitious goals, stays committed and keeps going, because she sees herself as capable and in control of her results. Which attribute best explains this?",
+      "options": {
+        "A": "Low neuroticism on its own",
+        "B": "A high level of self-monitoring",
+        "C": "A high Machiavellian orientation",
+        "D": "A positive core self-evaluation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People with positive core self-evaluations see themselves as capable and in control, set more ambitious goals, commit to them and persist longer; the chapter's life-insurance example illustrates this. (Ch 2: Core Self-Evaluation)\n**Why not A:** Emotional stability helps with stress, but the chapter ties this kind of sales persistence to core self-evaluation.\n**Why not B:** Self-monitoring is about adjusting behaviour to situations, not believing in your own capability.\n**Why not C:** Machiavellianism concerns manipulation and ends justifying means, not self-belief and persistence."
+    },
+    {
+      "topic": "Dark Triad and other traits",
+      "question": "A consultant changes his style dramatically for each client (formal with bankers, casual with start-ups), so much that his public persona differs sharply from his private self. Which trait is he high in?",
+      "options": {
+        "A": "Self-monitoring",
+        "B": "Extraversion",
+        "C": "Proactive personality",
+        "D": "Core self-evaluation"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** High self-monitors are sensitive to external cues and adjust their behaviour to the situation, sometimes showing striking contradictions between public persona and private self. (Ch 2: Self-Monitoring)\n**Why not B:** Extraversion is comfort with relationships and sociability, not situational adjustment of behaviour.\n**Why not C:** Proactive personality is about taking initiative to change circumstances, not adapting self-presentation.\n**Why not D:** Core self-evaluation is how capable and in control people see themselves."
+    },
+    {
+      "topic": "Dark Triad and other traits",
+      "question": "An employee spots an inefficiency, proposes a fix, builds support, and keeps pushing until the process actually changes. What does the chapter say about employees like this?",
+      "options": {
+        "A": "They usually stay with one employer for their whole career",
+        "B": "They rarely voice displeasure, because they prefer to avoid any conflict",
+        "C": "They perform well but may challenge norms or leave to start a business",
+        "D": "They tend to perform poorly because they ignore assigned tasks"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Proactive personalities show initiative and persevere until meaningful change occurs, with higher performance and career success, but they're also more likely to challenge the status quo, voice displeasure and leave to start their own business. (Ch 2: Proactive Personality)\n**Why not A:** Proactives are more likely to leave an organization to start their own business.\n**Why not B:** Proactives are more likely to challenge the status quo and voice displeasure.\n**Why not D:** Proactives have higher job performance and career success."
+    },
+    {
+      "topic": "Emotions and moods",
+      "question": "A colleague snaps at Priya in a meeting and she feels a flash of anger at him. By afternoon she feels generally irritable, can't pinpoint why, and overreacts to small things. How does the chapter classify these feelings?",
+      "options": {
+        "A": "The anger is an emotion; the later irritability is a mood",
+        "B": "The anger is a mood; the later irritability is an emotion",
+        "C": "Both are moods, since both are negative feelings",
+        "D": "Both are emotions, since the meeting caused both"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Emotions are intense, brief and directed at someone or something; moods are less intense, last longer and often lack a specific cause. Emotions can turn into moods when focus on the triggering event fades. (Ch 2: What Are Emotions and Moods? Exhibit 2-8)\n**Why not B:** This reverses the definitions.\n**Why not C:** Being negative doesn't make a feeling a mood; the anger was intense, brief and directed at a person.\n**Why not D:** The afternoon irritability has no clear target or cause, which makes it a mood."
+    },
+    {
+      "topic": "Emotions and moods",
+      "question": "A manager insists that good business decisions require keeping emotions completely out of the process. What does research in the chapter suggest?",
+      "options": {
+        "A": "Only positive emotions should be allowed to inform decisions",
+        "B": "Emotions are critical to rational thinking; use thinking and feeling",
+        "C": "Emotions matter only in customer-facing roles like retail",
+        "D": "Emotions are disruptive, so well-run firms keep work emotion-free"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Research shows emotions provide important information about the world around us, and the key to good decision making is to employ both thinking and feeling. (Ch 2: Why Should We Care About Emotions in the Workplace?)\n**Why not A:** The chapter doesn't limit useful emotions to positive ones; it even notes benefits of negative affect.\n**Why not C:** Emotions are relevant to virtually every OB topic and role, including managerial decisions.\n**Why not D:** That's the outdated 'myth of rationality'; organizations can't be emotion-free, and emotions aid good decisions."
+    },
+    {
+      "topic": "Emotions and moods",
+      "question": "A Canadian retailer expanding into Germany plans to train every employee to greet shoppers with big, enthusiastic smiles. What caution does the chapter offer?",
+      "options": {
+        "A": "Only negative emotions differ by culture, not positive displays",
+        "B": "Norms for showing emotions vary by culture, so adapt the approach",
+        "C": "Smiles are read the same way everywhere, so no change is needed",
+        "D": "Germans value enthusiasm most, so even bigger smiles will help"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Display norms differ across cultures: serious German shoppers were reportedly put off by Walmart's friendly greeters, and smiles are interpreted differently in some cultures. (Ch 2: Global Implications, Emotions)\n**Why not A:** Norms for positive displays such as smiling vary too, as the greeter and smiling examples show.\n**Why not C:** The chapter gives several examples of smiles and emotional displays being read differently across cultures.\n**Why not D:** The chapter's example suggests serious German shoppers disliked the friendly-greeter approach."
+    },
+    {
+      "topic": "Emotional labour",
+      "question": "Instead of just putting on a caring face, a nurse works at genuinely feeling more empathy for a difficult patient. What is she doing?",
+      "options": {
+        "A": "Surface acting",
+        "B": "Emotional dissonance",
+        "C": "Venting",
+        "D": "Deep acting"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Deep acting is trying to modify one's true inner feelings to match display rules; surface acting only changes the displayed emotion. (Ch 2: Choosing Emotions: Emotional Labour)\n**Why not A:** Surface acting hides inner feelings behind the expected display; she's trying to change the feeling itself.\n**Why not B:** Emotional dissonance is the gap between felt and displayed emotions, not a strategy for closing it.\n**Why not C:** Venting is openly expressing frustration, not modifying feelings to fit display rules."
+    },
+    {
+      "topic": "Emotional labour",
+      "question": "Day after day, a call-centre agent sounds cheerful with abusive callers while feeling furious inside. What risk does the chapter highlight?",
+      "options": {
+        "A": "Emotional dissonance that builds into exhaustion and burnout",
+        "B": "Deep acting that permanently changes her true feelings",
+        "C": "Little risk, since displayed emotions are just part of the job",
+        "D": "Rising job satisfaction as she masters the display rules"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The gap between felt and displayed emotions (emotional dissonance) takes a heavy toll; bottled-up frustration and anger can lead to emotional exhaustion and burnout, and surface acting is stressful. (Ch 2: Choosing Emotions: Emotional Labour)\n**Why not B:** She's surface acting (faking the display), not deep acting.\n**Why not C:** Displayed emotions are part of the job, but faking them takes a real toll.\n**Why not D:** Research links surface acting to stress, lower satisfaction and withdrawal, not greater satisfaction."
+    },
+    {
+      "topic": "Emotional intelligence and regulation",
+      "question": "Your company is deciding whether to use emotional intelligence tests in hiring. Which conclusion best reflects the chapter's evidence?",
+      "options": {
+        "A": "Reject outright: EI has shown no relationship with job performance",
+        "B": "Adopt widely: EI explains 85% of star performance in top leaders",
+        "C": "Use cautiously: EI predicts performance somewhat, but measures are disputed",
+        "D": "Adopt widely: EI is unrelated to personality, so it adds unique insight"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Reviews find EI positively related to job performance, but researchers disagree on definitions, measures vary, EI overlaps with personality, and applicant reactions and job relevance raise concerns. (Ch 2: Emotional Intelligence; Focus on Ethics)\n**Why not A:** Reviews found EI consistently, if modestly, related to performance even after controlling for other factors.\n**Why not B:** That figure comes from a company's promotional claim, not from research evidence.\n**Why not D:** Critics note EI correlates with personality, especially emotional stability."
+    },
+    {
+      "topic": "Emotional intelligence and regulation",
+      "question": "A critic argues that emotional intelligence is 'just personality with a new label.' Which finding supports the critic's position?",
+      "options": {
+        "A": "EI predicted the job performance of workers in a Chinese factory",
+        "B": "Consulting partners with high EI brought in far more business",
+        "C": "People with damage to emotional brain areas scored lower on EI tests",
+        "D": "EI scores correlate with personality traits, especially emotional stability"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Part of the case against EI is that it's closely related to personality and intelligence, particularly emotional stability, so it may add little once those are controlled. (Ch 2: The Case Against EI)\n**Why not A:** This is evidence for EI, showing it predicts criteria that matter.\n**Why not B:** This supports EI's practical value, not the critic's view.\n**Why not C:** This is part of the case for EI: it suggests EI is neurologically based and separate from standard intelligence."
+    },
+    {
+      "topic": "Emotional intelligence and regulation",
+      "question": "After a tense call with a rude client, Leo wants to vent. Based on the research in the chapter, how should he do it?",
+      "options": {
+        "A": "Vent directly to the client to clear the air",
+        "B": "Keep it bottled up, since expressing emotion backfires",
+        "C": "Vent to a sympathetic colleague who wasn't involved",
+        "D": "Vent to anyone, since venting helps whatever the response"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Venting helps only if the listener responds with support or validation; if the listener doesn't respond, the venter feels worse, and venting to the offender rarely improves things. (Ch 2: Emotion Regulation)\n**Why not A:** Venting to the perceived offender rarely helps and can heighten negative emotions.\n**Why not B:** The chapter says open expression can help compared with keeping emotions bottled up.\n**Why not D:** If the listener doesn't respond supportively, the venter actually feels worse."
+    },
+    {
+      "topic": "Emotional intelligence and regulation",
+      "question": "A manager trains staff who feel angry at work to re-evaluate the triggering event and consider other ways to interpret it. What does research in the chapter suggest about this technique?",
+      "options": {
+        "A": "It's just surface acting, so it's equally stressful for employees",
+        "B": "It backfires, since re-evaluating strengthens the anger itself",
+        "C": "Reappraisal can change emotional responses, even on charged issues",
+        "D": "It works only for mild feelings, not for highly charged issues"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Studies suggest acknowledging emotions and re-evaluating events is effective; in one study, reappraisal shifted reactions to a highly charged conflict, with effects lasting up to five months. (Ch 2: Emotion Regulation)\n**Why not A:** Surface acting only changes the display; reappraisal changes how the event is interpreted and felt.\n**Why not B:** Some regulation attempts (like talking yourself out of fear) can backfire, but reappraisal showed lasting benefits.\n**Why not D:** The Israeli–Palestinian study showed reappraisal worked even on a highly charged topic."
+    }
+  ]
+}

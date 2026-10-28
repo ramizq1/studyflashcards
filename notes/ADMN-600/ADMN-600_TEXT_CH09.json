@@ -1,0 +1,590 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "09",
+    "title": "Conflict and Negotiation"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 9",
+  "questions": [
+    {
+      "topic": "Conflict and its types",
+      "question": "Two colleagues disagree sharply about a budget, but one of them has no idea the other is upset. According to the chapter's definition, when does conflict begin?",
+      "options": {
+        "A": "When a manager formally identifies the disagreement as a problem",
+        "B": "When an objective incompatibility exists, whether noticed or not",
+        "C": "When both parties openly confront each other about the issue",
+        "D": "When one party perceives the other harmed something it values"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Conflict must be perceived: it's a process that begins when one party perceives that another has negatively affected, or is about to negatively affect, something the first party cares about. (Ch 9: Conflict Defined)\n**Why not A:** Conflict begins with the parties' perceptions, not a manager's label.\n**Why not B:** If no one is aware of a conflict, it's generally agreed that no conflict exists.\n**Why not C:** Conflict ranges from subtle disagreement to overt acts; it starts with perception, not open confrontation."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "A team argues for weeks about product features, but the debate leads to a better launch and higher sales. How should this conflict be classified, and why?",
+      "options": {
+        "A": "Functional, because it improved the group's performance",
+        "B": "Dysfunctional, because all conflict lowers satisfaction",
+        "C": "Dysfunctional, because it took weeks and caused tension",
+        "D": "Functional, because no one's feelings were hurt by it"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The criterion that separates functional from dysfunctional conflict is group performance; conflict that supports the group's goals and improves its performance is functional. (Ch 9: Functional vs. Dysfunctional Conflict)\n**Why not B:** Conflict can reduce satisfaction yet still be functional if it improves performance.\n**Why not C:** The criterion is group performance, not how long the conflict lasted or how uncomfortable it was.\n**Why not D:** The test is performance, not whether feelings were hurt."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "Two engineers on a team constantly clash simply because they dislike each other's personalities. What does research say about this kind of conflict?",
+      "options": {
+        "A": "Relationship conflict is the least exhausting type of conflict",
+        "B": "Relationship conflict is almost always dysfunctional at work",
+        "C": "Relationship conflict is functional if kept at moderate levels",
+        "D": "Relationship conflict mainly concerns how work gets done"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Relationship conflicts increase personality clashes and decrease mutual understanding, which hinders task completion; they're almost always dysfunctional and the most psychologically exhausting type. (Ch 9: Types of Conflict)\n**Why not A:** It appears to be the most psychologically exhausting type.\n**Why not C:** The 'moderate level' argument applies to task conflict, not relationship conflict.\n**Why not D:** Conflict over how work gets done is process conflict."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "A CEO wants to encourage vigorous debate about work content among both her top management team and frontline teams, expecting it to help everywhere. What does a 2012 review of 116 studies suggest?",
+      "options": {
+        "A": "Task conflict helps all levels equally, especially frontline teams",
+        "B": "Task conflict hurt top teams but helped teams lower down",
+        "C": "Task conflict helped top teams but hurt teams lower down",
+        "D": "Task conflict has no effect at any level, so it can be ignored"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Overall, task conflict was essentially unrelated to performance, but effects depended on mediators: it was positively associated with performance in top management teams and negatively associated lower in the organization. (Ch 9: Types of Conflict)\n**Why not A:** Task conflict was negatively associated with performance lower in the organization.\n**Why not B:** This reverses the finding.\n**Why not D:** Overall it was unrelated to performance, but its effects depended on factors like hierarchical level."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "A team is debating the best design for a product (task conflict), and at the same time several members are feuding personally. How is the task conflict likely to affect performance?",
+      "options": {
+        "A": "More likely positively, since personal feuds sharpen the debate",
+        "B": "Positively, since task conflict is always beneficial on its own",
+        "C": "Likely negatively, since it's paired with relationship conflict",
+        "D": "Not at all, since only process conflict affects performance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The 116-study review found that when task and relationship conflict occurred together, task conflict was more likely negative; when task conflict occurred by itself, it was more likely positive. (Ch 9: Types of Conflict)\n**Why not A:** Paired with relationship conflict, task conflict tended to be negative.\n**Why not B:** Task conflict alone tends to be positive, but here it's combined with relationship conflict.\n**Why not D:** Task and relationship conflict both affect performance."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "A team keeps arguing about who should do which tasks; some members feel sidelined while others shirk. Which type of conflict is this, and what's the risk?",
+      "options": {
+        "A": "Process conflict, which often turns into relationship conflict",
+        "B": "Task conflict, which reliably sparks more creative solutions",
+        "C": "Relationship conflict, which is about the content of the work",
+        "D": "Process conflict, which rarely becomes personal for members"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Process conflicts revolve around delegation and roles: delegation conflicts often relate to shirking, and role conflicts can leave members marginalized, so process conflicts get personal and devolve into relationship conflict. (Ch 9: Types of Conflict)\n**Why not B:** Task conflict concerns the content and goals of the work, not delegation and roles.\n**Why not C:** Relationship conflict concerns interpersonal relationships, not work content.\n**Why not D:** Process conflicts often become highly personalized."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "Two departments clash over shared resources. According to research, which group members tend to be better at resolving this kind of intergroup conflict?",
+      "options": {
+        "A": "Peripheral members who have no accountability at all",
+        "B": "Core members who are most central to their group",
+        "C": "Peripheral members who remain accountable to their group",
+        "D": "The newest members, since they have no loyalties yet"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Members who were relatively peripheral in their own groups were better at resolving conflicts with another group, but only when they were still accountable to their group. (Ch 9: Loci of Conflict)\n**Why not A:** Peripheral members helped only when they remained accountable to their group.\n**Why not B:** Being at the core of your group doesn't necessarily make you the best person to manage intergroup conflict.\n**Why not D:** The study concerned peripheral but accountable members, not tenure."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "To head off rising tension, a manager floods her team with long emails and extra meetings about every detail. What does research suggest about communication as a source of conflict?",
+      "options": {
+        "A": "Both too little and too much communication can raise conflict",
+        "B": "Communication has little effect; structure causes most conflict",
+        "C": "More communication always reduces the potential for conflict",
+        "D": "Only too little communication, never too much, raises conflict"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The potential for conflict increases when either too little or too much communication takes place; communication is functional up to a point, after which overcommunication increases conflict potential. (Ch 9: Sources of Conflict, Communication)\n**Why not B:** Communication barriers such as jargon and noise are potential antecedents of conflict.\n**Why not C:** It's possible to overcommunicate, which increases the potential for conflict.\n**Why not D:** Research found too much communication can also raise conflict potential."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "Two units keep fighting over who controls a shared budget, because no one has clearly defined which unit is responsible for it. Which structural source of conflict is this?",
+      "options": {
+        "A": "Small group size, which concentrates power in a few hands",
+        "B": "A participative leadership style that gives too much discretion",
+        "C": "Low specialization, since both units do very similar tasks",
+        "D": "Jurisdictional ambiguity over where responsibility lies"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The greater the ambiguity about where responsibility for actions lies, the greater the potential for conflict; jurisdictional ambiguities increase intergroup fighting for control of resources and territory. (Ch 9: Sources of Conflict, Structure)\n**Why not A:** Larger groups, not smaller ones, are more likely to experience conflict.\n**Why not B:** Leadership style creates conflict when managers tightly control work and allow little discretion.\n**Why not C:** Greater specialization, not less, increases the likelihood of conflict."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "A sales team keeps promising customers features the development team hasn't finalized, and the two teams clash repeatedly. Which source of conflict does this best illustrate?",
+      "options": {
+        "A": "Diverse goals that are inherently at odds",
+        "B": "Personal variables such as neuroticism",
+        "C": "Too little specialization of tasks",
+        "D": "Mutual independence between the teams"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The diversity of goals among groups is a major source of conflict; when groups seek ends that are inherently at odds, such as sales promising products development hasn't finalized, opportunities for conflict increase. (Ch 9: Sources of Conflict, Structure)\n**Why not B:** The clash comes from structural goal differences, not personality.\n**Why not C:** Greater specialization, not less, increases the likelihood of conflict.\n**Why not D:** Dependence of one group on another stimulates conflict; independence doesn't."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "An employee arrives at work furious after a chaotic commute, and a routine meeting quickly turns tense. Which source of conflict is at work?",
+      "options": {
+        "A": "Communication: semantic difficulties in the meeting",
+        "B": "Personal variables: emotions carried in from elsewhere",
+        "C": "Structural variables: the meeting's formal agenda",
+        "D": "Structure: reward systems that pit members against each other"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Personal variables include personality, emotions and values; emotions can cause conflict even when they aren't directed at others, such as anger from a hectic commute carried into the workday. (Ch 9: Sources of Conflict, Personal Variables)\n**Why not A:** The tension came from the employee's emotions, not from misunderstood words.\n**Why not C:** Nothing about the meeting's structure caused the tension.\n**Why not D:** Nothing in the scenario involves competing rewards."
+    },
+    {
+      "topic": "Handling conflict",
+      "question": "In a dispute, a manager insists on her own solution, using persuasive arguments and firm positional commitments, with little concern for her colleague's interests. Which dual concern strategy is this?",
+      "options": {
+        "A": "Compromising: moderate assertiveness and cooperativeness",
+        "B": "Forcing: high assertiveness, low cooperativeness",
+        "C": "Yielding: low assertiveness, high cooperativeness",
+        "D": "Problem solving: high assertiveness, high cooperativeness"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Dual concern theory combines assertiveness (satisfying one's own concerns) with cooperativeness (satisfying the other's); forcing imposes one's will, using threats, bluffs, persuasive arguments and positional commitments. (Ch 9: Conflict Management Strategies, Exhibit 9-1)\n**Why not A:** Compromising means both parties give something up to reach an outcome.\n**Why not C:** Yielding places the other party's interests above one's own.\n**Why not D:** Problem solving seeks outcomes that satisfy both parties' concerns."
+    },
+    {
+      "topic": "Handling conflict",
+      "question": "Two co-workers exchange information about their priorities and trade away issues that matter less to each of them to reach an outcome they both like. Which strategy are they using, and what outcome does it seek?",
+      "options": {
+        "A": "Problem solving, which seeks a win–win outcome",
+        "B": "Smoothing, which seeks a lose–lose outcome",
+        "C": "Compromising, which seeks a win–win outcome",
+        "D": "Yielding, which seeks a win–lose outcome"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Problem solving clarifies differences to find mutually beneficial outcomes, exchanging information about priorities and trading off important and unimportant issues; it seeks win–win solutions. (Ch 9: Conflict Management Strategies, Exhibit 9-1)\n**Why not B:** Smoothing plays down differences while emphasizing common interests.\n**Why not C:** In compromising each side gives something up, and it can yield lose–lose outcomes.\n**Why not D:** Yielding unilaterally accepts the other party's will."
+    },
+    {
+      "topic": "Handling conflict",
+      "question": "Two employees are upset about a minor disagreement over where the office printer should go, and tempers are running high. According to the chapter's guide to choosing strategies, which one fits best?",
+      "options": {
+        "A": "Compromising, since a temporary settlement is needed for complexity",
+        "B": "Problem solving, since both sets of concerns are too important",
+        "C": "Forcing, since a quick decision ends the argument immediately",
+        "D": "Avoiding, since the issue is trivial and people need to cool down"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Avoiding is best when an issue is trivial, when your concerns won't be met, when disruption outweighs the benefits of resolution, and to let people cool down and regain perspective. (Ch 9: OB in Action, Choosing Strategies to Deal with Conflicts)\n**Why not A:** Compromising suits complex issues that need temporary settlements, or time pressure.\n**Why not B:** Problem solving is for concerns too important to compromise; this issue is trivial.\n**Why not C:** Forcing suits emergencies, vital issues and important but unpopular decisions."
+    },
+    {
+      "topic": "Handling conflict",
+      "question": "Midway through a dispute, a manager realizes her colleague's approach is actually better than hers, and she'd like to build goodwill for future issues. Which strategy fits?",
+      "options": {
+        "A": "Avoiding, since admitting error would weaken her position",
+        "B": "Yielding, to show reasonableness and build social credits",
+        "C": "Forcing, since standing firm shows she's a strong leader",
+        "D": "Compromising, so each side gives up something equal in value"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Yielding is appropriate when you find you're wrong, to show your reasonableness, when the issue matters more to others, to build social credits for later issues, and when harmony is especially important. (Ch 9: OB in Action, Choosing Strategies to Deal with Conflicts)\n**Why not A:** Yielding when you're wrong shows reasonableness and builds credits for later.\n**Why not C:** Forcing suits vital issues when you know you're right, not when you've realized you're wrong.\n**Why not D:** When you find you're wrong, yielding is the recommended strategy."
+    },
+    {
+      "topic": "Handling conflict",
+      "question": "Two departments are fighting over the only available office suite, so management leases a second suite and each department gets space. Which conflict resolution technique is this?",
+      "options": {
+        "A": "Altering the structural variables",
+        "B": "Authoritative command",
+        "C": "Smoothing",
+        "D": "Expansion of resources"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** When the scarcity of a resource such as money, promotions or office space creates conflict, expanding the resource can create a win–win solution. (Ch 9: What Can Individuals Do to Manage Conflict?)\n**Why not A:** That involves job redesign, transfers or creating coordinating positions.\n**Why not B:** Authoritative command means management uses formal authority to impose a resolution.\n**Why not C:** Smoothing plays down differences while emphasizing common interests."
+    },
+    {
+      "topic": "Handling conflict",
+      "question": "Two rival plant crews are told that winning a major contract depends on their working together to cut joint defect rates. Which conflict resolution technique is management using?",
+      "options": {
+        "A": "Altering the human variable",
+        "B": "Authoritative command",
+        "C": "Developing overarching goals",
+        "D": "Smoothing over differences"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Developing overarching goals creates a shared goal that requires both parties to work together and motivates them to do so. (Ch 9: What Can Individuals Do to Manage Conflict?)\n**Why not A:** That uses behavioural change techniques such as human relations training.\n**Why not B:** Management isn't imposing a resolution; it's creating a shared goal.\n**Why not D:** Smoothing plays down differences rather than creating a goal that requires cooperation."
+    },
+    {
+      "topic": "Handling conflict",
+      "question": "Before a salary discussion, an employee frames it as 'any raise you get means less for me.' How is this framing likely to affect the outcome?",
+      "options": {
+        "A": "It makes her less willing to look for mutual solutions",
+        "B": "It has no effect, since framing doesn't change outcomes",
+        "C": "It makes a creative win–win settlement far more likely",
+        "D": "It speeds agreement, since both sides see the stakes clearly"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** How a conflict is defined shapes the possible settlements: framing it as zero-sum (win–lose) makes people far less willing to look for mutual solutions than framing it as a potential win–win. (Ch 9: Conflict Resolution)\n**Why not B:** Attitudes toward a conflict typically define the set of possible settlements.\n**Why not C:** Zero-sum framing reduces, rather than increases, the search for mutual solutions.\n**Why not D:** Win–lose framing makes people less willing to find mutual solutions."
+    },
+    {
+      "topic": "Culture and conflict",
+      "question": "A Canadian manager tries to resolve a dispute with a Mexican colleague by raising it openly in a team meeting. What cultural difference might cause problems?",
+      "options": {
+        "A": "Mexicans see open conflict as the only path to win–win",
+        "B": "Mexicans prefer forcing strategies over other approaches",
+        "C": "Mexicans tend to expect conflict to be kept private",
+        "D": "Mexicans tend to expect conflict to be aired publicly"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People across cultures have different ideas about the appropriateness of conflict; Mexicans expect conflict to be kept private, while Americans expect it to be dealt with directly and openly. (Ch 9: Research Findings: Cultural Views on Conflict)\n**Why not A:** The research contrasts private versus open handling of conflict.\n**Why not B:** The chapter's point about Mexico concerns keeping conflict private.\n**Why not D:** This reverses the finding: Mexicans expect conflict to be kept private."
+    },
+    {
+      "topic": "Culture and conflict",
+      "question": "A Canadian negotiator is frustrated that her Chinese counterparts keep pushing for a middle-ground settlement instead of a creative win–win solution. What might explain their preference?",
+      "options": {
+        "A": "Compromise may help both sides save face and keep dignity",
+        "B": "Compromise is required by law in most Asian negotiations",
+        "C": "Compromise signals that they lack interest in the deal",
+        "D": "Compromise lets them dominate the final terms of the deal"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Chinese and East Asian managers prefer compromising (and avoiding), which may be a way of saving face so each party preserves pride and dignity, even if North Americans see it as suboptimal. (Ch 9: Research Findings: Cultural Views on Conflict)\n**Why not B:** The preference is cultural, not a legal requirement.\n**Why not C:** The preference reflects face-saving, not a lack of interest.\n**Why not D:** Compromise involves both sides giving something up, not domination."
+    },
+    {
+      "topic": "Culture and conflict",
+      "question": "A Western firm expects its partnership talks in Asia to end in a detailed legal contract. What does the chapter suggest it should keep in mind?",
+      "options": {
+        "A": "Neither culture expects any formal agreement at the end",
+        "B": "Asian cultures sign contracts only through arbitration",
+        "C": "Asian cultures rely more on relational than legal contracts",
+        "D": "Asian cultures rely more on legal than relational contracts"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** North Americans expect negotiations may lead to a legal contract, whereas Asian cultures rely less on legal contracts and more on relational contracts. (Ch 9: Research Findings: Cultural Views on Conflict)\n**Why not A:** North Americans do expect negotiations may end in a legal contract.\n**Why not B:** The difference is reliance on relational versus legal contracts, not arbitration.\n**Why not D:** This reverses the chapter's point."
+    },
+    {
+      "topic": "Culture and conflict",
+      "question": "In a joint venture, Western managers tend to push hard for their own positions, while Japanese managers favour nonconfrontational styles. What does research suggest helps explain the Western approach?",
+      "options": {
+        "A": "Westerners see conflict as almost always harmful to units",
+        "B": "Westerners prefer to resolve conflict through third parties",
+        "C": "Westerners value harmony more than collectivist cultures do",
+        "D": "Westerners are generally more comfortable with competition"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Westerners are more comfortable with competition, which may explain why they're more likely to choose forcing, while Japanese managers tend toward nonconfrontational styles and East Asian managers often ignore conflict rather than make it public. (Ch 9: Research Findings: Cultural Views on Conflict)\n**Why not A:** That view is held by many Asian cultures, not Western ones.\n**Why not B:** Collectivists are the ones more likely to work through third parties.\n**Why not C:** Collectivist cultures value harmony among members more than individualistic ones."
+    },
+    {
+      "topic": "Conflict outcomes",
+      "question": "A manager believes the ideal workplace has no conflict at all. What does the chapter's model of conflict and unit performance suggest?",
+      "options": {
+        "A": "Performance rises steadily as conflict increases without limit",
+        "B": "Too little and too much conflict both hurt unit performance",
+        "C": "Performance rises steadily as conflict falls toward zero",
+        "D": "Conflict has no effect on performance at the unit level"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The chapter suggests an optimal level of conflict: too little leads to stagnation and too much is disruptive, while a moderate level stimulates creativity and change (a North American viewpoint). (Ch 9: Conflict Outcomes, Exhibit 9-2)\n**Why not A:** Very high conflict is disruptive and hinders performance.\n**Why not C:** Too little conflict can mean stagnation, so performance doesn't keep rising as conflict disappears.\n**Why not D:** The model shows performance varying with the level of conflict."
+    },
+    {
+      "topic": "Conflict outcomes",
+      "question": "After resolving a long dispute, a union and management want to judge whether the outcome was a good one. According to Tjosvold, which three outcomes should they look for?",
+      "options": {
+        "A": "Avoided issues, preserved harmony and no new rules",
+        "B": "Compromise, quick closure and a legally binding contract",
+        "C": "A clear winner, a fast decision and minimal discussion",
+        "D": "Fair agreement, stronger relationships and learning"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Tjosvold suggests three desired outcomes: an equitable and fair agreement, stronger relationships and greater trust, and learning how to handle conflict better next time. (Ch 9: Conflict Outcomes)\n**Why not A:** Avoiding issues isn't one of the desired outcomes.\n**Why not B:** Tjosvold's outcomes are fair agreement, stronger relationships and learning.\n**Why not C:** If one party feels exploited or defeated, more conflict is likely later."
+    },
+    {
+      "topic": "Conflict outcomes",
+      "question": "A company forming decision-making groups wonders whether ethnic diversity will help or hurt the quality of ideas. What did research comparing all-Caucasian and ethnically diverse groups find?",
+      "options": {
+        "A": "Homogeneous groups produced higher-quality unique ideas",
+        "B": "Diverse groups produced fewer ideas because of conflict",
+        "C": "Both kinds of groups produced ideas of equal quality",
+        "D": "Diverse groups produced more effective, feasible ideas"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The ethnically diverse groups produced more effective and more feasible ideas, and their unique ideas tended to be higher in quality, consistent with heterogeneity improving creativity and decisions. (Ch 9: Research Findings: The Constructive Effects of Conflict)\n**Why not A:** The diverse groups' unique ideas tended to be higher in quality.\n**Why not B:** The diverse groups produced more effective and feasible ideas.\n**Why not C:** The diverse groups outperformed on effectiveness and feasibility."
+    },
+    {
+      "topic": "Bargaining strategies",
+      "question": "A candidate's position is a salary of $95 000; her underlying concern is affording a mortgage. The employer offers a lower salary plus a low-interest housing loan, and she's satisfied. What does this illustrate?",
+      "options": {
+        "A": "Focusing on interests, not just positions, adds flexibility",
+        "B": "Distributive bargaining over a fixed pie of salary dollars",
+        "C": "Holding firm on positions always yields the best results",
+        "D": "Compromising, since each side gave up exactly half"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Issues are the items on the table, positions are each side's stand on them, and interests are the underlying concerns; negotiators who recognize interests may satisfy them without meeting the stated position. (Ch 9: Negotiation)\n**Why not B:** Adding the loan expanded the options beyond a fixed pie.\n**Why not C:** The deal worked because both sides looked past positions to the underlying interest.\n**Why not D:** The solution met her interest rather than splitting the difference."
+    },
+    {
+      "topic": "Bargaining strategies",
+      "question": "You're buying a used car from a stranger: every dollar you save is a dollar the seller loses. Which bargaining strategy fits, and what tactic does the chapter recommend?",
+      "options": {
+        "A": "Distributive; make the first offer, and make it aggressive",
+        "B": "Distributive; let the seller make the first offer instead",
+        "C": "Integrative; make a modest first offer to build goodwill",
+        "D": "Integrative; share all your priorities to grow the pie"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Distributive bargaining divides a fixed pie (win–lose). Making the first offer shows power, and an aggressive first offer sets an anchor that people fail to adjust adequately, greatly favouring the person who sets it. (Ch 9: Distributive Bargaining)\n**Why not B:** Making the first offer sets the anchor and tends to favour you.\n**Why not C:** In distributive bargaining, an aggressive first offer anchors the negotiation in your favour.\n**Why not D:** This is a zero-sum situation; integrative bargaining assumes win–win settlements exist."
+    },
+    {
+      "topic": "Bargaining strategies",
+      "question": "An eBay seller wonders whether to start a camera auction at one cent or near its market value. What did research on eBay auctions find?",
+      "options": {
+        "A": "Starting bids made no difference to the final selling price",
+        "B": "Very low starting bids drew more bidders and higher final prices",
+        "C": "Low starting bids attracted fewer serious bidders overall",
+        "D": "High starting bids anchor buyers and yield higher final prices"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Low starting bids attracted more bidders, and the increased competition drove final prices higher; cameras starting at a penny sold for more on average than those with higher starting prices. (Ch 9: OB in the Street, A Low Anchor Value Can Reap Higher Returns on eBay)\n**Why not A:** Starting bids clearly affected final prices.\n**Why not C:** Low starting bids attracted more bidders.\n**Why not D:** Counterintuitively, on eBay lower starting bids produced higher final prices."
+    },
+    {
+      "topic": "Bargaining strategies",
+      "question": "A union and management want more integrative outcomes in their next round of talks. Which approach does research support?",
+      "options": {
+        "A": "Send a single negotiator so positions stay consistent",
+        "B": "Bargain in teams and put more issues on the table",
+        "C": "Compromise quickly on each issue to avoid deadlock",
+        "D": "Negotiate one issue at a time to keep things simple"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Teams reach more integrative agreements because more ideas are generated, and more negotiable issues create chances for logrolling (trading issues based on differing preferences); focusing on interests also helps. (Ch 9: Integrative Bargaining)\n**Why not A:** Individuals bargaining in teams reach more integrative agreements than those bargaining alone.\n**Why not C:** Compromise reduces the pressure to bargain integratively.\n**Why not D:** Negotiating issues one by one prevents logrolling; more issues create better joint outcomes."
+    },
+    {
+      "topic": "Bargaining strategies",
+      "question": "Two managers both want the only available conference room on Thursday. One quickly gives it up, never learning that the other needed it only in the morning while she needed it only in the afternoon. What lesson does this illustrate?",
+      "options": {
+        "A": "Distributive bargaining is required for indivisible items",
+        "B": "Anchoring with a first offer would have solved the problem",
+        "C": "Yielding is the best strategy whenever resources are scarce",
+        "D": "A quick concession can kill the search for a win–win deal"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Compromise can be your worst enemy in win–win negotiation: if one side caves easily, no one has to explore underlying interests or be creative, so both settle for less than they could have had. (Ch 9: Integrative Bargaining)\n**Why not A:** The room wasn't truly indivisible; exploring interests would have revealed that.\n**Why not B:** The missed opportunity came from not exploring interests, not from anchoring.\n**Why not C:** Yielding here missed a solution that would have satisfied both managers."
+    },
+    {
+      "topic": "Bargaining strategies",
+      "question": "Before a contract negotiation, a sales manager feels very anxious. Based on a 2011 study, what is she likely to do?",
+      "options": {
+        "A": "Open higher, since anxiety makes negotiators more defensive",
+        "B": "Achieve the same result, since anxiety doesn't affect bargaining",
+        "C": "Expect less, open lower, and exit sooner with worse results",
+        "D": "Negotiate longer, since anxiety makes her more thorough"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Anxious negotiators expect lower outcomes, make lower first offers, respond more quickly to offers, exit bargaining earlier and obtain worse outcomes; high self-efficacy moderates some of these effects. (Ch 9: Integrative Bargaining)\n**Why not A:** Anxious negotiators make lower, not higher, first offers.\n**Why not B:** Anxiety led to clearly worse outcomes.\n**Why not D:** Anxious negotiators exit bargaining situations earlier."
+    },
+    {
+      "topic": "Bargaining strategies",
+      "question": "Managers at a firm say they'd like integrative deals, but their negotiations keep becoming win-at-any-cost contests. Which conditions are likely missing?",
+      "options": {
+        "A": "A fixed pie and a short-term focus on the relationship",
+        "B": "Strict positions and a refusal to discuss interests",
+        "C": "Aggressive first offers and clearly revealed deadlines",
+        "D": "Openness, sensitivity to needs, trust and flexibility"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Integrative bargaining needs parties who are open with information and candid about concerns, sensitive to each other's needs, able to trust each other and willing to stay flexible; when these are missing, negotiations become win-at-any-cost. (Ch 9: Integrative Bargaining)\n**Why not A:** These characterize distributive bargaining.\n**Why not B:** These undermine integrative bargaining rather than enabling it.\n**Why not C:** These are distributive bargaining tactics."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "A buyer would ideally pay $20 000 for a used truck and won't go above $24 000. The seller hopes for $26 000 but would accept as little as $22 000. What does this tell you?",
+      "options": {
+        "A": "The deal must close at exactly $23 000, the midpoint",
+        "B": "A bargaining zone exists between $22 000 and $24 000",
+        "C": "No deal is possible, since their targets don't match",
+        "D": "A bargaining zone exists between $20 000 and $26 000"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Each side's aspiration range runs from its target to its resistance point; where the ranges overlap (the seller's $22 000 minimum to the buyer's $24 000 maximum), a bargaining zone exists. (Ch 9: How to Negotiate, Exhibit 9-5)\n**Why not A:** Any point within the zone could be agreed on; the midpoint isn't required.\n**Why not C:** Targets don't need to match; overlapping resistance points create a bargaining zone.\n**Why not D:** Those are the targets; the zone lies between the resistance points."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "Before negotiating with a key supplier, a purchasing manager works out what she'll do if talks fail: switch to a backup supplier at a slightly higher price. What has she identified, and why does it matter?",
+      "options": {
+        "A": "Her aspiration range, which is set by the supplier's offer",
+        "B": "Her target point, which is the deal she hopes to achieve",
+        "C": "Her anchor, which she should reveal in her first offer",
+        "D": "Her BATNA, which tells her when a deal isn't worth taking"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Her BATNA (best alternative to a negotiated agreement) is the outcome she faces if negotiations fail; any deal should beat it. She should also estimate the other side's BATNA. (Ch 9: How to Negotiate, Developing a Strategy)\n**Why not A:** The aspiration range runs between her own target and resistance points.\n**Why not B:** A target point is what she'd like to achieve, not her fallback if talks fail.\n**Why not C:** An anchor is set by an initial offer; this is her alternative if talks fail."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "A new hire is offered a starting salary. Based on a study of 149 newly hired employees, which approach is likely to produce the biggest increase?",
+      "options": {
+        "A": "Asking for exactly the posted midpoint of the pay range",
+        "B": "Negotiating with competing and collaborating strategies",
+        "C": "Negotiating with compromising and accommodating strategies",
+        "D": "Accepting the first offer to show enthusiasm for the job"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Those who negotiated raised their starting salaries by about $5000 on average, and those using competing and collaborating strategies (open discussion of positions, issues and perspectives) gained more than those who compromised or accommodated. (Ch 9: How to Negotiate, Bargaining and Problem Solving)\n**Why not A:** The study compared negotiation strategies; open competing and collaborating did best.\n**Why not C:** Compromising and accommodating produced smaller increases than competing and collaborating.\n**Why not D:** Those who negotiated earned about $5000 more on average."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "Stuck on a pricing dispute, a negotiator suggests using current market value as a benchmark both sides can accept. Which Getting to Yes principle is this?",
+      "options": {
+        "A": "Separate the people from the problem being negotiated",
+        "B": "Insist on your one right solution until they agree",
+        "C": "Use objective criteria to reach a fair solution",
+        "D": "Focus on positions rather than on underlying interests"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Fisher and Ury's four principles are to separate the people from the problem, focus on interests rather than positions, look for mutual gains, and use objective criteria such as market value, expert opinion, norms or laws. (Ch 9: OB in Action, Tips for Getting to Yes)\n**Why not A:** That principle concerns working on the issues rather than personalities.\n**Why not B:** The principles call for brainstorming mutual gains, not a single 'right' solution.\n**Why not D:** The principle is the reverse: focus on interests, not positions."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "Two negotiating teams agree on who will negotiate, where and when they'll meet, which issues are on the table and what to do if they reach an impasse; then they trade opening proposals. Which step of the negotiation process are they in?",
+      "options": {
+        "A": "Bargaining and problem solving",
+        "B": "Defining ground rules",
+        "C": "Developing a strategy",
+        "D": "Clarifying and justifying"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In defining ground rules, the parties settle who negotiates, where, time constraints, which issues are included and impasse procedures, and they exchange initial proposals or demands. (Ch 9: How to Negotiate, Exhibit 9-4)\n**Why not A:** Bargaining is the give and take that follows the ground rules and clarification.\n**Why not C:** Developing a strategy is preparation done before meeting the other party.\n**Why not D:** Clarifying and justifying comes after the initial positions have been presented."
+    },
+    {
+      "topic": "Individual differences in negotiation",
+      "question": "A manager assumes that highly agreeable employees will always be poor negotiators. What does research suggest?",
+      "options": {
+        "A": "Agreeable people always get the worst deals in negotiations",
+        "B": "Agreeableness matters only in integrative negotiations",
+        "C": "Agreeableness is only weakly related to negotiation outcomes",
+        "D": "Agreeable people always get the best deals in negotiations"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Overall agreeableness is weakly related to outcomes, perhaps because its facets pull against each other: being cooperative and compliant may hurt, while being warm and empathetic (perspective-taking) may help. (Ch 9: Personality Traits in Negotiation)\n**Why not A:** Agreeableness is only weakly related to negotiation outcomes.\n**Why not B:** Its effects depend on the situation, but overall it's only weakly related to outcomes.\n**Why not D:** The link between agreeableness and outcomes is weak in both directions."
+    },
+    {
+      "topic": "Individual differences in negotiation",
+      "question": "In a 'hard-edged' distributive negotiation where giving away information puts you at a disadvantage, which negotiators tend to do less well?",
+      "options": {
+        "A": "Introverts, who tend to withhold too much useful information",
+        "B": "Agreeable negotiators, who feel least stress in such talks",
+        "C": "Extraverts, who tend to share more information than they should",
+        "D": "Highly intelligent negotiators, who overthink each offer"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In hard-edged distributive negotiations, where giving away information leads to a disadvantage, extraverted negotiators do less well because they tend to share more information than they should. (Ch 9: Personality Traits in Negotiation)\n**Why not A:** It's extraverts, who over-share, who do less well in these negotiations.\n**Why not B:** Agreeable people felt less stress in integrative, not distributive, negotiations.\n**Why not D:** Intelligence predicts negotiation effectiveness somewhat, though not strongly."
+    },
+    {
+      "topic": "Individual differences in negotiation",
+      "question": "A negotiator with less power than her counterpart is thinking of showing anger to win concessions. What does research suggest?",
+      "options": {
+        "A": "It works only if she has never shown anger in past negotiations",
+        "B": "It will induce concessions, since anger works regardless of power",
+        "C": "It works best if the anger is faked rather than genuinely felt",
+        "D": "It may backfire, provoking hardball reactions from the other side"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Anger generally induces concessions, but you should show it only if you have at least as much power as your counterpart; with less power, it seems to provoke 'hardball' reactions. Faked anger also doesn't work. (Ch 9: Moods/Emotions in Negotiation)\n**Why not A:** A history of showing anger actually induces more concessions.\n**Why not B:** Power governs the effect; with less power, anger tends to backfire.\n**Why not C:** Faked anger from surface acting isn't effective; genuine anger is."
+    },
+    {
+      "topic": "Individual differences in negotiation",
+      "question": "A North American negotiator plans to show anger to pressure her East Asian counterparts into accepting her terms. What does cross-cultural research suggest?",
+      "options": {
+        "A": "They will respond exactly as North American negotiators would",
+        "B": "They will cut their use of distributive tactics to calm things",
+        "C": "They may be less likely to accept offers from an angry negotiator",
+        "D": "They will concede more, since they avoid open confrontation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** East Asian negotiators were less likely to accept offers from negotiators who displayed anger, and Chinese negotiators increased distributive tactics when facing anger, perhaps seeing it as disrespectful. (Ch 9: Global Implications, Culture, Negotiations, and Emotions)\n**Why not A:** Chinese and U.S. negotiators responded to anger in opposite ways.\n**Why not B:** That's how U.S. negotiators responded; Chinese negotiators increased distributive tactics.\n**Why not D:** Facing anger, East Asian negotiators were less likely to accept offers."
+    },
+    {
+      "topic": "Individual differences in negotiation",
+      "question": "In one graduating class, male MBA students negotiated their first job offers far more often than female students did. Based on research in the chapter, what's a likely result?",
+      "options": {
+        "A": "A gap in women's favour, since they seem more cooperative",
+        "B": "A gap in starting salaries, with women earning less",
+        "C": "Higher satisfaction for men, but no difference in pay",
+        "D": "No gap, since employers pay the same regardless"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A Carnegie-Mellon study found 57% of male MBA students negotiated their first offer versus 4% of female students, producing a $4000 difference in starting salaries; women are more reluctant to initiate and tend to ask for less. (Ch 9: Gender Differences in Negotiation)\n**Why not A:** The gap favoured men, who negotiated far more often.\n**Why not C:** The study found a clear difference in starting pay.\n**Why not D:** Negotiating produced a $4000 difference in starting salaries."
+    },
+    {
+      "topic": "Individual differences in negotiation",
+      "question": "A female manager negotiates assertively for her team's budget but rarely does so for her own salary. What does research suggest about this pattern?",
+      "options": {
+        "A": "Women tend to bargain harder for themselves than for others",
+        "B": "Women bargain equally hard in all situations, as men do",
+        "C": "Women tend to bargain harder for others than for themselves",
+        "D": "Women avoid negotiation in every context, even for teams"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Women may be less aggressive in negotiations partly because they worry about backlash, and they're more likely to negotiate assertively when bargaining on someone else's behalf than on their own. (Ch 9: Gender Differences in Negotiation)\n**Why not A:** This reverses the finding.\n**Why not B:** Research finds women are more assertive when bargaining for others.\n**Why not D:** Women do negotiate assertively, especially on behalf of others."
+    },
+    {
+      "topic": "Individual differences in negotiation",
+      "question": "Two negotiators take part in the same exercise; one regularly thinks about other people's feelings and the other doesn't. What does research suggest about their ethics?",
+      "options": {
+        "A": "The empathetic one tends to use fewer unethical tactics",
+        "B": "The less empathetic one manipulates emotions less often",
+        "C": "The empathetic one tends to make more false promises",
+        "D": "Empathy has no link to ethical negotiation behaviour"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** More empathetic individuals consistently engaged in fewer unethical negotiation behaviours, such as making false promises and manipulating information and emotions, though you shouldn't assume the other side will be honest in return. (Ch 9: Focus on Ethics, Using Empathy to Negotiate More Ethically)\n**Why not B:** Less empathetic negotiators used more manipulative tactics.\n**Why not C:** Empathetic negotiators made fewer false promises, not more.\n**Why not D:** Empathy was consistently linked to fewer unethical tactics."
+    },
+    {
+      "topic": "Third-party negotiations",
+      "question": "Two departments in a dispute bring in a neutral third party who suggests alternatives and uses reasoning and persuasion but can't impose a decision. Which role is this, and when is it most effective?",
+      "options": {
+        "A": "An arbitrator; most effective when conflict is very intense",
+        "B": "A mediator; most effective at moderate levels of conflict",
+        "C": "A mediator; most effective when conflict is extremely high",
+        "D": "A conciliator; most effective when the parties refuse to talk"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A mediator is a neutral third party who facilitates a negotiated solution through reasoning, persuasion and suggested alternatives; mediation works best when parties are motivated, conflict is moderate, and the mediator is seen as neutral and noncoercive. (Ch 9: Third-Party Negotiations, Mediator)\n**Why not A:** An arbitrator has authority to dictate an agreement, which this third party lacks.\n**Why not C:** Mediation is most effective under moderate, not extreme, conflict.\n**Why not D:** Mediators are more active in proposing solutions than conciliators."
+    },
+    {
+      "topic": "Third-party negotiations",
+      "question": "A union and an employer are required by their contract to send an unresolved grievance to a third party whose decision is binding. What's the main advantage of this approach, and its main risk?",
+      "options": {
+        "A": "It always settles the dispute, but a heavy hand can backfire",
+        "B": "It settles disputes only if both parties choose to accept it",
+        "C": "It rarely settles disputes, but it preserves the relationship",
+        "D": "It always satisfies both parties equally, with no downside"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** An arbitrator has authority to dictate an agreement (voluntary or compulsory); arbitration always results in a settlement, but if one party feels overwhelmingly defeated, it's likely to be dissatisfied and the conflict may resurface. (Ch 9: Third-Party Negotiations, Arbitrator)\n**Why not B:** An arbitrator's decision is imposed; it doesn't need both parties' acceptance.\n**Why not C:** Arbitration always results in a settlement.\n**Why not D:** A heavy-handed outcome can leave one party dissatisfied."
+    },
+    {
+      "topic": "Third-party negotiations",
+      "question": "During an international dispute, a trusted go-between carries messages between the two sides, gathers facts and nudges them toward agreement. Which third-party role is this?",
+      "options": {
+        "A": "A conciliator",
+        "B": "A works council",
+        "C": "An arbitrator",
+        "D": "A mediator"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A conciliator is a trusted third party who provides an informal communication link between the negotiator and the opponent; in practice, conciliators also gather facts, interpret messages and persuade disputants to agree. (Ch 9: Third-Party Negotiations, Conciliator)\n**Why not B:** Works councils are a form of representative participation (Chapter 5), not a third-party negotiating role.\n**Why not C:** An arbitrator has authority to dictate an agreement.\n**Why not D:** Mediators facilitate more actively and can be much more aggressive in proposing solutions than conciliators."
+    },
+    {
+      "topic": "Third-party negotiations",
+      "question": "In a Canadian labour dispute, a union requests a conciliation officer even though it has little hope of a settlement. Why might it do this?",
+      "options": {
+        "A": "A conciliator can impose a binding settlement on employers",
+        "B": "Conciliation automatically extends the existing contract",
+        "C": "Conciliation lets the union skip all collective bargaining",
+        "D": "Conciliation can be a step toward a legal strike position"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In Canada, a conciliation officer can be the first step in resolving a labour dispute, but sometimes conciliation is used so the union can reach a legal strike position or management can lock out (for example, after Nova Scotia's waiting period). (Ch 9: Third-Party Negotiations, Conciliator)\n**Why not A:** Conciliators don't dictate agreements; arbitrators do.\n**Why not B:** The chapter describes conciliation as a step that can lead toward a legal strike or lockout.\n**Why not C:** Conciliation is used when bargaining has failed to produce agreement, not instead of it."
+    }
+  ]
+}

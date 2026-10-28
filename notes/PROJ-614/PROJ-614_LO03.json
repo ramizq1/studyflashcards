@@ -1,0 +1,65 @@
+{
+  "course": "PROJ 614",
+  "learningObjective": {
+    "number": "03",
+    "title": "Discuss the project planning phase and the project lifecycle"
+  },
+  "source": "LO3.pptx",
+  "questions": [
+    {
+      "question": "In IT project planning, which statement best describes rolling wave planning?",
+      "options": {
+        "A": "All project work is planned in full detail before any execution begins.",
+        "B": "Near-term work is planned in detail; later work stays high-level and is refined as the project progresses.",
+        "C": "Planning cycles repeat until the final product is achieved, with each cycle replacing the previous plan entirely.",
+        "D": "The schedule is built backward from a fixed go-live date with no further changes allowed."
+      },
+      "answer": "B",
+      "note": "Rolling wave planning is a **form of progressive elaboration** (PMBOK 6, Sections 6.2.2.2 and 5.1.2.2). Example from a cloud migration: Sprint 1 is fully planned, while Sprint 4 is only defined in terms of goals.\nA describes detailed upfront (predictive) planning. C sounds like the iterative approach, which refines the product, not the plan horizon."
+    },
+    {
+      "question": "A project team logs a third-party API delay, an assumption that the cloud service will be available, and a possible security vulnerability in the same document. Which planning tool are they using?",
+      "options": {
+        "A": "RACI Matrix",
+        "B": "Milestone Chart",
+        "C": "Burndown Chart",
+        "D": "RAID Log"
+      },
+      "answer": "D",
+      "note": "A **RAID Log** tracks **R**isks, **A**ssumptions, **I**ssues and **D**ependencies. Here, the API delay is a current issue, cloud availability is an assumption, and the security vulnerability is a risk (PMBOK 6, Sections 11.2 and 11.5).\nA RACI matrix assigns roles, a milestone chart shows key checkpoints, and a burndown chart shows remaining sprint work."
+    },
+    {
+      "question": "According to PMBOK 6 (Section 4.2), which planning document integrates and consolidates all subsidiary plans and baselines?",
+      "options": {
+        "A": "Project Management Plan",
+        "B": "Scope Management Plan",
+        "C": "Project Charter",
+        "D": "Risk Register"
+      },
+      "answer": "A",
+      "note": "The **Project Management Plan** is the primary document that ties together all subsidiary plans (scope, schedule, cost, quality, communication, risk, procurement, stakeholder) and baselines.\nThe Project Charter is an **Initiation** deliverable that authorizes the project. The Scope Management Plan is one of the subsidiary plans, and the Risk Register is a deliverable of the Risk Management Plan."
+    },
+    {
+      "question": "A government portal must meet fixed security compliance requirements, but its UI/UX is expected to evolve with user feedback. Which tailored planning approach fits best?",
+      "options": {
+        "A": "Predictive for the whole project, with all scope fixed upfront",
+        "B": "Agile for the whole project, with all planning done in sprints",
+        "C": "Hybrid: predictive for the compliance work, agile for the UI",
+        "D": "No formal planning until the first user feedback arrives"
+      },
+      "answer": "C",
+      "note": "**Hybrid** combines predictive and agile practices when a project has some stable elements and some evolving ones. Fixed compliance suits predictive planning; a changing UI suits agile.\nThis is an example of **tailoring**: adapting methods to the project's context (PMBOK 6, Section 1.2.4; PMBOK 7 tailoring considerations)."
+    },
+    {
+      "question": "An e-commerce platform is released module by module (user login first, then the cart, then payment), and each release gives customers something usable. Which planning approach is this?",
+      "options": {
+        "A": "Predictive (Waterfall)",
+        "B": "Incremental",
+        "C": "Iterative",
+        "D": "Kanban"
+      },
+      "answer": "B",
+      "note": "**Incremental** delivers completed parts of the product gradually, each delivering customer value, and accepts changes between increments.\nThe common trap is **Iterative**, which repeats cycles to **refine the same product** until it is final (e.g. tuning a machine learning model). Predictive delivers everything at the end. Kanban is a visual task-tracking tool, not a planning approach."
+    }
+  ]
+}

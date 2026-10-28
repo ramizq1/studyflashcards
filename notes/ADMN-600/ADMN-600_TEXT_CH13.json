@@ -1,0 +1,374 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "13",
+    "title": "Organizational Structure"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 13",
+  "questions": [
+    {
+      "topic": "Elements of structure",
+      "question": "A bakery splits cake production into mixing, baking, icing and boxing, each done by a different worker. Output rises at first, but later absenteeism and turnover climb. What does this illustrate?",
+      "options": {
+        "A": "Departmentalization by process, which always raises morale over time",
+        "B": "Specialization's efficiency, and its human costs if overdone",
+        "C": "A wider span of control, which overloads each of the supervisors",
+        "D": "Decentralization, which leaves workers unsure who makes the decisions"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Work specialization subdivides tasks into separate jobs; it boosts efficiency through repetition and easier training, but carried too far it brings boredom, fatigue, stress, poor quality, absenteeism and turnover. (Ch 13: Work Specialization)\n**Why not A:** Grouping by process doesn't guarantee morale; the issue is overly narrow, repetitive jobs.\n**Why not C:** Nothing here concerns how many people report to each supervisor.\n**Why not D:** The change was in how tasks were subdivided, not where decisions are made."
+    },
+    {
+      "topic": "Elements of structure",
+      "question": "A consumer-goods company puts one executive in charge of everything related to each of its brands worldwide. Which departmentalization is this, and what's its main advantage?",
+      "options": {
+        "A": "Process; homogeneous grouping by each phase of production",
+        "B": "Functional; efficiency from grouping people with common skills",
+        "C": "Product; clear accountability for each product's results",
+        "D": "Customer; specialists who meet each market's shared needs"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Product departmentalization groups activities by product under a single manager (as at Procter & Gamble), increasing accountability for product performance. (Ch 13: Departmentalization)\n**Why not A:** Process departmentalization groups by production phase, not by brand.\n**Why not B:** That's the advantage of functional grouping, which organizes by function, not product.\n**Why not D:** Customer departmentalization groups by type of customer, not by brand."
+    },
+    {
+      "topic": "Elements of structure",
+      "question": "To get a driver's licence, you're validated by one division, processed by the licensing department, then pay at the treasury department. Which form of departmentalization is this?",
+      "options": {
+        "A": "Functional departmentalization",
+        "B": "Geographical departmentalization",
+        "C": "Customer departmentalization",
+        "D": "Process departmentalization"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Process departmentalization groups activities by each phase of processing, and it can be used to process customers as well as products. (Ch 13: Process Departmentalization)\n**Why not A:** Functional departmentalization groups people by the functions they perform, not by sequential steps a customer moves through.\n**Why not B:** Geographical departmentalization groups activities by territory or region.\n**Why not C:** Customer departmentalization groups activities by type of customer served."
+    },
+    {
+      "topic": "Elements of structure",
+      "question": "An engineer reports to both a project manager and a functional head, who keep giving her conflicting priorities. Which structural principle has been broken?",
+      "options": {
+        "A": "Work specialization",
+        "B": "Unity of command",
+        "C": "Formalization",
+        "D": "Span of control"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Unity of command says a person should have one and only one superior to whom they're directly responsible; when it's broken, employees may face conflicting demands from several superiors. (Ch 13: Chain of Command)\n**Why not A:** Work specialization is the degree to which tasks are subdivided into separate jobs.\n**Why not C:** Formalization is the degree to which jobs are standardized.\n**Why not D:** Span of control is the number of employees reporting to one manager."
+    },
+    {
+      "topic": "Elements of structure",
+      "question": "Two firms each have about 4100 front-line employees. One uses spans of control of 4; the other uses spans of 8. What's the main trade-off between them?",
+      "options": {
+        "A": "Wider spans cut costs, but can weaken support if they get too wide",
+        "B": "Narrow spans cut costs and speed up vertical communication",
+        "C": "Span size has no effect on costs or on the number of levels",
+        "D": "Wider spans need more levels and many more managers overall"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The span of 8 needs two fewer levels and about 800 fewer managers, saving millions; but once supervisors lack time to lead and support, wider spans reduce effectiveness. Narrow spans are costly, slow communication and encourage overly tight supervision. (Ch 13: Span of Control, Exhibit 13-2)\n**Why not B:** Narrow spans add costly levels and make vertical communication slower.\n**Why not C:** The wider span saves two levels and roughly 800 managers.\n**Why not D:** Wider spans need fewer levels and fewer managers."
+    },
+    {
+      "topic": "Elements of structure",
+      "question": "A 2013 study compared centralized and decentralized organizations. Which kind of error is each better at avoiding?",
+      "options": {
+        "A": "Both are equally good at avoiding every kind of error",
+        "B": "Decentralized firms avoid both kinds of errors equally well",
+        "C": "Centralized avoids lost chances; decentralized, bad choices",
+        "D": "Centralized avoids bad choices; decentralized, lost chances"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Centralized organizations are better at avoiding commission errors (bad choices), while decentralized organizations are better at avoiding omission errors (lost opportunities). (Ch 13: Centralization and Decentralization)\n**Why not A:** The study found each structure better at avoiding a different type of error.\n**Why not B:** Centralized firms were better at avoiding bad choices.\n**Why not C:** This reverses the findings."
+    },
+    {
+      "topic": "Elements of structure",
+      "question": "A fast-food chain scripts exactly how staff greet customers, count change and thank them, and managers check a list of these behaviours. Which structural element is high here?",
+      "options": {
+        "A": "Decentralization",
+        "B": "Departmentalization",
+        "C": "Span of control",
+        "D": "Formalization"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Formalization is the degree to which jobs are standardized: explicit job descriptions, many rules and clearly defined procedures, so the same input is handled the same way every time. (Ch 13: Formalization)\n**Why not A:** Decentralization pushes decision making down; here behaviour is scripted from above.\n**Why not B:** Departmentalization concerns how jobs are grouped, not how scripted they are.\n**Why not C:** Span of control concerns how many people report to a manager."
+    },
+    {
+      "topic": "Elements of structure",
+      "question": "A big retailer gives store managers much more say over what merchandise to stock so they can compete with local shops. What trend does this reflect, and why?",
+      "options": {
+        "A": "Decentralization, as local managers know more about problems",
+        "B": "Formalization, since standard rules now govern every purchase",
+        "C": "Work specialization, since buyers now focus on one product line",
+        "D": "Centralization, since top managers can coordinate all buying"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** To make organizations more flexible and responsive, decision making has been decentralized to lower-level managers, who are closer to the action and typically know more about problems than top managers. (Ch 13: Centralization and Decentralization)\n**Why not B:** Stocking decisions became more discretionary, not more rule-bound.\n**Why not C:** The change concerns who makes decisions, not how tasks are subdivided.\n**Why not D:** Giving store managers more discretion is decentralization."
+    },
+    {
+      "topic": "Common designs",
+      "question": "A start-up has two levels, wide spans, little formalization, and its founder makes every decision. As it grows past 200 people, decisions slow to a crawl. What does the chapter say about this structure?",
+      "options": {
+        "A": "A matrix structure fails when the founder has two bosses",
+        "B": "A virtual organization slows down once it stops outsourcing",
+        "C": "A bureaucracy handles growth well through standard procedures",
+        "D": "A simple structure struggles to cope as a firm grows"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The simple structure is fast, flexible and cheap with clear accountability, but as a firm grows its low formalization and high centralization overload the top; it's also risky, since everything depends on one person. (Ch 13: The Simple Structure)\n**Why not A:** Nothing here involves a dual chain of command.\n**Why not B:** The firm isn't a network of outsourced partners.\n**Why not C:** The firm described is a simple structure, not a bureaucracy."
+    },
+    {
+      "topic": "Common designs",
+      "question": "A family firm's founder wants his eldest son to succeed him, although a daughter may be the stronger candidate. What does the chapter say about succession in family businesses?",
+      "options": {
+        "A": "It needs no governance, since family ties settle conflicts",
+        "B": "It works best when the eldest child takes over automatically",
+        "C": "It often fails when emotion, not suitability, picks the next heir",
+        "D": "It succeeds whenever the business is listed on an exchange"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Succession in family businesses often doesn't work because personal and emotional factors, rather than suitability, determine the next leader; good governance (direction, values and accepted policies) helps manage such conflicts. (Ch 13: The Family Business)\n**Why not A:** Family businesses need governance for the business, the family and the owners.\n**Why not B:** Choosing by birth order rather than suitability is exactly what tends to cause problems.\n**Why not D:** Being publicly listed doesn't solve succession problems."
+    },
+    {
+      "topic": "Common designs",
+      "question": "A bank processes routine transactions with specialized staff, strict rules and decisions that follow the chain of command. What are the main strength and main weakness of this structure?",
+      "options": {
+        "A": "Fast innovation, but high costs from duplicated specialist staff",
+        "B": "Clear dual reporting, but frequent power struggles over staff",
+        "C": "Great flexibility, but unclear roles and constant reorganizing",
+        "D": "Efficient routines, but rigid with cases that break the rules"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A bureaucracy performs standardized activities very efficiently, with economies of scale and less need for talented middle managers; its weaknesses are silos where unit goals override organizational goals, and obsessive rule-following when cases don't fit. (Ch 13: The Bureaucracy)\n**Why not A:** Bureaucracies minimize duplication; their strength is efficient routine work, not innovation.\n**Why not B:** Dual reporting and power struggles describe the matrix structure.\n**Why not C:** Constant flux and unclear roles describe virtual organizations."
+    },
+    {
+      "topic": "Common designs",
+      "question": "In a business faculty, a professor teaching an MBA course reports to both the accounting chair and the director of master's programs. Which structure is this, and what's its main risk?",
+      "options": {
+        "A": "A bureaucracy; silos and obsessive concern with rules",
+        "B": "A virtual network; weak cultural alignment among partners",
+        "C": "A simple structure; overload on the single top decision maker",
+        "D": "A matrix; confusion, power struggles and role stress"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A matrix combines functional and product departmentalization with a dual chain of command; it fosters coordination, but breaking unity of command creates confusion, power struggles and stress from role conflict and ambiguity. (Ch 13: The Matrix Structure, Exhibit 13-3)\n**Why not A:** Reporting to two bosses is the defining feature of a matrix, not a bureaucracy.\n**Why not B:** The professor works inside one organization with a dual chain of command.\n**Why not C:** A simple structure centralizes authority in one person; this has two reporting lines."
+    },
+    {
+      "topic": "Common designs",
+      "question": "An aerospace firm with many complex, interdependent projects adopts a matrix structure. What does it mainly gain?",
+      "options": {
+        "A": "Less stress, since roles and expectations are clearer",
+        "B": "Fewer power struggles, since rules are fixed in advance",
+        "C": "Better coordination and faster flow of information",
+        "D": "Clear unity of command with a single boss for each employee"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The matrix's strength is fostering coordination when there are many complex, interdependent activities: information reaches those who need it faster, 'bureaupathologies' shrink and specialists are allocated efficiently. (Ch 13: Advantages of a Matrix Structure)\n**Why not A:** The matrix tends to increase stress, role conflict and ambiguity.\n**Why not B:** The matrix tends to foster power struggles between managers.\n**Why not D:** The matrix breaks unity of command by giving employees two bosses."
+    },
+    {
+      "topic": "New design options",
+      "question": "A food company with only 28 employees outsources manufacturing, procurement, shipping and quality control, keeping a small executive core. What is this design, and what's a key drawback?",
+      "options": {
+        "A": "A virtual organization; roles and goals can be unclear",
+        "B": "A matrix; employees must report to two different bosses",
+        "C": "A bureaucracy; standardized rules slow down every single decision",
+        "D": "A simple structure; one owner makes all of the decisions"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In a virtual organization a small core outsources major functions; it's flexible and saves on offices and hierarchy, but constant flux leaves roles, goals and responsibilities unclear, invites politics, and low interaction can erode shared culture. (Ch 13: The Virtual Organization, Exhibit 13-4)\n**Why not B:** Nothing here involves a dual chain of command.\n**Why not C:** Outsourcing nearly everything from a small core is a virtual organization.\n**Why not D:** The defining feature is outsourcing to a network of other firms."
+    },
+    {
+      "topic": "New design options",
+      "question": "A CEO wants to flatten the hierarchy, create cross-hierarchical teams, use 360-degree appraisals and rotate people across functions. Which design is he pursuing, and what's the catch?",
+      "options": {
+        "A": "A bureaucracy; it concentrates power in too few hands",
+        "B": "A boundaryless organization; it's hard to manage",
+        "C": "A matrix; it adds a second chain of command for all staff",
+        "D": "A simple structure; it depends entirely on one person"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The boundaryless organization seeks to eliminate the chain of command, have limitless spans and replace departments with empowered teams; it's hard to manage because political and authority boundaries resist change and coordination is demanding. (Ch 13: The Boundaryless Organization)\n**Why not A:** These moves break down hierarchy, the opposite of bureaucracy.\n**Why not C:** The goal is to remove chains of command, not add a second one.\n**Why not D:** Cross-hierarchical teams and 360 appraisals spread decisions widely."
+    },
+    {
+      "topic": "New design options",
+      "question": "A company cuts 20% of its staff without restructuring how work gets done. What does research suggest about the results?",
+      "options": {
+        "A": "Morale improves, since remaining staff feel more secure",
+        "B": "Profits rise steadily, since wage costs are permanently lower",
+        "C": "Profits and stock prices usually decline afterward",
+        "D": "Turnover falls, since survivors value their jobs more"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Firms that downsize to sharpen strategic focus often see stock gains, but those that only cut employees without restructuring usually see profits and stock prices decline; survivors may be stressed and less committed, and talent may leave. (Ch 13: The Leaner Organization: Organization Downsizing)\n**Why not A:** Survivors often worry about future layoffs and feel less committed.\n**Why not B:** Cutting staff without restructuring usually leads profits to decline.\n**Why not D:** Downsizing can increase voluntary turnover, especially where firms invest little in staff."
+    },
+    {
+      "topic": "New design options",
+      "question": "A firm must downsize and wants to limit the damage to the employees who stay. Which approach does the chapter recommend?",
+      "options": {
+        "A": "Avoid discussing it so that staff stay focused on their work",
+        "B": "Cut training budgets first to show that everyone must sacrifice",
+        "C": "Announce cuts suddenly to keep the rumours to a minimum",
+        "D": "Communicate early, involve staff and offer assistance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Effective downsizing strategies mirror organizational justice: invest in high-involvement practices afterward, communicate early, let employees participate (for example, through voluntary early retirement) and provide assistance such as severance and job search help. (Ch 13: The Leaner Organization: Organization Downsizing)\n**Why not A:** Early communication helps employees feel their perspective is considered.\n**Why not B:** Investing in high-involvement work practices afterward makes downsizing more effective.\n**Why not C:** Discussing downsizing early reduces employees' worry."
+    },
+    {
+      "topic": "Why structures differ",
+      "question": "A consultant describes a firm with high specialization, rigid departments, narrow spans, centralization and high formalization. Which model is this, and what's its opposite?",
+      "options": {
+        "A": "Mechanistic; the organic model is flat and highly flexible",
+        "B": "Virtual; the boundaryless model is its exact opposite",
+        "C": "Organic; the mechanistic model is flat and flexible",
+        "D": "Matrix; the simple structure is its exact opposite"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The mechanistic model is essentially the bureaucracy; the organic model resembles the boundaryless organization: flat, with cross-functional and cross-hierarchical teams, free information flow, wide spans, decentralization and low formalization. (Ch 13: Why Do Structures Differ? Exhibit 13-5)\n**Why not B:** The features listed define the mechanistic model, not a virtual one.\n**Why not C:** This reverses the two models.\n**Why not D:** The features listed define the mechanistic model."
+    },
+    {
+      "topic": "Why structures differ",
+      "question": "A tech firm's strategy is to introduce major new products ahead of its rivals. Which structure best fits this strategy?",
+      "options": {
+        "A": "Organic: loose, with low specialization and low formalization",
+        "B": "A mix of tight controls now with loose new ventures later",
+        "C": "Highly centralized with strict formalization of all work",
+        "D": "Mechanistic: tight control and extensive specialization"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** An innovation strategy fits an organic structure (low specialization, low formalization, decentralized), though some mechanistic features can help rapid change happen smoothly. (Ch 13: Organizational Strategy, Exhibit 13-6)\n**Why not B:** Mixing mechanistic and organic features fits an imitation strategy.\n**Why not C:** Centralization and high formalization suit cost minimizers, not innovators.\n**Why not D:** Tight, mechanistic control fits a cost-minimization strategy."
+    },
+    {
+      "topic": "Why structures differ",
+      "question": "A clothing retailer copies designer styles only after they've proven popular. Which strategy is this, and which structure fits it?",
+      "options": {
+        "A": "Cost minimization; mechanistic with high centralization",
+        "B": "Imitation; mechanistic for current work, organic for new",
+        "C": "Innovation; organic throughout, with low formalization",
+        "D": "Imitation; organic for current work, mechanistic for new"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** An imitation strategy moves into new products or markets only after their viability is proven (like H&M); it combines tight mechanistic control of current activities with organic subunits for new undertakings. (Ch 13: Organizational Strategy, Exhibit 13-6)\n**Why not A:** Cost minimizers sell basic products at low prices; this retailer follows proven trends.\n**Why not C:** Copying proven styles is imitation, not innovation.\n**Why not D:** This reverses the imitation structure."
+    },
+    {
+      "topic": "Why structures differ",
+      "question": "One firm grows from 300 to 800 employees; another grows from 2000 to 2500. Which growth will shift its structure more toward mechanistic, and why?",
+      "options": {
+        "A": "The smaller firm's, since size matters less past about 2000",
+        "B": "Both equally, since each added exactly 500 employees",
+        "C": "The larger firm's, since size matters more as firms expand",
+        "D": "Neither, since size has little to do with structure"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Firms with 2000 or more employees tend to be more specialized and formalized, but size matters less as they expand: adding 500 to a 300-person firm shifts it much more than adding 500 to an already mechanistic 2000-person firm. (Ch 13: Organizational Size)\n**Why not B:** The same increase matters far more to a smaller organization.\n**Why not C:** Size becomes less important as an organization expands.\n**Why not D:** Size significantly affects structure, especially in smaller firms."
+    },
+    {
+      "topic": "Why structures differ",
+      "question": "A custom furniture restorer and an automated car assembly plant use very different technologies. Which structures do they tend to prefer?",
+      "options": {
+        "A": "Both mechanistic, since all production needs tight control",
+        "B": "Both organic, since technology doesn't affect structure",
+        "C": "Restorer organic, plant mechanistic, given routineness",
+        "D": "Restorer mechanistic, plant organic, given routineness"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Technologies differ in routineness: routine, standardized activities like assembly lines tend to favour mechanistic structures, while nonroutine, customized work like furniture restoring favours organic ones. (Ch 13: Technology)\n**Why not A:** Nonroutine, customized work tends to favour organic structures.\n**Why not B:** Organizational structures adapt to their technology.\n**Why not D:** This reverses the technology–structure relationship."
+    },
+    {
+      "topic": "Why structures differ",
+      "question": "A firm faces scarce resources, rapid unpredictable change and many diverse competitors. How should it be structured?",
+      "options": {
+        "A": "More organically, since uncertainty is high",
+        "B": "More mechanistically, to control the uncertainty tightly",
+        "C": "It doesn't matter, since environment rarely affects design",
+        "D": "As a simple structure run by one central decision maker"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** An environment's capacity, volatility and complexity determine uncertainty; the more scarce, dynamic and complex the environment, the more organic the structure should be, while abundant, stable and simple environments suit mechanistic structures. (Ch 13: Environment, Exhibit 13-7)\n**Why not B:** High uncertainty calls for a more organic, flexible structure.\n**Why not C:** The environment is a major determinant of structure.\n**Why not D:** Centralizing all decisions in one person suits small firms, not highly uncertain environments."
+    },
+    {
+      "topic": "Structure and employee behaviour",
+      "question": "A highly educated professional seeking personal growth is placed in a narrow, repetitive role. What does the chapter predict?",
+      "options": {
+        "A": "Her productivity will keep rising indefinitely with practice",
+        "B": "Negative reactions are most likely for people like her",
+        "C": "Specialization never affects satisfaction, only output",
+        "D": "She'll be more satisfied, since routine reduces her stress"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Specialization tends to raise productivity at the price of satisfaction; some people prefer routine, but negative outcomes are most likely in professional jobs held by people with high needs for growth and diversity. (Ch 13: Organizational Designs and Employee Behaviour)\n**Why not A:** Productivity suffers once the diseconomies of repetitive work outweigh the gains.\n**Why not C:** Specialization tends to reduce job satisfaction.\n**Why not D:** Routine suits some people, but not those with high needs for growth."
+    },
+    {
+      "topic": "Structure and employee behaviour",
+      "question": "A director widens spans of control, expecting employees to perform better with more freedom. What does the evidence say?",
+      "options": {
+        "A": "Narrow spans reliably raise both performance and satisfaction",
+        "B": "There's no clear link to employees' satisfaction or performance",
+        "C": "Wider spans lower managers' own job satisfaction sharply",
+        "D": "Wider spans reliably raise both performance and satisfaction"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** No evidence supports a relationship between span of control and employee satisfaction or performance; individual differences matter, and some evidence suggests managers' satisfaction rises as they supervise more people. (Ch 13: Organizational Designs and Employee Behaviour)\n**Why not A:** No evidence links span of control either way to these outcomes.\n**Why not C:** Some evidence suggests managers' satisfaction increases with more reports.\n**Why not D:** Research fails to support the idea that wide spans improve performance."
+    },
+    {
+      "topic": "Structure and employee behaviour",
+      "question": "An HR team wants to know which structural feature is most strongly linked to employee job satisfaction. What does the evidence point to?",
+      "options": {
+        "A": "Wider spans of control, through more distant supervision",
+        "B": "More departments, through greater work specialization",
+        "C": "Higher formalization, through clearer and stricter rules",
+        "D": "Less centralization, through greater autonomy"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** There's fairly strong evidence linking centralization and satisfaction: less centralized organizations give more autonomy, which is positively related to job satisfaction, though some people find autonomy frustratingly ambiguous. (Ch 13: Organizational Designs and Employee Behaviour)\n**Why not A:** No evidence links span of control to employee satisfaction.\n**Why not B:** Specialization tends to lower, not raise, satisfaction.\n**Why not C:** The evidence ties satisfaction to decentralization and autonomy."
+    },
+    {
+      "topic": "Structure and employee behaviour",
+      "question": "Employees in a highly formalized, mechanistic firm and in a flexible, organic firm value different kinds of fairness. Which pairing fits the research?",
+      "options": {
+        "A": "Neither cares about fairness, only about autonomy levels",
+        "B": "Mechanistic: fair procedures; organic: interpersonal justice",
+        "C": "Mechanistic: interpersonal justice; organic: fair procedures",
+        "D": "Both value only distributive fairness in pay outcomes"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In highly formalized, mechanistic organizations, the fairness of formal policies and procedures strongly predicts satisfaction; in personal, adaptive organic organizations, employees value interpersonal justice more. (Ch 13: Organizational Designs and Employee Behaviour)\n**Why not A:** Different kinds of fairness predict satisfaction in each structure.\n**Why not C:** This reverses the findings.\n**Why not D:** The research contrasts procedural and interpersonal fairness."
+    },
+    {
+      "topic": "Structure and employee behaviour",
+      "question": "A multinational opens offices in France and Greece. Based on the chapter, how are employees there likely to react to mechanistic structures?",
+      "options": {
+        "A": "They prefer boundaryless designs with no hierarchy at all",
+        "B": "They tend to resist them more, given low power distance",
+        "C": "They tend to accept them more, given their high power distance",
+        "D": "Culture has no effect on how employees view structure"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** National culture influences preference for structure: employees from high power-distance cultures such as Greece, France and most of Latin America are much more accepting of mechanistic structures than those from low power-distance countries. (Ch 13: Global Implications, Culture and Employee Structure Preferences)\n**Why not A:** High power-distance employees are more accepting of hierarchy.\n**Why not B:** France and Greece are high, not low, in power distance.\n**Why not D:** Research suggests national culture influences structure preferences."
+    },
+    {
+      "topic": "Structure and employee behaviour",
+      "question": "A manager lets a team work from home, but their tightly linked roles depend on each person predicting what the others will do next. What does research suggest?",
+      "options": {
+        "A": "The team's tasks matter more than how their roles connect",
+        "B": "Remote work may cost them the benefits of teamwork",
+        "C": "Working from home always improves performance in any job",
+        "D": "Remote work removes any need for relationship building"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Work-from-home success depends on the job's structure more than its tasks; roles that need epistemic interdependence (predicting what others will do) require intentional relationship building, so teamwork benefits can be lost even when individuals do their tasks well. (Ch 13: Focus on Research, Working from Home)\n**Why not A:** Success depends on the job's structure even more than on its tasks.\n**Why not C:** Research suggests there are limits, depending on the person, job and culture.\n**Why not D:** Intentional relationship building becomes even more important."
+    },
+    {
+      "topic": "Structure and employee behaviour",
+      "question": "Job candidates who prefer predictability tend to join mechanistic firms, while those who want autonomy end up in organic ones. What does this imply?",
+      "options": {
+        "A": "Firms should hire people who dislike their own structure",
+        "B": "Everyone eventually prefers the organic structure most",
+        "C": "Good matching reduces structure's effect on behaviour",
+        "D": "Structure determines behaviour regardless of who is hired"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People are attracted to, selected by and stay with organizations that suit their characteristics, so the effect of structure on behaviour is reduced when selection matches individual and organizational characteristics. (Ch 13: Organizational Designs and Employee Behaviour)\n**Why not A:** Matching people to suitable structures is what reduces negative effects.\n**Why not B:** Individuals differ; some prefer the predictability of mechanistic structures.\n**Why not D:** Self-selection and matching reduce structure's effect on behaviour."
+    }
+  ]
+}

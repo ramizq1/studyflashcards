@@ -1,0 +1,362 @@
+{
+  "course": "MGMT 600",
+  "learningObjective": {
+    "number": "04",
+    "title": "Examine Continual Service Improvement (CSI)"
+  },
+  "source": "LO4 MGMT600 revised.pptx",
+  "questions": [
+    {
+      "question": "An IT service has met every one of its SLA targets for a full year. From a Continual Service Improvement perspective, what follows?",
+      "options": {
+        "A": "Nothing, since CSI is only triggered when a service fails to meet its targets",
+        "B": "The SLA targets should be lowered so the provider can reduce its costs",
+        "C": "The service should be handed from CSI over to Problem Management",
+        "D": "It may still improve, e.g. through automation, lower costs or better experience"
+      },
+      "answer": "D",
+      "note": "CSI starts from the idea that **no service is ever perfect and every service can be improved**. It isn't limited to fixing problems: a service that consistently meets its SLA may still offer opportunities for **automation, cost optimization or a better customer experience** (LO4, slide 3).\nTreat CSI as a continuous organizational capability, not reactive troubleshooting."
+    },
+    {
+      "question": "You need executive approval for a CSI initiative that automates password resets. How should you present it?",
+      "options": {
+        "A": "Detail the technical architecture and integration design of the new tool",
+        "B": "Show business value: lower support costs and higher employee productivity",
+        "C": "Emphasize that the technology is new and that competitors are adopting it",
+        "D": "Focus on the number of configuration changes the rollout will involve"
+      },
+      "answer": "B",
+      "note": "Every CSI initiative should support organizational objectives, and managers should **communicate improvements in business language rather than technical language**. Executives care most about **cost reductions, productivity improvements, risk mitigation and customer outcomes** (LO4, slide 5).\nThe lecture's own example links automating password resets to reduced support costs."
+    },
+    {
+      "question": "Which sequence correctly shows the first four steps of the CSI cycle?",
+      "options": {
+        "A": "Assess current state → Define the vision → Identify opportunities → Define target state",
+        "B": "Identify opportunities → Assess current state → Define target state → Define the vision",
+        "C": "Define the vision → Assess current state → Define target state → Identify opportunities",
+        "D": "Define the vision → Define target state → Implement improvements → Assess current state"
+      },
+      "answer": "C",
+      "note": "The seven-step CSI cycle: **1. Define the vision → 2. Assess current state → 3. Define target state → 4. Identify improvement opportunities → 5. Implement improvements → 6. Measure results → 7. Sustain momentum**, then begin again (LO4, slide 7).\nIt starts from desired business outcomes and is iterative, not a one-time project."
+    },
+    {
+      "question": "During a CSI assessment, a service desk records: average resolution time 18 hours, customer satisfaction 72%, SLA compliance 91%. What is the main purpose of capturing these figures?",
+      "options": {
+        "A": "To set a baseline that future improvements can be measured against",
+        "B": "To prove to management that the service desk is underperforming",
+        "C": "To calculate the service credits owed to customers for the period",
+        "D": "To replace customer feedback with objective operational data"
+      },
+      "answer": "A",
+      "note": "Step 2, **Assess Current State**, collects performance data, reviews processes and **establishes baselines** for future comparison. These are the lecture's own example figures (LO4, slide 10).\nWithout a baseline you can't later show that an improvement worked. The lecture also stresses objective data over assumptions at this stage."
+    },
+    {
+      "question": "A team rolled out self-service password reset on time and on budget. Can it now declare the improvement a success?",
+      "options": {
+        "A": "Yes, because delivering on time and on budget proves the change worked",
+        "B": "Yes, as long as users have not complained since the tool went live",
+        "C": "Not yet: it must compare results with the baseline and confirm the benefits",
+        "D": "Not yet: success can only be judged by an external auditor after a year"
+      },
+      "answer": "C",
+      "note": "Step 6, **Measure Results**, warns against assuming success just because a project was completed. Compare outcomes with the **baseline** using objective KPIs, **validate the business benefits**, look for unintended consequences and identify remaining gaps (LO4, slide 14).\nSuccess measures should be set **before** implementation begins: if an improvement can't be measured, its value can't be demonstrated (slide 39)."
+    },
+    {
+      "question": "A service desk cut its resolution time from 18 to 7 hours, but six months later results have slipped back toward the old level because staff returned to their previous habits. Which CSI step was neglected?",
+      "options": {
+        "A": "Define the vision",
+        "B": "Assess current state",
+        "C": "Identify improvement opportunities",
+        "D": "Sustain momentum"
+      },
+      "answer": "D",
+      "note": "Step 7, **Sustain Momentum**, makes gains stick by **standardizing and documenting** the new practice, **training** staff, **continuous monitoring**, recognizing success and starting the next cycle (LO4, slide 15).\nThe lecture notes that organizations often achieve short-term gains and then **revert** to previous practices."
+    },
+    {
+      "question": "A service desk meets all its response-time targets, yet users keep complaining that technicians communicate poorly. Which CSI data source revealed this improvement opportunity?",
+      "options": {
+        "A": "SLA performance data",
+        "B": "Customer feedback data",
+        "C": "Incident data",
+        "D": "Financial and cost data"
+      },
+      "answer": "B",
+      "note": "Operational metrics don't tell the whole story: **a service can meet its technical targets while customers remain dissatisfied**. Customer feedback (surveys, interviews, complaint records, focus groups, Net Promoter Scores) reveals pain points that SLA and incident data miss.\nThis scenario is the lecture's own example (LO4, slide 20)."
+    },
+    {
+      "question": "A recurring problem causes about 120 incidents a year, each costing $200 to handle on average. A permanent fix would cost $15,000 once. What does the financial data suggest?",
+      "options": {
+        "A": "Incidents cost about $24,000 a year, so the fix pays back within a year",
+        "B": "Incidents cost about $2,400 a year, so the fix will never pay for itself",
+        "C": "Incidents cost about $15,000 a year, so the fix merely breaks even",
+        "D": "Cost is irrelevant here; only the incident count should decide it"
+      },
+      "answer": "A",
+      "note": "120 incidents × $200 = **$24,000 a year**, so a one-time $15,000 fix pays back in about 7–8 months and saves money every year after.\nThe lecture's example uses the same logic: 100 incidents × $250 = $25,000 a year, which justifies a $10,000 permanent solution (LO4, slide 21). Financial data makes the case for fixing root causes instead of repeatedly handling symptoms."
+    },
+    {
+      "question": "Which of these is a root cause rather than a symptom?",
+      "options": {
+        "A": "Users report that the finance application responds very slowly",
+        "B": "The service desk handles a high volume of password reset requests",
+        "C": "Customers keep complaining about repeated outages of the portal",
+        "D": "The password policy is too complex for users to remember credentials"
+      },
+      "answer": "D",
+      "note": "**Symptoms** are the visible effects (slow performance, outages, high incident volumes, complaints); **root causes** are the underlying reasons. In the lecture's example, frequent password resets are the symptom and an **overly complex password policy** is the root cause (LO4, slide 23).\nTreating symptoms gives only temporary relief; removing root causes prevents recurrence."
+    },
+    {
+      "question": "In the lecture's 5 Whys example, a website outage is traced through a server crash, memory hitting 100%, an application memory leak and inadequate monitoring thresholds. What root cause is finally reached?",
+      "options": {
+        "A": "The application server crashed under normal load",
+        "B": "A memory leak existed within the application code",
+        "C": "Monitoring standards weren't updated after an upgrade",
+        "D": "The server didn't have enough physical memory installed"
+      },
+      "answer": "C",
+      "note": "The fifth 'why' reveals that monitoring standards hadn't been updated after the system upgrade, so the root cause is **inadequate monitoring governance**, very different from the original symptom (LO4, slide 24).\nThe memory leak (B) is a contributing cause, but fixing it alone wouldn't stop the next issue from going undetected. The aim isn't exactly five questions; it's an actionable, **evidence-backed** root cause."
+    },
+    {
+      "question": "Customer satisfaction has fallen from 92% to 76% over six months. The team suspects several factors at once: training gaps, slow escalation, frequent outages and weak service ownership. Which technique best organizes these possible causes?",
+      "options": {
+        "A": "Fishbone (Ishikawa) diagram",
+        "B": "5 Whys chain analysis",
+        "C": "Pareto (80/20) analysis",
+        "D": "Predictive trend analytics"
+      },
+      "answer": "A",
+      "note": "A **Fishbone (cause-and-effect) diagram** maps many possible causes under categories such as **People, Process, Technology, Data, Environment and Governance**, and works well in team workshops. Use it when a problem has **multiple contributing factors** rather than one obvious cause (LO4, slides 25 and 41).\nThe 5 Whys follows a single chain of causes, and Pareto needs frequency data to rank causes."
+    },
+    {
+      "question": "A service desk's annual ticket counts are: VPN issues 260, password resets 190, printer jams 70, email setup 50, other 30 (600 in total). What does Pareto analysis suggest?",
+      "options": {
+        "A": "Split the improvement budget evenly across all five categories",
+        "B": "Focus first on VPN issues and password resets, about 75% of the tickets",
+        "C": "Start with 'other', since unexplained tickets carry the most risk",
+        "D": "Fix printer jams first, since they are probably the cheapest to solve"
+      },
+      "answer": "B",
+      "note": "Pareto analysis applies the **80/20 principle**: a small number of causes usually creates most of the problems. Here two categories produce 450 of 600 tickets (75%), so concentrating effort there gives the biggest return on limited resources (LO4, slide 27).\nThe lecture's own example reaches the same conclusion with password resets and network issues."
+    },
+    {
+      "question": "Using the lecture's impact-versus-effort approach, which improvement initiative should get the highest priority?",
+      "options": {
+        "A": "Redesigning the SLA dashboard: medium impact, low effort",
+        "B": "Upgrading the office printers: low impact, medium effort",
+        "C": "Self-service password reset: high impact, medium effort",
+        "D": "Rebranding the IT intranet site: low impact, high effort"
+      },
+      "answer": "C",
+      "note": "The lecture ranks initiatives by **business impact, cost and effort, risk reduction, customer impact and strategic alignment**. In its matrix, high impact with medium effort earns **High** priority, medium impact with low effort earns **Medium**, and low impact earns **Low** (LO4, slides 28 and 38).\nAvoid prioritizing on technical interest or stakeholder influence alone."
+    },
+    {
+      "question": "Monitoring shows a server's CPU utilization at 70%, rising by about 6 percentage points every month. If the trend continues, roughly when will it reach full capacity?",
+      "options": {
+        "A": "In about 3 months",
+        "B": "In about 5 months",
+        "C": "In about 8 months",
+        "D": "In about 12 months"
+      },
+      "answer": "B",
+      "note": "There are 30 points of headroom (100% − 70%) and growth of about 6 points a month, so 30 ÷ 6 ≈ **5 months**.\nThis is the kind of forecast **predictive analytics** provides. In the lecture's example (80% utilization rising 5% a month, exhausted in about four months), it lets managers **upgrade proactively** instead of reacting to an outage (LO4, slide 33)."
+    },
+    {
+      "question": "An AI recommendation engine reports that password resets make up 42% of service desk workload and recommends self-service reset, estimating $50,000 in yearly savings. What should the IT manager do?",
+      "options": {
+        "A": "Evaluate it critically against business goals, risk, budget and governance",
+        "B": "Implement it straight away, since AI recommendations are evidence-based",
+        "C": "Ignore it, since AI should not be involved in improvement decisions",
+        "D": "Let the AI system approve and schedule the rollout to save time"
+      },
+      "answer": "A",
+      "note": "Recommendation engines speed up CSI by suggesting and ranking improvements, and this is the lecture's own example. Managers must still **evaluate AI recommendations critically** against business objectives, risk management requirements, financial constraints and governance expectations.\n**AI provides decision support; final accountability remains with human leaders** (LO4, slide 34)."
+    },
+    {
+      "question": "Staff in an IT department rarely report recurring problems, because past mistakes led to public blame. Which element of a CSI culture is most clearly missing?",
+      "options": {
+        "A": "Recognition of successful improvement initiatives",
+        "B": "Investment in AI-enabled analytics tools",
+        "C": "A detailed prioritization matrix for initiatives",
+        "D": "Psychological safety to raise problems without fear"
+      },
+      "answer": "D",
+      "note": "A CSI culture needs **leadership support, psychological safety, knowledge sharing, recognition and continuous learning**. Employees should feel comfortable **reporting problems without fear of blame**; otherwise improvement opportunities stay hidden (LO4, slide 36).\nThe lecture names creating this culture as leadership's most important CSI responsibility (slide 54)."
+    },
+    {
+      "question": "Continual Service Improvement is described in the lecture as a core practice of which framework?",
+      "options": {
+        "A": "PMBOK",
+        "B": "ITIL",
+        "C": "TOGAF",
+        "D": "Zachman"
+      },
+      "answer": "B",
+      "note": "CSI is **a foundational element of ITIL** and modern service management frameworks: the ongoing effort to enhance services, processes, technologies and organizational capabilities to create greater value (LO4, slide 3).\nPMBOK is a project management standard (PROJ 614), and TOGAF and Zachman are enterprise architecture frameworks (LO3)."
+    },
+    {
+      "question": "A team proposes redesigning an internal tool's interface 'because it would be nice.' According to the lecture, what should be shown before the initiative goes ahead?",
+      "options": {
+        "A": "That the team has enough spare time available to complete it",
+        "B": "That the new design follows the latest user interface trends",
+        "C": "That the change can be finished within a single CSI cycle",
+        "D": "Which business objective it supports, and its expected value"
+      },
+      "answer": "D",
+      "note": "The lecture is clear: **CSI should never be conducted simply because improvement sounds beneficial**. Every initiative should support one or more organizational objectives and create **measurable business value**, such as automating password resets to reduce support costs or improving uptime to raise employee productivity (LO4, slide 5)."
+    },
+    {
+      "question": "Current SLA compliance is 91%. Which target statement best follows the lecture's SMART guidance for defining the target state?",
+      "options": {
+        "A": "Raise SLA compliance from 91% to 98% within six months",
+        "B": "Improve SLA compliance as much as possible this year",
+        "C": "Make SLA compliance excellent across all services",
+        "D": "Achieve 100% SLA compliance starting next Monday"
+      },
+      "answer": "A",
+      "note": "Step 3, **Define the Target State**, sets measurable goals, like the lecture's own example of SLA compliance going from **91% → 98%**. Targets should be **Specific, Measurable, Achievable, Relevant and Time-bound** (LO4, slide 11).\nB and C aren't measurable or time-bound, and D isn't achievable."
+    },
+    {
+      "question": "SLA performance data shows the service desk's response target is 15 minutes, but actual performance averages 28 minutes. In the CSI cycle, how should this be treated?",
+      "options": {
+        "A": "As the vision that defines the desired business outcome",
+        "B": "As the root cause that explains the slow responses",
+        "C": "As a performance gap that reveals an improvement opportunity",
+        "D": "As an acceptable variance that needs no further action"
+      },
+      "answer": "C",
+      "note": "Comparing actual results with targets exposes **performance gaps**, one of the main sources of improvement opportunities in Step 4 (LO4, slide 12). These exact figures are the lecture's SLA performance data example (slide 19).\nA gap shows **where** to look, not **why** it happens; finding the cause still takes root cause analysis."
+    },
+    {
+      "question": "A well-designed knowledge base goes live, but staff were never trained or told why it matters, and adoption stalls. What does the lecture say about why improvement initiatives fail?",
+      "options": {
+        "A": "Most fail because the chosen solutions are technically ineffective",
+        "B": "Many fail because implementation is poorly managed, not the solution",
+        "C": "Most fail because baselines were measured with the wrong tools",
+        "D": "Many fail because target states are set too far into the future"
+      },
+      "answer": "B",
+      "note": "Step 5, **Implement Improvements**, needs planning, resource allocation, **change management** and **communication**. The lecture notes that many improvement initiatives fail **not because solutions are ineffective, but because implementation is poorly managed**; strong leadership and communication are critical success factors (LO4, slide 13)."
+    },
+    {
+      "question": "After automating ticket closure, average resolution time drops sharply, but the number of reopened tickets doubles. What does the Measure Results step require?",
+      "options": {
+        "A": "Look for unintended consequences alongside the headline metric",
+        "B": "Declare success, since resolution time was the agreed target",
+        "C": "Stop tracking reopened tickets, since they weren't in the plan",
+        "D": "Return straight to step 1 and redefine the organization's vision"
+      },
+      "answer": "A",
+      "note": "Step 6, **Measure Results**, compares outcomes with the baseline, reviews KPIs, validates business benefits and identifies remaining gaps. Organizations should also **identify any unintended consequences that emerged during implementation** (LO4, slide 14).\nClosures that come back reopened aren't real improvement, so this change needs revisiting."
+    },
+    {
+      "question": "In the lecture's university help desk example, the share of requests resolved within 30 minutes rose from 50% to 85%, against a target of 90%. What should happen next?",
+      "options": {
+        "A": "Abandon the self-service tool, since the 90% target was missed",
+        "B": "Lower the target to 85% so that the cycle counts as a success",
+        "C": "Wait a full year before measuring performance again",
+        "D": "Standardize the gains, then start the next cycle to close the gap"
+      },
+      "answer": "D",
+      "note": "In the lecture's sample answer, performance rises to **85%** against the **90%** target, and the final step is to **standardize the process and begin the next improvement cycle** (LO4, Sample Answer slide).\nCSI is iterative: a remaining gap isn't a failure, it's the starting point for the next cycle (slide 7)."
+    },
+    {
+      "question": "Monthly network incidents went from 18 to 21, then 37, then 44. Each one was resolved within its SLA. What is the most appropriate CSI response?",
+      "options": {
+        "A": "No action, since every incident was resolved within target",
+        "B": "Hire more service desk staff to absorb the rising volume",
+        "C": "Investigate the cause of the rising trend using problem data and RCA",
+        "D": "Lower the priority of network incidents to protect SLA figures"
+      },
+      "answer": "C",
+      "note": "Incident data reveals **recurring problems and reliability trends**, and these are the lecture's own figures (LO4, slide 17). A rising, accelerating trend calls for **root cause analysis**, plus options like enhanced monitoring, capacity planning, automation and staff training (slide 40).\nAdding staff (B) only absorbs the symptom; the goal is to remove the cause."
+    },
+    {
+      "question": "A team's 5 Whys analysis ends with 'the vendor is careless', but no data supports it and nothing can be done with the finding. What is the main flaw?",
+      "options": {
+        "A": "They needed to ask exactly five more 'why' questions",
+        "B": "The conclusion isn't backed by evidence or actionable",
+        "C": "The 5 Whys can't be used when vendors are involved",
+        "D": "They should have run a Pareto analysis beforehand"
+      },
+      "answer": "B",
+      "note": "The 5 Whys should **validate findings with evidence** rather than assumptions, and its objective is to uncover **actionable** improvement opportunities, not to ask exactly five questions or assign blame (LO4, slide 24).\nBlame-style conclusions also undermine the psychological safety a CSI culture needs (slide 36)."
+    },
+    {
+      "question": "In a fishbone diagram for 'high incident volume', under which category does 'weak service ownership' belong?",
+      "options": {
+        "A": "People",
+        "B": "Process",
+        "C": "Technology",
+        "D": "Governance"
+      },
+      "answer": "D",
+      "note": "The lecture's fishbone example for **high incident volume** places **inadequate training** under People, **poor escalation procedures** under Process, **legacy infrastructure** under Technology, **incomplete monitoring** under Data, and **weak service ownership** under **Governance**, the category covering policies, standards and oversight (LO4, slide 25)."
+    },
+    {
+      "question": "What is the key shift that AI-enabled CSI brings compared with traditional CSI?",
+      "options": {
+        "A": "From preventing issues in advance to correcting them after they occur",
+        "B": "From data-driven decisions to decisions based on experience and intuition",
+        "C": "From correcting problems after failures to preventing them before impact",
+        "D": "From continuous improvement to scheduled annual improvement reviews"
+      },
+      "answer": "C",
+      "note": "Traditional CSI was **reactive**: a failure occurs, an incident is reported, an investigation begins and an improvement follows, often after customer dissatisfaction and disruption. Analytics, automation and now **AI** let organizations detect patterns and **address problems before customers experience service impacts**, so modern CSI focuses on **prevention rather than correction** (LO4, slide 30)."
+    },
+    {
+      "question": "AI analysis reveals that most critical incidents occur shortly after software updates. What is the best CSI response?",
+      "options": {
+        "A": "Investigate the pattern and strengthen testing and change practices",
+        "B": "Stop installing software updates until the pattern disappears",
+        "C": "Ignore it, because correlations aren't useful evidence for CSI",
+        "D": "Add extra service desk staff on the days updates are released"
+      },
+      "answer": "A",
+      "note": "This is one of the lecture's pattern recognition examples. AI turns raw data into **actionable intelligence**, and managers then **investigate the pattern and implement targeted improvements** (LO4, slide 32), here in testing, release and change practices.\nHalting updates (B) creates security and support risks, and adding staff (D) only absorbs the symptom."
+    },
+    {
+      "question": "A model predicts that a service will probably breach its response-time commitments next month. Which type of predictive analytics is this?",
+      "options": {
+        "A": "Capacity forecasting",
+        "B": "Incident prediction",
+        "C": "Customer satisfaction forecasting",
+        "D": "SLA risk analysis"
+      },
+      "answer": "D",
+      "note": "The lecture's predictive analytics examples: **capacity forecasting** (when resources will become insufficient), **incident prediction** (which systems are likely to fail), **SLA risk analysis** (predicting service-level breaches) and **customer satisfaction forecasting** (spotting declining quality before complaints rise) (LO4, slide 33).\nThe point of all four is preventive action instead of reactive firefighting."
+    },
+    {
+      "question": "A service desk modernization initiative stalls: funding never arrives, stakeholders resist, and other priorities keep delaying it. What is most clearly missing?",
+      "options": {
+        "A": "A more detailed fishbone diagram of the service desk",
+        "B": "Leadership support: funding, barrier removal and a clear vision",
+        "C": "More frequent measurement of the service desk's results",
+        "D": "A larger AI recommendation engine to rank the initiatives"
+      },
+      "answer": "B",
+      "note": "The lecture uses this exact scenario: **without leadership support**, funding may be unavailable, stakeholder resistance grows and competing priorities delay implementation. Leaders **set priorities, allocate resources, remove barriers, promote accountability, communicate the vision** and model continuous improvement (LO4, slide 37).\nCSI leadership is a strategic responsibility, not an operational task."
+    },
+    {
+      "question": "A CSI manager funds only quick wins every quarter, so larger improvements never start. What does the lecture recommend?",
+      "options": {
+        "A": "A balanced portfolio of quick wins, medium-term and strategic initiatives",
+        "B": "Continuing with quick wins only, since they show results the fastest",
+        "C": "Funding strategic transformation projects only, since they matter most",
+        "D": "Selecting initiatives by whichever team has the most influence"
+      },
+      "answer": "A",
+      "note": "The lecture recommends **balancing short-term and long-term benefits**: a balanced CSI portfolio often includes **quick wins, medium-term improvements and strategic transformation initiatives** (LO4, slide 38).\nIt also warns against prioritizing by technical interest or **stakeholder influence** (D) instead of business impact, cost, risk, customer impact and strategic alignment."
+    },
+    {
+      "question": "After a CSI initiative, monthly incident volume fell from 500 to 290. What percentage reduction is that?",
+      "options": {
+        "A": "21%",
+        "B": "29%",
+        "C": "42%",
+        "D": "58%"
+      },
+      "answer": "C",
+      "note": "Reduction = (500 − 290) ÷ 500 = 210 ÷ 500 = **42%**. The 58% option is the share that **remains** (290 ÷ 500). These are the lecture's own before-and-after figures; customer satisfaction also rose from 72% to 91% (LO4, slide 39).\nIf an improvement can't be measured, its value can't be demonstrated."
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "OB on the Edge",
+    "short": "EDGE",
+    "number": "03",
+    "title": "Workplace Bullying"
+  },
+  "collection": "Textbook: OB on the Edge",
+  "collectionOrder": 3,
+  "source": "OB textbook (7th Cdn ed.), OB on the Edge: Workplace Bullying",
+  "questions": [
+    {
+      "topic": "Incivility and bullying",
+      "question": "At one café, servers' playful rudeness is part of the brand and regulars love it; at a bank, the same behaviour would trigger complaints. What does this show about workplace incivility?",
+      "options": {
+        "A": "Rudeness is always incivility, whatever the setting's norms",
+        "B": "Incivility violates a workplace's own norms for respect",
+        "C": "Incivility is defined by law, so norms don't matter",
+        "D": "Only managers can be uncivil, never front-line staff"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Workplace incivility is acting with disregard for others in violation of workplace norms for respect; norms differ, so rudeness that's one restaurant's trademark would be incivility elsewhere. (OB on the Edge, Workplace Bullying: What Is Happening in Our Workplaces?)\n**Why not A:** Incivility is defined relative to each workplace's norms for respect.\n**Why not C:** Incivility is defined by workplace norms, not by law.\n**Why not D:** Anyone in the workplace can act with disregard for others."
+    },
+    {
+      "topic": "Incivility and bullying",
+      "question": "A manager repeatedly mocks one employee with gestures in front of co-workers and keeps interfering so she can't finish her work. How does the chapter characterize this?",
+      "options": {
+        "A": "Workplace bullying: repeated abuse and work interference",
+        "B": "Ostracism, since she's being singled out by others",
+        "C": "Ordinary incivility, since no physical harm occurred",
+        "D": "Performance management, since it targets her output"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Workplace bullying can take the form of repetitious verbal abuse and offensive behaviour (including gestures) that threatens, humiliates or intimidates, and can involve work interference that prevents someone from getting work done. (OB on the Edge, Workplace Bullying: What Is Happening in Our Workplaces?)\n**Why not B:** Ostracism means being ignored or excluded; this is active abuse.\n**Why not C:** Repeated humiliation and work interference go beyond ordinary incivility; bullying needn't be physical.\n**Why not D:** Legitimate evaluation and discipline differ from bullying; mocking and interference aren't performance management."
+    },
+    {
+      "topic": "Incivility and bullying",
+      "question": "An HR team designing anti-bullying training wonders who typically bullies whom. What did a 2014 U.S. study of 1000 adults find?",
+      "options": {
+        "A": "Bullies and targets are evenly split between genders",
+        "B": "Most bullies are men, and most targets are women",
+        "C": "Women bullies mainly target men rather than women",
+        "D": "Most bullies are women, and most targets are men"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Men were significantly more likely to bully (69% versus 31%); women who bully mostly target women, men who bully more often target women, and overall 60% of bullying targets are women. (OB on the Edge, Workplace Bullying: What Do We Know About Workplace Bullying?)\n**Why not A:** Men made up 69% of bullies, and women 60% of targets.\n**Why not C:** Women who bully target women 68% of the time.\n**Why not D:** This reverses the findings."
+    },
+    {
+      "topic": "Incivility and bullying",
+      "question": "Several employees watch a colleague being bullied repeatedly, but they aren't targeted themselves. What does the chapter say about them?",
+      "options": {
+        "A": "Witnesses become more productive to avoid being targeted",
+        "B": "Witnesses usually stop the bullying by intervening",
+        "C": "Witnesses to bullying also suffer from it",
+        "D": "Witnesses are unaffected unless they're targeted next"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The victims of rudeness, bullying and violence aren't the only ones who suffer; witnesses to bullying also suffer. (OB on the Edge, Workplace Bullying: What Do We Know About Workplace Bullying?)\n**Why not A:** The chapter reports harm to witnesses, not productivity gains.\n**Why not B:** The chapter notes that witnesses suffer; it doesn't say they usually stop it.\n**Why not D:** Witnesses suffer too, even when they aren't targeted."
+    },
+    {
+      "topic": "Incivility and bullying",
+      "question": "A designer is publicly belittled by a peer during a meeting. Based on the survey data in the chapter, how is this rudeness likely to affect her?",
+      "options": {
+        "A": "Higher effort, as she works harder to prove the peer wrong",
+        "B": "No lasting effect, since rudeness is a minor issue at work",
+        "C": "Stronger commitment to the firm, which she sees as fair",
+        "D": "Lost time worrying, lower effort and weaker commitment"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Among employees who experienced rudeness, 80% lost work time worrying about it, 48% decreased their effort, 66% said their performance declined and 78% said their commitment to the organization declined. (OB on the Edge, Workplace Bullying: Factbox)\n**Why not A:** Most targets of rudeness decreased their effort.\n**Why not B:** Rudeness had widespread effects on time, effort, performance and commitment.\n**Why not C:** 78% said their commitment to the organization declined."
+    },
+    {
+      "topic": "Violence and ostracism",
+      "question": "A frustrated former employee repeatedly sends threatening messages to his old supervisor. Under the International Labour Organization's definition, is this workplace violence?",
+      "options": {
+        "A": "No; only incidents involving current co-workers count",
+        "B": "Yes; work-related threats count, not just physical assault",
+        "C": "No; only physical assault on the job counts as workplace violence",
+        "D": "Yes, but only if a weapon was used or mentioned"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The ILO defines workplace violence as any incident in which a person is abused, threatened or assaulted in circumstances relating to work, including harassment, bullying, intimidation, physical threats and assaults. (OB on the Edge, Workplace Bullying: Workplace Violence)\n**Why not A:** The definition covers behaviour from customers or co-workers in work-related circumstances.\n**Why not C:** The ILO definition includes threats, harassment, bullying and intimidation.\n**Why not D:** Threats and intimidation count without any weapon."
+    },
+    {
+      "topic": "Violence and ostracism",
+      "question": "According to Glenn French of the Canadian Initiative on Workplace Violence, what form does workplace violence typically take in Canada?",
+      "options": {
+        "A": "Indirect harassment and intimidation rather than gun violence",
+        "B": "Mostly gun violence, at higher rates than in the United States",
+        "C": "Mostly customer violence against front-line staff",
+        "D": "Rare incidents that are fully captured in official statistics"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** French notes there's less gun violence in Canadian workplaces than in the U.S.; violence here tends to be more indirect, making people's lives miserable through harassment and intimidation, and the statistics likely underrepresent it. (OB on the Edge, Workplace Bullying: Workplace Violence)\n**Why not B:** French says Canada has less workplace gun violence than the U.S.\n**Why not C:** French describes indirect harassment and intimidation on the job.\n**Why not D:** French suggests official numbers underrepresent the true state of violence."
+    },
+    {
+      "topic": "Violence and ostracism",
+      "question": "One employee is openly harassed, while another is consistently ignored and left out by colleagues. Based on Robinson and Berdahl's research, who is likely to suffer more?",
+      "options": {
+        "A": "Both equally, since any mistreatment has the same effects",
+        "B": "Neither much, since both usually fade within weeks",
+        "C": "The ignored employee, since ostracism has bigger effects",
+        "D": "The harassed employee, since harassment is more visible"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People tend to think ostracism is less offensive than harassment, but the ostracized seem to suffer more: it has a bigger impact on job dissatisfaction, psychological well-being, physical health and intentions to quit. (OB on the Edge, Workplace Bullying: Workplace Violence)\n**Why not A:** The research found ostracism had greater effects than harassment.\n**Why not B:** Both are harmful, and ostracized employees were more likely to quit within three years.\n**Why not D:** Ostracism had the bigger impact, even though it's less visible."
+    },
+    {
+      "topic": "Violence and ostracism",
+      "question": "Why are victims of workplace ostracism more likely than bullied employees to simply quit?",
+      "options": {
+        "A": "Ostracism is less visible, so it's harder to call out and fight",
+        "B": "Ostracism is rarer, so victims feel more singled out than others",
+        "C": "Ostracism always comes from managers, who control promotions",
+        "D": "Ostracism is illegal, so victims are advised to leave quickly"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Because ostracism is the absence of behaviour, it's less visible and harder to fight; victims feel they can't do anything about it, and many quit for their own well-being. (OB on the Edge, Workplace Bullying: Workplace Violence)\n**Why not B:** Ostracism was actually more widespread: 71% reported it versus 48% for bullying.\n**Why not C:** The research doesn't say ostracism always comes from managers.\n**Why not D:** The explanation is that ostracism is hard to call out, not that it's illegal."
+    },
+    {
+      "topic": "Why workplaces turn toxic",
+      "question": "A company's leaders treat employees mainly as salaries, benefits and overhead. According to Jeffrey Pfeffer, why is this a problem?",
+      "options": {
+        "A": "Employees prefer being seen as costs, since it signals stability",
+        "B": "Treating people as costs always improves productivity and pay",
+        "C": "Seeing staff as costs matters only in Silicon Valley firms",
+        "D": "Employees who see they're just costs, not assets, grow frustrated"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Pfeffer notes that many managers see their people as costs rather than assets; most employees like to think they're assets, and realizing they're simply costs can cause frustration. (OB on the Edge, Workplace Bullying: What Causes Incivility in the Workplace?)\n**Why not A:** Most employees like to think they're assets to their organization.\n**Why not B:** Pfeffer argues this view frustrates employees rather than improving results.\n**Why not C:** Pfeffer's point applies to most companies, not just Silicon Valley."
+    },
+    {
+      "topic": "Why workplaces turn toxic",
+      "question": "An employee works late for years, assuming it will lead to a promotion that was never actually promised. When it doesn't come, she quietly stops passing on key messages. What concept explains this?",
+      "options": {
+        "A": "Social loafing caused by a team that's too large",
+        "B": "A formal breach of her written employment contract",
+        "C": "Role ambiguity about what her job really requires",
+        "D": "A perceived breach of the psychological contract"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Psychological contracts are unwritten mutual expectations about work and rewards; when one is violated, perceptually or actually, trust breaks down and employees may retaliate, such as by not passing on messages. (OB on the Edge, Workplace Bullying: The Psychological Contract)\n**Why not A:** Her behaviour is retaliation for broken expectations, not loafing.\n**Why not B:** The promotion was never promised; these were unwritten expectations.\n**Why not C:** She understood her job; the issue is unmet expectations about rewards."
+    },
+    {
+      "topic": "Why workplaces turn toxic",
+      "question": "A firm never promised its employees development opportunities or support, so its managers assume no such expectations exist. What did Montes and Zweig find?",
+      "options": {
+        "A": "Employees react badly only when explicit promises are broken",
+        "B": "Employees value pay only, not development or support",
+        "C": "Employees expect them anyway and react badly if they're absent",
+        "D": "Employees adjust their expectations to whatever is promised"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Employees expect decent pay, developmental opportunities and support whether or not employers promise them, and when they don't receive these things, their behaviour toward the organization becomes negative. (OB on the Edge, Workplace Bullying: The Psychological Contract)\n**Why not A:** Violations of explicit promises may not be necessary for negative reactions.\n**Why not B:** Employees expect developmental opportunities and support as well as pay.\n**Why not D:** Employees hold these expectations regardless of promises."
+    },
+    {
+      "topic": "Why workplaces turn toxic",
+      "question": "An employee loses his temper over impossible deadlines that his manager set. According to a 2011 study, how do co-workers want the manager to respond?",
+      "options": {
+        "A": "Transfer the angry employee to another unit",
+        "B": "Take some responsibility instead of just disciplining him",
+        "C": "Ignore the outburst until the employee calms down on his own",
+        "D": "Discipline the angry employee quickly so others don't copy him"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Co-workers want to see the manager take some responsibility for a fellow employee's anger, rather than disciplining the employee, when the manager or the working conditions are the source of the anger. (OB on the Edge, Workplace Bullying: What Causes Incivility in the Workplace?)\n**Why not A:** Moving the employee doesn't address the source of the anger.\n**Why not C:** Co-workers wanted the manager to acknowledge responsibility, not ignore the issue.\n**Why not D:** Co-workers preferred that the manager take some responsibility when the manager caused the anger."
+    },
+    {
+      "topic": "Why workplaces turn toxic",
+      "question": "Employees at a firm describe fear-driven decisions, poor internal communication, lots of rework and relationships driven by manipulation. What does Peter Frost's work suggest is happening?",
+      "options": {
+        "A": "The organization has a strong, healthy culture under strain",
+        "B": "The organization lacks enough internal competition to perform",
+        "C": "The organization is simply going through normal growing pains",
+        "D": "The organization has become toxic, with pain beyond its capacity"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Frost noted there's always pain in organizations, but when it becomes intense or prolonged enough that conditions break down, the organization is toxic; toxic organizations show fear-driven decisions, poor communication, waste and manipulative relationships. (OB on the Edge, Workplace Bullying: The Toxic Organization)\n**Why not A:** These are characteristics of a toxic organization, not a healthy one.\n**Why not B:** Unrelenting internal competition is one cause of toxicity, not a cure.\n**Why not C:** Frost distinguishes ordinary pain from toxicity, where conditions break down."
+    },
+    {
+      "topic": "Why workplaces turn toxic",
+      "question": "An employee's toxic boss regularly belittles her. Which response does the chapter's advice support?",
+      "options": {
+        "A": "Empathize, draw a line on abuse, and keep notes",
+        "B": "Ignore everything, since no boss's behaviour is abusive",
+        "C": "Quietly sabotage the boss's projects to even the score",
+        "D": "Take every remark personally so the pattern is clear"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Tips for dealing with a toxic boss: empathize and don't take it personally, draw a line when behaviour is abusive, don't sabotage or be vindictive, and be patient and take notes. (OB on the Edge, Workplace Bullying: How to Deal with a Toxic Boss)\n**Why not B:** When behaviour is inappropriate or abusive, you should stand up for yourself.\n**Why not C:** Taking revenge makes you part of the problem.\n**Why not D:** The advice is to empathize and not take it personally."
+    },
+    {
+      "topic": "Effects and legislation",
+      "question": "After years of broken promises, a plant's employees feel chronic anger toward the company. What does research suggest about their work behaviour?",
+      "options": {
+        "A": "More cooperation, as they band together against managers",
+        "B": "More effort, as they try to prove the company wrong",
+        "C": "No change, since anger rarely affects day-to-day work",
+        "D": "Less best effort, more rivalry and fewer improvement ideas"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Employees who felt angry with their employers were less likely to give their best effort, more likely to be competitive toward other employees, and less likely to suggest quicker and better ways to do their jobs. (OB on the Edge, Workplace Bullying: What Are the Effects of Incivility and Toxicity?)\n**Why not A:** Angry employees became more competitive toward each other.\n**Why not B:** Angry employees were less likely to put forth their best effort.\n**Why not C:** Chronic anger reduced effort and suggestions and increased rivalry."
+    },
+    {
+      "topic": "Effects and legislation",
+      "question": "A B.C. worker develops a mental disorder from a long series of significant work-related stressors rather than one traumatic event. Since 2012, how does WorkSafeBC treat such claims?",
+      "options": {
+        "A": "It accepts them only if a criminal bullying charge is laid",
+        "B": "It accepts claims from cumulative work-related stressors",
+        "C": "It accepts only claims arising from a single traumatic event",
+        "D": "It refuses all mental stress claims as outside its mandate"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In 2012 WorkSafeBC began accepting mental disorder claims resulting from a cumulative series of significant work-related stressors; before that it processed only claims for stress from traumatic events. (OB on the Edge, Workplace Bullying: Legislation to Prevent Bullying)\n**Why not A:** The Criminal Code has no bullying offence, and claims don't depend on charges.\n**Why not C:** That was the policy before 2012.\n**Why not D:** WorkSafeBC accepted 655 mental stress claims between 2012 and 2014."
+    },
+    {
+      "topic": "Effects and legislation",
+      "question": "An employee files a bullying complaint after receiving a negative performance evaluation and being disciplined for repeated lateness. Under WorkSafeBC's guidance, does this count as bullying?",
+      "options": {
+        "A": "No; evaluations, discipline and firing aren't bullying",
+        "B": "No; bullying applies only to physical threats or assault",
+        "C": "Yes; discipline is bullying if the employee feels upset",
+        "D": "Yes; any negative feedback counts as workplace bullying"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** WorkSafeBC requires employers to have anti-bullying policies and reminds them that bullying includes insults, sabotage and threats, but not negative work evaluations, discipline or firing. (OB on the Edge, Workplace Bullying: Legislation to Prevent Bullying)\n**Why not B:** Bullying includes insults, sabotage and threats, not just physical acts.\n**Why not C:** Discipline is excluded from WorkSafeBC's definition of bullying.\n**Why not D:** Negative work evaluations are specifically excluded from bullying."
+    },
+    {
+      "topic": "Effects and legislation",
+      "question": "Some experts say WorkSafeBC's anti-bullying policy doesn't go far enough. What do they say it overlooks?",
+      "options": {
+        "A": "The damage from rare traumatic workplace events",
+        "B": "The damage from negative performance evaluations",
+        "C": "The damage from constant low-level incivility",
+        "D": "The damage from customers' complaints about service"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Critics argue the policy overlooks the damage caused by a constant thrum of low-level incivility, such as eye rolling, interruptions and dismissiveness. (OB on the Edge, Workplace Bullying: Legislation to Prevent Bullying)\n**Why not A:** Traumatic events were already covered before 2012.\n**Why not B:** Evaluations are deliberately excluded from bullying; the critics' concern is everyday incivility.\n**Why not D:** The criticism concerns low-level incivility among people at work."
+    },
+    {
+      "topic": "Effects and legislation",
+      "question": "A store manager targeted an assistant manager for months after she refused to falsify records, and senior managers ignored her repeated complaints. In the Boucher case, what did the Ontario Court of Appeal decide?",
+      "options": {
+        "A": "Only the manager was liable, since he acted alone",
+        "B": "Only the employer was liable, since it set the policies",
+        "C": "Both the employer and the manager were held liable",
+        "D": "Neither was liable, since bullying itself isn't illegal"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Meredith Boucher was awarded $410 000 (reduced from the jury's $1.4 million), and the court found both Walmart and her manager liable for the bullying senior managers failed to address. (OB on the Edge, Workplace Bullying, opening case)\n**Why not A:** The court found the employer liable as well as the manager.\n**Why not B:** The manager was also held liable.\n**Why not D:** Although bullying isn't a criminal offence, the court held both parties liable."
+    }
+  ]
+}

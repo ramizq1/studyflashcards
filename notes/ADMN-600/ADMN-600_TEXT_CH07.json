@@ -1,0 +1,554 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "07",
+    "title": "Communication"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 7",
+  "questions": [
+    {
+      "topic": "The communication process",
+      "question": "A manager emails a detailed policy change and assumes everyone understood it because no one replied. Which part of the communication process has she neglected?",
+      "options": {
+        "A": "Feedback, the check on whether the message was understood",
+        "B": "The channel, since email is the medium the message travelled in",
+        "C": "Encoding, since she turned her thoughts into a written message",
+        "D": "Decoding, since she translated the policy into plain language"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Feedback is the final link in the communication process: the check on how successfully a message was transferred as intended, which determines whether understanding was achieved. (Ch 7: The Communication Process, Exhibit 7-1)\n**Why not B:** Email was the channel; the gap is in checking understanding.\n**Why not C:** She did encode the message; what's missing is confirmation that it was understood.\n**Why not D:** Decoding is done by the receiver, who translates the message into understandable form; she's the sender."
+    },
+    {
+      "topic": "The communication process",
+      "question": "During a conference call, a speaker's message is distorted by heavy jargon and by listeners' differing cultural assumptions. In the communication process model, what do these factors represent?",
+      "options": {
+        "A": "Informal channels that emerge from personal choice",
+        "B": "Encoding errors made by the message's receivers",
+        "C": "Noise that distorts the clarity of the message",
+        "D": "Feedback loops that confirm the message's meaning"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Noise represents communication barriers that distort a message's clarity, such as perceptual problems, information overload, semantic difficulties or cultural differences. (Ch 7: The Communication Process)\n**Why not A:** Informal channels carry personal or social messages; jargon and cultural assumptions are barriers.\n**Why not B:** Encoding is done by the sender; receivers decode.\n**Why not D:** Feedback checks understanding; these factors interfere with it."
+    },
+    {
+      "topic": "The communication process",
+      "question": "News about a restructuring travels through the official chain of command, while gossip about who might be promoted spreads through friendships. How does the chapter classify these two flows?",
+      "options": {
+        "A": "Two informal channels, since both spread by word of mouth",
+        "B": "Two formal channels with different speeds",
+        "C": "A formal channel and an informal channel",
+        "D": "Downward and lateral communication"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Formal channels are established by the organization, follow the authority chain and carry professional messages; informal channels emerge spontaneously from individual choices and carry personal or social messages. (Ch 7: The Communication Process)\n**Why not A:** The official chain of command is a formal channel.\n**Why not B:** Gossip spreading through friendships isn't an organization-established channel.\n**Why not D:** These terms describe direction, not whether a channel is formal or informal."
+    },
+    {
+      "topic": "The communication process",
+      "question": "An employee with severe anxiety about speaking on the phone sends long emails to colleagues, even when a quick call would clearly be faster and more appropriate. What does this illustrate?",
+      "options": {
+        "A": "Filtering, since she manipulates what others will see",
+        "B": "Communication apprehension shaping her choice of channel",
+        "C": "Information overload limiting what she can process",
+        "D": "Selective perception of her colleagues' expectations"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** An estimated 5 to 20% of people suffer debilitating communication apprehension (undue anxiety about oral or written communication) and may rely on memos or email when a call would be faster and more appropriate. (Ch 7: Choosing a Channel)\n**Why not A:** Filtering is manipulating information to look favourable; she's avoiding a channel.\n**Why not C:** Overload is information inflow exceeding processing capacity, not anxiety about a channel.\n**Why not D:** Selective perception concerns how receivers interpret messages through their own lens."
+    },
+    {
+      "topic": "Choosing a channel",
+      "question": "A CEO must explain a surprise merger that will change many employees' jobs. Which channel does the media richness model favour, and why?",
+      "options": {
+        "A": "A detailed memo, since written records reduce misunderstanding",
+        "B": "Face-to-face meetings, since nonroutine news needs rich channels",
+        "C": "A formal bulletin, since official news should come through formal media",
+        "D": "An email to all staff, since it reaches everyone at the same time"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Nonroutine messages are complicated and easily misunderstood, so they're best sent through rich channels; face-to-face conversation is richest, offering multiple cues, immediate feedback and a personal touch. (Ch 7: Choosing a Channel, Exhibit 7-2)\n**Why not A:** Memos are lean; in a true crisis 'a memo never motivates,' and written messages create more misunderstanding than oral ones.\n**Why not C:** Formal reports and bulletins are the leanest channels.\n**Why not D:** Email is relatively lean and better suited to routine messages."
+    },
+    {
+      "topic": "Choosing a channel",
+      "question": "A team leader compares a video conference with a voice-mail message for delivering sensitive feedback. Which features make a channel like the video conference 'richer'?",
+      "options": {
+        "A": "Multiple cues at once, rapid feedback, and a personal touch",
+        "B": "A permanent record, wide reach and low cost per message",
+        "C": "Formality, a clear authority chain and precise wording",
+        "D": "Speed of delivery, privacy and ease of editing the content"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Rich channels can handle multiple cues simultaneously, facilitate rapid feedback and be very personal; lean channels score low on all three. (Ch 7: Choosing a Channel)\n**Why not B:** These are advantages of lean written media like email, not markers of richness.\n**Why not C:** These describe formal written channels, which rank low in richness.\n**Why not D:** Richness concerns cues, feedback and personal focus, not editing or privacy."
+    },
+    {
+      "topic": "Choosing a channel",
+      "question": "A study found managers preferred delivering bad news such as layoffs by email, and the messages were even delivered more accurately that way. Why does the chapter still advise against it?",
+      "options": {
+        "A": "Email is a rich channel, so it overwhelms people receiving bad news",
+        "B": "Email is less accurate, so it distorts the details of bad news",
+        "C": "Bad news should always go through formal written bulletins",
+        "D": "Face-to-face delivery signals the news matters and the sender cares"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Although email delivered bad news more accurately, offering negative comments face to face is often taken as a sign that the news is important and that the deliverer cares about the recipient. (Ch 7: Choosing a Channel)\n**Why not A:** Email is relatively lean, not rich.\n**Why not B:** The study found email messages were actually delivered more accurately.\n**Why not C:** Bulletins are even leaner; the chapter favours face-to-face for negative news."
+    },
+    {
+      "topic": "Choosing a channel",
+      "question": "During an economic downturn, a company wants to keep its employees' trust. According to a 2011 study, which communication approach matters most?",
+      "options": {
+        "A": "Relying mainly on the intranet for consistent updates",
+        "B": "Letting the grapevine carry news to avoid formality",
+        "C": "Limiting updates so employees don't become anxious",
+        "D": "Communicating directly, above all face to face"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In bad economic times it's especially important to create an atmosphere of trust by communicating directly; bulletin boards, intranets, newsletters and email help, but face-to-face communication is the most important. (Ch 7: Focus on Research, Communicating in Bad Times)\n**Why not A:** Intranets can help, but face-to-face communication is most important.\n**Why not B:** Rumours thrive in the absence of formal communication.\n**Why not C:** Direct communication, not limiting it, builds trust in bad times."
+    },
+    {
+      "topic": "Choosing a channel",
+      "question": "An ambitious analyst decides to boost her 'face-time' by dropping by the CEO's office daily just to say hello and by signing up for every meeting on the calendar. What does the chapter suggest?",
+      "options": {
+        "A": "It can backfire; choose channels that fit the message instead",
+        "B": "It's unwise, since email is now the best channel for visibility",
+        "C": "It's wise, since more face-time always advances a career",
+        "D": "It's wise, since rich channels are best for every message"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Face-time matters, but seeking out the CEO just to say hello can make you an annoyance, and attending every meeting is counterproductive; consider whether a message suits a discussion or a diagram. (Ch 7: Choosing a Channel)\n**Why not B:** The point isn't that email is best; it's matching the channel to the message.\n**Why not C:** The chapter warns that excessive face-time seeking can be counterproductive.\n**Why not D:** Rich channels suit nonroutine messages; routine ones can use leaner channels."
+    },
+    {
+      "topic": "Filtering, perception and overload",
+      "question": "A plant manager tells head office that a production problem is 'under control' because he knows executives don't want to hear bad news. Which barrier is this, and what increases it?",
+      "options": {
+        "A": "Lying, which is easier to detect in upward communication",
+        "B": "Selective perception, which grows with information overload",
+        "C": "Filtering, which grows with more levels in the hierarchy",
+        "D": "Filtering, which shrinks as an organization adds more levels"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Filtering is purposely manipulating information so the receiver sees it more favourably; more vertical levels create more opportunities for it, and fear of conveying bad news distorts upward communication. (Ch 7: Barriers to Effective Communication, Filtering)\n**Why not A:** People are generally poor at detecting deception; this is shaping information to please the boss.\n**Why not B:** Selective perception is how receivers interpret messages; the manager is shaping what he sends.\n**Why not D:** More vertical levels create more opportunities for filtering, not fewer."
+    },
+    {
+      "topic": "Filtering, perception and overload",
+      "question": "A manager who believes remote workers are less dedicated reads every short email from them as a sign of disengagement. Which barrier is at work?",
+      "options": {
+        "A": "Communication apprehension",
+        "B": "Filtering",
+        "C": "Information overload",
+        "D": "Selective perception"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Receivers selectively see and hear based on their needs, motivations, experience and background, and project their interests and expectations into messages as they decode them. (Ch 7: Selective Perception)\n**Why not A:** Apprehension is anxiety about communicating, not biased interpretation.\n**Why not B:** Filtering is done by senders who manipulate information; this is a receiver's interpretation.\n**Why not C:** Overload means information exceeds processing capacity, which isn't the issue."
+    },
+    {
+      "topic": "Filtering, perception and overload",
+      "question": "Two close friends are sure they understand each other perfectly, even in vague, ambiguous conversations. What did a 2011 study find about situations like this?",
+      "options": {
+        "A": "They communicated worse, since friends filter more than strangers",
+        "B": "They communicated no better than they did with strangers",
+        "C": "They communicated better only when using rich channels",
+        "D": "They communicated far better, as closeness removes ambiguity"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** People perceived they communicated better with close friends and partners than with strangers, but in ambiguous conversations their ability with close friends was no better than with strangers. (Ch 7: Selective Perception)\n**Why not A:** The study found no difference, not worse performance.\n**Why not C:** The study concerns perceived versus actual understanding, not channel choice.\n**Why not D:** In ambiguous conversations, closeness gave no real advantage."
+    },
+    {
+      "topic": "Filtering, perception and overload",
+      "question": "An employee buried under emails, texts and meetings starts skimming, ignoring and postponing messages. What does the chapter suggest she do?",
+      "options": {
+        "A": "Stay available around the clock to keep up with demands",
+        "B": "Switch every message to rich channels like face-to-face talk",
+        "C": "Check messages more often so that nothing ever piles up",
+        "D": "Connect less often and build in breaks to think and prioritize"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** When information exceeds capacity, people select, ignore, pass over, forget or postpone; connecting to technology less often and creating breaks helps people prioritize and see the big picture. (Ch 7: Information Overload)\n**Why not A:** Being on call 24 hours a day risks burnout and work–life conflict.\n**Why not B:** Overload is about volume; rich channels suit nonroutine messages, not every message.\n**Why not C:** Constant checking lets digital messages keep reordering priorities; connecting less often helps."
+    },
+    {
+      "topic": "Filtering, perception and overload",
+      "question": "A sales director answers work messages on her phone every evening and weekend, and both she and her spouse report rising tension at home. What does research link to this?",
+      "options": {
+        "A": "Conflict arises only when the messages are emotionally negative",
+        "B": "Using work technologies after hours raises work–life conflict",
+        "C": "After-hours messaging lowers stress by clearing the next day's work",
+        "D": "Only the employee, not her spouse, notices any conflict"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Both workers and their spouses relate the use of electronic communication technologies outside work to higher work–life conflict; people need breaks or they risk burnout. (Ch 7: Information Overload)\n**Why not A:** The link is to using the technology outside work, regardless of tone.\n**Why not C:** The research links after-hours use to more work–life conflict, not less stress.\n**Why not D:** Both workers and their spouses report higher work–life conflict."
+    },
+    {
+      "topic": "Emotions, language and silence",
+      "question": "Right after hearing good news, a manager reads a persuasive proposal and accepts its claims at face value, while a colleague in a bad mood scrutinizes every detail. What does research say about this?",
+      "options": {
+        "A": "Negative moods prompt closer scrutiny than positive moods do",
+        "B": "Only extreme moods affect how carefully people read messages",
+        "C": "Positive moods prompt closer scrutiny than negative moods do",
+        "D": "Mood has no effect on how carefully messages are processed"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** People in negative moods scrutinize messages in greater detail, while those in positive moods tend to accept communications at face value and feel more confident after persuasive messages. (Ch 7: Emotions)\n**Why not B:** Extreme emotions hinder communication most, but ordinary moods also shift scrutiny.\n**Why not C:** This reverses the finding.\n**Why not D:** Emotions clearly affect how messages are interpreted."
+    },
+    {
+      "topic": "Emotions, language and silence",
+      "question": "A consultant tells new graduates to 'grab the low-hanging fruit and lock down the deliverables,' and they look baffled. Which barrier is this, and what assumption caused it?",
+      "options": {
+        "A": "Filtering; assuming listeners want only favourable news",
+        "B": "Noise from overload; assuming listeners can absorb more",
+        "C": "Language; assuming listeners give words the same meaning",
+        "D": "Selective perception; assuming listeners share his needs"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Words mean different things to different people (age and context are big factors), and senders tend to incorrectly assume their terms mean the same to receivers as to them. (Ch 7: Language)\n**Why not A:** Filtering is manipulating information to look favourable, not using unfamiliar jargon.\n**Why not B:** The issue is unfamiliar terms, not too much information.\n**Why not D:** Selective perception is the receiver's biased interpretation; the problem here is the sender's jargon."
+    },
+    {
+      "topic": "Emotions, language and silence",
+      "question": "In a study of airline accidents, crews working under 'take charge' captains often stayed quiet even when they had critical information. What does this illustrate?",
+      "options": {
+        "A": "Crew silence reflects low ability rather than leader style",
+        "B": "A leader's style can produce dangerous employee silence",
+        "C": "Decisive leaders make better decisions under time pressure",
+        "D": "Silence is harmless when the leader is highly experienced"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Pilots with 'take charge' attitudes were more likely to make wrong decisions than inclusive pilots who consulted their crews, because crews under decisive pilots wouldn't intervene even with necessary information. (Ch 7: Silence)\n**Why not A:** Crew members had the needed information; the pilot's style drove their silence.\n**Why not C:** The study found take-charge pilots were more likely to make wrong decisions.\n**Why not D:** That kind of silence can be fatal."
+    },
+    {
+      "topic": "Emotions, language and silence",
+      "question": "A director wants staff to speak up about problems rather than stay silent. Which conditions does research link to less employee silence?",
+      "options": {
+        "A": "Respect for minority views, strong group identity, fair procedures",
+        "B": "Anonymous suggestion boxes in place of any open discussion",
+        "C": "Rewarding those who agree, so meetings stay positive and quick",
+        "D": "Strict hierarchy, clear penalties for errors and private reviews"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Silence is less likely where minority opinions are treated with respect, work group identification is high and high procedural justice prevails. (Ch 7: Silence)\n**Why not B:** The research highlights respect, identification and fair procedures, not anonymity.\n**Why not C:** Ignoring or belittling dissent leads people to withhold information.\n**Why not D:** Conditions like these tend to discourage people from speaking up."
+    },
+    {
+      "topic": "Emotions, language and silence",
+      "question": "At a meeting, a manager laughs off an engineer's safety concern. What does the chapter warn could happen next?",
+      "options": {
+        "A": "Nothing, since a single incident has little lasting effect",
+        "B": "She'll raise concerns more forcefully to be heard",
+        "C": "Her team will speak up more to defend her position",
+        "D": "She may withhold important information in the future"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** One act of ignoring or belittling an employee for raising concerns may lead them to withhold important information later, so managers must respond supportively to divergent opinions. (Ch 7: Silence)\n**Why not A:** Even one act of belittling can lead an employee to stay silent later.\n**Why not B:** The chapter warns of future silence, not stronger advocacy.\n**Why not C:** The chapter's concern is that the employee will withhold information."
+    },
+    {
+      "topic": "Nonverbal cues and lying",
+      "question": "A manager says she has plenty of time to discuss your raise, but she keeps checking her phone and edging toward the door. How should you interpret this, according to the chapter?",
+      "options": {
+        "A": "Assume she is lying, since avoiding your gaze signals deceit",
+        "B": "Trust her words, since verbal content carries the real message",
+        "C": "Weigh the nonverbal cues, since actions often speak louder",
+        "D": "Ignore the cues, since body movements are usually accidental"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Receivers should watch for contradictions between verbal and nonverbal messages; such contradictions often suggest that actions speak louder, and more accurately, than words. (Ch 7: Nonverbal Communication)\n**Why not A:** No cues are unique to lying; these signals suggest timing, not deceit.\n**Why not B:** Nonverbal cues add to and often complicate words; contradictions deserve attention.\n**Why not D:** It's been argued that no body movement is accidental; body language carries meaning."
+    },
+    {
+      "topic": "Nonverbal cues and lying",
+      "question": "In a meeting, a senior partner sits slouched with legs crossed while a junior associate sits upright, and the partner stands close to colleagues he likes. What are the two most important messages body language conveys?",
+      "options": {
+        "A": "How intelligent someone is, and how busy they are",
+        "B": "How much someone likes another, and their relative status",
+        "C": "How formal the setting is, and the group's cultural norms",
+        "D": "How honest someone is, and how confident they feel"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Body language mainly conveys (1) how much a person likes another and is interested in their views and (2) perceived relative status; we stand closer to people we like, and higher-status people adopt relaxed postures. (Ch 7: Nonverbal Communication)\n**Why not A:** The chapter identifies liking and interest, and relative status, as the key messages.\n**Why not C:** Culture shapes interpretation, but the two key messages are liking and status.\n**Why not D:** No body cues are unique to lying; the two key messages are liking and status."
+    },
+    {
+      "topic": "Nonverbal cues and lying",
+      "question": "A Brazilian manager stands much closer to her Canadian colleague than he's used to, and he wonders whether she's being aggressive. Which concept explains the misunderstanding?",
+      "options": {
+        "A": "Filtering: she's manipulating information to seem favourable",
+        "B": "High-context culture: she relies on status cues over words",
+        "C": "Proxemics: contact cultures prefer more closeness than others",
+        "D": "Proxemics: noncontact cultures prefer more closeness than others"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Proxemics is the study of physical space in relationships; people from 'contact' cultures (Arabs, Latin Americans, southern Europeans) are more comfortable with closeness and touch than those from 'noncontact' cultures (Asians, North Americans, northern Europeans). (Ch 7: Nonverbal Communication, Proxemics)\n**Why not A:** Filtering concerns manipulating information, not personal space.\n**Why not B:** Context concerns reliance on situational cues for meaning, not physical distance.\n**Why not D:** This reverses which cultures are comfortable with closeness."
+    },
+    {
+      "topic": "Nonverbal cues and lying",
+      "question": "A trainer claims that people who cross their arms are always resisting the message. What caution does the chapter offer?",
+      "options": {
+        "A": "Crossed arms show lying, since liars hide their hands",
+        "B": "Crossed arms show liking, since people protect those they like",
+        "C": "It's accurate, since every crossed-arm gesture signals resistance",
+        "D": "Read body language carefully; they may simply be cold"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Body language should be monitored with some care: crossed arms are often read as resistance, but people may cross their arms because they feel cold. (Ch 7: Nonverbal Communication)\n**Why not A:** No nonverbal cues are unique to lying.\n**Why not B:** The chapter doesn't link crossed arms to liking.\n**Why not C:** The same gesture can have other causes, such as feeling cold."
+    },
+    {
+      "topic": "Nonverbal cues and lying",
+      "question": "An HR investigator relies on gaze aversion and fidgeting to spot liars in interviews. Why is this approach unreliable?",
+      "options": {
+        "A": "No cues are unique to lying, and liars often hold eye contact",
+        "B": "Liars always avoid eye contact, so fidgeting adds nothing",
+        "C": "Lies can be detected easily if questions are asked by email",
+        "D": "Only trained investigators can read deception cues accurately"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Most people are poor at detecting deception: no cues are unique to lying (averted gaze can signal nervousness or shyness), liars guard against detection by holding eye contact, and many lies are embedded in truths. (Ch 7: Lying)\n**Why not B:** Liars often look people in the eye because they know eye contact is assumed to signal truthfulness.\n**Why not C:** People are actually more comfortable lying in email than on paper.\n**Why not D:** No cues are unique to lying, so the problem isn't a lack of training."
+    },
+    {
+      "topic": "Nonverbal cues and lying",
+      "question": "A manager wants honest answers from a supplier about a delayed shipment. Based on research on lying, through which channel is the supplier likely to be least comfortable lying?",
+      "options": {
+        "A": "A text message thread",
+        "B": "A telephone call",
+        "C": "An email exchange",
+        "D": "A face-to-face meeting"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People are more comfortable lying over the phone than face to face, and more comfortable lying in emails than when writing with pen and paper. (Ch 7: Lying)\n**Why not A:** Lean electronic channels are where people tend to be more comfortable lying, not less.\n**Why not B:** People are more comfortable lying by phone than face to face.\n**Why not C:** People are more comfortable lying in email than when writing on paper."
+    },
+    {
+      "topic": "Direction of communication",
+      "question": "A company announces a new scheduling system with no explanation, and staff resist it. What does research suggest would have increased their commitment?",
+      "options": {
+        "A": "Fully explaining the reasons behind the decision",
+        "B": "Sending it by memo so there's a written record",
+        "C": "Avoiding explanations so as not to open debate",
+        "D": "Announcing it once, firmly, to avoid confusion"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** One study found employees were twice as likely to be committed to changes when the reasons behind them were fully explained; explanations increase commitment and support for decisions. (Ch 7: Direction of Communication, Downward)\n**Why not B:** The key is explaining the reasons, not choosing a lean written channel.\n**Why not C:** Managers who fear opening 'a big can of worms' miss the clear benefits of explaining.\n**Why not D:** Managerial messages usually need to be repeated several times through different media."
+    },
+    {
+      "topic": "Direction of communication",
+      "question": "A CEO sends one company-wide email about a new safety policy and is surprised that few employees know about it a month later. What does research suggest?",
+      "options": {
+        "A": "Post it on the bulletin board, since formal media last longer",
+        "B": "Assume it was understood, since no one raised questions",
+        "C": "Repeat it several times through a variety of media",
+        "D": "Send it again by email, since one channel ensures consistency"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Managers may think one message is enough, but research suggests managerial communications must be repeated several times and through a variety of media to be truly effective. (Ch 7: Direction of Communication, Downward)\n**Why not A:** Bulletins are lean; the recommendation is repetition across varied media.\n**Why not B:** A lack of questions doesn't confirm understanding; feedback does.\n**Why not D:** Variety of media, not a single channel, makes downward communication effective."
+    },
+    {
+      "topic": "Direction of communication",
+      "question": "Nearly two-thirds of employees in one study said their boss rarely or never asks their advice. Which weakness of downward communication does this reflect?",
+      "options": {
+        "A": "Its distortion by filtering from lower-level staff",
+        "B": "Its reliance on lateral channels that bypass managers",
+        "C": "Its one-way nature: managers inform but rarely ask",
+        "D": "Its tendency to be repeated too often across media"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Downward communication tends to be one-way: managers inform employees but rarely solicit their advice or opinions, even though people need to be respected and listened to. (Ch 7: Direction of Communication, Downward)\n**Why not A:** Filtering mainly distorts upward communication.\n**Why not B:** Bypassing managers is a risk of lateral communication.\n**Why not D:** Repetition is recommended; the weakness is the one-way flow."
+    },
+    {
+      "topic": "Direction of communication",
+      "question": "An analyst needs a few minutes of her overloaded VP's attention to raise a supply problem. Following the chapter's advice on upward communication, what should she do?",
+      "options": {
+        "A": "Lead with a headline, back it with actions, and bring an agenda",
+        "B": "Give the full background first so the context is completely clear",
+        "C": "Send a long, detailed email so the VP can read it when free",
+        "D": "Raise it through a peer in another unit to avoid the VP"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** To communicate upward effectively, communicate in headlines, support them with actionable items, and prepare an agenda so you use your boss's attention well. (Ch 7: Direction of Communication, Upward)\n**Why not B:** Busy managers are easily distracted; lead with headlines rather than long background.\n**Why not C:** The advice is concise headlines with actionable items, not long emails.\n**Why not D:** Going around managers can create dysfunctional conflict."
+    },
+    {
+      "topic": "Direction of communication",
+      "question": "To speed things up, two team leads in different departments coordinate directly instead of going through their managers, who don't know about it. Recently the managers were blindsided by a decision. What does the chapter say about this lateral communication?",
+      "options": {
+        "A": "It's upward communication, so managers should be informed",
+        "B": "It's always helpful, since it bypasses slow hierarchies",
+        "C": "It's always harmful, since all contact should be vertical",
+        "D": "It helps when managers support it, but can breed conflict"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Lateral communication saves time and eases coordination, and it's beneficial with managers' knowledge and support; it creates dysfunctional conflict when formal channels are breached or managers learn of decisions made without them. (Ch 7: Direction of Communication, Lateral)\n**Why not A:** Communication between equivalent levels is lateral, not upward.\n**Why not B:** Breaching formal channels can create dysfunctional conflicts.\n**Why not C:** Strict adherence to vertical channels can be inefficient; lateral communication can be beneficial."
+    },
+    {
+      "topic": "Networks, grapevine and e-media",
+      "question": "A manager is choosing a communication network for a five-person team. For one task accuracy matters most; for another, member satisfaction matters most. Which networks fit?",
+      "options": {
+        "A": "Wheel for accuracy; chain for satisfaction",
+        "B": "Chain for both, since it follows the formal hierarchy",
+        "C": "Chain for accuracy; all-channel for satisfaction",
+        "D": "All-channel for accuracy; wheel for satisfaction"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The chain network is best if accuracy is most important, the all-channel network if high member satisfaction is most important, and the wheel facilitates leader emergence; no single network suits every occasion. (Ch 7: Small-Group Networks, Exhibit 7-3)\n**Why not A:** The wheel's distinctive strength is leader emergence, and the chain is only moderate on satisfaction.\n**Why not B:** The chain is only moderate on satisfaction; the all-channel network is best for it.\n**Why not D:** The all-channel network is only moderate on accuracy, and the wheel is low on satisfaction."
+    },
+    {
+      "topic": "Networks, grapevine and e-media",
+      "question": "A new task group wants a clear leader to emerge quickly. Which small-group network structure best facilitates this?",
+      "options": {
+        "A": "The grapevine, which spreads influence informally",
+        "B": "The wheel, with the leader as central conduit",
+        "C": "The all-channel, where anyone can talk to anyone",
+        "D": "The chain, which follows the formal hierarchy"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The wheel relies on a leader as the central conduit for all communication, which facilitates the emergence of a leader, as on a team with a strong leader. (Ch 7: Small-Group Networks)\n**Why not A:** The grapevine is an informal network, not a small-group structure for leader emergence.\n**Why not C:** The all-channel network rates 'none' on leader emergence.\n**Why not D:** The chain is only moderate on leader emergence."
+    },
+    {
+      "topic": "Networks, grapevine and e-media",
+      "question": "Rumours spread quickly through a firm about which office will close, and employees say they trust the rumours more than official memos. Which statement about the grapevine is accurate?",
+      "options": {
+        "A": "It serves management's interests more than those of employees",
+        "B": "It's not controlled by management, and most see it as more believable",
+        "C": "It's mostly inaccurate, with only about a quarter of it being true",
+        "D": "It's controlled by management, though most see it as less believable"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The grapevine isn't controlled by management, most employees see it as more believable and reliable than formal communiqués, and it largely serves the interests of the people within it. (Ch 7: The Grapevine)\n**Why not A:** It largely serves the interests of the people within it.\n**Why not C:** About 75% of what the grapevine carries is accurate.\n**Why not D:** Management doesn't control the grapevine, and most employees find it more believable."
+    },
+    {
+      "topic": "Networks, grapevine and e-media",
+      "question": "Rumours about layoffs spread after a secretive executive meeting. Under what conditions do rumours emerge, and how long do they persist?",
+      "options": {
+        "A": "Boring, routine situations; until people find better gossip",
+        "B": "Situations of low importance; until management denies them",
+        "C": "Clear, well-explained situations; until the next formal memo",
+        "D": "Important, ambiguous, anxious times; until anxiety is reduced"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Rumours emerge in situations that are important, ambiguous and anxiety-arousing, and persist until the wants and expectations behind the uncertainty are fulfilled or the anxiety is reduced. (Ch 7: The Grapevine)\n**Why not A:** Rumours arise from important, ambiguous, anxious situations, not mere titillation.\n**Why not B:** Rumours concern important matters and persist until the uncertainty or anxiety is resolved.\n**Why not C:** Rumours thrive in the absence of clear formal communication."
+    },
+    {
+      "topic": "Networks, grapevine and e-media",
+      "question": "A manager wants to reduce the damage from rumours about an upcoming reorganization. Which approach does the chapter recommend?",
+      "options": {
+        "A": "Explain decisions and openly discuss worst-case possibilities",
+        "B": "Say nothing until plans are final so no false hopes are raised",
+        "C": "Find and discipline whoever started the rumour as an example",
+        "D": "Shut the grapevine down entirely with a strict no-gossip policy"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Managers can't eliminate rumours, but they can reduce their negative consequences by explaining decisions and openly discussing worst-case possibilities, providing information, responding calmly and keeping channels open. (Ch 7: The Grapevine; OB in Action, Reducing Rumours)\n**Why not B:** Rumours thrive in the absence of formal communication.\n**Why not C:** The advice is not to 'shoot the messenger' but to respond calmly and rationally.\n**Why not D:** Rumours can't be entirely eliminated, and some gossip even has pro-social motivation."
+    },
+    {
+      "topic": "Networks, grapevine and e-media",
+      "question": "A top sales rep forwards off-colour jokes from his work email to clients, assuming his messages are private like water-cooler chat. A client complains to the company. What does the chapter suggest?",
+      "options": {
+        "A": "Only messages sent to co-workers, not clients, can be reviewed",
+        "B": "Work email isn't necessarily private, so know company policy",
+        "C": "Work email is protected like a private phone call under all laws",
+        "D": "Employers can never act on email unless a crime is suspected"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Under current law, employee information, including email, isn't necessarily private, and many private-sector employees aren't covered by privacy legislation, so employees should know their company's email policy. (Ch 7: Focus on Ethics, Your Email Can Get You Fired)\n**Why not A:** Any work email can come back to hurt an employee, including messages to clients.\n**Why not C:** Likening email to phone calls is the privacy commissioner's recommendation, not the law; email isn't necessarily private.\n**Why not D:** Limiting surveillance to rare cases is a recommendation, not a legal rule; the employee in the chapter's example was fired."
+    },
+    {
+      "topic": "Networks, grapevine and e-media",
+      "question": "An employee praises her company's products on her personal blog without mentioning that she works there. Which of IBM's guidelines for responsible social media use did she break?",
+      "options": {
+        "A": "Never post about your company on any social platform at all",
+        "B": "Delete posts quickly, since online content disappears fast",
+        "C": "Use humour so posts about the company don't seem like ads",
+        "D": "Be transparent about your role when writing about your company"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** IBM's rules include not writing anything you'd be uncomfortable having your employer read, remembering posts can stay public a long time, being transparent about your role when writing about your company, and getting approval before posting internal conversations. (Ch 7: OB in Action, Using Social Media Responsibly)\n**Why not A:** The rules allow posting about your company if you're transparent about your role.\n**Why not B:** What you publish could be public for a long time.\n**Why not C:** Transparency about your role, not humour, is the guideline."
+    },
+    {
+      "topic": "Cross-cultural communication",
+      "question": "During negotiations in Japan, a Canadian executive hears 'hai' repeatedly and assumes the other side has agreed to her terms. Which cross-cultural barrier is this?",
+      "options": {
+        "A": "Tone differences: Japanese is always more informal",
+        "B": "Conflict tolerance: collectivists dispute openly",
+        "C": "Semantics: the word has no translation in English",
+        "D": "Word connotations: 'yes' may mean 'I'm listening'"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Words imply different things in different languages; the Japanese hai translates as 'yes,' but its connotation may be 'yes, I'm listening' rather than 'yes, I agree.' (Ch 7: Global Implications, Cultural Barriers to Communication)\n**Why not A:** Tone differences concern formality across contexts; the issue here is what 'yes' implies.\n**Why not B:** Collectivists tend to acknowledge conflict only implicitly; the issue here is a word's connotation.\n**Why not C:** Semantic barriers involve words that don't translate (like the Finnish sisu); hai translates, but its connotation differs."
+    },
+    {
+      "topic": "Cross-cultural communication",
+      "question": "After a dispute, a Canadian manager expects an explicit apology from a colleague from a collectivist culture, who instead attributes the conflict to the situation. What does the chapter say?",
+      "options": {
+        "A": "Both cultures handle conflict the same way once trust exists",
+        "B": "Individualists avoid open conflict and prefer implicit repair",
+        "C": "Collectivists may not need explicit apologies to repair ties",
+        "D": "Collectivists insist on public apologies to restore relationships"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Collectivists tend to acknowledge conflict implicitly, avoid emotionally charged disputes and attribute conflict to situations, so they may not require explicit apologies; individualists prefer explicit statements of responsibility and public apologies. (Ch 7: Global Implications, Cultural Barriers to Communication)\n**Why not A:** The chapter identifies differences in tolerance for conflict and in ways of resolving it.\n**Why not B:** Individualists are more comfortable with direct conflict and explicit apologies.\n**Why not D:** It's individualists who prefer explicit statements and public apologies."
+    },
+    {
+      "topic": "Cross-cultural communication",
+      "question": "A Canadian firm negotiating in China is frustrated that a key partner hasn't signed a detailed contract after agreeing to a deal verbally over a long, friendly dinner. What does the chapter suggest?",
+      "options": {
+        "A": "In high-context cultures, oral agreements imply strong commitment",
+        "B": "In low-context cultures like China, words matter more than ties",
+        "C": "In high-context cultures, only written contracts carry weight",
+        "D": "Casual dinner talk is insignificant and shouldn't shape deals"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In high-context cultures like China, seemingly casual conversation builds relationships and trust, and oral agreements imply strong commitments; low-context cultures favour precise, legalistic written contracts. (Ch 7: Cultural Context, Exhibit 7-5)\n**Why not B:** China is a high-context culture where relationships and status carry weight.\n**Why not C:** That describes low-context cultures, where contracts tend to be written and legalistic.\n**Why not D:** What looks casual reflects a desire to build a relationship and create trust."
+    },
+    {
+      "topic": "Cross-cultural communication",
+      "question": "A German manager transferred to Korea gives explicit, precise orders, and her team seems uncomfortable. What does the high- versus low-context distinction suggest?",
+      "options": {
+        "A": "Managers there tend to make suggestions rather than give orders",
+        "B": "Germany is high context, so she's relying too much on cues",
+        "C": "Korea is low context, so she should be even more explicit",
+        "D": "Status cues matter little in Korea, so titles can be ignored"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Low-context cultures value directness and explicit, precise managers; in high-context cultures like Korea, managers tend to 'make suggestions' rather than give orders, and status and situational cues carry meaning. (Ch 7: Cultural Context)\n**Why not B:** Germany is a low-context culture that relies on words to convey meaning.\n**Why not C:** Korea is a high-context culture.\n**Why not D:** In high-context cultures, status, rank and reputation carry considerable weight."
+    },
+    {
+      "topic": "Cross-cultural communication",
+      "question": "A multicultural project team keeps misreading one another. Following Casmir's approach, what should the team build?",
+      "options": {
+        "A": "Rules based on each member's culture of origin and stereotypes",
+        "B": "A shared culture based on the majority members' own norms",
+        "C": "A 'third culture' blending members' communication preferences",
+        "D": "Strict formal rules that override all cultural differences"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Casmir found the ideal is an ad hoc 'third culture' that incorporates aspects of each member's cultural communication preferences, built on sensitivity, mutual respect and common goals. (Ch 7: A Cultural Guide)\n**Why not A:** Casmir warns against generalizing from cultural origin and media stereotypes.\n**Why not B:** The third culture blends everyone's preferences rather than adopting the majority's.\n**Why not D:** The third culture grows from appreciating differences, not overriding them."
+    },
+    {
+      "topic": "Cross-cultural communication",
+      "question": "In a cross-cultural meeting, a manager is about to say a colleague 'was being evasive.' Following the chapter's cultural guide, what should he do instead?",
+      "options": {
+        "A": "Say nothing and let the colleague's culture guide the meeting",
+        "B": "Describe what was said, and delay interpreting or judging it",
+        "C": "Explain the behaviour based on the colleague's home culture",
+        "D": "Share his interpretation early, so misunderstandings surface"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** State facts, not your interpretation: interpreting or evaluating reflects the observer's culture more than the situation, so describe what happened and delay judgment until you've considered all perspectives. (Ch 7: A Cultural Guide)\n**Why not A:** The goal is a 'third culture' of mutual respect, not deferring entirely to one culture.\n**Why not C:** Be careful not to categorize people by their culture of origin.\n**Why not D:** When in doubt, listen; voicing opinions too early is more likely to offend."
+    },
+    {
+      "topic": "Effective listening",
+      "question": "During a disagreement, a listener says, 'What I hear you saying is that the timeline is the main risk. Is that right?' Why does the chapter recommend this?",
+      "options": {
+        "A": "Paraphrasing lets the listener steer the speaker's argument",
+        "B": "Paraphrasing checks attention and verifies understanding",
+        "C": "Paraphrasing fills the idle time while the speaker pauses",
+        "D": "Paraphrasing signals agreement with the speaker's view"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Paraphrasing (restating the speaker's words in your own) is a control on whether you're listening carefully and a control for accuracy, verifying your understanding. (Ch 7: From Concepts to Skills, Effective Listening)\n**Why not A:** The purpose is to check attention and accuracy, not to steer the argument.\n**Why not C:** Idle time comes from comprehending faster than people speak; paraphrasing is about checking understanding.\n**Why not D:** Paraphrasing checks understanding; it doesn't mean you agree."
+    },
+    {
+      "topic": "Effective listening",
+      "question": "Kai finds his mind drifting during his manager's updates, and he catches himself planning his reply instead of listening. Why does the chapter say this is so common?",
+      "options": {
+        "A": "We speak faster than listeners can comprehend the words",
+        "B": "Hearing and listening are the same process for most people",
+        "C": "We can comprehend about twice as fast as people speak",
+        "D": "Eye contact distracts listeners from the speaker's words"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People speak at about 125 to 200 words per minute, but listeners can comprehend up to 400, leaving idle time that many people fill with bad habits like mind-wandering or planning what to say next. (Ch 7: From Concepts to Skills, Effective Listening)\n**Why not A:** It's the reverse: listeners can process words faster than people speak.\n**Why not B:** Hearing is picking up sound; listening requires attending, interpreting and remembering.\n**Why not D:** Making eye contact is one of the effective listening behaviours."
+    }
+  ]
+}

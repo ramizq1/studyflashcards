@@ -1,0 +1,302 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "01",
+    "title": "What Is Organizational Behaviour?"
+  },
+  "collection": "Textbook chapters (7th Canadian ed.)",
+  "collectionOrder": 2,
+  "source": "OB textbook (7th Cdn ed.), Chapter 1",
+  "questions": [
+    {
+      "topic": "Defining OB and people skills",
+      "question": "Jordan, who runs a one-person design studio, says organizational behaviour is irrelevant to him because he doesn't manage anyone. Which response best reflects the chapter?",
+      "options": {
+        "A": "OB matters for him only if he later hires 100 or more employees",
+        "B": "He's right; OB is designed mainly to help those who manage other employees",
+        "C": "He's right; OB applies only once a firm has a formal hierarchy",
+        "D": "OB applies wherever people work together on goals, entrepreneurs included"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The chapter stresses that OB is for everyone: entrepreneurs and the self-employed interact with other people and organizations, and OB applies anywhere people come together to share experiences, work on goals or solve problems. (Ch 1: OB Is for Everyone)\n**Why not A:** Small businesses are organizations too; the chapter notes they make up the vast majority of Canadian employers.\n**Why not B:** The chapter explicitly rejects the idea that OB is only for managers.\n**Why not C:** OB applies to organizations of every size and to informal settings as well."
+    },
+    {
+      "topic": "Defining OB and people skills",
+      "question": "Which of these best fits the chapter's definition of an organization?",
+      "options": {
+        "A": "A group chat where former classmates casually share news every day",
+        "B": "A flash mob that gathered once for a single coordinated performance",
+        "C": "Commuters who ride the same train to work together every morning",
+        "D": "A volunteer-run food bank with set roles that operates year-round"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** An organization is a consciously coordinated social unit of people that functions on a relatively continuous basis to achieve a common goal. The food bank has every element. (Ch 1: What Do We Mean by Organization?)\n**Why not A:** It's continuous, but there's no conscious coordination toward a common goal.\n**Why not B:** It's coordinated and shares a goal, but it doesn't function on a relatively continuous basis.\n**Why not C:** Riding the same train is continuous but neither coordinated nor aimed at a shared goal."
+    },
+    {
+      "topic": "Defining OB and people skills",
+      "question": "A CFO argues that hiring for 'people skills' is a waste of time in a finance department. Which finding from the chapter most directly challenges this view?",
+      "options": {
+        "A": "Good relationships at work are linked to satisfaction and lower quit intentions",
+        "B": "Wages and benefits are the main reasons people like and stay in their current jobs",
+        "C": "Interpersonal skills mainly matter in customer-facing service positions",
+        "D": "People skills now matter more than technical skills in every kind of job"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A large survey found that social relationships with co-workers and supervisors were strongly related to job satisfaction, lower stress and lower intentions to quit, and firms that develop interpersonal skills attract and keep high performers. (Ch 1: The Importance of Interpersonal Skills)\n**Why not B:** The chapter says the opposite: wages and benefits are not the main reasons people like their jobs or stay.\n**Why not C:** The evidence on relationships, satisfaction and retention applies across workplaces, not only service roles.\n**Why not D:** The chapter doesn't claim people skills outrank technical skills everywhere; it shows they are increasingly valued."
+    },
+    {
+      "topic": "Defining OB and people skills",
+      "question": "A new supervisor asks what kind of manager she should aim to be. Based on the Competing Values Framework, what does the chapter suggest?",
+      "options": {
+        "A": "Pick the quadrant that matches her natural style and stay within it",
+        "B": "Focus on control-side skills, since production must always come first",
+        "C": "Leave these skills to senior managers, since regular employees don't need them",
+        "D": "Build skills across competing demands and shift focus as situations change"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Organizations face competing demands (flexibility vs. control, internal vs. external focus), so 'master managers' learn a range of skills and move between them over time. (Ch 1: From Concepts to Skills, Competing Values Framework)\n**Why not A:** The chapter says people can develop new skills and that effective managers move across demands, as Peggy Kent's shift from controlling to flexible shows.\n**Why not B:** Control matters, but so do flexibility and internal and external focus; no single side is always the priority.\n**Why not C:** With fewer management layers and more teamwork, the chapter says these skills apply to employees too."
+    },
+    {
+      "topic": "Disciplines behind OB",
+      "question": "A consultant helps a company reduce employee resistance to a new scheduling system by changing attitudes and building trust between staff and managers. Which discipline's contributions is she mainly drawing on?",
+      "options": {
+        "A": "Social psychology",
+        "B": "Psychology",
+        "C": "Sociology",
+        "D": "Anthropology"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Social psychology blends psychology and sociology to focus on people's influence on one another; key contributions include implementing behavioural change, reducing barriers to its acceptance, changing attitudes and building trust. (Ch 1: The Building Blocks of OB)\n**Why not B:** Psychology focuses on the individual (learning, personality, emotions, selection); here the focus is influence between people and acceptance of change.\n**Why not C:** Sociology studies people in their social environment, such as formal structure, organizational culture and technology, rather than attitude change and trust.\n**Why not D:** Anthropology studies societies and cultures to explain differences in values and attitudes across countries and organizations."
+    },
+    {
+      "topic": "Disciplines behind OB",
+      "question": "A Canadian firm opening an office in Seoul wants to understand why basic values and attitudes toward work differ between its two workforces. Which discipline is most relevant?",
+      "options": {
+        "A": "Psychology",
+        "B": "Anthropology",
+        "C": "Social psychology",
+        "D": "Sociology"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Anthropologists' work on cultures and environments has helped explain differences in fundamental values, attitudes and behaviour between people in different countries and organizations. (Ch 1: The Building Blocks of OB)\n**Why not A:** Psychology focuses on individual-level processes, not differences between national cultures.\n**Why not C:** Social psychology focuses on how people influence one another, such as attitude change and behavioural change.\n**Why not D:** Sociology contributes mainly on group behaviour, formal organization theory and structure; cross-national value differences come from anthropology."
+    },
+    {
+      "topic": "Disciplines behind OB",
+      "question": "Which statement correctly describes how the behavioural sciences contribute to OB?",
+      "options": {
+        "A": "Psychology: mainly the individual level; sociology and anthropology: macro level",
+        "B": "All four disciplines contribute equally, and only at the individual level",
+        "C": "Psychology: mainly the macro level; sociology and anthropology: individual level",
+        "D": "Anthropology: mainly the individual level; psychology: organizational culture"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Psychology's contributions have been mainly at the individual (micro) level, while social psychology, sociology and anthropology have added to macro concepts such as group processes and organization. (Ch 1: Exhibit 1-1 Toward an OB Discipline)\n**Why not B:** Sociology, social psychology and anthropology contribute mainly to group- and organization-level concepts.\n**Why not C:** This reverses the levels: psychology is micro, the other disciplines macro.\n**Why not D:** Organizational culture insights come from sociology and anthropology, and anthropology isn't an individual-level discipline."
+    },
+    {
+      "topic": "The rigour of OB",
+      "question": "A manager is convinced that open-plan offices boost collaboration because 'everyone knows it,' but hasn't looked at any evidence. What does the chapter recommend?",
+      "options": {
+        "A": "Use the best available evidence to inform and test that intuition",
+        "B": "Discard intuition entirely and act only on published research findings",
+        "C": "Copy what a successful company profiled in the business press did",
+        "D": "Trust the gut, since experienced managers' hunches are usually accurate"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Intuition isn't necessarily wrong, but we tend to overestimate its accuracy; systematic study and evidence-based management should inform intuition and experience. (Ch 1: The Rigour of OB)\n**Why not B:** The chapter doesn't advise throwing intuition out; research can be wrong too, so evidence should inform intuition.\n**Why not C:** The chapter warns the business press is dominated by fads, and success stories may just reflect being in the right place at the right time.\n**Why not D:** People overestimate the accuracy of what they think they know, and many 'common sense' management beliefs have been refuted by evidence."
+    },
+    {
+      "topic": "The rigour of OB",
+      "question": "Before changing nurse staffing levels, a hospital administrator frames a specific question, searches for the best available research on staffing and patient outcomes, and applies it to her hospital. Which practice is this?",
+      "options": {
+        "A": "The contingency approach",
+        "B": "Intuitive decision making",
+        "C": "Evidence-based management",
+        "D": "Positive organizational scholarship"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Evidence-based management bases managerial decisions on the best available scientific evidence: pose a question, search for the best evidence and apply it to the case at hand. (Ch 1: The Rigour of OB, evidence-based management)\n**Why not A:** The contingency approach considers behaviour within its context; it isn't a method for seeking evidence for decisions.\n**Why not B:** Intuition is a gut feeling not necessarily supported by research, the opposite of what she is doing.\n**Why not D:** Positive organizational scholarship studies how organizations develop human strengths; it isn't a decision method."
+    },
+    {
+      "topic": "The rigour of OB",
+      "question": "A client asks an OB consultant whether giving everyone more complex, challenging work will raise motivation across the company. Which answer reflects OB's contingency approach?",
+      "options": {
+        "A": "It can't be predicted at all, because human behaviour is random",
+        "B": "Yes, because challenging work is a universal motivator for employees",
+        "C": "It depends on the person and situation; not everyone wants a challenge",
+        "D": "No, because most employees prefer simple and predictable work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** OB considers behaviour within the context in which it occurs. The chapter's own example: not everyone wants a challenging job, so its appeal depends on the person who holds it. (Ch 1: OB Has Few Absolutes; OB Takes a Contingency Approach)\n**Why not A:** OB holds that behaviour is not random and is generally predictable through systematic study.\n**Why not B:** That's a sweeping generalization; OB has few absolutes because people differ.\n**Why not D:** This is just as absolute a claim; the answer depends on the individual."
+    },
+    {
+      "topic": "The rigour of OB",
+      "question": "Most people step into an elevator and turn to face the doors, though no sign tells them to. What point does the chapter use this example to make?",
+      "options": {
+        "A": "Behaviour is predictable only where written rules spell it out",
+        "B": "Fundamental consistencies make behaviour reasonably predictable",
+        "C": "People behave identically whenever their situations are the same",
+        "D": "Behaviour is mostly random, so predictions rely on common sense"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Unwritten as well as written rules exist in most settings, so behaviour is generally predictable, and systematic study allows reasonably accurate predictions. (Ch 1: OB Looks at Consistencies)\n**Why not A:** The elevator example shows predictability even where there are few written rules.\n**Why not C:** The chapter notes people don't all act alike; consistencies are modified to reflect individual differences.\n**Why not D:** OB's systematic approach rests on the belief that behaviour is not random, and common sense often leads to wrong predictions."
+    },
+    {
+      "topic": "The rigour of OB",
+      "question": "An HR team analyzes several years of employee data to test which activities actually predict retention, rather than relying on what managers heard most recently or most often. Why does the chapter see promise in this approach?",
+      "options": {
+        "A": "It mainly helps marketing teams target customers, not manage people",
+        "B": "It counters natural biases in the information managers rely on",
+        "C": "It guarantees accurate decisions, since data cannot be misleading",
+        "D": "It replaces the need for managers to use any judgment or intuition"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Leaders often rely on hunches and on information that's recent, repeated or personally relevant; using data to define objectives and test causal theories shows which activities really matter. (Ch 1: The Rigour of OB, big data)\n**Why not A:** Big data grew up in areas like online retail, but the chapter says savvy firms use it to manage people as well.\n**Why not C:** The chapter calls this area promising but relatively new, and notes research can be wrong.\n**Why not D:** The chapter still advises using evidence to inform intuition, not to eliminate judgment."
+    },
+    {
+      "topic": "Workplace challenges",
+      "question": "A Regina employer's staff includes Baby Boomers, Gen Xers and Millennials, people from many ethnic backgrounds, and employees with disabilities, all working side by side. Which workplace challenge does this describe?",
+      "options": {
+        "A": "Globalization",
+        "B": "Networked organizations",
+        "C": "Workforce diversity",
+        "D": "Economic pressures"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Workforce diversity is the heterogeneous mix of people within a country (gender, race, ethnicity, ability, age and more), including different generations working together. (Ch 1: Understanding Workforce Diversity)\n**Why not A:** Globalization concerns differences among people from different countries; this workforce is within one country.\n**Why not B:** Networked organizations are about people working together across distances through technology.\n**Why not D:** Economic pressures concern recessions, layoffs and pay cuts, not the mix of people in the workforce."
+    },
+    {
+      "topic": "Workplace challenges",
+      "question": "A manager now leads designers in five countries who collaborate online and rarely meet. What does the chapter say about managing in this setting?",
+      "options": {
+        "A": "Technical skills matter most, since the work happens through technology",
+        "B": "Leadership matters less, since remote specialists manage themselves",
+        "C": "The same techniques still work as long as everyone's goals are clearly stated",
+        "D": "Motivating and deciding online requires different techniques and new skills"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In networked organizations, motivating and leading people and making collaborative decisions online require different techniques than when individuals are physically in one location. (Ch 1: Working in Networked Organizations)\n**Why not A:** The chapter emphasizes new people skills (motivating, leading, collaborating), not mainly technical ones.\n**Why not B:** The chapter says leading remote people requires new skills, not that leadership matters less.\n**Why not C:** The chapter says the manager's job is different in networked organizations; clear goals alone don't address that."
+    },
+    {
+      "topic": "Workplace challenges",
+      "question": "At a consulting firm, staff are expected to answer email late at night and on weekends, and signs of burnout are rising. What does the chapter suggest employees increasingly want?",
+      "options": {
+        "A": "Greater autonomy, even if always-on expectations remain",
+        "B": "More recognition, since praise offsets the extra workload",
+        "C": "Higher pay, since money is how most define career success",
+        "D": "Flexible schedules that help them manage work–life conflicts"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The chapter describes blurred work–nonwork boundaries and burnout, and notes employees want flexibility to balance work and life; in one study 56% defined career success as work–life balance, ahead of money. (Ch 1: Enhancing Employee Well-Being at Work)\n**Why not A:** Autonomy also ranked below balance, and autonomy alone doesn't fix always-on expectations.\n**Why not B:** Recognition ranked below work–life balance as a definition of career success.\n**Why not C:** The study found work–life balance ranked above money, recognition and autonomy."
+    },
+    {
+      "topic": "Workplace challenges",
+      "question": "A company asks employees to describe times they were at their 'personal best' so it can design roles around their strengths rather than fixing their weaknesses. Which area of OB does this reflect?",
+      "options": {
+        "A": "Evidence-based management",
+        "B": "Positive organizational scholarship",
+        "C": "Organizational citizenship behaviour",
+        "D": "The contingency approach"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Positive organizational scholarship studies how organizations develop human strengths, foster vitality and resilience, and unlock potential. 'Reflected best-self' is one of its concepts. (Ch 1: Creating a Positive Work Environment)\n**Why not A:** EBM bases decisions on the best scientific evidence; it isn't specifically about building on strengths.\n**Why not C:** OCB is discretionary behaviour beyond job requirements, not a research approach to strengths.\n**Why not D:** The contingency approach considers behaviour in context; it doesn't specifically focus on strengths."
+    },
+    {
+      "topic": "Workplace challenges",
+      "question": "Under pressure to hit quarterly targets, employees at a firm are tempted to cut corners. According to the chapter, what most helps them choose the right thing?",
+      "options": {
+        "A": "Leaving ethical choices entirely to each individual's conscience",
+        "B": "Removing performance targets so that no pressure exists at all",
+        "C": "A strong ethical mission and ethical leadership, plus personal values",
+        "D": "Clear black-and-white rules, since ethical questions have clear right answers"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Companies that promote a strong ethical mission and provide strong ethical leadership encourage integrity, and individuals who work to create their own ethical values more often do the right thing. (Ch 1: Improving Ethical Behaviour)\n**Why not A:** Personal values matter, but the chapter also stresses the organization's mission and leadership.\n**Why not B:** The chapter doesn't propose removing expectations; it focuses on mission, leadership and values.\n**Why not D:** The chapter says ethics doesn't come with black-and-white answers, and the line between right and wrong has blurred."
+    },
+    {
+      "topic": "The OB model",
+      "question": "In the chapter's OB model, which of these is a group-level process?",
+      "options": {
+        "A": "Personality",
+        "B": "Leadership",
+        "C": "Organizational culture",
+        "D": "Group cohesion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Group-level processes are communication, leadership, power and politics, and conflict and negotiation. (Ch 1: Exhibit 1-4 A Basic OB Model)\n**Why not A:** Personality is an individual-level input.\n**Why not C:** Culture is an organizational-level input.\n**Why not D:** Group cohesion is a group-level outcome, not a process."
+    },
+    {
+      "topic": "The OB model",
+      "question": "A division's poor group functioning last year leads the company to redesign team roles and structure this year. Which feature of the OB model does this illustrate?",
+      "options": {
+        "A": "Processes are set before the group forms",
+        "B": "Outcomes can influence inputs in the future",
+        "C": "Inputs cannot change once employment begins",
+        "D": "Outcomes come before processes in time"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The model runs from inputs to processes to outcomes, and it also shows that outcomes can influence future inputs, such as group structure and roles. (Ch 1: Coming Attractions: Developing an OB Model)\n**Why not A:** Processes are actions that result from inputs; it's inputs like structure and roles that are set as groups form.\n**Why not C:** Many inputs are set in advance, but the model shows outcomes can feed back and change them.\n**Why not D:** The model runs inputs, then processes, then outcomes; outcomes don't precede processes."
+    },
+    {
+      "topic": "OB outcomes",
+      "question": "A sales associate voluntarily trains a new colleague during her breaks and covers for a sick co-worker, though neither task is part of her job. Which outcome does this represent?",
+      "options": {
+        "A": "Organizational citizenship behaviour",
+        "B": "Organizational productivity",
+        "C": "Group cohesion within the team",
+        "D": "Task performance on core duties"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** OCB is discretionary behaviour outside formal job requirements that promotes the effective functioning of the organization, such as helping others and volunteering for extra activities. (Ch 1: Outcomes, Organizational Citizenship Behaviour)\n**Why not B:** Productivity is the organization-level combination of effectiveness and efficiency.\n**Why not C:** Cohesion is the extent to which group members support one another overall, a group-level outcome rather than one person's discretionary acts.\n**Why not D:** Task performance is effectiveness and efficiency at core job tasks; these activities fall outside her job."
+    },
+    {
+      "topic": "OB outcomes",
+      "question": "Three employees quit a store this quarter, and all three were marginal performers. How does the chapter suggest this turnover could be viewed?",
+      "options": {
+        "A": "As potentially positive, opening room for better hires and fresh ideas",
+        "B": "As a sign of strong group cohesion among the remaining employees",
+        "C": "As always harmful, because any turnover disrupts the store's operations",
+        "D": "As a form of citizenship behaviour that benefits the whole team"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** If the 'right' people leave, turnover can be positive: it creates a chance to replace underperformers, opens promotion opportunities and brings in fresh ideas. (Ch 1: Outcomes, Withdrawal Behaviour)\n**Why not B:** The departure of marginal performers says nothing about how much the remaining group supports one another.\n**Why not C:** The chapter notes high turnover can be disruptive, but some turnover can be positive.\n**Why not D:** Quitting is withdrawal behaviour, not citizenship behaviour."
+    },
+    {
+      "topic": "OB outcomes",
+      "question": "A hospital meets all of its patients' needs very well, but its cost per patient is far above comparable hospitals. In the chapter's terms, how would you describe it?",
+      "options": {
+        "A": "Efficient but not effective",
+        "B": "Both effective and efficient",
+        "C": "Fully productive, since patients are satisfied",
+        "D": "Effective but not efficient"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Effectiveness is meeting clients' needs; efficiency is achieving ends at low cost. Productivity requires both. (Ch 1: Outcomes, Productivity)\n**Why not A:** This reverses the definitions: it meets needs (effective) at high cost (not efficient).\n**Why not B:** Its high cost per patient means it isn't efficient.\n**Why not C:** Productivity requires both effectiveness and efficiency, and it isn't efficient."
+    },
+    {
+      "topic": "OB outcomes",
+      "question": "Sears found that a 5% improvement in employee attitudes led to a 1.3% rise in customer satisfaction and a 0.5% gain in revenue growth. What does this illustrate for service organizations?",
+      "options": {
+        "A": "Small attitude changes have little measurable effect on the business",
+        "B": "Customer satisfaction drives employee attitudes rather than the reverse",
+        "C": "Employee attitudes flow through to customers and then to productivity",
+        "D": "Revenue depends on pricing more than on employee–customer contact"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The chapter describes a chain from employee attitudes and behaviour, to customer attitudes and behaviour, to a service organization's productivity, which is why customer needs must be part of judging effectiveness. (Ch 1: Outcomes, Productivity)\n**Why not A:** Training to improve employee–customer interactions raised satisfaction by 4%, worth an estimated $200 million in revenue.\n**Why not B:** The chain runs from employee attitudes to customer attitudes, not the other way round.\n**Why not D:** The Sears data link employee attitudes and interactions to revenue, not pricing."
+    },
+    {
+      "topic": "OB outcomes",
+      "question": "A manufacturer runs its plants with great efficiency but keeps making products the market no longer wants. Which outcome in the OB model is most at risk?",
+      "options": {
+        "A": "Group functioning",
+        "B": "Withdrawal behaviour",
+        "C": "Organizational survival",
+        "D": "Task performance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Survival depends not just on productivity but on fit with the environment: perceiving the market, deciding when to pursue opportunities and managing change. (Ch 1: Outcomes, Survival)\n**Why not A:** Groups' output may be fine; the risk sits at the organizational level.\n**Why not B:** Nothing suggests employees are separating themselves from the organization.\n**Why not D:** Employees may be doing their core tasks well; the problem is the organization's fit with its market."
+    }
+  ]
+}

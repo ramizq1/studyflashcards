@@ -1,0 +1,242 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "OB on the Edge",
+    "short": "EDGE",
+    "number": "02",
+    "title": "Trust"
+  },
+  "collection": "Textbook: OB on the Edge",
+  "collectionOrder": 3,
+  "source": "OB textbook (7th Cdn ed.), OB on the Edge: Trust",
+  "questions": [
+    {
+      "topic": "What trust is and why it matters",
+      "question": "A new hire has just met her manager and knows nothing about him yet. He asks her to hand over a sensitive personal file on his word that it will stay private. According to the chapter, why is this hard for her?",
+      "options": {
+        "A": "Trust is a personality trait, and she is simply low in it",
+        "B": "Trust builds from experience; with no history she can only gamble",
+        "C": "Trust requires that no risk be involved, and this involves risk",
+        "D": "Trust depends only on the manager's formal role and authority"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Trust is a history-dependent process based on relevant but limited samples of experience; it builds incrementally, and in total ignorance we can gamble, but we can't trust. (OB on the Edge, Trust: What Is Trust?)\n**Why not A:** The chapter treats trust as a psychological state that builds through experience, not a fixed trait.\n**Why not C:** Every trusting relationship involves risk and vulnerability; trust is a willingness to take risk.\n**Why not D:** A role can offer some guarantee, but we come to trust people by observing their behaviour over time."
+    },
+    {
+      "topic": "What trust is and why it matters",
+      "question": "A manager says, 'Trusting someone just means I'm taking a risk on them.' How would the chapter refine this statement?",
+      "options": {
+        "A": "Trust removes risk, since the other party can't let you down",
+        "B": "Trust is the same as gambling on an unknown other person",
+        "C": "Trust is a willingness to take risk, not risk-taking itself",
+        "D": "Trust means having no positive expectations about outcomes"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Trust isn't taking risk per se; it's a willingness to take risk, expecting the other person won't take advantage of you, which is common to all trust situations. (OB on the Edge, Trust: What Is Trust?)\n**Why not A:** Trust inherently involves vulnerability and the chance of disappointment.\n**Why not B:** In total ignorance we can gamble but not trust; trust rests on positive expectations built from experience.\n**Why not D:** Trust involves positive expectations about how things will turn out."
+    },
+    {
+      "topic": "What trust is and why it matters",
+      "question": "Exit interviews at a firm show most departing employees cite pay. A recruiter suspects something else is driving them out. What does the chapter suggest may be going on?",
+      "options": {
+        "A": "A hidden trust deficit that employees won't name as they leave",
+        "B": "Employees leave over communication, which is unrelated to trust",
+        "C": "Employees exaggerate pay concerns to negotiate higher offers",
+        "D": "Pay really is the only reason, since trust affects only morale"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Managers and HR professionals often don't realize a trust deficit exists and assume people quit over pay; employees rarely cite lack of trust because it feels like burning a bridge on the way out. (OB on the Edge, Trust, opening)\n**Why not B:** Communication and trust are closely linked; candour and openness build trust.\n**Why not C:** The chapter's explanation is that employees avoid naming trust issues, not that they're bargaining.\n**Why not D:** Mistrust lowers commitment and raises turnover intentions, not just morale."
+    },
+    {
+      "topic": "What trust is and why it matters",
+      "question": "Employees at two offices do similar work. One office is known for trust and respect; the other isn't. Based on Duxbury and Higgins's research, how are they likely to differ?",
+      "options": {
+        "A": "The low-trust office is more productive, since people stay vigilant",
+        "B": "The trusting office reports more stress, since expectations rise",
+        "C": "Both report similar stress, but the trusting one has more turnover",
+        "D": "The trusting office reports less stress and more productivity"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Duxbury and Higgins found that employees in environments characterized by trust and respect report less stress and greater productivity than those in environments where trust is lacking. (OB on the Edge, Trust: What Can Leaders Do to Increase Trust?)\n**Why not A:** Mistrust generally reduces productivity.\n**Why not B:** The research links trust and respect to less stress, not more.\n**Why not C:** Trust is linked to lower stress and higher productivity; mistrust is what raises turnover intentions."
+    },
+    {
+      "topic": "What determines trust",
+      "question": "Mark is honest and clearly has his team's interests at heart, but they doubt he knows enough about the new software to lead its rollout. Which determinant of trust is weak?",
+      "options": {
+        "A": "Consistency",
+        "B": "Integrity",
+        "C": "Benevolence",
+        "D": "Ability"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Ability covers technical and interpersonal knowledge and skills; even a highly principled person with the best intentions won't be trusted to deliver if others doubt their ability. (OB on the Edge, Trust: What Determines Trust?)\n**Why not A:** The three determinants identified are integrity, benevolence and ability; the doubt here concerns his skills.\n**Why not B:** Integrity (honesty, and consistency between words and actions) is what Mark already has.\n**Why not C:** Benevolence (having others' interests at heart) isn't in doubt here."
+    },
+    {
+      "topic": "What determines trust",
+      "question": "A department head wants to rebuild trust after a difficult reorganization. Based on the review of leadership research, which approach is most likely to work?",
+      "options": {
+        "A": "Communicate mainly through top-down directives for clarity",
+        "B": "Rely on transactional rewards so expectations are explicit",
+        "C": "Use fair procedures and treatment, and involve staff in key decisions",
+        "D": "Keep decisions confidential until they're final to avoid rumours"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Leaders who practise procedural justice and interactional justice, encourage participative decision making and use a transformational style are most successful at building trust. (OB on the Edge, Trust: What Determines Trust?)\n**Why not A:** Research suggests shifting from top-down commands to ongoing dialogue builds trust.\n**Why not B:** The research points to a transformational style, not a transactional one.\n**Why not D:** Openness and keeping people informed build trust; secrecy feeds mistrust."
+    },
+    {
+      "topic": "What determines trust",
+      "question": "Research with 100 companies around the world found a communication shift that helps leaders build trust and engagement. Which practice fits it?",
+      "options": {
+        "A": "Unstructured chats with no agenda, so people feel more relaxed",
+        "B": "Detailed written directives sent from the top to every employee",
+        "C": "Ongoing conversations that are intimate, interactive and inclusive",
+        "D": "Quarterly town halls where executives present results to staff"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Leaders build trust by shifting from top-down commands to ongoing organizational dialogue: conversations that are intimate, interactive and inclusive, and that intentionally follow an agenda. (OB on the Edge, Trust: What Determines Trust?)\n**Why not A:** The conversations intentionally follow an agenda.\n**Why not B:** Top-down commands are what leaders should move away from.\n**Why not D:** One-way presentations aren't the interactive, ongoing dialogue the research describes."
+    },
+    {
+      "topic": "Breaking and repairing trust",
+      "question": "A project failed because a manager lacked the technical skills she claimed to have. She wants to regain her team's trust. What does the research suggest?",
+      "options": {
+        "A": "Avoid apologizing, since it would admit a lack of integrity",
+        "B": "Apologize and acknowledge she should have done better",
+        "C": "Say nothing and let her future results speak for her",
+        "D": "Accept that trust can never be regained after a violation"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** When a violation stems from a lack of ability, it's usually best to apologize and recognize you should have done better; trust can then be restored through a consistent pattern of trustworthy behaviour. (OB on the Edge, Trust: Basic Principles of Trust)\n**Why not A:** For ability-based violations, apologizing is the recommended response.\n**Why not C:** Saying nothing, or refusing to confirm or deny, is never an effective way to regain trust.\n**Why not D:** Trust can be regained in certain situations, especially ones involving ability."
+    },
+    {
+      "topic": "Breaking and repairing trust",
+      "question": "A director was caught deliberately deceiving his team about planned layoffs. He apologizes, makes promises and behaves consistently for a year afterward. What does the research predict?",
+      "options": {
+        "A": "Trust never fully recovers after deception like this",
+        "B": "Trust fully recovers once he shows a consistent pattern",
+        "C": "A sincere apology alone is enough to restore trust fully",
+        "D": "Trust recovers faster if he declines to confirm or deny it"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** If the transgressor used deception, trust never fully recovers, even when the deceived person receives apologies, promises or a consistent pattern of trustworthy actions. (OB on the Edge, Trust: Basic Principles of Trust)\n**Why not B:** Consistent trustworthy behaviour can restore trust in some cases, but not after deception.\n**Why not C:** When integrity is the problem, apologies don't do much good.\n**Why not D:** Refusing to confirm or deny guilt is never an effective strategy."
+    },
+    {
+      "topic": "Breaking and repairing trust",
+      "question": "A leader who already has a weak, low-quality relationship with an employee breaks a promise to her. Compared with a follower who has a strong relationship with him, how is she likely to judge him?",
+      "options": {
+        "A": "Less harshly, since she expected little from him to begin with",
+        "B": "More harshly, but only if the broken promise involved her pay",
+        "C": "More harshly, since low leader–member exchange worsens it",
+        "D": "The same, since relationship quality doesn't affect judgments"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Leaders who betray trust are especially likely to be evaluated negatively by followers when there's already a low level of leader–member exchange. (OB on the Edge, Trust: Basic Principles of Trust)\n**Why not A:** The research finds betrayal is judged more negatively when leader–member exchange is low.\n**Why not B:** The finding concerns low leader–member exchange generally, not pay specifically.\n**Why not D:** The existing relationship quality does shape how a betrayal is judged."
+    },
+    {
+      "topic": "Breaking and repairing trust",
+      "question": "In a newly merged department, a few managers hoard information and quietly look out for themselves. Soon others begin doing the same. Which principle of trust does this illustrate?",
+      "options": {
+        "A": "Trust increases cohesion",
+        "B": "Trust can be regained",
+        "C": "Trust begets trust",
+        "D": "Mistrust drives out trust"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People who mistrust conceal information and act opportunistically to take advantage of others; a few mistrusting people can poison an entire organization. (OB on the Edge, Trust: Basic Principles of Trust)\n**Why not A:** Cohesion grows from trust; here mistrust is spreading.\n**Why not B:** That principle concerns repairing trust after a violation.\n**Why not C:** That principle describes trust encouraging reciprocity, the opposite of what's happening here."
+    },
+    {
+      "topic": "Breaking and repairing trust",
+      "question": "A manager breaks the psychological contract with her staff by reneging on promised flexible hours. Which outcomes does the research link to this kind of broken trust?",
+      "options": {
+        "A": "No change, since employees separate their work from trust issues",
+        "B": "Lower commitment and citizenship, and higher intent to quit",
+        "C": "Higher productivity, as staff work harder to prove their value",
+        "D": "Lower stress, since staff stop expecting anything from her"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Leaders who break the psychological contract find employees less satisfied and less committed, with higher turnover intentions, less citizenship behaviour and lower task performance. (OB on the Edge, Trust: Basic Principles of Trust)\n**Why not A:** Broken trust affects satisfaction, commitment, turnover intentions, citizenship and performance.\n**Why not C:** Mistrust generally reduces productivity.\n**Why not D:** Trust and respect are linked to less stress; mistrust doesn't reduce it."
+    },
+    {
+      "topic": "Building trust and trusting wisely",
+      "question": "Players on a college basketball team report very low trust in their coach. Based on Dirks's study of NCAA teams, what's the likely consequence?",
+      "options": {
+        "A": "Poorer results, since trust in the coach affects team performance",
+        "B": "Poorer morale, but no measurable change in win–loss record",
+        "C": "Better results, since players compensate for a weak coach",
+        "D": "No effect, since performance depends only on players' talent"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Dirks found players' trust in their coach improves team performance: the highest-trust teams had outstanding records, while the lowest-trust team won only 10% of its games and its coach was fired. (OB on the Edge, Trust: Building Team Trust)\n**Why not B:** The difference showed up clearly in teams' records.\n**Why not C:** The lowest-trust team had the worst record, not a better one.\n**Why not D:** Trust in the coach measurably affected team performance."
+    },
+    {
+      "topic": "Building trust and trusting wisely",
+      "question": "A team leader wants to build trust within her team. Which behaviour fits the chapter's guidance?",
+      "options": {
+        "A": "Explain decisions and share her feelings, not just hard facts",
+        "B": "Pass along what colleagues tell her privately, to show openness",
+        "C": "Share only hard facts so she appears objective and neutral",
+        "D": "Keep problems quiet until solved to avoid alarming the team"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Practising openness (keeping people informed, explaining decisions, disclosing relevant information) and speaking your feelings so others see you as real and human both build team trust. (OB on the Edge, Trust: Building Team Trust)\n**Why not B:** Maintaining confidences is essential; leaking them destroys trust.\n**Why not C:** Leaders who convey only hard facts come across as cold and distant.\n**Why not D:** Mistrust comes as much from what people don't know; be candid about problems."
+    },
+    {
+      "topic": "Building trust and trusting wisely",
+      "question": "A highly trusting software team gives each member wide autonomy, and members rarely check one another's work. Performance slips. What does the chapter suggest?",
+      "options": {
+        "A": "Trust is irrelevant; the slip must reflect weak technical skills",
+        "B": "More autonomy is needed, since trust always improves results",
+        "C": "High trust with low monitoring and high autonomy can backfire",
+        "D": "The team's trust must actually be low, given the drop in results"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** High trust can have a downside: members may not monitor one another, and when low monitoring is paired with high individual autonomy, the team can perform poorly. (OB on the Edge, Trust: Building Team Trust)\n**Why not A:** The chapter identifies this specific downside of high trust.\n**Why not B:** High autonomy combined with low monitoring is part of the problem.\n**Why not D:** The scenario describes high trust; the problem is the low monitoring that came with it."
+    },
+    {
+      "topic": "Building trust and trusting wisely",
+      "question": "A CEO wants to build a culture of candour in her organization. Which step fits the chapter's tips?",
+      "options": {
+        "A": "Deliver bad news bluntly to save everyone's time",
+        "B": "Share information only on a need-to-know basis",
+        "C": "Hide mistakes so leaders keep their credibility",
+        "D": "Reward contrarians and protect whistle-blowers"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Tips for candour include telling the truth, encouraging people to speak truth to power, rewarding contrarians, admitting mistakes, building support for transparency (such as protecting whistle-blowers) and setting information free. (OB on the Edge, Trust: Increasing Organizational Candour)\n**Why not A:** Practise unpleasant conversations and deliver bad news kindly so people aren't hurt unnecessarily.\n**Why not B:** Share information unless there's a clear reason not to.\n**Why not C:** Admitting your mistakes encourages others to do the same."
+    },
+    {
+      "topic": "Building trust and trusting wisely",
+      "question": "During a merger, a manager stays alert to who might threaten his department's position, without becoming cynical about everyone. Which idea from Kramer does this reflect?",
+      "options": {
+        "A": "Prudent paranoia as part of tempered trust",
+        "B": "Blind trust that builds social capital quickly",
+        "C": "Total distrust as a permanent defensive stance",
+        "D": "Default trust, since people trust reflexively"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Kramer argues we're hard-wired to trust and suggests 'tempered trust,' starting with prudent paranoia (constructive suspicion), which can act as an early warning in difficult times such as mergers. (OB on the Edge, Trust: Does Distrust Ever Pay Off?)\n**Why not B:** Social capital rests on trust, but Kramer warns against mindless trust.\n**Why not C:** Kramer recommends trusting wisely and well, not distrusting everyone.\n**Why not D:** Kramer says reflexive trust is our default, but it can let us down; he recommends tempering it."
+    },
+    {
+      "topic": "Building trust and trusting wisely",
+      "question": "Following Kramer's rules for trusting wisely, how should a manager approach a relationship with a new supplier?",
+      "options": {
+        "A": "Trust fully from day one so the supplier feels respected",
+        "B": "Start with small acts of trust and see if they're returned",
+        "C": "Avoid exit terms, since planning an ending signals distrust",
+        "D": "Do thorough due diligence once at the start, then relax"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Kramer's rules include starting small, writing an escape clause, sending strong signals, recognizing the other person's dilemma, looking at roles as well as people and remaining vigilant. (OB on the Edge, Trust: The Rules for Trusting Wisely)\n**Why not A:** Kramer recommends starting with small acts of trust rather than full trust.\n**Why not C:** Kramer suggests writing an escape clause so people can trust more fully.\n**Why not D:** Kramer says to keep due diligence up to date, not just at the start."
+    },
+    {
+      "topic": "Building trust and trusting wisely",
+      "question": "A manager assumes that suspicious people must be the best at spotting liars. What did a Rotman School study by Carter and Weber find?",
+      "options": {
+        "A": "Suspicious people were better at detecting lies",
+        "B": "Only people high in emotional intelligence could tell",
+        "C": "Trust had no link to lie detection either way",
+        "D": "More trusting people were better at detecting lies"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Carter and Weber found that people who are more trusting are better able to detect lies in other people. (OB on the Edge, Trust: Does Distrust Ever Pay Off?)\n**Why not A:** The study found the opposite: more trusting people did better.\n**Why not B:** The finding concerns trusting people; emotional intelligence is linked to prudent paranoia.\n**Why not C:** The study found a link between trust and lie detection."
+    }
+  ]
+}

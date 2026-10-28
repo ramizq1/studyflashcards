@@ -1,0 +1,494 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "04",
+    "title": "Theories of Motivation"
+  },
+  "collection": "Lecture slides (9th Canadian ed.)",
+  "collectionOrder": 1,
+  "source": "04.txt – Chapter 4 lecture slides",
+  "questions": [
+    {
+      "topic": "What is motivation?",
+      "question": "Priya, a sales rep, makes 80 cold calls a day and keeps that pace for months, but most of her calls promote a product line her company is phasing out. Which element of motivation is the main problem?",
+      "options": {
+        "A": "Persistence: she can't sustain her effort over a long period",
+        "B": "Direction: her effort isn't channelled toward the company's goals",
+        "C": "Valence: she doesn't value the rewards that sales can bring",
+        "D": "Intensity: she isn't trying hard enough on each of her calls"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Motivation has three elements: intensity (how hard a person tries), direction (where effort is channelled) and persistence (how long effort is maintained). Priya tries hard and keeps going, but her effort is aimed at the wrong target. (Ch 4 slides: What Is Motivation?)\n**Why not A:** She keeps the pace for months, so persistence is strong.\n**Why not C:** Valence is an expectancy-theory term, not one of the three elements of motivation, and nothing suggests she dislikes the rewards.\n**Why not D:** Eighty calls a day shows high intensity; the problem is where the effort goes, not how hard she tries."
+    },
+    {
+      "topic": "What is motivation?",
+      "question": "A new analyst tackles a complex audit with great energy for two days, focusing on exactly the right accounts, but gives up as soon as the first errors appear. Which element of motivation is weakest?",
+      "options": {
+        "A": "Instrumentality: she doubts her work will be rewarded",
+        "B": "Persistence: she doesn't maintain her effort long enough",
+        "C": "Intensity: she doesn't try hard enough while working",
+        "D": "Direction: her effort is aimed at the wrong accounts"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Persistence is how long effort is maintained. She starts with high intensity and the right direction but stops at the first setback. (Ch 4 slides: What Is Motivation?)\n**Why not A:** Instrumentality belongs to expectancy theory; the scenario describes quitting under difficulty, not doubts about rewards.\n**Why not C:** She works with great energy, so intensity is high.\n**Why not D:** She focuses on exactly the right accounts, so direction is fine."
+    },
+    {
+      "topic": "What is motivation?",
+      "question": "A plant manager installs time clocks, requires supervisors to approve every break, and threatens discipline for missed quotas, saying people only work when they're watched. Which assumption is driving his approach?",
+      "options": {
+        "A": "Hygiene theory: fixing poor work conditions will make staff productive",
+        "B": "Theory Y: employees seek responsibility once they commit to goals",
+        "C": "Prevention focus: people pursue goals by meeting duties and obligations",
+        "D": "Theory X: employees dislike work and must be controlled or coerced"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Theory X assumes employees dislike and try to avoid work, so they must be coerced, controlled or threatened with punishment to achieve goals, which matches the clocks, approvals and threats. (Ch 4 slides: Theory X and Theory Y)\n**Why not A:** Hygiene factors come from Herzberg and only prevent dissatisfaction; they aren't a belief about whether people dislike work.\n**Why not B:** Theory Y is the opposite assumption: committed employees exercise self-direction and self-control, so close control wouldn't be needed.\n**Why not C:** Prevention focus describes how an individual self-regulates during goal pursuit, not a manager's assumption about human nature."
+    },
+    {
+      "topic": "What is motivation?",
+      "question": "Two nurses on the same unit often stay late. Ana stays because she finds complex cases fascinating; Ben stays only on nights when overtime pay is offered. How should their motivation be classified?",
+      "options": {
+        "A": "Both are extrinsically motivated because both respond to job demands",
+        "B": "Both are intrinsically motivated because both choose to stay late",
+        "C": "Ana is intrinsically motivated and Ben is extrinsically motivated",
+        "D": "Ana is extrinsically motivated and Ben is intrinsically motivated"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Intrinsic motivation is an internal desire driven by interest, challenge and personal satisfaction; extrinsic motivation comes from outside the person, such as pay, bonuses and other tangible rewards. (Ch 4 slides: What Is Motivation?)\n**Why not A:** Ana is driven by her interest in the cases, which is an internal source.\n**Why not B:** Choosing to stay doesn't make motivation intrinsic; what matters is the source of the drive, and Ben's is pay.\n**Why not D:** This reverses the definitions: interest is an internal source, overtime pay an external one."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "Rumours of layoffs have warehouse staff worried about keeping their jobs. Management responds by launching a prestigious 'Employee of the Month' award. Why might Maslow predict the award will do little right now?",
+      "options": {
+        "A": "Esteem is a lower-order need that pay already satisfies",
+        "B": "Recognition is a hygiene factor that can't create satisfaction",
+        "C": "Self-actualization must be met before any other need matters",
+        "D": "Unmet safety needs come before esteem needs in the hierarchy"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Maslow argues lower-order needs (physiological, safety) must be satisfied before people progress to higher-order needs such as esteem. Job security is a safety need, so recognition won't motivate much while it's threatened. (Ch 4 slides: Maslow's Hierarchy of Needs)\n**Why not A:** Esteem is a higher-order need, satisfied internally; it isn't satisfied by pay.\n**Why not B:** This is Herzberg's framework, not Maslow's, and Herzberg actually lists recognition as a motivator.\n**Why not C:** This reverses the hierarchy; self-actualization is at the top and comes last."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "An HR director builds a company-wide engagement program on the premise that employees must satisfy needs strictly in Maslow's order. What does the research summarized in the chapter suggest?",
+      "options": {
+        "A": "There's little support for a strict hierarchy, despite its popularity",
+        "B": "The hierarchy is well validated, which is why managers know it",
+        "C": "The hierarchy has its strongest support for achievement needs",
+        "D": "The hierarchy holds for higher-order needs but not for lower ones"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Maslow's theory is widely recognized by practising managers, but research generally doesn't validate it, and there is especially little support for the hierarchical ordering of needs. (Ch 4 slides: Support and Criticism of Needs Theories)\n**Why not B:** Popularity with managers isn't evidence; the chapter says research does not generally validate the theory.\n**Why not C:** Good empirical support for the need for achievement belongs to McClelland's theory, not Maslow's.\n**Why not D:** The chapter reports no such partial support; the criticism targets the hierarchy itself."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "A company upgrades its cafeteria, improves the office lighting and clarifies confusing policies. Complaints drop sharply, but enthusiasm and effort stay flat. How does two-factor theory explain this?",
+      "options": {
+        "A": "Satisfaction should rise as dissatisfaction falls, since both share one continuum",
+        "B": "Hygiene factors only matter to staff with a high need for affiliation",
+        "C": "Fixing hygiene factors ends dissatisfaction but doesn't create satisfaction",
+        "D": "The changes were motivators, which take longer to show their effect"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Herzberg separates the two: hygiene factors (working conditions, policy) move people from dissatisfaction to no dissatisfaction, while only motivators (achievement, recognition, the work itself) create satisfaction. (Ch 4 slides: Two-Factor Theory, Exhibit 4.3)\n**Why not A:** That's the traditional single-continuum view; Herzberg treats satisfaction and dissatisfaction as separate continuums.\n**Why not B:** This mixes in McClelland's needs; Herzberg's hygiene factors apply to employees generally.\n**Why not D:** Working conditions and policies are hygiene factors, and the theory says nothing about delayed effects."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "Based on two-factor theory, which change is most likely to increase job satisfaction for a team of engineers?",
+      "options": {
+        "A": "Adding challenging work, more responsibility and recognition",
+        "B": "Upgrading their working conditions and office equipment",
+        "C": "Improving their relationship with their direct supervisor",
+        "D": "Clarifying company policies and administrative procedures"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Motivators are intrinsic factors tied to the content of work (achievement, recognition, challenging work, responsibility, advancement, growth), and they are the sources of satisfaction. (Ch 4 slides: Two-Factor Theory, Exhibit 4.2)\n**Why not B:** Working conditions are a hygiene factor: improving them prevents dissatisfaction but doesn't create satisfaction.\n**Why not C:** The relationship with a supervisor is a hygiene (context) factor, not a motivator.\n**Why not D:** Company policy and administration is a hygiene factor, and the largest source of dissatisfaction in Herzberg's data."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "A manager tells you Herzberg proved that satisfied workers are more productive. Which criticism from the chapter undercuts that claim?",
+      "options": {
+        "A": "He assumed a satisfaction–productivity link but never demonstrated it",
+        "B": "He measured productivity closely but ignored overall satisfaction",
+        "C": "His data came only from managers, not from the employees themselves",
+        "D": "He found that hygiene factors drive productivity more than motivators"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Critics note that Herzberg assumed satisfaction and productivity are related, but that link was never measured or demonstrated, which is why some say it isn't really a theory of motivation. (Ch 4 slides: Criticisms of Motivation-Hygiene Theory)\n**Why not B:** Herzberg didn't measure productivity at all; critics fault him both for using no overall satisfaction measure and for never testing the productivity link.\n**Why not C:** The chapter's criticisms concern his methodology and its reliability, not whose responses were collected.\n**Why not D:** The theory makes no such finding; hygiene factors relate to dissatisfaction, not productivity."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "A manager focuses on making pay fair, jobs secure and co-worker relationships friendly (Maslow's lower-order and social needs). In Herzberg's terms, which factors is she mainly addressing?",
+      "options": {
+        "A": "Motivators, which create job satisfaction",
+        "B": "Hygiene factors, which prevent dissatisfaction",
+        "C": "Intrinsic factors tied to the content of the work",
+        "D": "The need for achievement, which drives excellence"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The chapter's comparison of needs theories links Maslow's physiological, safety and social needs to Herzberg's hygiene factors, while esteem and self-actualization line up with motivators. (Ch 4 slides: Exhibit 4.4 Relationship of Various Needs Theories)\n**Why not A:** Motivators line up with Maslow's higher-order needs (esteem, self-actualization), not with security and social needs.\n**Why not C:** Intrinsic content factors are Herzberg's motivators; pay, security and relationships are context factors.\n**Why not D:** This is McClelland's construct; in the comparison it maps to Herzberg's motivators, not to hygiene factors."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "Leila, a top developer with a very high need for achievement, is promoted to lead a 15-person team. Based on McClelland's theory, what should her director watch for?",
+      "options": {
+        "A": "She may focus on her own performance rather than on managing others",
+        "B": "She may set easy targets because high achievers avoid tough standards",
+        "C": "She may avoid giving tough feedback because of her need for affiliation",
+        "D": "She may become overly controlling because of a strong need for power"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** McClelland's theory tells us high achievers don't necessarily make good managers, because they're more interested in how they do personally. (Ch 4 slides: Impact of Needs Theories)\n**Why not B:** It's the opposite: people high in need for achievement strive to excel against demanding standards.\n**Why not C:** Nothing suggests a high need for affiliation; her dominant need is achievement.\n**Why not D:** The scenario describes a high need for achievement, not a need for power."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "Marco volunteers to chair committees mainly because he enjoys shaping what others decide and getting them to act in ways they otherwise wouldn't. Which need is dominant for him?",
+      "options": {
+        "A": "Need for affiliation",
+        "B": "Need for power",
+        "C": "Need for esteem",
+        "D": "Need for achievement"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** McClelland defines the need for power as the need to make others behave in a way they would not have behaved otherwise. (Ch 4 slides: McClelland's Theory of Needs)\n**Why not A:** The need for affiliation is the desire for friendly, close relationships, not influence over others.\n**Why not C:** Esteem is one of Maslow's needs (status, recognition); the specific drive to change others' behaviour is McClelland's need for power.\n**Why not D:** The need for achievement is the drive to excel against a set of standards; Marco's satisfaction comes from influencing others."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "Sales reps at a firm are confident they can hit quota and really want the promised bonus, but in each of the last two years management cancelled bonuses at the last minute. Which expectancy-theory link is weakest?",
+      "options": {
+        "A": "Equity: doubt that their pay is fair compared with other firms",
+        "B": "Valence: doubt that the bonus is worth having for them personally",
+        "C": "Instrumentality: doubt that performance will lead to the reward",
+        "D": "Expectancy: doubt that their effort will lead to good performance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Instrumentality is the belief that performance is related to rewards. The reps believe they can perform and they value the bonus, but past cancellations make them doubt that hitting quota will be rewarded. (Ch 4 slides: Expectancy Theory)\n**Why not A:** Equity is a separate theory, and the scenario involves no comparison with others.\n**Why not B:** They really want the bonus, so valence is high.\n**Why not D:** They're confident they can hit quota, so the effort–performance link is strong."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "A firm offers an attractive trip for reaching a sales target and has always paid out as promised. Yet most staff say the target is impossible without product training they haven't received. Which step would most improve motivation?",
+      "options": {
+        "A": "Recognize past performance more visibly to strengthen instrumentality",
+        "B": "Pay the reward on a variable-ratio schedule to sustain effort",
+        "C": "Provide the training and set goals that are reasonable to reach",
+        "D": "Ask staff which rewards they value to strengthen valence"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** This is an expectancy problem (effort won't lead to performance). The chapter's steps for improving expectancy are making sure employees have the skills, providing training and assigning reasonable goals. (Ch 4 slides: Exhibit 4.7 Steps to Increasing Motivation)\n**Why not A:** Instrumentality is already strong, because the firm always pays out.\n**Why not B:** A reinforcement schedule doesn't fix the belief that effort can't produce the required performance.\n**Why not D:** The trip is already attractive, so valence isn't the problem."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "A company rewards top performers with extra vacation days, but many of its employees are saving to buy homes and would much prefer cash. According to expectancy theory, what should management do?",
+      "options": {
+        "A": "Provide more training so more employees can reach top performance",
+        "B": "Deliver the vacation days more reliably to strengthen instrumentality",
+        "C": "Drop the reward, since extrinsic rewards always reduce motivation",
+        "D": "Ask employees which rewards they value and offer those instead"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** This is a valence problem: the reward isn't attractive to the people receiving it. Improving valence means asking employees what rewards they value and giving those. (Ch 4 slides: Exhibit 4.7 Steps to Increasing Motivation)\n**Why not A:** That would strengthen expectancy, but the problem is that the reward isn't valued.\n**Why not B:** Nothing suggests the days aren't delivered; the problem is how attractive the reward is.\n**Why not C:** This over-generalizes self-determination theory; expectancy theory calls for rewards people actually value."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "An executive offers a two-person team a $50,000 bonus if they rebuild the entire company website by Friday. The team would love the money, but the deadline is impossible and the executive has broken similar promises before. What does expectancy theory predict?",
+      "options": {
+        "A": "Low motivation, since expectancy and instrumentality are both weak",
+        "B": "High motivation, because the bonus has very high valence for them",
+        "C": "Moderate motivation, since one strong link offsets two weak ones",
+        "D": "High motivation, because difficult goals lead to higher performance"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Motivation depends on all three links. A highly valued reward can't make up for believing that effort won't produce the performance and that performance won't be rewarded, as in the chapter's memorize-the-textbook example. (Ch 4 slides: Exhibit 4.6 How Does Expectancy Theory Work?)\n**Why not B:** Valence alone isn't enough: the theory predicts no motivation when the other links are near zero.\n**Why not C:** The links don't average out; a near-zero expectancy or instrumentality undermines motivation.\n**Why not D:** Goal-setting theory needs difficult goals that are accepted; an impossible deadline won't be accepted."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "A manager wants annual performance reviews to support motivation rather than undermine it. Which approach does the chapter recommend?",
+      "options": {
+        "A": "Deliver the final ratings first, then explain the reasons behind them",
+        "B": "Compare the employee with the team's top performer to set a clear bar",
+        "C": "Treat it like counselling that builds on the employee's self-evaluation",
+        "D": "Keep it brief and formal so the manager's ratings aren't challenged"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** An effective review is perceived as fair, the manager is sincere, the climate is constructive, and it works more like counselling than judgment, evolving from the employee's own self-evaluation. (Ch 4 slides: Expectancy Theory, effective performance review)\n**Why not A:** This makes the review a judgment process, which the chapter advises against.\n**Why not B:** The chapter's guidance centres on fairness, sincerity and self-evaluation, not on comparison with peers.\n**Why not D:** Avoiding discussion works against perceived fairness and a constructive climate."
+    },
+    {
+      "topic": "Goal-setting theory",
+      "question": "Two call-centre teams get different instructions. Team A is told to 'do your best.' Team B must resolve 85% of calls on first contact and receives weekly feedback on progress. Which team does goal-setting theory predict will perform better?",
+      "options": {
+        "A": "Both teams equally, since performance depends mainly on the rewards offered",
+        "B": "Team A, because general goals reduce pressure and encourage effort",
+        "C": "Team A, because employees usually reject goals that are difficult",
+        "D": "Team B, because specific, difficult goals with feedback raise performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Goal-setting theory holds that specific and difficult goals, once accepted and combined with feedback, produce higher performance than the general goal of 'do your best'. (Ch 4 slides: Goal-Setting Theory)\n**Why not A:** Goal-setting theory says the goal itself (its specificity, difficulty and feedback) affects performance.\n**Why not B:** The theory says specific, hard goals produce more output than 'do your best'.\n**Why not C:** Difficult goals, when accepted, lead to higher performance; the theory doesn't say they're usually rejected."
+    },
+    {
+      "topic": "Goal-setting theory",
+      "question": "Each quarter, a manager and each employee jointly agree on measurable targets, review progress together, and tie rewards to that progress. What approach is this?",
+      "options": {
+        "A": "Management by objectives",
+        "B": "Procedural justice review",
+        "C": "Self-concordant goal setting",
+        "D": "Continuous reinforcement"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Management by objectives sets specific, measurable goals jointly with managers and employees, reviews progress periodically, and allocates rewards based on that progress. (Ch 4 slides: Management by Objectives)\n**Why not B:** Procedural justice is the perceived fairness of the process used to distribute rewards, not a goal-setting program.\n**Why not C:** Self-concordance is about whether a goal fits a person's interests and values, not a joint review-and-reward program.\n**Why not D:** Continuous reinforcement rewards a desired behaviour every single time it occurs."
+    },
+    {
+      "topic": "Goal-setting theory",
+      "question": "Jun and Dana pursue the same safety-audit goal. Jun is energized by the chance to stand out and advance; Dana is driven by meeting her duties and obligations so nothing goes wrong. Which self-regulation strategies are they using?",
+      "options": {
+        "A": "Jun has a promotion focus and Dana has a prevention focus",
+        "B": "Jun has a prevention focus and Dana has a promotion focus",
+        "C": "Jun has high self-efficacy and Dana a high need for affiliation",
+        "D": "Both have a promotion focus because both are pursuing the goal"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A promotion focus means striving for goals through advancement and accomplishment; a prevention focus means striving by fulfilling duties and obligations. (Ch 4 slides: Goal-Setting Theory, promotion and prevention focus)\n**Why not B:** This reverses the definitions: advancement is promotion, duties and obligations are prevention.\n**Why not C:** These are different concepts; the scenario describes how each person regulates the pursuit of the goal.\n**Why not D:** Pursuing a goal doesn't determine the strategy; Dana's duty-driven approach is a prevention focus."
+    },
+    {
+      "topic": "Self-efficacy theory",
+      "question": "A trainee pilot becomes more confident about crosswind landings after watching a classmate with similar experience land smoothly in strong wind. Which source of self-efficacy is at work?",
+      "options": {
+        "A": "Arousal",
+        "B": "Vicarious modelling",
+        "C": "Enactive mastery",
+        "D": "Verbal persuasion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Vicarious modelling is confidence gained by seeing someone else perform the task, especially someone similar to you. (Ch 4 slides: Four Ways to Improve Self-Efficacy)\n**Why not A:** Arousal is an energized state that drives you to complete a task, not confidence gained from observing others.\n**Why not C:** Enactive mastery comes from gaining relevant experience yourself, and she hasn't done the landing herself yet.\n**Why not D:** Verbal persuasion is confidence from someone convincing you that you have the skills; here she watched rather than being told."
+    },
+    {
+      "topic": "Self-efficacy theory",
+      "question": "A manager gives an employee with high self-efficacy a difficult, specific goal. According to the chapter's model of goals and self-efficacy, what typically follows?",
+      "options": {
+        "A": "She privately lowers the goal to a level she's sure to reach",
+        "B": "She sets a higher personal goal and performs at a higher level",
+        "C": "She performs the same, since self-efficacy affects effort, not goals",
+        "D": "She relies on rewards from the manager rather than her own targets"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The chapter's model shows that a difficult, specific goal builds confidence (self-efficacy) and leads the person to set a higher self-set goal, and both lead to higher performance. (Ch 4 slides: Exhibit 4.9 Joint Effects of Goals and Self-Efficacy)\n**Why not A:** That runs against the model: confidence leads people to aim higher, not lower.\n**Why not C:** In the model, self-efficacy raises personal goals as well as performance.\n**Why not D:** The model is about self-set goals and confidence, not reliance on external rewards."
+    },
+    {
+      "topic": "Reinforcement theory",
+      "question": "Sofia's manager nags her every morning about late reports. Sofia starts submitting reports on time, and the nagging stops. Which method of shaping behaviour explains why on-time submission increases?",
+      "options": {
+        "A": "Positive reinforcement",
+        "B": "Extinction",
+        "C": "Punishment",
+        "D": "Negative reinforcement"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Negative reinforcement strengthens a behaviour by ending or withdrawing something unpleasant: submitting on time makes the nagging stop. (Ch 4 slides: Methods of Shaping Behaviour, Exhibit 4.10)\n**Why not A:** Positive reinforcement follows a behaviour with something pleasant; nothing pleasant is added here.\n**Why not B:** Extinction eliminates a behaviour by removing the reinforcement that maintains it; here a behaviour increases.\n**Why not C:** Punishment applies an unpleasant condition to eliminate a behaviour; here a desired behaviour increases because something unpleasant is removed."
+    },
+    {
+      "topic": "Reinforcement theory",
+      "question": "A team member keeps making off-topic jokes in meetings. The leader and the rest of the team begin ignoring them completely, and over a few weeks the jokes fade away. Which method of shaping behaviour is this?",
+      "options": {
+        "A": "Punishment",
+        "B": "Intermittent reinforcement",
+        "C": "Extinction",
+        "D": "Negative reinforcement"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Extinction eliminates the reinforcement (attention, laughter) that was maintaining the behaviour, so the behaviour gradually stops. (Ch 4 slides: Methods of Shaping Behaviour, Exhibit 4.10)\n**Why not A:** Punishment would add an unpleasant consequence such as a reprimand; ignoring the jokes simply removes the reinforcement.\n**Why not B:** Intermittent reinforcement rewards a behaviour some of the time, which keeps it going rather than ending it.\n**Why not D:** Negative reinforcement increases a behaviour by removing something unpleasant; here the behaviour is decreasing."
+    },
+    {
+      "topic": "Reinforcement theory",
+      "question": "A sales director wants a reward arrangement that produces very high performance and keeps working even when rewards are irregular. Which arrangement best fits that goal?",
+      "options": {
+        "A": "Praise from the manager after every single successful sale",
+        "B": "Weekly paycheques that arrive on the same day every week",
+        "C": "Sales commissions earned after an unpredictable number of calls",
+        "D": "Piece-rate pay earned for every 50 units that are produced"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Commissioned sales are the chapter's example of a variable-ratio schedule (rewards after varying amounts of output), which produces very high performance with slow extinction. (Ch 4 slides: Exhibit 4.11 Schedules of Reinforcement)\n**Why not A:** That's continuous reinforcement: fast learning of new behaviour, but rapid extinction.\n**Why not B:** That's a fixed-interval schedule, linked to average and irregular performance with rapid extinction.\n**Why not D:** That's a fixed-ratio schedule: high, stable performance, but with rapid extinction."
+    },
+    {
+      "topic": "Reinforcement theory",
+      "question": "A retail manager runs surprise quality inspections at random times, and staff keep their standards consistently high every day. Which reinforcement schedule is this, and what effect does the chapter link it to?",
+      "options": {
+        "A": "Fixed-ratio: high performance attained very quickly",
+        "B": "Continuous: fast learning with rapid extinction",
+        "C": "Fixed-interval: average and irregular performance",
+        "D": "Variable-interval: moderately high, stable performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Rewards or checks at unpredictable times (like pop quizzes) form a variable-interval schedule, which the chapter links to moderately high, stable performance with slow extinction. (Ch 4 slides: Exhibit 4.11 Schedules of Reinforcement)\n**Why not A:** Ratio schedules depend on amounts of output, not on the timing of checks.\n**Why not B:** Continuous reinforcement follows every desired behaviour, not random spot checks.\n**Why not C:** Fixed-interval reinforcement comes at set times, like weekly paycheques; random inspections aren't fixed."
+    },
+    {
+      "topic": "Equity theory",
+      "question": "Maya compares her current salary and workload with what she earned and did in a similar job at her previous employer. Which equity referent is she using?",
+      "options": {
+        "A": "Other-outside",
+        "B": "Other-inside",
+        "C": "Self-inside",
+        "D": "Self-outside"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Self-outside is a person's own experience in a situation or position outside the current organization, such as a previous employer. (Ch 4 slides: Equity Comparisons)\n**Why not A:** Other-outside is another person or group outside the organization; she's comparing with her own past experience.\n**Why not B:** Other-inside is another person or group inside the employee's organization, not her own past job.\n**Why not C:** Self-inside is the person's own experience in a different position inside the current organization."
+    },
+    {
+      "topic": "Equity theory",
+      "question": "Raj, who is paid hourly, learns that a co-worker with the same duties earns 20% more. Raj quietly starts working more slowly. Which response to inequity is this?",
+      "options": {
+        "A": "Changing his outcomes",
+        "B": "Changing his inputs",
+        "C": "Choosing a different referent",
+        "D": "Adjusting perceptions of others"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Equity theory predicts that people who feel underpaid may change their inputs, such as exerting less effort. (Ch 4 slides: Responses to Perception of Inequity)\n**Why not A:** Changing outcomes means raising one's rewards, as piece-rate workers do by producing more units; Raj's pay doesn't change.\n**Why not C:** Raj keeps comparing himself with the same co-worker; he doesn't switch comparisons.\n**Why not D:** That would mean reinterpreting the co-worker's job, for example deciding it's less desirable; Raj changes his own effort instead."
+    },
+    {
+      "topic": "Equity theory",
+      "question": "Feeling underpaid next to a colleague, Elena tells herself: 'His job involves constant travel and weekend calls. It isn't as attractive as I assumed.' Which response to inequity is she using?",
+      "options": {
+        "A": "Choosing a different referent",
+        "B": "Adjusting her perceptions of herself",
+        "C": "Adjusting her perceptions of others",
+        "D": "Changing her inputs"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Elena re-evaluates her comparison person's situation (his job is less desirable than she thought), which restores a sense of equity without anything actually changing. (Ch 4 slides: Responses to Perception of Inequity)\n**Why not A:** She keeps the same colleague as her comparison and reinterprets his situation instead.\n**Why not B:** That would mean reinterpreting her own inputs or outcomes, such as deciding she works harder than she thought.\n**Why not D:** Her effort doesn't change; only her view of the colleague's job does."
+    },
+    {
+      "topic": "Organizational justice",
+      "question": "Raises at a firm are decided behind closed doors using criteria that change every year, and employees have no input into the process. Even staff who received good raises feel uneasy. Which dimension of justice is most at stake?",
+      "options": {
+        "A": "Procedural justice",
+        "B": "Informational justice",
+        "C": "Distributive justice",
+        "D": "Interpersonal justice"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Procedural justice is the perceived fairness of the process used to determine the distribution of rewards. Shifting criteria and no input undermine it even when the outcome is good. (Ch 4 slides: Fair Process and Treatment, Exhibit 4.13)\n**Why not B:** Informational justice concerns truthful explanations for decisions; the core problem here is how the process works and the lack of input.\n**Why not C:** Distributive justice concerns the fairness of the outcomes themselves, and many staff received good raises.\n**Why not D:** Interpersonal justice concerns being treated with dignity and respect; the scenario describes no disrespect."
+    },
+    {
+      "topic": "Organizational justice",
+      "question": "Kim's raise was smaller than she hoped, but her manager explained honestly that department budget cuts were the reason, and Kim accepted the decision. Which dimension of justice did the manager strengthen?",
+      "options": {
+        "A": "Interpersonal justice",
+        "B": "Distributive justice",
+        "C": "Procedural justice",
+        "D": "Informational justice"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Informational justice is the degree to which employees receive truthful explanations for decisions, here the honest explanation of budget cuts. (Ch 4 slides: Exhibit 4.13 Model of Organizational Justice)\n**Why not A:** That's about being treated with dignity and respect; what made the difference here was the truthful explanation.\n**Why not B:** The outcome (a smaller raise) wasn't improved, so distributive justice didn't change.\n**Why not C:** Nothing changed about the process or Kim's input into it."
+    },
+    {
+      "topic": "Organizational justice",
+      "question": "A supervisor follows a fair, well-documented process for assigning shifts and explains every decision, but she mocks employees who ask questions in front of the team. Which dimension of justice is she violating?",
+      "options": {
+        "A": "Distributive justice",
+        "B": "Interpersonal justice",
+        "C": "Procedural justice",
+        "D": "Informational justice"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Interpersonal justice is the degree to which employees are treated with dignity and respect. Mocking people violates it even when the process and explanations are fair. (Ch 4 slides: Fair Process and Treatment)\n**Why not A:** Nothing suggests the shift allocations themselves are unfair.\n**Why not C:** The shift-assignment process is described as fair and well documented.\n**Why not D:** She explains every decision, so employees do receive explanations."
+    },
+    {
+      "topic": "Organizational justice",
+      "question": "Why does the chapter describe organizational justice as a refinement of equity theory?",
+      "options": {
+        "A": "It shows employees care only about the absolute amount of their rewards",
+        "B": "It replaces outcome comparisons with a focus on intrinsic motivation",
+        "C": "It adds fairness of process, explanation and treatment to outcome fairness",
+        "D": "It narrows fairness down to how pay is distributed among individuals"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Equity theory focuses on comparing outcomes and inputs; organizational justice broadens fairness to include procedural, informational and interpersonal justice alongside distributive justice. (Ch 4 slides: Fair Process and Treatment)\n**Why not A:** Equity theory itself says people care about how their rewards compare with others', not only about absolute amounts.\n**Why not B:** That describes self-determination theory, not organizational justice.\n**Why not D:** That's only distributive justice; organizational justice is broader, not narrower."
+    },
+    {
+      "topic": "Self-determination and intrinsic motivation",
+      "question": "A developer who loved building open-source tools in her spare time is hired to build similar tools and is paid per feature. Within months the work feels like an obligation and her interest drops. Which theory best predicts this?",
+      "options": {
+        "A": "Herzberg’s two-factor theory",
+        "B": "Expectancy theory",
+        "C": "Reinforcement theory",
+        "D": "Cognitive evaluation theory"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Cognitive evaluation theory, a key part of self-determination research, predicts that offering extrinsic rewards for work that was previously rewarding intrinsically tends to decrease overall motivation. (Ch 4 slides: Self-Determination Theory)\n**Why not A:** Herzberg would treat pay as a hygiene factor that prevents dissatisfaction; he doesn't predict pay eroding intrinsic interest.\n**Why not B:** Expectancy theory would predict that a valued reward linked to performance increases motivation.\n**Why not C:** Reinforcement theory would predict that paying for each feature reinforces the behaviour and increases it."
+    },
+    {
+      "topic": "Self-determination and intrinsic motivation",
+      "question": "Liam and Noor pursue the same client-retention goal. Liam pursues it because it fits his genuine interest in helping clients; Noor pursues it only to avoid her manager's disapproval. Which concept explains why Liam is likely to be more satisfied?",
+      "options": {
+        "A": "Prevention focus",
+        "B": "Self-concordance",
+        "C": "Enactive mastery",
+        "D": "Instrumentality"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Self-concordance is the degree to which a person's reasons for pursuing a goal are consistent with their interests and core values. Liam's reasons fit; Noor's don't. (Ch 4 slides: Self-Determination Theory)\n**Why not A:** Prevention focus is a self-regulation strategy built on duties and obligations; it might describe how Noor pursues the goal, but not why Liam is more satisfied.\n**Why not C:** Enactive mastery is a source of self-efficacy built through experience, unrelated to why someone pursues a goal.\n**Why not D:** Instrumentality is the belief that performance leads to rewards; it doesn't address whether a goal fits someone's values."
+    },
+    {
+      "topic": "Self-determination and intrinsic motivation",
+      "question": "A team leader delegates real decision-making authority, trusts staff to choose how they work, and makes it safe to make honest mistakes. Which building block of intrinsic motivation is she developing?",
+      "options": {
+        "A": "A sense of meaningfulness",
+        "B": "A sense of competence",
+        "C": "A sense of progress",
+        "D": "A sense of choice"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Leading for choice involves delegated authority, trust in workers, security (no punishment) for honest mistakes, a clear purpose and information. (Ch 4 slides: Exhibit 4.14 Building Blocks for Intrinsic Rewards)\n**Why not A:** Meaningfulness comes from an exciting vision, relevant task purposes, whole tasks and a non-cynical climate.\n**Why not B:** Competence is built through knowledge, positive feedback, skill recognition, challenge and high standards.\n**Why not C:** Progress comes from milestones, celebrations, access to customers and measuring improvement."
+    },
+    {
+      "topic": "Engagement, ethics and culture",
+      "question": "An organization wants employees to invest more physical, cognitive and emotional energy in their work. According to the chapter, which condition is most likely to raise job engagement?",
+      "options": {
+        "A": "Employees' values match the organization's, and leaders inspire mission",
+        "B": "Pay is benchmarked to match what peers at other firms earn",
+        "C": "Goals are kept easy so that every employee reliably achieves them",
+        "D": "Rewards follow a variable-ratio schedule designed to sustain steady output"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Engagement rises when people believe their work is meaningful, when their values match the organization's, and when leadership inspires a greater sense of mission. (Ch 4 slides: Job Engagement)\n**Why not B:** Fair comparisons relate to equity theory; the chapter doesn't list them as a driver of engagement.\n**Why not C:** Easy goals don't build engagement, and goal-setting research favours difficult, accepted goals.\n**Why not D:** Reinforcement schedules shape specific behaviours; they aren't the engagement drivers the chapter identifies."
+    },
+    {
+      "topic": "Engagement, ethics and culture",
+      "question": "A manager gives every employee who hits target the same gift card, even though several have said they'd prefer flexible hours or training opportunities. What does the chapter's summary of motivation advice suggest?",
+      "options": {
+        "A": "Raise the targets so the gift card feels more meaningful",
+        "B": "Remove the rewards and rely on intrinsic motivation instead",
+        "C": "Recognize individual differences and tailor rewards to each person",
+        "D": "Keep rewards identical, since equal rewards guarantee equity for all"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The chapter's advice: recognize individual differences, don't treat everyone alike, and spend the time needed to understand what's important to each employee. (Ch 4 slides: Putting It All Together)\n**Why not A:** Harder targets don't fix the problem that these employees don't value the reward.\n**Why not B:** The advice is to link rewards to desired performance, not to remove them.\n**Why not D:** Equity is about perceived input–outcome ratios, and identical rewards that people don't value won't motivate them."
+    },
+    {
+      "topic": "Engagement, ethics and culture",
+      "question": "A labour advocate argues that motivation theories mostly help managers extract more productivity from workers. What position does the chapter attribute to researchers who share this concern?",
+      "options": {
+        "A": "Organizations have a moral duty to provide better, meaningful work",
+        "B": "Motivation theories should be dropped since they can't predict output",
+        "C": "Only extrinsic rewards are ethical, because they are fully transparent",
+        "D": "Employees alone are responsible for motivating themselves at work"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Researchers raising this concern argue organizations have a moral obligation to make workplaces better for employees and provide meaningful work, not just raise productivity. (Ch 4 slides: Motivation for Whom?)\n**Why not B:** The chapter doesn't claim the theories fail to predict performance; the concern is about who benefits from them.\n**Why not C:** The chapter makes no such claim; its obligations include honest communication and fair, respectful treatment.\n**Why not D:** The ethical argument places obligations on organizations, not only on employees."
+    },
+    {
+      "topic": "Engagement, ethics and culture",
+      "question": "A Canadian manager moving to an overseas subsidiary plans to use specific, difficult individual goals and needs-based incentives exactly as she did at home. What does the chapter caution?",
+      "options": {
+        "A": "Only equity theory travels well, since fairness means the same everywhere",
+        "B": "Effects can differ across cultures, though some consistencies remain",
+        "C": "The theories work the same way everywhere, so no changes are needed",
+        "D": "No motivation principles transfer across cultures, so start from scratch"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Needs theories align with Canadian and U.S. culture but not all cultures, goal-setting effects may differ, and equity means different things in different cultures. The chapter also warns not to assume there are no cross-cultural consistencies. (Ch 4 slides: Global Implications)\n**Why not A:** The chapter says equity means different things in different cultures.\n**Why not C:** The chapter explicitly flags cultural differences in how these theories apply.\n**Why not D:** The chapter warns against assuming there are no cross-cultural consistencies, such as preferring performance-based rewards to seniority-based ones."
+    }
+  ]
+}
