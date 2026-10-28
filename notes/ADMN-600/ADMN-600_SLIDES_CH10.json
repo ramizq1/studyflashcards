@@ -1,0 +1,422 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "10",
+    "title": "Organizational Culture"
+  },
+  "collection": "Lecture slides (9th Canadian ed.)",
+  "collectionOrder": 1,
+  "source": "10.txt – Chapter 10 lecture slides",
+  "questions": [
+    {
+      "topic": "Characteristics of culture",
+      "question": "An engineering firm expects every drawing to be checked three times, and it rewards staff for precision and careful analysis. Which characteristic of organizational culture is this firm high on?",
+      "options": {
+        "A": "Outcome orientation",
+        "B": "Stability",
+        "C": "Aggressiveness",
+        "D": "Attention to detail"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Attention to detail is the degree to which employees are expected to exhibit precision, analysis and attention to detail. (Ch 10 slides: Seven Primary Characteristics of Culture)\n**Why not A:** Outcome orientation focuses on results rather than technique and process; this firm stresses careful process.\n**Why not B:** Stability is about maintaining the status quo rather than growth.\n**Why not C:** Aggressiveness is about being competitive rather than easygoing."
+    },
+    {
+      "topic": "Characteristics of culture",
+      "question": "Before approving a restructuring, a firm's executives carefully weigh how each option would affect employees' jobs and well-being. Which characteristic of organizational culture does this reflect?",
+      "options": {
+        "A": "Stability",
+        "B": "Team orientation",
+        "C": "Outcome orientation",
+        "D": "People orientation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People orientation is the degree to which management decisions take into consideration the effect of outcomes on people within the organization. (Ch 10 slides: Seven Primary Characteristics of Culture)\n**Why not A:** Stability is about maintaining the status quo in contrast to growth.\n**Why not B:** Team orientation concerns organizing work activities around teams rather than individuals.\n**Why not C:** Outcome orientation focuses on results over technique and process, not on the effects on people."
+    },
+    {
+      "topic": "Characteristics of culture",
+      "question": "At a brokerage, people are expected to be fiercely competitive and to outdo their colleagues rather than be easygoing. Which characteristic of organizational culture is this firm high on?",
+      "options": {
+        "A": "Outcome orientation",
+        "B": "Aggressiveness",
+        "C": "Innovation and risk-taking",
+        "D": "Team orientation"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Aggressiveness is the degree to which people are aggressive and competitive rather than easygoing. (Ch 10 slides: Seven Primary Characteristics of Culture)\n**Why not A:** Outcome orientation concerns focusing on results rather than technique; the scenario stresses competitiveness among people.\n**Why not C:** That characteristic concerns encouraging innovation and risks, not competitiveness.\n**Why not D:** Team orientation would organize work around teams, the opposite of outdoing colleagues."
+    },
+    {
+      "topic": "Characteristics of culture",
+      "question": "A tech firm encourages employees to 'run with' ideas, treats failures as learning experiences, has few rules, and bases many rewards on teams. How does it compare with the organizations in Exhibit 10.1?",
+      "options": {
+        "A": "Like Organization A, high on risk-taking and team orientation",
+        "B": "Like Organization A, with few rules and individual rewards",
+        "C": "Like Organization B, high on risk-taking and team orientation",
+        "D": "Like Organization B, high on stability and attention to detail"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 10.1's Organization B encourages and rewards risk-taking and change, treats failures as learning experiences, has few rules, balances productivity with treating people right, and uses many team-based rewards. (Ch 10 slides: Exhibit 10.1, Contrasting Organizational Cultures)\n**Why not A:** Organization A discourages risks and change, has extensive rules and encourages individual effort.\n**Why not B:** Organization A has extensive rules and encourages individual effort, unlike this firm.\n**Why not D:** Organization B is marked by risk-taking, few rules and team rewards, not stability and detail."
+    },
+    {
+      "topic": "Characteristics of culture",
+      "question": "Two employees agree that their firm's culture is highly competitive and focused on detail. One loves working there; the other can't stand it. What does this illustrate?",
+      "options": {
+        "A": "Their disagreement shows that the culture is weak",
+        "B": "Culture is just another name for job satisfaction",
+        "C": "Culture describes perceptions, not likes or dislikes",
+        "D": "The two must perceive two entirely different cultures"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Organizational culture is a descriptive term: it reflects how employees perceive the organization's characteristics, not whether they like them. (Ch 10 slides: Culture Is a Descriptive Term)\n**Why not A:** A weak culture means opinions about mission and values vary widely; these two agree on the culture's traits.\n**Why not B:** Culture is descriptive; liking or disliking it is an evaluation, which is closer to satisfaction.\n**Why not D:** They perceive the same characteristics; they simply evaluate them differently."
+    },
+    {
+      "topic": "Subcultures and strength",
+      "question": "At a national retailer, the Halifax distribution centre has its own habits and norms, quite different from head office in Toronto, yet both share the company's core values. How would the slides describe the Halifax unit's culture?",
+      "options": {
+        "A": "A second dominant culture of its own",
+        "B": "A subculture within the dominant culture",
+        "C": "An institutionalized culture apart from staff",
+        "D": "A weak culture with no core values"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Subcultures are mini-cultures within an organization, typically defined by department designations and geographical separation; the dominant culture expresses the core values shared by a majority of members. (Ch 10 slides: Do Organizations Have Uniform Cultures?)\n**Why not A:** The core values are shared across both sites, so there's one dominant culture with a subculture.\n**Why not C:** Institutionalization is an organization taking on a life of its own apart from its members, not a local variation.\n**Why not D:** The unit shares the company's core values; it just has its own local norms."
+    },
+    {
+      "topic": "Subcultures and strength",
+      "question": "At a hotel chain, nearly all employees intensely hold the same core values about guest service. According to the slides, how much is this culture likely to shape their day-to-day behaviour?",
+      "options": {
+        "A": "A great deal, since strong cultures shape behaviour",
+        "B": "Only in subcultures, not across the whole chain",
+        "C": "Very little, since formal rules drive behaviour",
+        "D": "Only among the senior managers who set the values"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A strong culture is one in which the core values are intensely held and widely shared, and strong cultures greatly influence employee behaviour. (Ch 10 slides: Strong versus Weak Cultures)\n**Why not B:** Values that are intensely held and widely shared affect behaviour across the organization.\n**Why not C:** Strong cultures modify behaviour much as formalization does; they greatly influence behaviour.\n**Why not D:** Widely shared values influence employees throughout the organization."
+    },
+    {
+      "topic": "Subcultures and strength",
+      "question": "A company with a very strong culture is debating whether it still needs a thick rulebook to get consistent, predictable behaviour. What do the slides say?",
+      "options": {
+        "A": "Strong culture and formal rules are two roads to the same end",
+        "B": "Culture can't produce consistency; only formal rules can",
+        "C": "Strong cultures and formal rules work in opposite directions",
+        "D": "A thick rulebook is needed most when culture is strong"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** High formalization creates predictability, orderliness and consistency, and a strong culture modifies behaviour in a similar way; they're two different roads to a common destination. (Ch 10 slides: Culture versus Formalization)\n**Why not B:** The slides say a strong culture modifies behaviour much as formalization does.\n**Why not C:** The slides describe them as different routes to the same destination, not opposing forces.\n**Why not D:** A strong culture can do much of the work that formalization does."
+    },
+    {
+      "topic": "Subcultures and strength",
+      "question": "A company is breaking itself into many autonomous, decentralized units. According to the slides, what does this trend mean for its culture?",
+      "options": {
+        "A": "A strong culture becomes easier to build in small units",
+        "B": "Culture matters more, but a strong one is harder to build",
+        "C": "Culture becomes irrelevant once units are autonomous",
+        "D": "Culture matters less, since each unit sets its own rules"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The trend toward decentralized organizations makes culture more important than ever, but it also makes establishing a strong culture more difficult; strong leadership that communicates frequently about common goals helps. (Ch 10 slides: Culture's Functions)\n**Why not A:** Decentralization makes establishing a strong culture more difficult.\n**Why not C:** Culture is described as more important, not irrelevant, in decentralized organizations.\n**Why not D:** The slides say decentralization makes culture more important than ever."
+    },
+    {
+      "topic": "What culture does",
+      "question": "New nurses at a hospital say its culture tells them what to say and do, helps them make sense of the place, gives them a shared identity and ties them to something bigger than themselves. Which functions of culture are these?",
+      "options": {
+        "A": "Stability, control, identity and commitment",
+        "B": "Selection, top management and socialization",
+        "C": "Prearrival, encounter and metamorphosis",
+        "D": "Formalization, predictability and orderliness"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Culture defines boundaries, conveys a sense of identity, fosters commitment beyond self-interest, enhances stability as the social glue that sets standards for what to say and do, and acts as a control and sense-making mechanism. (Ch 10 slides: Culture's Functions)\n**Why not B:** Those are practices that keep a culture alive, not the functions culture serves.\n**Why not C:** Those are stages of socialization.\n**Why not D:** Formalization is an alternative route to consistency, not one of culture's functions."
+    },
+    {
+      "topic": "What culture does",
+      "question": "At one call centre, staff share the same upbeat sense that things are working well, and the combined effect feels bigger than the sum of individual attitudes, like team spirit. What is this?",
+      "options": {
+        "A": "A subculture",
+        "B": "Formalization",
+        "C": "Organizational climate",
+        "D": "Institutionalization"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Organizational climate is the shared perceptions members have about their organization and work environment; like team spirit, shared feelings have an effect greater than the sum of the individual parts. (Ch 10 slides: Culture Creates Climate)\n**Why not A:** A subculture is a mini-culture defined by department or location, not shared perceptions of how well things are working.\n**Why not B:** Formalization concerns rules that create predictability, not shared perceptions or team spirit.\n**Why not D:** Institutionalization is an organization taking on a life of its own apart from its members."
+    },
+    {
+      "topic": "What culture does",
+      "question": "Employees at a credit union share an understanding of what counts as right and wrong behaviour at work, which reflects the organization's true values and shapes how they make ethical decisions. What is this called?",
+      "options": {
+        "A": "Ethical work climate",
+        "B": "Positive culture",
+        "C": "The dominant culture",
+        "D": "Formalization of rules"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** An ethical work climate is the shared concept of right and wrong behaviour in the workplace that reflects the organization's true values and shapes members' ethical decision making. (Ch 10 slides: The Ethical Dimension of Culture)\n**Why not B:** A positive culture builds on strengths and rewards more than it punishes; it isn't defined by shared ethical judgments.\n**Why not C:** The dominant culture expresses the core values most members share in general, not specifically their shared sense of right and wrong.\n**Why not D:** Formalization concerns rules and procedures, not a shared concept of right and wrong."
+    },
+    {
+      "topic": "What culture does",
+      "question": "A forestry company replants faster than it harvests so that its operations can continue indefinitely, and finds this also lowers its long-term costs. How do the slides frame this?",
+      "options": {
+        "A": "Sustainable practice, which needn't be purely altruistic",
+        "B": "Institutionalization, since the firm outlives its members",
+        "C": "Altruism, since sustainability never pays off for firms",
+        "D": "Innovation, since all start-ups work this way"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Sustainability refers to practices that can be sustained over a long period because the tools or structures supporting them aren't damaged by the processes, and sustainable management doesn't need to be purely altruistic. (Ch 10 slides: Culture and Sustainability)\n**Why not B:** Institutionalization is an organization taking on a life of its own, not sustainable practice.\n**Why not C:** The slides note sustainable management needn't be purely altruistic; it can benefit the firm.\n**Why not D:** Start-ups are linked to innovative cultures, not to sustainability practices."
+    },
+    {
+      "topic": "What culture does",
+      "question": "A firm wants to become one of the most innovative companies in its industry. Which cultural profile do the slides associate with such companies?",
+      "options": {
+        "A": "Competitive, secretive, individualistic and fast",
+        "B": "Formal, hierarchical, cautious and highly stable",
+        "C": "Open, unconventional, collaborative, vision-driven",
+        "D": "Detail-focused, rule-bound and highly consistent"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The most innovative companies are often characterized by open, unconventional, collaborative, vision-driven, accelerating cultures. (Ch 10 slides: Culture and Innovation)\n**Why not A:** The slides describe innovative cultures as open and collaborative, not secretive.\n**Why not B:** These describe a culture built for consistency, not the innovative profile in the slides.\n**Why not D:** These fit formalization and attention to detail, not innovation."
+    },
+    {
+      "topic": "Culture as a liability",
+      "question": "A decades-old government agency carries on with the same programs and identity, as if it has a life of its own apart from any of the people who work there. Which condition is this?",
+      "options": {
+        "A": "Organizational climate",
+        "B": "Institutionalization",
+        "C": "Formalization",
+        "D": "A strong culture"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Institutionalization occurs when an organization takes on a life of its own, apart from any of its members, and acquires immortality; the slides list it among signs that culture can become a liability. (Ch 10 slides: Culture as a Liability)\n**Why not A:** Climate is members' shared perceptions of the work environment.\n**Why not C:** Formalization is the use of rules to create predictability and consistency.\n**Why not D:** A strong culture means core values are intensely held and widely shared, not that the organization exists apart from its members."
+    },
+    {
+      "topic": "Culture as a liability",
+      "question": "A strong culture that once served a firm well now stops it from adapting to market shifts, wastes the fresh perspectives of diverse hires, and is complicating the integration of a company it just acquired. Which liabilities of culture do the slides list that fit this?",
+      "options": {
+        "A": "Excess formalization, slow socialization and weak founders",
+        "B": "Barriers to change, diversity, and acquisitions and mergers",
+        "C": "Low turnover, high commitment and stable leadership",
+        "D": "Strong subcultures, a positive climate and clear core values"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides list barriers to change, barriers to diversity, strengthening dysfunction, and barriers to acquisitions and mergers as ways culture can become a liability. (Ch 10 slides: Culture as a Liability)\n**Why not A:** These aren't the liabilities the slides list.\n**Why not C:** These are generally signs of a functioning culture, not the liabilities listed.\n**Why not D:** These aren't among the liabilities the slides list."
+    },
+    {
+      "topic": "How culture begins and lasts",
+      "question": "A consultant studying a 50-year-old firm's customs and traditions asks where its culture ultimately came from. What do the slides say?",
+      "options": {
+        "A": "Its current top management team, acting alone",
+        "B": "The norms of its industry and its main competitors",
+        "C": "Its founders, and what worked for the firm early on",
+        "D": "The rules written into its formal HR policies"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** An organization's customs and traditions come largely from what it has done before and how successful that was, and the ultimate source of its culture is its founders. (Ch 10 slides: How a Culture Begins)\n**Why not A:** Top management helps keep a culture alive, but the slides name the founders as the ultimate source.\n**Why not B:** The slides trace culture to the founders and the organization's own past successes.\n**Why not D:** Formal policies are formalization, not the source of culture the slides identify."
+    },
+    {
+      "topic": "How culture begins and lasts",
+      "question": "According to Exhibit 10.2, which sequence best describes how a founder's philosophy becomes an organization's culture?",
+      "options": {
+        "A": "Philosophy, then socialization, then selection and top management",
+        "B": "Selection, then philosophy, then socialization and top management",
+        "C": "Top management, then philosophy, then selection and socialization",
+        "D": "Philosophy, then selection, then top management and socialization"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 10.2 shows the founders' philosophy shaping selection criteria, which feed into top management and socialization, which in turn form the organization's culture. (Ch 10 slides: Exhibit 10.2, How Organizational Cultures Form)\n**Why not A:** Selection criteria come first, directly after the founders' philosophy.\n**Why not B:** The founders' philosophy is the starting point that shapes the selection criteria.\n**Why not C:** The chain begins with the founders' philosophy, not top management."
+    },
+    {
+      "topic": "How culture begins and lasts",
+      "question": "A company screens applicants partly on whether their values fit its culture. What do the slides say about doing this?",
+      "options": {
+        "A": "Misfits tend to stay longer, since the job challenges them",
+        "B": "It sustains the culture, and misfits have higher turnover",
+        "C": "Selection for fit matters only for senior executive roles",
+        "D": "Value fit has little effect on commitment or satisfaction"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Selection is one of the practices that keeps a culture alive; the slides advise hiring people whose values align with the organization's, since they tend to stay committed and satisfied, while 'misfits' have considerably higher turnover. (Ch 10 slides: Keeping a Culture Alive, For Managers)\n**Why not A:** The slides say misfits have considerably higher turnover rates.\n**Why not C:** The slides recommend hiring for value alignment generally, not just for executives.\n**Why not D:** The slides say employees whose values align tend to remain committed and satisfied."
+    },
+    {
+      "topic": "How culture begins and lasts",
+      "question": "At a grocery chain, executives fly economy class, keep modest offices and openly question every expense, and over time staff throughout the company act the same way. Which practice for keeping a culture alive does this show?",
+      "options": {
+        "A": "Socialization of newcomers",
+        "B": "Top management's example",
+        "C": "Selection of new employees",
+        "D": "Formalization through rules"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Once a culture is in place, selection, top management and socialization maintain it; executives' own behaviour shows employees what is expected. (Ch 10 slides: Keeping a Culture Alive)\n**Why not A:** Socialization adapts new employees; here the influence comes from executives' example to all staff.\n**Why not C:** Selection screens who joins; here existing staff are copying executives' behaviour.\n**Why not D:** No rules are described; staff are following the executives' lead."
+    },
+    {
+      "topic": "Socialization",
+      "question": "A newly hired nurse arrives with views about hospital work already shaped by years of training and placements, before ever working at this particular hospital. Which stage of socialization does this reflect?",
+      "options": {
+        "A": "Encounter",
+        "B": "Metamorphosis",
+        "C": "Institutionalization",
+        "D": "Prearrival"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The prearrival stage is the period of learning in the socialization process that occurs before a new employee joins the organization. (Ch 10 slides: Exhibit 10.3, A Socialization Model)\n**Why not A:** Encounter comes after joining, when the employee sees what the organization is really like.\n**Why not B:** Metamorphosis is adjusting to the job's and group's values and norms after joining.\n**Why not C:** Institutionalization is an organization taking on a life of its own, not a socialization stage."
+    },
+    {
+      "topic": "Socialization",
+      "question": "In their first week, a new analyst discovers that the 'collaborative' culture described in interviews is actually intensely competitive. Which stage of socialization is this?",
+      "options": {
+        "A": "Prearrival",
+        "B": "Encounter",
+        "C": "Metamorphosis",
+        "D": "Selection"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In the encounter stage, a new employee sees what the organization is really like and confronts the possibility that expectations and reality may diverge. (Ch 10 slides: Exhibit 10.3, A Socialization Model)\n**Why not A:** Prearrival is the learning that happens before the employee joins.\n**Why not C:** Metamorphosis comes later, as the employee adjusts to the values and norms of the job, group and organization.\n**Why not D:** Selection is a practice for keeping culture alive, not a stage of socialization."
+    },
+    {
+      "topic": "Socialization",
+      "question": "A manager wants to know whether a new hire's entry socialization is complete. Which sign do the slides point to?",
+      "options": {
+        "A": "They've completed all of the formal orientation paperwork",
+        "B": "They feel accepted and know how their work will be judged",
+        "C": "They've been in the job for at least one full year",
+        "D": "They no longer need to follow the work group's norms"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Entry socialization is complete when new employees are comfortable, have internalized and accepted the norms, feel accepted by peers, are self-confident, understand how they'll be evaluated, and know what a job 'well done' looks like. (Ch 10 slides: Keeping a Culture Alive)\n**Why not A:** Completing paperwork doesn't show internalized norms, acceptance or clear performance expectations.\n**Why not C:** The slides define completion by what employees feel and know, not by tenure.\n**Why not D:** Socialization means internalizing and accepting the group's norms, not moving beyond them."
+    },
+    {
+      "topic": "Socialization",
+      "question": "A hospital wants to judge whether its approach to socializing new nurses is working. Which outcomes does the socialization model in Exhibit 10.3 link to the process?",
+      "options": {
+        "A": "Creativity, conflict and politics",
+        "B": "Climate, structure and formalization",
+        "C": "Productivity, commitment and turnover",
+        "D": "Pay, promotions and job titles"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 10.3 shows prearrival, encounter and metamorphosis leading to three outcomes: productivity, commitment and turnover. (Ch 10 slides: Exhibit 10.3, A Socialization Model)\n**Why not A:** These aren't among the model's outcomes.\n**Why not B:** These are organizational features, not socialization outcomes.\n**Why not D:** These aren't the outcomes in the socialization model."
+    },
+    {
+      "topic": "Socialization",
+      "question": "A firm quietly redesigns several roles but never tells the people in them what has changed, and their performance slips. What do the slides advise managers to do?",
+      "options": {
+        "A": "Train staff well and tell them about role changes",
+        "B": "Tighten formal rules without explaining the reasons",
+        "C": "Rely on the culture alone to signal what's changed",
+        "D": "Let employees discover the changes on their own"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Employees' performance and socialization depend to a considerable degree on knowing what to do and not do, so managers should train employees well and keep them informed of changes to their job roles. (Ch 10 slides: OB at Work, For Managers)\n**Why not B:** The slides advise training and informing employees, not adding unexplained rules.\n**Why not C:** The advice is to train and inform employees directly about changes.\n**Why not D:** The slides stress knowing what to do and not do, which requires informing employees."
+    },
+    {
+      "topic": "Learning and changing culture",
+      "question": "At a law firm, partners get corner offices, expensive furnishings and reserved parking, while associates share open-plan desks. Through which channel are employees learning the culture here?",
+      "options": {
+        "A": "Material symbols",
+        "B": "Shared stories",
+        "C": "In-house language",
+        "D": "Repeated rituals"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The slides list stories, rituals, material symbols and language as ways employees learn culture; physical perks such as offices, furnishings and parking are material symbols. (Ch 10 slides: How Employees Learn Culture)\n**Why not B:** Stories are narratives passed among employees, not physical perks.\n**Why not C:** Language is the organization's jargon and special terms, not physical perks.\n**Why not D:** Rituals are repeated activities, not differences in offices and parking."
+    },
+    {
+      "topic": "Learning and changing culture",
+      "question": "Employees at a hardware chain often retell how the founder once drove through a blizzard to deliver a single customer's order. Through which channel is the culture being passed on?",
+      "options": {
+        "A": "Rituals",
+        "B": "Language",
+        "C": "Material symbols",
+        "D": "Stories"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides list stories, rituals, material symbols and language as the ways employees learn culture; a retold account of the founder's actions is a story. (Ch 10 slides: How Employees Learn Culture)\n**Why not A:** Rituals are repeated activities, not accounts of past events.\n**Why not B:** Language is the organization's jargon and special terms.\n**Why not C:** Material symbols are physical signs such as offices and perks."
+    },
+    {
+      "topic": "Learning and changing culture",
+      "question": "Two firms want to change their cultures. Firm A is large, old and has a strong culture, with long-serving leaders and no crisis. Firm B is young and small, with a weak culture, and has just replaced its CEO after a crisis. Which is more likely to succeed, and why?",
+      "options": {
+        "A": "Firm A, since a strong culture is easier to redirect",
+        "B": "Firm A, since size and age give it the resources to change",
+        "C": "Neither, since culture can't be changed once it exists",
+        "D": "Firm B: crisis, new leader, youth and a weak culture"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Culture change is most likely when there's a dramatic crisis, turnover in leadership, a young and small organization, and a weak culture. (Ch 10 slides: Changing Organizational Culture)\n**Why not A:** Strong, established cultures are harder to change; a weak culture is one of the favourable conditions.\n**Why not B:** The slides list being young and small, not large and old, as favourable.\n**Why not C:** Culture is hard to change, but the slides list conditions under which change is most likely."
+    },
+    {
+      "topic": "Learning and changing culture",
+      "question": "A firm launches a 'collaboration first' campaign but keeps paying bonuses purely for individual sales results. Based on the slides, why is the culture change unlikely to stick?",
+      "options": {
+        "A": "Individual bonuses already reinforce a collaborative culture",
+        "B": "Campaigns change culture only when they run for a full year",
+        "C": "Change needs many shifts at once, especially in rewards",
+        "D": "Changing the bonus plan first would slow the culture change"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Changing culture is quite difficult and requires many aspects of the organization to change at the same time, especially the reward structure, because culture reflects the established mindset of employees and managers. (Ch 10 slides: Changing Organizational Culture)\n**Why not A:** Rewards for individual results don't reinforce collaboration.\n**Why not B:** The slides point to the need for simultaneous changes, especially in rewards, not campaign length.\n**Why not D:** Aligning the reward structure is exactly what the slides say culture change requires."
+    },
+    {
+      "topic": "Learning and changing culture",
+      "question": "A newly hired CEO announces plans to completely transform the company's culture within six months, mostly through a memo campaign. What do the slides advise?",
+      "options": {
+        "A": "A strong memo campaign can reshape culture within months",
+        "B": "Rewriting the mission statement is enough to change it",
+        "C": "Culture changes fastest when senior leaders stay hands-off",
+        "D": "It's fixed short term; build a long-term plan with leaders"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Managers should realize that an organization's culture is relatively fixed in the short term; to change it, involve top management and develop a long-term plan. (Ch 10 slides: OB at Work, For Managers)\n**Why not A:** The slides describe culture as relatively fixed in the short term.\n**Why not B:** Culture change requires many aspects of the organization to change at once, especially rewards.\n**Why not C:** The slides advise involving top management in culture change."
+    },
+    {
+      "topic": "Ethical, positive and global culture",
+      "question": "A company quietly fires a manager caught falsifying expense claims, and makes no announcement to staff. Based on the slides' guidance on creating an ethical culture, what's missing?",
+      "options": {
+        "A": "Making rewards and punishments for ethics visible",
+        "B": "Relying on ethics training alone to change behaviour",
+        "C": "Keeping discipline private to protect staff morale",
+        "D": "Leaving ethical judgments to each person's conscience"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** To create an ethical culture, be a visible role model, communicate ethical expectations, provide ethics training, visibly reward ethical acts and punish unethical ones, and provide protective mechanisms. (Ch 10 slides: Creating an Ethical Culture)\n**Why not B:** Training is one element, but the slides also call for visible rewards and punishments.\n**Why not C:** The slides stress visible rewards and punishments, not private handling.\n**Why not D:** The slides call for communicating expectations and visibly enforcing them."
+    },
+    {
+      "topic": "Ethical, positive and global culture",
+      "question": "A retailer's culture builds on what each employee does best, rewards far more than it punishes, and emphasizes individual vitality and growth. What kind of culture is this?",
+      "options": {
+        "A": "A positive organizational culture",
+        "B": "A culture with an ethical climate",
+        "C": "A strong culture with shared values",
+        "D": "An outcome-oriented culture"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A positive organizational culture emphasizes building on employee strengths, rewards more than it punishes, and emphasizes individual vitality and growth. (Ch 10 slides: Creating a Positive Organizational Culture)\n**Why not B:** An ethical work climate is a shared concept of right and wrong behaviour.\n**Why not C:** A strong culture is one where core values are intensely held and widely shared, whatever those values are.\n**Why not D:** Outcome orientation focuses on results over technique and process."
+    },
+    {
+      "topic": "Ethical, positive and global culture",
+      "question": "A consultant claims that a positive organizational culture will fix every problem a company has, in any country it operates in. What do the slides say?",
+      "options": {
+        "A": "Positive cultures work the same way in every country",
+        "B": "Research has proven positive cultures solve all problems",
+        "C": "It's a new area; how and when it works is unclear",
+        "D": "Positive cultures work only in small start-up firms"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Whether a positive culture is the answer to all organizational problems is unclear: the area is new enough that there's uncertainty about how and when it works best, and organizational cultures often reflect national culture. (Ch 10 slides: Creating a Positive Organizational Culture)\n**Why not A:** Organizational cultures often reflect national culture, so effects may differ.\n**Why not B:** The slides stress uncertainty about how and when positive cultures work best.\n**Why not D:** The slides don't limit positive cultures to start-ups."
+    },
+    {
+      "topic": "Ethical, positive and global culture",
+      "question": "A Canadian firm plans to roll out its home-office culture and norms unchanged at a new plant overseas. What do the slides advise?",
+      "options": {
+        "A": "Local culture matters for marketing, not for management",
+        "B": "A strong culture will transfer intact to any country",
+        "C": "Ethics policies are the one thing that travels unchanged",
+        "D": "Check local relevance; culture may not transfer"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A company's culture may not be 'transportable' to other countries; managers should understand the cultural relevance of its norms before introducing initiatives overseas, since ignoring the local culture is risky. (Ch 10 slides: OB at Work, For Managers)\n**Why not A:** Ignoring the local culture is done at the organization's own risk, including in managing people.\n**Why not B:** The slides warn that culture may not be transportable to other countries.\n**Why not C:** Managing ethical behaviour is one area where national culture can rub up against corporate culture."
+    }
+  ]
+}

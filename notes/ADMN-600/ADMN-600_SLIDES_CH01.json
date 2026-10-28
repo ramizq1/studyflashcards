@@ -1,0 +1,506 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "01",
+    "title": "What Is Organizational Behaviour?"
+  },
+  "collection": "Lecture slides (9th Canadian ed.)",
+  "collectionOrder": 1,
+  "source": "01.txt – Chapter 1 lecture slides",
+  "questions": [
+    {
+      "topic": "Interpersonal skills",
+      "question": "A software start-up loses two strong developers in a year. Exit interviews show their pay was competitive, but both felt isolated and said their manager rarely talked with them. What do the slides suggest about this?",
+      "options": {
+        "A": "Technical skills matter most, so the manager's style is irrelevant",
+        "B": "Pay is the main reason people stay, so salaries should be raised",
+        "C": "Quitting decisions like these are random and can't be predicted",
+        "D": "Work relationships, not pay, are tied to whether people stay"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Wages and benefits aren't the main reasons people like their jobs or stay; social relationships with co-workers and supervisors are strongly related to job satisfaction, and positive relationships go with lower stress and fewer intentions to quit. (Ch 1 slides: The Importance of Interpersonal Skills)\n**Why not A:** The slides stress managers' interpersonal skills as key to keeping high-performing employees.\n**Why not B:** The slides say wages and benefits are not the main reasons people like their jobs or stay with an employer.\n**Why not C:** OB holds that behaviour is not random, and the survey in the slides links poor social relationships to intentions to quit."
+    },
+    {
+      "topic": "Interpersonal skills",
+      "question": "A hospital board is deciding whether to fund interpersonal-skills training for its managers. What business case do the slides make for it?",
+      "options": {
+        "A": "It pays off only in roles that deal directly with customers",
+        "B": "It lifts morale, but has no real link to hiring or retention",
+        "C": "A pleasant workplace helps it hire and keep qualified staff",
+        "D": "It mainly cuts costs by replacing raises and other benefits"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Developing interpersonal skills is tied to getting and keeping high-performing employees: managers with good people skills make the workplace more pleasant, which makes it easier to hire and keep qualified people, and a pleasant workplace makes good economic sense. (Ch 1 slides: The Importance of Interpersonal Skills)\n**Why not A:** The slides tie interpersonal skills to how pleasant the whole workplace is and to retention, not just to customer-facing roles.\n**Why not B:** The slides explicitly connect a more pleasant workplace to hiring and keeping qualified people.\n**Why not D:** The slides don't present people skills as a substitute for pay; they link them to attracting and keeping good employees."
+    },
+    {
+      "topic": "Interpersonal skills",
+      "question": "A call-centre team leader builds strong, supportive relationships with the agents and among them. Based on the large workplace survey cited in the slides, what outcomes would you expect?",
+      "options": {
+        "A": "Higher satisfaction, but more stress from the social demands",
+        "B": "Fewer plans to quit, but no real change in job satisfaction",
+        "C": "Lower stress, but weaker focus on individual tasks and goals",
+        "D": "Higher job satisfaction, lower stress and fewer plans to quit"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The survey of over 200 000 respondents found social relationships among co-workers and supervisors strongly related to job satisfaction, and positive relationships were associated with lower stress and lower intentions to quit. (Ch 1 slides: The Importance of Interpersonal Skills)\n**Why not A:** Positive relationships were associated with lower stress, not more.\n**Why not B:** Relationships were strongly related to overall job satisfaction.\n**Why not C:** The survey reported no such trade-off; it linked good relationships to satisfaction, lower stress and lower quit intentions."
+    },
+    {
+      "topic": "Defining OB and organizations",
+      "question": "A volunteer-run food bank that operates year-round, with coordinated shifts, to feed local families wonders whether OB applies to it. Using the slides' definition, is it an organization?",
+      "options": {
+        "A": "No; only for-profit firms with paid staff count as organizations",
+        "B": "Yes, but only once it hires paid managers to coordinate it",
+        "C": "Yes; it's a coordinated group pursuing shared goals over time",
+        "D": "No; an organization must be publicly traded with a board"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** An organization is a consciously coordinated social unit of people that functions on a relatively continuous basis to achieve common goals; the slides list volunteer organizations among the examples. (Ch 1 slides: What Do We Mean by Organization?)\n**Why not A:** The slides' examples include schools, churches, volunteer organizations and non-profits.\n**Why not B:** Paid management isn't part of the definition; conscious coordination toward common goals on a continuing basis is.\n**Why not D:** Organizations can be privately held, non-profit or public sector; a 'typical' organization is unlikely."
+    },
+    {
+      "topic": "Defining OB and organizations",
+      "question": "A store manager says OB is really just about understanding individual personalities. Based on the slides' definition of OB, what is the manager missing?",
+      "options": {
+        "A": "It describes behaviour but avoids any practical application",
+        "B": "It also studies groups and structure, to improve effectiveness",
+        "C": "It focuses on markets and the wider economy rather than on people",
+        "D": "It studies only groups and teams, not individual employees"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** OB investigates the impact of individuals, groups and structure on behaviour within organizations, and its purpose is to apply that knowledge to improve the organization's effectiveness. (Ch 1 slides: Defining Organizational Behaviour)\n**Why not A:** OB's stated purpose is to apply its knowledge to improve organizational effectiveness.\n**Why not C:** OB studies behaviour within organizations; economic pressures are a context, not its subject.\n**Why not D:** Individuals are one of the three areas OB studies, alongside groups and structure."
+    },
+    {
+      "topic": "Defining OB and organizations",
+      "question": "The executives of a university student club can't agree on how to divide up event tasks. One member says OB concepts only apply in businesses. What do the slides say?",
+      "options": {
+        "A": "OB applies only after a formal manager has been appointed",
+        "B": "OB applies only once an organization reaches a certain size",
+        "C": "OB applies only where people are in a paid employment relationship",
+        "D": "OB applies wherever people work on goals or solve problems"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides say OB is for everyone: it's relevant anywhere people come together and share experiences, work on goals or meet to solve problems. (Ch 1 slides: OB Is for Everyone)\n**Why not A:** OB concerns people working together, with or without a formal manager.\n**Why not B:** Size isn't a condition in the slides; OB is relevant to any group working toward goals.\n**Why not C:** Nothing in the slides limits OB to paid work; it applies wherever people come together around goals."
+    },
+    {
+      "topic": "Defining OB and organizations",
+      "question": "A new analyst assumes every organization works like the publicly traded bank where they interned, with managers answering to a board of directors. What do the slides suggest?",
+      "options": {
+        "A": "Only private-sector firms count as true organizations",
+        "B": "Most organizations closely resemble a publicly traded firm",
+        "C": "Board-run firms are the norm in every sector of the economy",
+        "D": "Organizations vary so widely that a 'typical' one is unlikely"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Organizations can be public or private sector, unionized or not, publicly traded or privately held, for-profit or non-profit, so the odds that any one is 'typical' are small. (Ch 1 slides: What Do We Mean by Organization?)\n**Why not A:** Public-sector bodies such as government agencies, schools and police departments are organizations too.\n**Why not B:** The slides stress the variety of organizations, not a common publicly traded model.\n**Why not C:** Many organizations are privately held, run by their owners, or non-profit."
+    },
+    {
+      "topic": "Few absolutes and contingencies",
+      "question": "A manager reads that flexible schedules boost morale and plans to roll them out to every team, including a 24/7 emergency dispatch unit. Which idea from the slides should make the manager pause?",
+      "options": {
+        "A": "OB has few absolutes; effects depend on the situation",
+        "B": "Popular practices have usually been proven to work everywhere",
+        "C": "Behaviour is random, so no policy's effects can be predicted",
+        "D": "Only the manager's intuition can tell which teams will benefit"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** People are complex and not alike, so there are few simple, universal principles; OB takes a contingency approach and considers behaviour in the context in which it occurs. (Ch 1 slides: OB Has Few Absolutes)\n**Why not B:** OB stresses that few principles apply universally.\n**Why not C:** The slides say behaviour is generally predictable; the issue is that predictions depend on context.\n**Why not D:** The slides warn against relying on hunches; managers should use evidence and situational variables."
+    },
+    {
+      "topic": "Few absolutes and contingencies",
+      "question": "A consultant says: 'Team-based bonuses will probably raise cooperation, but only where tasks are highly interdependent.' In the slides' terms, what kind of statement is this?",
+      "options": {
+        "A": "A random guess, since group behaviour can't be predicted",
+        "B": "A contingency prediction: X likely leads to Y under conditions Z",
+        "C": "An intuitive hunch that needs no supporting evidence at all",
+        "D": "An absolute principle that holds for all employees everywhere"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** OB predictions are probabilistic, not absolute: X is likely to lead to Y, but only under conditions specified in Z, the contingency variables. (Ch 1 slides: OB Takes a Contingency Approach)\n**Why not A:** The slides say behaviour is generally predictable; OB's predictions are probabilistic, not random.\n**Why not C:** The statement's form says nothing about intuition; it's a conditional, probabilistic prediction.\n**Why not D:** The 'only where' condition makes it situational, and OB has few absolutes."
+    },
+    {
+      "topic": "Few absolutes and contingencies",
+      "question": "Two equally skilled employees receive the same praise from their manager. One becomes more motivated; the other feels patronized. What reasoning from the slides explains this?",
+      "options": {
+        "A": "Behaviour is random, so reactions can't be explained",
+        "B": "People differ, so sweeping generalizations rarely hold",
+        "C": "One employee must have misread what the manager meant",
+        "D": "The manager must have praised the two inconsistently"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Human beings are very complex and not alike, which limits the ability to make simple, accurate and sweeping generalizations; behaviour has to be considered in its context. (Ch 1 slides: OB Has Few Absolutes)\n**Why not A:** The slides hold that behaviour is generally predictable, though not with absolute certainty.\n**Why not C:** Different reactions don't require a misreading; people simply differ.\n**Why not D:** The scenario says the praise was the same; the difference lies in the people, which is why few absolutes apply."
+    },
+    {
+      "topic": "Few absolutes and contingencies",
+      "question": "Sales fell last quarter, and a manager explains it with a hunch that 'the staff got lazy'. What do the slides advise managers to do instead?",
+      "options": {
+        "A": "Trust the hunch, since experience is usually more reliable",
+        "B": "Wait until the pattern repeats before looking into it",
+        "C": "Apply the general rule that underperformers lack effort",
+        "D": "Use metrics and the context to explain cause and effect"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides advise using metrics and situational variables rather than hunches to explain cause-and-effect relationships, and getting to know the person and the context. (Ch 1 slides: OB at Work, For Managers)\n**Why not A:** The slides warn that many common-sense beliefs are refuted by evidence, and hunches can miss data.\n**Why not B:** The advice is to analyze causes with metrics and context, not to wait.\n**Why not C:** The slides advise resisting the urge to rely on generalizations, many of which are wrong."
+    },
+    {
+      "topic": "Systematic study, EBM and intuition",
+      "question": "A regional manager suspects that stores running longer shifts make more errors. Before acting, the manager gathers data from all stores, tests whether shift length actually predicts errors, and draws conclusions from the evidence. What is this?",
+      "options": {
+        "A": "Positive organizational scholarship",
+        "B": "The contingency approach",
+        "C": "Intuition",
+        "D": "Systematic study"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Systematic study means looking at relationships, attempting to attribute causes and effects, and drawing conclusions based on scientific evidence. (Ch 1 slides: Complementing Intuition with Systematic Study)\n**Why not A:** That research area concerns developing human strengths and resilience, not testing a suspected cause of errors.\n**Why not B:** That's considering behaviour within its context; it doesn't describe gathering data to test a cause-and-effect link.\n**Why not C:** Intuition is an instinctive feeling not necessarily supported by research; the manager is testing the hunch, not relying on it."
+    },
+    {
+      "topic": "Systematic study, EBM and intuition",
+      "question": "Before deciding whether to move to a four-day work week, a director looks for and weighs the best available scientific evidence on its effects, rather than going with personal opinion. Which practice is this?",
+      "options": {
+        "A": "Evidence-based management",
+        "B": "The contingency approach",
+        "C": "Positive organizational scholarship",
+        "D": "Intuitive decision making"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Evidence-based management means basing managerial decisions on the best available scientific evidence; it complements systematic study. (Ch 1 slides: Evidence-Based Management)\n**Why not B:** The contingency approach considers behaviour in its context; it isn't a decision-making practice built on research evidence.\n**Why not C:** That research area studies how organizations develop human strengths; it isn't about how managers make decisions.\n**Why not D:** Intuition relies on gut feelings not necessarily supported by research, the opposite of what the director is doing."
+    },
+    {
+      "topic": "Systematic study, EBM and intuition",
+      "question": "A veteran manager makes most decisions 'on the fly', relying on long-held common-sense beliefs about what motivates staff. What do the slides warn about this habit?",
+      "options": {
+        "A": "On-the-fly decisions have become rare among managers today",
+        "B": "Experience makes systematic evidence unnecessary for veterans",
+        "C": "Many common-sense management beliefs have been refuted by evidence",
+        "D": "Common sense is usually right, since it reflects long experience"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Most management decisions are still made on the fly with little study of the evidence, and many managers hold common-sense opinions about effective management that empirical evidence has flatly refuted. (Ch 1 slides: Evidence-Based Management)\n**Why not A:** The slides say the vast majority of management decisions are still made on the fly.\n**Why not B:** Nothing exempts experienced managers; the slides urge basing decisions on evidence.\n**Why not D:** The slides warn the opposite: common-sense opinions are often contradicted by evidence."
+    },
+    {
+      "topic": "Systematic study, EBM and intuition",
+      "question": "A team lead's gut feelings about which employees to promote have often turned out well. What do the slides say about relying on this kind of intuition?",
+      "options": {
+        "A": "It becomes as reliable as research with enough experience",
+        "B": "It may be right, but can miss data and overrate its accuracy",
+        "C": "It's the best way to replace slow, systematic data collection",
+        "D": "It's always wrong, so it should be ignored completely"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Intuition is an instinctive feeling not necessarily supported by research; such beliefs aren't necessarily incorrect, but you may be missing data, overestimating your accuracy, or relying on common sense and fads. (Ch 1 slides: Complementing Intuition with Systematic Study)\n**Why not A:** The slides warn that people overestimate the accuracy of what they think they know.\n**Why not C:** Systematic study and evidence should complement gut feelings, not be replaced by them.\n**Why not D:** The slides say beliefs formed unsystematically are not necessarily incorrect."
+    },
+    {
+      "topic": "Systematic study, EBM and intuition",
+      "question": "A new manager believes employee behaviour is too random to predict, so planning around it is pointless. Which idea from the slides counters this view?",
+      "options": {
+        "A": "Behaviour follows universal laws that apply to everyone",
+        "B": "Behaviour can be predicted only through gut feel and intuition",
+        "C": "Behaviour is generally predictable, with basic consistencies",
+        "D": "Behaviour is predictable only once rules are written down"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Systematic study rests on the view that behaviour is generally predictable: individuals differ, but there are fundamental consistencies and written and unwritten rules in almost every setting. (Ch 1 slides: Complementing Intuition with Systematic Study)\n**Why not A:** OB has few absolutes; its predictions are probabilistic, not universal laws.\n**Why not B:** The slides favour systematic study over intuition for predicting behaviour.\n**Why not D:** The slides note that there are written and unwritten rules in almost every setting."
+    },
+    {
+      "topic": "Contributing disciplines",
+      "question": "A company wants to improve how it selects employees, appraises their performance and reduces work stress. Which behavioural science contributes most directly to these issues?",
+      "options": {
+        "A": "Anthropology",
+        "B": "Social psychology",
+        "C": "Psychology",
+        "D": "Sociology"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Psychology seeks to measure, explain and sometimes change behaviour; its contributions include employee selection, performance appraisal, work stress, learning, motivation and personality, at the individual level. (Ch 1 slides: Disciplines That Contribute to the OB Field)\n**Why not A:** Anthropology studies societies and cultures, contributing comparative values, comparative attitudes and cross-cultural analysis.\n**Why not B:** Social psychology focuses on how people influence one another, such as attitude change and group decision making.\n**Why not D:** Sociology studies people in relation to others within social systems: power, conflict, intergroup behaviour and formal organization."
+    },
+    {
+      "topic": "Contributing disciplines",
+      "question": "A researcher studies how the members of a hiring committee sway one another's opinions as they reach a group decision. Which discipline focuses most directly on this?",
+      "options": {
+        "A": "Sociology",
+        "B": "Social psychology",
+        "C": "Anthropology",
+        "D": "Psychology"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Social psychology blends psychology and sociology and focuses on the influence of people on one another; its contributions include attitude change, group processes and group decision making. (Ch 1 slides: Disciplines That Contribute to the OB Field)\n**Why not A:** Sociology studies social systems, power, conflict and intergroup behaviour rather than how members sway each other's views.\n**Why not C:** Anthropology compares values and attitudes across cultures and societies.\n**Why not D:** Psychology's contributions centre on the individual, such as individual decision making, rather than mutual influence within a group."
+    },
+    {
+      "topic": "Contributing disciplines",
+      "question": "A consultant examines the long-running conflict between a firm's sales and engineering departments, and how the formal organization design feeds it. Which discipline's contributions fit best?",
+      "options": {
+        "A": "Sociology",
+        "B": "Anthropology",
+        "C": "Social psychology",
+        "D": "Psychology"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Sociology studies people in relation to others within social systems; its contributions include conflict, intergroup behaviour and formal organization theory. (Ch 1 slides: Disciplines That Contribute to the OB Field)\n**Why not B:** Anthropology contributes cross-cultural comparisons of values and attitudes.\n**Why not C:** Social psychology looks at how people influence one another, such as group decision making, rather than intergroup conflict and formal structure.\n**Why not D:** Psychology focuses on individuals (personality, perception, motivation), not relations between departments."
+    },
+    {
+      "topic": "Contributing disciplines",
+      "question": "A multinational wants to understand why staff at its plants in two different countries hold such different values and attitudes toward work. Which discipline's work helps most?",
+      "options": {
+        "A": "Anthropology",
+        "B": "Social psychology",
+        "C": "Psychology",
+        "D": "Sociology"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Anthropology studies societies, cultures and environments, helping explain differences in fundamental values, attitudes and behaviour between people in different countries; it contributes comparative values and attitudes and cross-cultural analysis. (Ch 1 slides: Disciplines That Contribute to the OB Field)\n**Why not B:** Social psychology studies how people influence one another, not differences between national cultures.\n**Why not C:** Psychology focuses on individual processes such as learning, perception and personality, not comparisons across cultures.\n**Why not D:** Sociology studies social systems, power and intergroup behaviour rather than cross-cultural comparison."
+    },
+    {
+      "topic": "Contributing disciplines",
+      "question": "A classmate says organizational behaviour is 'just psychology applied to work'. Based on the slides, what's the best reply?",
+      "options": {
+        "A": "It combines psychology with economics, finance and accounting",
+        "B": "It's really just common sense, so no academic field is needed",
+        "C": "It's a branch of anthropology that focuses on companies' cultures",
+        "D": "It draws on sociology and anthropology too, not just psychology"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** OB is an applied behavioural science built on contributions from several disciplines, mainly psychology, social psychology, sociology and anthropology, and it goes beyond common sense. (Ch 1 slides: OB at Work, For Review)\n**Why not A:** The slides name psychology, social psychology, sociology and anthropology, not economics or finance.\n**Why not B:** The slides say OB goes beyond common sense, using systematic study and scientific evidence.\n**Why not C:** Anthropology is one contributor among several, not OB's parent field."
+    },
+    {
+      "topic": "Economic pressures and globalization",
+      "question": "During a recession, a manufacturer lays off staff and asks those who remain to do more with less. Which OB issues do the slides say become especially important?",
+      "options": {
+        "A": "Rewards, satisfaction and retention",
+        "B": "Recruiting, onboarding and training",
+        "C": "Growth, promotion and career paths",
+        "D": "Stress, decision making and coping"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In bad times, stress, decision making and coping matter most; managers are on the front lines with employees who may be terminated, asked to make do with less, or worried about their future. (Ch 1 slides: Economic Pressures)\n**Why not A:** Those are the focus in good times.\n**Why not B:** The slides don't name these as bad-times priorities; stress and coping are.\n**Why not C:** Expansion-oriented issues aren't what the slides highlight for downturns."
+    },
+    {
+      "topic": "Economic pressures and globalization",
+      "question": "A booming tech firm is hiring fast and competing hard for talent. Where do the slides say OB attention tends to focus in good economic times?",
+      "options": {
+        "A": "Ethics, compliance and corporate governance",
+        "B": "Rewards, satisfaction and retention of employees",
+        "C": "Stress, coping and decisions about layoffs",
+        "D": "Cost cutting, outsourcing and doing more with less"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In good times, the focus is on rewards, satisfaction and retaining employees; stress and coping come to the fore when times are bad. (Ch 1 slides: Economic Pressures)\n**Why not A:** Ethical behaviour is a separate challenge in the slides, not the good-times focus.\n**Why not C:** Those are the bad-times concerns.\n**Why not D:** Making do with less is a downturn concern, and outsourcing is a response to global cost pressure."
+    },
+    {
+      "topic": "Economic pressures and globalization",
+      "question": "A Canadian furniture maker now competes with rivals from the United States, Europe and China, as well as at home. According to the slides, what have firms like it had to do to survive?",
+      "options": {
+        "A": "Rely on national borders and tariffs for protection",
+        "B": "Avoid the Internet to limit exposure to foreign rivals",
+        "C": "Cut costs, raise productivity and improve quality",
+        "D": "Raise prices to signal quality to global customers"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Facing tough competition from abroad and at home, Canadian businesses have had to reduce costs, increase productivity and improve quality. (Ch 1 slides: Continuing Globalization)\n**Why not A:** National borders no longer protect most firms, and trading blocs like CUSMA and the EU reduce tariffs.\n**Why not B:** The Internet has made companies more globally connected; avoiding it isn't presented as a strategy.\n**Why not D:** The slides point to cutting costs and improving productivity and quality, not raising prices."
+    },
+    {
+      "topic": "Economic pressures and globalization",
+      "question": "A Calgary engineering firm forms a joint venture with a foreign partner and hires engineers who have moved across borders for work. Which capability do the slides say this makes essential for its managers and employees?",
+      "options": {
+        "A": "Negotiating tariff reductions within trade blocs",
+        "B": "Working well with people from different cultures",
+        "C": "Outsourcing more work to lower-cost countries",
+        "D": "Assigning expatriates to run every foreign office"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** With multinationals operating worldwide, joint ventures with foreign partners and workers pursuing jobs across borders, managers and employees must become capable of working with people from different cultures. (Ch 1 slides: Continuing Globalization)\n**Why not A:** Trading blocs reduce tariffs between countries; that's context, not a skill the slides ask of managers.\n**Why not C:** Outsourcing is one response to cost pressure, not the capability a joint venture calls for.\n**Why not D:** Expatriate postings are one employment condition, but the slides' point is that everyone must be able to work across cultures."
+    },
+    {
+      "topic": "Diversity and customer service",
+      "question": "An HR director wants to measure workforce diversity as the slides define it. Which characteristics should the measure cover?",
+      "options": {
+        "A": "Only gender and ethnicity, as recorded on job application forms",
+        "B": "Personality types and preferred work styles of staff",
+        "C": "Gender, race, ability, age, orientation, education and more",
+        "D": "Job titles, departments and pay grades across the whole firm"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Workforce diversity is the mix of people in terms of gender, race, ethnicity, ability, sexual orientation, age, and demographic characteristics such as education and socio-economic status. (Ch 1 slides: Understanding Workforce Diversity)\n**Why not A:** The definition is much broader, including ability, sexual orientation, age, education and socio-economic status.\n**Why not B:** Personality and work styles aren't part of the slides' definition of workforce diversity.\n**Why not D:** Those describe the organization's structure, not the mix of people."
+    },
+    {
+      "topic": "Diversity and customer service",
+      "question": "A manager expects staff to leave their cultural values and lifestyle preferences 'at the door' and all behave the same way at work. What do the slides say?",
+      "options": {
+        "A": "Staff bring their values to work, and these need respect",
+        "B": "Staff should adapt fully to one shared way of working",
+        "C": "Differences fade once people have worked together a while",
+        "D": "Values matter at work only for older generations of staff"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Employees don't set aside their cultural values and lifestyle preferences when they go to work; managers need to respect people's different lifestyles, family needs and work styles. (Ch 1 slides: Understanding Workforce Diversity)\n**Why not B:** The slides call for respecting differences, not erasing them.\n**Why not C:** The slides don't say differences disappear; they say employees bring them to work.\n**Why not D:** Each generation brings its own values and expectations, shaped by different life experiences."
+    },
+    {
+      "topic": "Diversity and customer service",
+      "question": "A bank finds that customer satisfaction varies sharply from branch to branch, tracking how staff treat customers. How do the slides say OB can help?",
+      "options": {
+        "A": "By showing how staff attitudes and actions affect customers",
+        "B": "By replacing most staff contact with self-service technology",
+        "C": "By focusing attention on product pricing and features",
+        "D": "By training only branch managers instead of front-line staff"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Most Canadian jobs are service jobs (79 percent) with substantial customer contact; OB can make these interactions more successful by showing how employee attitudes and behaviour influence customer satisfaction. (Ch 1 slides: Customer Service)\n**Why not B:** The slides focus on improving employee–customer interactions, not eliminating them.\n**Why not C:** Pricing isn't an OB lever in the slides; employee attitudes and behaviour are.\n**Why not D:** The slides point to the attitudes and behaviour of the employees who serve customers."
+    },
+    {
+      "topic": "Diversity and customer service",
+      "question": "Management wants to build a customer-responsive culture. Which employee qualities do the slides say such a culture fosters?",
+      "options": {
+        "A": "Formal, reserved, rule-following and consistent",
+        "B": "Friendly, accessible, knowledgeable and responsive",
+        "C": "Efficient, scripted, speedy and cost-conscious",
+        "D": "Assertive, persuasive, sales-driven and fast-paced"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** OB can guide managers in creating cultures where employees are friendly, accessible, knowledgeable and responsive, in order to please the customer. (Ch 1 slides: Customer Service)\n**Why not A:** A customer-responsive culture emphasizes friendliness and accessibility, not formality.\n**Why not C:** Scripts and speed aren't the qualities the slides list; responsiveness and knowledge are.\n**Why not D:** The slides describe pleasing the customer, not pushing sales."
+    },
+    {
+      "topic": "Networks, well-being and ethics",
+      "question": "A manager who used to supervise one office now leads a team spread across several cities that works and decides together mostly online. What do the slides say this means?",
+      "options": {
+        "A": "The manager's job stays the same, just carried out by video",
+        "B": "Online teams need less leadership, since the work is self-paced",
+        "C": "Collaborative decisions should be avoided until the team meets",
+        "D": "Leading and deciding online need different techniques and skills"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Networked organizations let people work together from different locations; motivating, leading and making collaborative decisions online require different techniques, so managers and employees need new skills. (Ch 1 slides: Working in Networked Organizations)\n**Why not A:** The slides say the manager's job is different in networked organizations.\n**Why not B:** The slides don't say online teams need less leadership; they say it takes different techniques.\n**Why not C:** The slides expect collaborative decisions to be made online, with new skills."
+    },
+    {
+      "topic": "Networks, well-being and ethics",
+      "question": "An employer notices that staff who check social media throughout the day seem moodier and less productive. Which point from the slides does this reflect?",
+      "options": {
+        "A": "Social media mainly lifts mood, so performance usually rises",
+        "B": "Social media matters to employers only as a recruiting tool",
+        "C": "Constant social media access can affect mood and performance",
+        "D": "Only social media use outside work hours is a real concern"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The slides note that access to social media throughout the day can influence employee mood and thus performance, alongside issues like inappropriate posts and its influence on recruiting. (Ch 1 slides: Social Media)\n**Why not A:** The slides say social media can influence mood and performance, and this employer is seeing the downside.\n**Why not B:** Recruitment is one effect, but the slides also link daytime access to mood and performance.\n**Why not D:** The slides specifically mention access throughout the day."
+    },
+    {
+      "topic": "Networks, well-being and ethics",
+      "question": "Staff at a Toronto firm with offices in Asia and Europe say work now spills into their evenings and weekends, and their stress is climbing. According to the slides, what is driving this, and what's at stake?",
+      "options": {
+        "A": "Round-the-clock global work and connectivity; losing staff",
+        "B": "Poor time management by staff; a drop in their output",
+        "C": "Heavy social media use at work; damage to the firm's image",
+        "D": "Vague job descriptions; formal complaints and grievances"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Global organizations mean the world never sleeps, communication technology lets people bring work home, and hours get longer; firms that don't help employees strike a balance risk losing them and future candidates. (Ch 1 slides: Enhancing Employee Well-Being at Work)\n**Why not B:** The slides attribute the blurring to global operations, technology and longer hours, not personal time management.\n**Why not C:** Social media is a separate challenge; here the issue is work spilling into private life.\n**Why not D:** The slides don't mention job descriptions; they warn of losing current and future employees."
+    },
+    {
+      "topic": "Networks, well-being and ethics",
+      "question": "A retailer decides to build each role around what the employee does best, aiming to foster vitality and resilience rather than fixing weaknesses. Which area of OB research does this reflect?",
+      "options": {
+        "A": "Evidence-based management (EBM)",
+        "B": "Positive organizational scholarship",
+        "C": "Workforce diversity management",
+        "D": "The contingency approach to behaviour"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Positive organizational scholarship studies how organizations develop human strengths, foster vitality and resilience, and unlock potential, focusing on exploiting strengths rather than dwelling on limitations. (Ch 1 slides: Creating a Positive Work Environment)\n**Why not A:** EBM is about basing decisions on the best available scientific evidence, not a focus on strengths.\n**Why not C:** Diversity concerns the mix of people in an organization, not designing roles around strengths.\n**Why not D:** The contingency approach considers behaviour in context; it isn't specifically about building on strengths."
+    },
+    {
+      "topic": "Networks, well-being and ethics",
+      "question": "Pressed to hit a quarterly target, a sales rep must decide whether to backdate a signed contract. How do the slides describe this kind of situation?",
+      "options": {
+        "A": "A customer service issue about responsiveness to clients",
+        "B": "An economic pressure that calls mainly for coping strategies",
+        "C": "A contingency question about which approach fits the context",
+        "D": "An ethical dilemma: deciding what is right and wrong conduct"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Ethical dilemmas and ethical choices are situations in which individuals must define right and wrong conduct, often under pressure to cut corners or break rules; ethics studies the moral principles that guide behaviour. (Ch 1 slides: Ethical Behaviour)\n**Why not A:** Backdating a contract is a question of right and wrong conduct, not service quality.\n**Why not B:** Economic pressure may create the temptation, but the decision itself is an ethical choice.\n**Why not C:** The contingency approach is about context-dependent behaviour, not deciding right from wrong."
+    },
+    {
+      "topic": "The OB model",
+      "question": "A consultant reviews a firm's structure and culture, both of which were in place long before most current staff were hired. In the OB model, what are these?",
+      "options": {
+        "A": "Organizational-level processes",
+        "B": "Organizational-level outcomes",
+        "C": "Group-level inputs",
+        "D": "Organizational-level inputs"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Inputs are variables like personality, group structure and organizational culture that lead to processes, and they're often set before the employment relationship begins; structure and culture are the organizational-level inputs. (Ch 1 slides: Developing an OB Model, Inputs)\n**Why not A:** The organizational-level process in the model is change practices.\n**Why not B:** Organizational outcomes are productivity, profitability and survival.\n**Why not C:** Group-level inputs are group structure, group roles and team responsibilities."
+    },
+    {
+      "topic": "The OB model",
+      "question": "A researcher tracks how employees perceive a new pay policy and how their motivation and moods shift in response. Where do these fall in the OB model?",
+      "options": {
+        "A": "Group-level processes",
+        "B": "Individual-level inputs",
+        "C": "Individual-level processes",
+        "D": "Individual-level outcomes"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Individual-level processes are emotions and moods, motivation, perception and decision making: actions people engage in as a result of inputs, which lead to outcomes. (Ch 1 slides: Developing an OB Model, Processes)\n**Why not A:** Group processes are communication, leadership, power and politics, and conflict and negotiation.\n**Why not B:** Individual inputs are diversity, personality and values, which exist before these reactions.\n**Why not D:** Individual outcomes are attitudes and stress, task performance, citizenship behaviour and withdrawal behaviour."
+    },
+    {
+      "topic": "The OB model",
+      "question": "After a reorganization, an employee starts arriving late and calling in sick more often. In the OB model, what is this behaviour?",
+      "options": {
+        "A": "An individual-level outcome",
+        "B": "An organizational-level input",
+        "C": "A group-level outcome",
+        "D": "An individual-level process"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Withdrawal behaviour is one of the individual-level outcomes, along with attitudes and stress, task performance and citizenship behaviour. (Ch 1 slides: Developing an OB Model, Outcomes)\n**Why not B:** Organizational inputs are structure and culture.\n**Why not C:** Group outcomes are cohesion and functioning.\n**Why not D:** Individual processes are emotions and moods, motivation, perception and decision making."
+    },
+    {
+      "topic": "The OB model",
+      "question": "A company overhauls the way it plans and rolls out restructurings across its divisions. Which part of the OB model does this concern?",
+      "options": {
+        "A": "A group-level process",
+        "B": "An organizational-level process",
+        "C": "An organizational-level input",
+        "D": "An organizational-level outcome"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Change practices are the organizational-level process in the model, linking organizational inputs such as structure and culture to outcomes such as productivity and survival. (Ch 1 slides: Developing an OB Model, Processes)\n**Why not A:** Group processes are communication, leadership, power and politics, and conflict and negotiation.\n**Why not C:** Organizational inputs are structure and culture; change practices are the process that acts on them.\n**Why not D:** Organizational outcomes are productivity, profitability and survival."
+    },
+    {
+      "topic": "Competing Values Framework",
+      "question": "A manager concentrates on employee needs and internal systems and processes, paying little attention to the market, regulations or social trends. Where does this sit in the Competing Values Framework?",
+      "options": {
+        "A": "The internal side of the internal–external dimension",
+        "B": "The control side of the flexibility–control dimension",
+        "C": "The flexible side of the flexibility–control dimension",
+        "D": "The external side of the internal–external dimension"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The internal–external dimension runs from an inward focus on employee needs, production processes and internal systems to an outward focus on the marketplace, government regulations and changing social, environmental and technological conditions. (Ch 1 slides: From Concepts to Skills, Competing Values Framework)\n**Why not B:** Control is about stability and the status quo, not where attention is focused.\n**Why not C:** Flexibility is about dynamism, teamwork and new opportunities, not an inward focus.\n**Why not D:** An external focus looks outward to markets, regulations and changing conditions."
+    },
+    {
+      "topic": "Competing Values Framework",
+      "question": "A manager's strongest skills are team building, participative decision making and conflict management. Which Competing Values Framework role does this match?",
+      "options": {
+        "A": "Broker",
+        "B": "Coordinator",
+        "C": "Facilitator",
+        "D": "Mentor"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 1.6, the facilitator role covers team building, participative decision making and conflict management. (Ch 1 slides: Exhibit 1.6 Skills for Mastery)\n**Why not A:** The broker role covers building and maintaining a power base, negotiating agreement and commitment, and selling ideas.\n**Why not B:** The coordinator role covers planning, organizing and controlling.\n**Why not D:** The mentor role covers understanding yourself and others, interpersonal communication and developing subordinates."
+    },
+    {
+      "topic": "Competing Values Framework",
+      "question": "A manager is known for taking initiative, setting clear goals and delegating effectively. Which Competing Values Framework role do these skills belong to?",
+      "options": {
+        "A": "Director",
+        "B": "Innovator",
+        "C": "Producer",
+        "D": "Coordinator"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 1.6, the director role covers taking initiative, goal setting and delegating effectively. (Ch 1 slides: Exhibit 1.6 Skills for Mastery)\n**Why not B:** The innovator role covers living with change, creative thinking and managing change.\n**Why not C:** The producer role covers personal productivity and motivation, motivating others, and time and stress management.\n**Why not D:** The coordinator role covers planning, organizing and controlling."
+    }
+  ]
+}

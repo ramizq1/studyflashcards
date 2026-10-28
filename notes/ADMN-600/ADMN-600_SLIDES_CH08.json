@@ -1,0 +1,494 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "08",
+    "title": "Power and Politics"
+  },
+  "collection": "Lecture slides (9th Canadian ed.)",
+  "collectionOrder": 1,
+  "source": "08.txt – Chapter 8 lecture slides",
+  "questions": [
+    {
+      "topic": "Power and dependence",
+      "question": "A junior analyst goes along with a senior engineer's suggestions mainly because the engineer controls access to a test lab the analyst needs for every project. In the slides' terms, what describes the analyst's position?",
+      "options": {
+        "A": "Dependence: the engineer has something the analyst needs",
+        "B": "Legitimacy: the engineer holds a higher formal position",
+        "C": "Empowerment: the analyst is free to make their own decisions",
+        "D": "Commitment: the analyst is enthusiastic about each request"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Power is A's capacity to influence B's behaviour, and dependence is B's relationship to A when A possesses something B requires; here the engineer controls a resource the analyst needs. (Ch 8 slides: Power)\n**Why not B:** Nothing suggests formal rank is the source; the engineer's control of a needed resource is.\n**Why not C:** Empowerment is the freedom to make decisions and commitments, which the analyst's reliance on the engineer limits.\n**Why not D:** Commitment means enthusiastically carrying out a request; the analyst goes along because of the lab, not out of enthusiasm."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "A hospital's only MRI technician has long had a lot of say over scheduling. After the hospital trains three more technicians, that influence drops sharply. Which principle explains this?",
+      "options": {
+        "A": "Power grows as more people share the same skill",
+        "B": "Expert power stays fixed once skills are proven",
+        "C": "Influence depends on formal rank, not on resources",
+        "D": "Dependence shrinks as alternative sources appear"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The general dependence postulate: the greater B's dependence on A, the more power A has over B, and dependence is inversely proportional to the alternative sources of supply. (Ch 8 slides: The General Dependence Postulate)\n**Why not A:** The reverse: more alternatives reduce dependence, and with it power.\n**Why not B:** Expert power rests on dependence, which shrinks when others can supply the same expertise.\n**Why not C:** The technician's rank didn't change; the availability of substitutes did."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "A procurement officer manages a supplier relationship that is critical to production, that few others in the firm understand, and for which no alternative supplier exists. Which factors do the slides say create dependence in a case like this?",
+      "options": {
+        "A": "Importance, scarcity and non-substitutability",
+        "B": "Legitimacy, reward and the ability to coerce",
+        "C": "Commitment, compliance and resistance",
+        "D": "Self-determination, meaning and impact"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Dependence is created when what you control is important, is perceived as scarce, and can't be substituted with something else. (Ch 8 slides: What Creates Dependence?)\n**Why not B:** Those are the formal bases of power, not the factors that create dependence.\n**Why not C:** Those are the three ways people respond to power.\n**Why not D:** Those are characteristics of empowered people."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "An analyst wants more influence with their boss. Based on the slides' advice to managers, what is the best long-term move?",
+      "options": {
+        "A": "Teach the boss everything they know so they're trusted",
+        "B": "Focus on winning a higher job title before anything else",
+        "C": "Develop a needed skill that has no ready substitute",
+        "D": "Make sure several colleagues can easily do their work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** To maximize power, increase others' dependence on you, for instance by developing a needed knowledge or skill for which there's no ready substitute. (Ch 8 slides: OB at Work, For Managers)\n**Why not A:** Giving away your unique knowledge reduces others' dependence on you.\n**Why not B:** The slides' advice centres on creating dependence through needed, non-substitutable skills.\n**Why not D:** Making yourself easy to substitute lowers dependence and therefore power."
+    },
+    {
+      "topic": "Power and dependence",
+      "question": "A manager who has worked to make the team depend on their expertise notices team members now building skills that make the manager depend on them. How do the slides frame this?",
+      "options": {
+        "A": "As insubordination that the manager should shut down",
+        "B": "As proof that power can flow only downward in a hierarchy",
+        "C": "As expected: others also try to build their power bases",
+        "D": "As a sign that the manager has lost all of their power"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The slides note you won't be alone in building power bases: employees and peers will seek to increase your dependence on them while you try to minimize it and increase theirs. (Ch 8 slides: OB at Work, For Managers)\n**Why not A:** The slides treat this as a normal part of power dynamics, and advise against leaving others feeling they have no power.\n**Why not B:** Dependence can run in any direction, including from a manager to staff.\n**Why not D:** Mutual dependence shifts the balance; it doesn't mean the manager's power is gone."
+    },
+    {
+      "topic": "Bases of power",
+      "question": "A shift supervisor gets staff to follow a new cleaning procedure mainly by threatening write-ups and docked hours for anyone who doesn't. Which base of power is this?",
+      "options": {
+        "A": "Coercive power",
+        "B": "Reward power",
+        "C": "Expert power",
+        "D": "Legitimate power"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Coercive power depends on fear of the negative results from failing to comply. (Ch 8 slides: Formal Power)\n**Why not B:** Reward power works through distributing rewards others value, not threats.\n**Why not C:** Expert power rests on special skills or knowledge.\n**Why not D:** Legitimate power comes from a position in the formal hierarchy itself; the lever here is fear of penalties."
+    },
+    {
+      "topic": "Bases of power",
+      "question": "A sales director gets reps to push a new product line by offering bonuses and first choice of territories to those who comply. Which base of power is this?",
+      "options": {
+        "A": "Reward power",
+        "B": "Referent power",
+        "C": "Coercive power",
+        "D": "Legitimate power"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Reward power achieves compliance through the ability to distribute rewards that others view as valuable. (Ch 8 slides: Formal Power)\n**Why not B:** Referent power comes from desirable personal traits or resources that others admire.\n**Why not C:** Coercive power relies on fear of negative results, not on offering valued rewards.\n**Why not D:** Legitimate power comes from formal position alone; the lever here is valued rewards."
+    },
+    {
+      "topic": "Bases of power",
+      "question": "Staff follow a newly appointed department head's instructions from day one, simply because that person now holds the head position in the formal hierarchy. Which base of power is this?",
+      "options": {
+        "A": "Referent power",
+        "B": "Legitimate power",
+        "C": "Expert power",
+        "D": "Reward power"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Legitimate power is the power people receive because of their position in the formal hierarchy of an organization. (Ch 8 slides: Formal Power)\n**Why not A:** The new head hasn't had time to build admiration; staff are responding to the position.\n**Why not C:** Nothing suggests special skills or knowledge are the reason staff comply.\n**Why not D:** No rewards are offered; the position itself carries the authority."
+    },
+    {
+      "topic": "Bases of power",
+      "question": "As a product-launch deadline nears, the whole team increasingly defers to the one engineer who understands the legacy code, though that engineer holds no formal authority. What do the slides say about this?",
+      "options": {
+        "A": "Deadlines increase reliance on whoever is best liked",
+        "B": "Deadlines make teams fall back on coercive power",
+        "C": "Deadlines increase reliance on people with expert power",
+        "D": "Deadlines shift reliance toward legitimate power holders"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Expert power is influence based on special skills or knowledge, and deadline pressures increase group members' reliance on individuals with expert power. (Ch 8 slides: Which Bases of Power Are Most Effective?)\n**Why not A:** Being admired is referent power; deadline pressure raises reliance on expertise.\n**Why not B:** The slides don't link deadlines to coercion; the reliance here is on knowledge.\n**Why not D:** The engineer has no formal authority; the slides link deadline pressure to expert power."
+    },
+    {
+      "topic": "Bases of power",
+      "question": "Colleagues eagerly go along with suggestions from a widely admired co-worker whose personal qualities they find appealing, though the co-worker has no authority or special expertise. Which base of power is this?",
+      "options": {
+        "A": "Referent power",
+        "B": "Legitimate power",
+        "C": "Expert power",
+        "D": "Reward power"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Referent power is influence based on an individual's possession of desirable resources or personal traits; it's a personal, not formal, base of power. (Ch 8 slides: Personal Power)\n**Why not B:** The co-worker holds no formal authority.\n**Why not C:** The co-worker has no special expertise; the appeal is personal.\n**Why not D:** No rewards are offered; colleagues follow out of admiration."
+    },
+    {
+      "topic": "Responses to power",
+      "question": "Two managers ask their teams to adopt a demanding new process. One relies on threats of discipline; the other is a respected expert on the process. Based on Exhibit 8.1, which response can only the second realistically hope for?",
+      "options": {
+        "A": "Compliance: grudging, minimal effort",
+        "B": "Commitment: enthusiastic follow-through",
+        "C": "Resistance: opposing and avoiding it",
+        "D": "Obedience: following orders to the letter"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 8.1, coercive power tends to produce resistance, while expert and referent power can produce the full range up to commitment, where people are enthusiastic and carry the task out. (Ch 8 slides: Exhibit 8.1, Continuum of Responses to Power)\n**Why not A:** Compliance can come from several bases; it's commitment that coercion doesn't produce.\n**Why not C:** Resistance can arise with any base, and it's the typical response to coercion.\n**Why not D:** Obedience isn't one of the three responses in the slides (commitment, compliance and resistance)."
+    },
+    {
+      "topic": "Responses to power",
+      "question": "A manager uses formal authority and bonuses to get staff to adopt new reporting software. Staff go along, but grudgingly and with minimal effort. Based on Exhibit 8.1, what does this suggest?",
+      "options": {
+        "A": "Reward and legitimate power tend to stop at compliance",
+        "B": "Reward and legitimate power usually produce commitment",
+        "C": "Grudging effort shows that coercive power is being used",
+        "D": "Bonuses make resistance impossible, so effort will rise"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 8.1 links reward and legitimate power to resistance or compliance (grudging, minimal effort); only expert and referent power reach commitment. (Ch 8 slides: Exhibit 8.1, Continuum of Responses to Power)\n**Why not B:** In Exhibit 8.1, commitment is associated with expert and referent power.\n**Why not C:** Grudging compliance is typical of reward and legitimate power too; coercion tends to produce resistance.\n**Why not D:** Reward power can still produce resistance, according to Exhibit 8.1."
+    },
+    {
+      "topic": "Responses to power",
+      "question": "Why, according to the slides, do managers so often rely on coercive, legitimate and reward power, even though these are the least effective bases?",
+      "options": {
+        "A": "Staff respond better to them than to expertise",
+        "B": "They reliably win employees' enthusiastic commitment",
+        "C": "They're the easiest bases to put into practice",
+        "D": "They work best when teams face tight deadlines"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The least effective power bases (coercive, legitimate and reward) are the ones managers use most, because they're the easiest to implement; effective leaders use referent and/or expert power. (Ch 8 slides: Which Bases of Power Are Most Effective?)\n**Why not A:** Exhibit 8.1 shows expert and referent power produce better responses.\n**Why not B:** These bases tend to produce compliance or resistance, not commitment.\n**Why not D:** Deadline pressure increases reliance on expert power, not on these bases."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "To win support for a weekend volunteer drive, a director speaks passionately about the team's shared values and builds their confidence that they can make a real difference. Which influence tactic is this?",
+      "options": {
+        "A": "Personal appeal",
+        "B": "Ingratiation",
+        "C": "Inspirational appeals",
+        "D": "Rational persuasion"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** An inspirational appeal is an emotional request that arouses enthusiasm by appealing to the target's values and ideals, or by increasing their confidence that they can do it. (Ch 8 slides: Exhibit 8.2, Influence Tactics)\n**Why not A:** A personal appeal draws on loyalty and friendship toward the requester, not shared values and ideals.\n**Why not B:** Ingratiation puts the target in a good mood or wins favour before asking, rather than appealing to ideals.\n**Why not D:** Rational persuasion uses logical arguments and factual evidence, not emotional appeals to values."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "A colleague reminds a peer of the favour they did last month, covering an extra shift, and then asks for help with a report in return. Which influence tactic is this?",
+      "options": {
+        "A": "Personal appeal",
+        "B": "Coalition",
+        "C": "Ingratiation",
+        "D": "Exchange"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exchange is promising rewards or tangible benefits for compliance, or reminding the target of a prior favour to be reciprocated. (Ch 8 slides: Exhibit 8.2, Influence Tactics)\n**Why not A:** A personal appeal draws on loyalty and friendship, not on a favour owed.\n**Why not B:** A coalition enlists others' support to persuade the target.\n**Why not C:** Ingratiation builds goodwill before the request, rather than calling in a past favour."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "To get the IT team to prioritize a fix, a manager points out that company policy requires all safety-related issues to be resolved within 24 hours. Which influence tactic is this?",
+      "options": {
+        "A": "Consultation",
+        "B": "Upward appeals",
+        "C": "Legitimating",
+        "D": "Pressure"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Legitimating establishes a request's legitimacy by claiming the authority to make it or by showing it's consistent with organizational policies, rules, practices or traditions. (Ch 8 slides: Exhibit 8.2, Influence Tactics)\n**Why not A:** Consultation seeks the target's participation in a decision or plan, rather than citing policy.\n**Why not B:** An upward appeal invokes higher management's approval or help; this request rests on policy.\n**Why not D:** Pressure uses demands, threats or intimidation, which aren't described here."
+    },
+    {
+      "topic": "Influence tactics",
+      "question": "A project lead tells a reluctant peer that the vice-president has already approved the plan and will step in if the peer doesn't cooperate. Which influence tactic is this?",
+      "options": {
+        "A": "Exchange",
+        "B": "Upward appeals",
+        "C": "Legitimating",
+        "D": "Coalition"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Upward appeals persuade the target that a request is approved by higher management, or appeal to higher management for help in gaining compliance. (Ch 8 slides: Exhibit 8.2, Influence Tactics)\n**Why not A:** Exchange offers benefits or calls in favours, which isn't happening here.\n**Why not C:** Legitimating rests on authority, policy or tradition, not on senior management's backing.\n**Why not D:** A coalition enlists others' support, but the lever here is higher management specifically."
+    },
+    {
+      "topic": "Using influence effectively",
+      "question": "A team leader needs buy-in from staff who care deeply about how a restructuring will turn out. Which tactics do the slides say tend to be most effective in this kind of situation?",
+      "options": {
+        "A": "Coalitions, exchange and pressure from senior leaders",
+        "B": "Pressure, legitimating and upward appeals to management",
+        "C": "Ingratiation, exchange and personal appeals to friendship",
+        "D": "Rational persuasion, inspirational appeals and consultation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Rational persuasion, inspirational appeals and consultation tend to be most effective, especially when the audience is highly interested in the outcomes of a decision; pressure tends to backfire. (Ch 8 slides: About Influence Tactics)\n**Why not A:** Pressure frequently backfires; these aren't the most effective tactics in the slides.\n**Why not B:** Pressure is typically the least effective tactic and often backfires.\n**Why not C:** These aren't the tactics the slides identify as most effective."
+    },
+    {
+      "topic": "Using influence effectively",
+      "question": "A team member plans to influence a peer in another unit by appealing to their friendship and by rallying other peers behind the request. According to Exhibit 8.3, in which direction are these two tactics preferred?",
+      "options": {
+        "A": "Upward influence only",
+        "B": "Lateral influence only",
+        "C": "Downward influence only",
+        "D": "All three directions equally"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 8.3, personal appeals and coalitions appear only in the lateral column, alongside rational persuasion, consultation, ingratiation, exchange and legitimacy. (Ch 8 slides: Exhibit 8.3, Preferred Tactics by Influence Direction)\n**Why not A:** Rational persuasion is the only tactic listed for upward influence.\n**Why not C:** Personal appeals and coalitions aren't listed for downward influence.\n**Why not D:** Only rational persuasion appears in all three columns."
+    },
+    {
+      "topic": "Using influence effectively",
+      "question": "Frustrated by a peer's delays, a manager considers using demands and veiled threats to get cooperation. What do the slides say about this tactic?",
+      "options": {
+        "A": "Pressure is the most effective of the ten tactics",
+        "B": "Pressure is the preferred tactic for lateral influence",
+        "C": "Pressure often backfires and is preferred only downward",
+        "D": "Pressure works best when the stakes are especially high"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Pressure is typically the least effective of the 10 tactics and frequently backfires; in Exhibit 8.3 it appears only as a downward-influence tactic, not a lateral one. (Ch 8 slides: About Influence Tactics, Exhibit 8.3)\n**Why not A:** Pressure is typically the least effective and often backfires.\n**Why not B:** Exhibit 8.3 doesn't list pressure for lateral influence.\n**Why not D:** The slides say political skill, not pressure, is more effective when stakes are high."
+    },
+    {
+      "topic": "Using influence effectively",
+      "question": "Two managers use the same influence tactics, but one gets far better results, especially on high-stakes issues, and colleagues rarely notice being influenced. What explains the difference?",
+      "options": {
+        "A": "Legitimate power",
+        "B": "Empowerment",
+        "C": "Impression management",
+        "D": "Political skill"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Political skill is the ability to influence others in ways that enhance one's objectives; politically skilled people use influence tactics more effectively, are more effective when stakes are high, and exert influence without others detecting it. (Ch 8 slides: Applying Influence Tactics)\n**Why not A:** Nothing suggests the managers' positions differ; the difference lies in how skillfully they influence.\n**Why not B:** Empowerment is employees' freedom to make decisions, not a manager's influence skill.\n**Why not C:** IM is controlling how others see you; the difference here is skill in exerting influence."
+    },
+    {
+      "topic": "Using influence effectively",
+      "question": "A Canadian manager posted to an office in another country plans to use exactly the same influence tactics that worked at home. What do the slides suggest?",
+      "options": {
+        "A": "Only pressure tactics vary in how cultures see them",
+        "B": "Influence tactics work the same way in every culture",
+        "C": "Culture shapes empowerment, but not how influence works",
+        "D": "Preferred influence tactics vary across cultures"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides note that preference for influence tactics varies across cultures, so tactics that work at home may not be preferred elsewhere. (Ch 8 slides: Preference for Influence Tactics)\n**Why not A:** The slides say preferences for influence tactics in general vary across cultures.\n**Why not B:** The slides say preferences for influence tactics vary across cultures.\n**Why not C:** Views on empowerment and preferences for influence tactics both vary across cultures."
+    },
+    {
+      "topic": "Power's effects and harassment",
+      "question": "After a major promotion, an executive starts putting personal interests ahead of others', reacts harshly to any hint that their competence is in question, and makes overconfident calls. What do the slides say about this pattern?",
+      "options": {
+        "A": "These effects can't be limited by any organizational system",
+        "B": "Power can push people toward self-interest and overconfidence",
+        "C": "Power usually makes people more cautious and more modest",
+        "D": "Such shifts occur only in people who never had authority"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides note that power can lead people to put their own interests ahead of others, react more negatively to threats to their competence, denigrate others, and make overconfident decisions. (Ch 8 slides: How Power Affects People)\n**Why not A:** The slides say organizational systems can contain power's corrosive effects.\n**Why not C:** The slides describe the opposite tendencies, such as overconfident decision making.\n**Why not D:** People who start low in status and gain power are most likely to abuse it, but the slides don't say only they are affected."
+    },
+    {
+      "topic": "Power's effects and harassment",
+      "question": "A company is deciding which newly promoted managers to watch most closely for abuse of power. Which group do the slides identify as most likely to abuse power?",
+      "options": {
+        "A": "Those who have held high status for their whole careers",
+        "B": "Those with the most formal authority over budgets",
+        "C": "Those whose personalities make power affect them least",
+        "D": "Those who start low in status and then gain power"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides say the people most likely to abuse power are those who start low in status and gain power; power's toxic effects also depend on personality and can be contained by organizational systems. (Ch 8 slides: Power Variables)\n**Why not A:** The slides single out people who start low in status and gain power.\n**Why not B:** The slides tie abuse to a rise from low status, not to the size of a manager's authority.\n**Why not C:** Toxic effects depend on personality, so those least affected by power are the least risky."
+    },
+    {
+      "topic": "Power's effects and harassment",
+      "question": "A supervisor repeatedly asks a subordinate out after being clearly told no, and hints that saying no could affect the subordinate's shift assignments. What is this?",
+      "options": {
+        "A": "A pressure influence tactic",
+        "B": "Workplace bullying",
+        "C": "An exchange influence tactic",
+        "D": "Sexual harassment"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Sexual harassment is unwelcome behaviour of a sexual nature that negatively affects the work environment or leads to adverse job-related consequences; recurring date requests and coercive threats are examples, and harassers typically abuse a power position. (Ch 8 slides: Harassment: Unequal Power in the Workplace)\n**Why not A:** Pressure involves demands or threats, but unwelcome behaviour of a sexual nature makes this sexual harassment.\n**Why not B:** Bullying is a related abuse of power, but unwelcome sexual requests tied to job threats are sexual harassment.\n**Why not C:** Exchange offers rewards or calls in favours to win compliance; unwelcome sexual pressure backed by threats is harassment."
+    },
+    {
+      "topic": "Power's effects and harassment",
+      "question": "A shop manager argues that because no one has been touched or threatened, the off-colour jokes and the nude calendar on the wall are harmless fun. What do the slides say?",
+      "options": {
+        "A": "Subtler forms like these can still be harassment",
+        "B": "Only physical touching counts as sexual harassment",
+        "C": "Jokes and calendars are protected as friendly banter",
+        "D": "Harassment requires a threat to someone's job"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Beyond touching and threats, the slides list subtler forms that are harder to interpret, including off-colour jokes, unwanted looks or comments, innuendo, and sexual artifacts such as nude calendars. (Ch 8 slides: Harassment: Unequal Power in the Workplace)\n**Why not B:** The slides list many non-physical behaviours, including jokes and calendars.\n**Why not C:** Misreading where 'being friendly' ends and harassment begins is itself named as a problem.\n**Why not D:** Coercive threats are one form, but the slides list many others."
+    },
+    {
+      "topic": "Power's effects and harassment",
+      "question": "An employee is reluctant to report harassment out of fear of payback from the person involved. Which practice from the slides addresses this fear most directly?",
+      "options": {
+        "A": "Holding seminars on what counts as harassment",
+        "B": "Reassuring employees they won't face retaliation",
+        "C": "Investigating only complaints that have witnesses",
+        "D": "Disciplining offenders only after repeat offences"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides' prevention practices include reassuring employees they won't encounter retaliation for raising a complaint, alongside an active policy, investigating every complaint, disciplining offenders and in-house seminars. (Ch 8 slides: Harassment: Unequal Power in the Workplace)\n**Why not A:** Seminars are recommended, but they don't directly address fear of retaliation.\n**Why not C:** The slides call for investigating every complaint.\n**Why not D:** The slides call for disciplining or terminating offenders, without waiting for repeats."
+    },
+    {
+      "topic": "Power's effects and harassment",
+      "question": "A school board assumes that bullying in its schools happens only between students. What do the slides say?",
+      "options": {
+        "A": "It can also involve administrators and teachers",
+        "B": "It flows only from higher to lower levels",
+        "C": "It is limited to online harassment between students",
+        "D": "It happens only among students of similar ages"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Bullying in schools can involve students to students, administrators to teachers, administrators to students or teachers to teachers; in workplaces it happens across levels or among co-workers. (Ch 8 slides: Harassment: Unequal Power in the Workplace)\n**Why not B:** Bullying can occur across levels or among peers, such as teachers to teachers.\n**Why not C:** The slides note bullying includes both online and offline harassment, across many relationships.\n**Why not D:** The slides list adult-to-adult and adult-to-student bullying as well."
+    },
+    {
+      "topic": "Empowerment",
+      "question": "An engineer chooses how to do the work without being micromanaged and finds it meaningful, but feels their ideas are never listened to and can't change outcomes. Which characteristic of empowered people in Exhibit 8.4 is missing?",
+      "options": {
+        "A": "A sense of meaning",
+        "B": "A sense of impact",
+        "C": "Self-determination",
+        "D": "A sense of competence"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 8.4 lists self-determination, a sense of meaning, a sense of competence and a sense of impact (believing your ideas are listened to and can influence work outcomes). (Ch 8 slides: Exhibit 8.4, Characteristics of Empowered People)\n**Why not A:** The engineer finds the work meaningful.\n**Why not C:** The engineer chooses how to do the work, so self-determination is present.\n**Why not D:** Competence is believing you can perform the work well; the gap here is influence over outcomes."
+    },
+    {
+      "topic": "Empowerment",
+      "question": "A multinational plans to roll out the same employee-empowerment program in all its offices worldwide at once. What do the slides advise?",
+      "options": {
+        "A": "Roll it out identically, since it works the same everywhere",
+        "B": "Empower only senior managers in every country",
+        "C": "Skip it abroad, since it only works in Canada",
+        "D": "Introduce it with care, since views on it differ"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Across the world, employees have different views of supervisors who empower them, so empowerment needs to be introduced with care. (Ch 8 slides: Views on Empowerment)\n**Why not A:** The slides say views on empowerment differ across the world.\n**Why not B:** The slides' point is about cultural differences in views, not limiting empowerment to senior staff.\n**Why not C:** The slides don't say empowerment fails abroad; they say to introduce it carefully."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "Ahead of budget talks, a manager quietly arranges for a rival department's project to be scheduled last on the agenda, when funds are likely to be exhausted. What is this?",
+      "options": {
+        "A": "Impression management",
+        "B": "Empowerment",
+        "C": "Political behaviour",
+        "D": "Consultation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Political behaviour is any activity that influences, or attempts to influence, the distribution of advantages and disadvantages within the organization. (Ch 8 slides: Definition of Political Behaviour)\n**Why not A:** IM is about controlling the impression others form of you, not steering the distribution of resources.\n**Why not B:** Empowerment is employees' freedom to make decisions and commitments.\n**Why not D:** Consultation invites the target to participate in a decision, which isn't happening here."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "In a hospital, departments with different goals compete for a limited capital budget, and it's hard to measure objectively which unit performs best. According to the slides, why does this setting breed politics?",
+      "options": {
+        "A": "Strict rules, rigid structure and narrowly defined jobs",
+        "B": "Weak leaders, small teams and below-market pay",
+        "C": "Differing interests, scarce resources, unclear outcomes",
+        "D": "Shared goals, ample resources and clear performance data"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Politics is a reality because organizations are made up of groups with differing values, goals and interests, resources are limited, and performance outcomes aren't completely clear and objective. (Ch 8 slides: The Reality of Politics)\n**Why not A:** The slides point to differing interests, scarce resources and ambiguous outcomes.\n**Why not B:** The slides don't list these as the reasons politics exists.\n**Why not D:** These would reduce, not breed, politics; the slides cite the opposite conditions."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "An HR analyst scoring Exhibit 8.5 notices that items 11 and 12 ask whether pay and promotion rules are well-defined and clearly communicated. Why are these two items scored in reverse?",
+      "options": {
+        "A": "Agreeing with them signals less perceived politics",
+        "B": "Agreeing with them signals more perceived politics",
+        "C": "They count double toward the total politics score",
+        "D": "They measure co-worker behaviour rather than policy"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The measure taps manager behaviour, co-worker behaviour, and organizational policies and practices; a higher total means more perceived politics, so agreement with clear, well-communicated policies is reverse-scored. (Ch 8 slides: Exhibit 8.5, How Political Is Your Workplace?)\n**Why not B:** Clear, well-communicated policies point to less perceived politics, which is why the scoring is reversed.\n**Why not C:** Reverse scoring flips the points; it doesn't double them.\n**Why not D:** These items concern organizational policies and practices."
+    },
+    {
+      "topic": "Organizational politics",
+      "question": "A politically skilled manager notices that team members who refuse to 'play politics' are growing anxious and disengaged. What do the slides advise?",
+      "options": {
+        "A": "Move them into roles with no political exposure",
+        "B": "Shield them by banning political behaviour on the team",
+        "C": "Leave them to learn on their own to build resilience",
+        "D": "Help them see the value of becoming politically savvy"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Employees with poor political skills tend to link perceived politics to lower job satisfaction and performance, more anxiety and higher turnover, so managers who are good at politics should help others understand the importance of becoming politically savvy. (Ch 8 slides: OB at Work, For Managers)\n**Why not A:** Politics is a reality of organizations; the advice is to build political savvy.\n**Why not B:** The slides advise accepting the political nature of organizations, not banning politics.\n**Why not C:** The slides advise actively helping them understand politics."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "After missing a deadline for a client presentation, a project lead tells the director, 'The delay hardly matters; the client wasn't going to look at it this week anyway.' Which impression management technique is this?",
+      "options": {
+        "A": "Apologies",
+        "B": "Excuses",
+        "C": "Enhancement",
+        "D": "Flattery"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Excuses explain a predicament-creating event in a way that minimizes its apparent severity; they're a defensive IM technique. (Ch 8 slides: Exhibit 8.7, Impression Management Techniques)\n**Why not A:** An apology admits responsibility and seeks a pardon, which the lead doesn't do.\n**Why not C:** Enhancement claims something you did is more valuable than others think, not that a failure doesn't matter.\n**Why not D:** Flattery compliments others' virtues to appear perceptive and likeable."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "A marketer tells the boss that a small social-media post they wrote was 'the main reason' the quarter's sales jumped, though its real effect was minor. Which impression management technique is this?",
+      "options": {
+        "A": "Exemplification",
+        "B": "Enhancement",
+        "C": "Self-promotion",
+        "D": "Excuses"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Enhancement is claiming that something you did is more valuable than most members of the organization would think; it's a self-focused IM technique. (Ch 8 slides: Exhibit 8.7, Impression Management Techniques)\n**Why not A:** Exemplification is doing more than needed to show dedication.\n**Why not C:** Self-promotion highlights your best qualities and calls attention to achievements; inflating the value of one specific contribution is enhancement.\n**Why not D:** Excuses minimize the severity of a problem rather than inflating a success."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "An employee stays visibly late and volunteers for every extra task, mainly so that the boss will notice how dedicated and hard-working they are. Which impression management technique is this?",
+      "options": {
+        "A": "Conformity",
+        "B": "Favours",
+        "C": "Self-promotion",
+        "D": "Exemplification"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exemplification is doing more than you need to in an effort to show how dedicated and hard-working you are; it's an assertive IM technique. (Ch 8 slides: Exhibit 8.7, Impression Management Techniques)\n**Why not A:** Conformity is agreeing with someone's opinion to gain their approval.\n**Why not B:** Favours mean doing something nice for someone to gain their approval, a form of ingratiation.\n**Why not C:** Self-promotion is telling others about your qualities and achievements, rather than visibly overworking."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "In a planning meeting, a manager quickly agrees with every point the vice-president makes, mainly to win the VP's approval. Which impression management technique is this?",
+      "options": {
+        "A": "Flattery",
+        "B": "Favours",
+        "C": "Conformity",
+        "D": "Exemplification"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Conformity is agreeing with someone else's opinion to gain their approval; it's a form of ingratiation. (Ch 8 slides: Exhibit 8.7, Impression Management Techniques)\n**Why not A:** Flattery compliments someone's virtues; here the manager simply agrees with the VP's opinions.\n**Why not B:** Favours involve doing something nice for someone, like offering theatre tickets.\n**Why not D:** Exemplification is doing more than needed to show dedication."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "A manager wonders which team member is most likely to work actively at controlling the impression others form of them. Based on the slides, who is it?",
+      "options": {
+        "A": "The one who feels most empowered",
+        "B": "The one who is a high self-monitor",
+        "C": "The one who is a low self-monitor",
+        "D": "The one with the most formal authority"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Impression management is the process of trying to control the impressions others form of you, and the slides note that high self-monitors engage in impression management. (Ch 8 slides: Impression Management)\n**Why not A:** Empowerment concerns freedom to make decisions, not managing impressions.\n**Why not C:** Low self-monitors adjust less to situational cues; the slides link IM to high self-monitors.\n**Why not D:** The slides link IM to self-monitoring, not to formal position."
+    },
+    {
+      "topic": "Impression management and ethics",
+      "question": "A director argues that quietly bending a promotion rule for a favoured employee is really 'in the company's best interest'. What do the slides caution?",
+      "options": {
+        "A": "Powerful people can spin unfair acts as fair; check fairness",
+        "B": "If an action helps the company, it is ethical by definition",
+        "C": "All political actions are unethical and must be avoided",
+        "D": "Clear rules always separate ethical from unethical politics"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** There are no clear-cut ways to separate ethical from unethical politicking and it's hard to weigh costs and benefits, so consider equity and fairness; powerful people can persuasively argue that unfair actions are fair or in the organization's interest. (Ch 8 slides: The Ethics of Behaving Politically)\n**Why not B:** The slides warn that claims of organizational benefit can mask unfair actions.\n**Why not C:** The slides treat politics as a reality; the issue is judging which actions are ethical.\n**Why not D:** The slides say there are no clear-cut ways to make that distinction."
+    }
+  ]
+}

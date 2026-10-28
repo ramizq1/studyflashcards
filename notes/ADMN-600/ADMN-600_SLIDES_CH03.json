@@ -1,0 +1,518 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "03",
+    "title": "Values, Attitudes, and Diversity in the Workplace"
+  },
+  "collection": "Lecture slides (9th Canadian ed.)",
+  "collectionOrder": 1,
+  "source": "03.txt – Chapter 3 lecture slides",
+  "questions": [
+    {
+      "topic": "Values",
+      "question": "At a career workshop, an employee lists 'financial security' and 'a sense of accomplishment' as lifelong goals, and 'honest' and 'hard-working' as the ways they want to behave. How would Rokeach's Value Survey classify these?",
+      "options": {
+        "A": "All four are instrumental values, since each guides behaviour",
+        "B": "All four are ethical values, since they concern right and wrong",
+        "C": "The goals are instrumental values; the behaviours are terminal",
+        "D": "The goals are terminal values; the behaviours are instrumental"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Terminal values are goals people would like to achieve during their lifetime; instrumental values are preferable ways of behaving, the modes of behaviour used to achieve terminal values. (Ch 3 slides: Rokeach Value Survey)\n**Why not A:** Values generally influence behaviour, but Rokeach separates end-state goals from preferred ways of behaving.\n**Why not B:** Ethical values relate to moral judgments about right and wrong; Rokeach's survey splits values into terminal and instrumental.\n**Why not C:** This reverses the definitions: terminal values are end goals, and instrumental values are ways of behaving."
+    },
+    {
+      "topic": "Values",
+      "question": "A manager notices that employees who personally value environmental responsibility hold much more favourable views of the new recycling program, and take part in it more actively. What principle from the slides does this illustrate?",
+      "options": {
+        "A": "Values shape attitudes, but rarely actual behaviour",
+        "B": "Attitudes generally determine what people value",
+        "C": "Behaviour shapes values more than values shape views",
+        "D": "Values generally influence attitudes and behaviour"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Values are basic convictions that guide our decisions and evaluations of behaviours and events; the slides note that values generally influence attitudes and behaviour. (Ch 3 slides: Values)\n**Why not A:** The slides say values influence both attitudes and behaviour.\n**Why not B:** The slides describe the influence running from values to attitudes and behaviour.\n**Why not C:** The slides present values as the starting point that guides attitudes and behaviour."
+    },
+    {
+      "topic": "Values",
+      "question": "Weighing a profitable but questionable supplier deal, a manager stops to ask whether accepting it would be morally right or wrong. Which concept from the slides is the manager applying?",
+      "options": {
+        "A": "A value system, which defines what is legally permitted",
+        "B": "Ethical values, which involve judgments about right and wrong",
+        "C": "Terminal values, which are goals to achieve during a lifetime",
+        "D": "Instrumental values, which rank goals by their intensity"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Ethics is the study of moral values or principles that guide behaviour and tell us whether actions are right or wrong; ethical values relate to moral judgments about right and wrong. (Ch 3 slides: Hodgson's General Moral Principles)\n**Why not A:** A value system is a ranking of a person's values by intensity, not a statement of what's legal.\n**Why not C:** Terminal values are end-state life goals, not judgments of right and wrong in a specific decision.\n**Why not D:** Instrumental values are preferable ways of behaving; ranking values by intensity is a value system."
+    },
+    {
+      "topic": "Assessing cultural values",
+      "question": "A global consulting firm wants to compare national cultures on dimensions that include human orientation and performance orientation, as well as power distance. Which framework from the slides fits?",
+      "options": {
+        "A": "Hofstede's framework",
+        "B": "The Rokeach Value Survey",
+        "C": "The GLOBE framework",
+        "D": "Hodgson's moral principles"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The GLOBE research program identified nine dimensions on which national cultures differ; some resemble Hofstede's, and it added others such as human orientation and performance orientation. (Ch 3 slides: The GLOBE Framework)\n**Why not A:** Hofstede's dimensions include power distance but not human or performance orientation.\n**Why not B:** Rokeach's survey classifies individual values as terminal or instrumental; it doesn't compare national cultures.\n**Why not D:** Hodgson's general moral principles concern ethics, not dimensions of national culture."
+    },
+    {
+      "topic": "Assessing cultural values",
+      "question": "An HR trainer's slide lists Hofstede's dimensions as power distance, individualism versus collectivism, masculinity versus femininity, uncertainty avoidance, and long- versus short-term orientation. Which more recently added dimension is missing?",
+      "options": {
+        "A": "Indulgence versus restraint",
+        "B": "Terminal versus instrumental",
+        "C": "Human orientation",
+        "D": "Performance orientation"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Hofstede recently added a sixth dimension, indulgence versus restraint, to his original five. (Ch 3 slides: Hofstede's Framework)\n**Why not B:** That's Rokeach's distinction between types of individual values, not a cultural dimension.\n**Why not C:** Human orientation is one of the dimensions the GLOBE framework added.\n**Why not D:** Performance orientation comes from the GLOBE framework, not Hofstede."
+    },
+    {
+      "topic": "Assessing cultural values",
+      "question": "A Winnipeg manager's new hires include recent immigrants from China, India, Nigeria and the Philippines. Based on Exhibit 3.1, which pattern do all four home cultures share?",
+      "options": {
+        "A": "Low power distance and fairly high individualism",
+        "B": "High power distance and fairly low individualism",
+        "C": "High indulgence and fairly low masculinity",
+        "D": "High uncertainty avoidance and low masculinity"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 3.1, all four countries score high on power distance (77 to 94) and relatively low on individualism (20 to 48). (Ch 3 slides: Exhibit 3.1, Hofstede's Dimensions)\n**Why not A:** This reverses the data: power distance is high (77–94) and individualism low (20–48) for all four.\n**Why not C:** Indulgence varies widely (24 to 84), and masculinity is above the midpoint for all four (56 to 66).\n**Why not D:** Uncertainty avoidance is low to moderate (30 to 55), and masculinity is 56 or higher."
+    },
+    {
+      "topic": "Assessing cultural values",
+      "question": "A student comparing the two cultural frameworks in the slides wants to know which dimensions GLOBE shares with Hofstede. Which set is it?",
+      "options": {
+        "A": "Terminal values, instrumental values and ethical values",
+        "B": "Human orientation, performance orientation, power distance",
+        "C": "Indulgence, long-term orientation, uncertainty avoidance",
+        "D": "Power distance, individualism and uncertainty avoidance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** GLOBE's nine dimensions include some that resemble Hofstede's (power distance, individualism/collectivism and uncertainty avoidance) and add others, such as human and performance orientation. (Ch 3 slides: The GLOBE Framework)\n**Why not A:** Those are types of individual values, not cultural dimensions.\n**Why not B:** Human and performance orientation are dimensions GLOBE added, not ones it shares with Hofstede.\n**Why not C:** Indulgence and long-term orientation are Hofstede dimensions that the slides don't list as shared with GLOBE."
+    },
+    {
+      "topic": "Generations and cultures at work",
+      "question": "An HR director wants to understand why clashes over values are becoming more common in the firm's Canadian offices. Which two major factors do the slides identify?",
+      "options": {
+        "A": "Personality differences and emotional differences",
+        "B": "Generational differences and cultural differences",
+        "C": "Regional differences and industry differences",
+        "D": "Pay differences and differences in job level"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides name two major factors behind potential clashes of values in the Canadian workplace: generational differences and cultural differences. (Ch 3 slides: Values in the Canadian Workplace)\n**Why not A:** Personality and emotions are Chapter 2 topics; the slides name generational and cultural differences as the sources of value clashes.\n**Why not C:** The two factors named are generational and cultural differences.\n**Why not D:** The slides don't attribute value clashes to pay or job level."
+    },
+    {
+      "topic": "Generations and cultures at work",
+      "question": "A senior employee prizes achievement, material success and social recognition, and believes the ends can justify the means. Which generation do the slides describe this way?",
+      "options": {
+        "A": "Generation X",
+        "B": "Millennials",
+        "C": "Baby Boomers",
+        "D": "Builders"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Boomers (born mid-1940s to mid-1960s) see achievement and material success as very important, rank accomplishment and social recognition high, and are pragmatists who believe ends can justify means. (Ch 3 slides: Generational Differences)\n**Why not A:** Gen Xers value flexibility, life options, job satisfaction, family and relationships.\n**Why not B:** Millennials have high expectations, seek meaning, and are questioning, networked, entrepreneurial and socially responsible.\n**Why not D:** Builders believe in earning your way through hard work, with promotion based on tenure and proven productivity."
+    },
+    {
+      "topic": "Generations and cultures at work",
+      "question": "An employee values flexibility and life options, puts family and relationships first, and is less willing than older colleagues to make personal sacrifices for the employer. Which generation does this fit?",
+      "options": {
+        "A": "Baby Boomers",
+        "B": "Generation X",
+        "C": "Millennials",
+        "D": "Builders"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Gen X (born mid-1960s to late 1970s) values flexibility, life options and job satisfaction, sees family and relationships as very important, and is less willing than Boomers to sacrifice for the employer. (Ch 3 slides: Generational Differences)\n**Why not A:** Boomers prize achievement and material success, and are described as workaholics who relish long weeks.\n**Why not C:** Millennials are described by high expectations, a search for meaning, and social responsibility.\n**Why not D:** Builders emphasize earning your way through hard work and tenure-based advancement."
+    },
+    {
+      "topic": "Generations and cultures at work",
+      "question": "A young analyst has high expectations, wants work that means something, questions decisions, is entrepreneurial, and chose the employer partly for its social-responsibility record. Which generation's values do the slides describe this way?",
+      "options": {
+        "A": "Millennials",
+        "B": "Builders",
+        "C": "Baby Boomers",
+        "D": "Generation X"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Millennials (born 1979 to 1994) have high expectations and seek meaning in their work; they tend to be questioning, electronically networked, entrepreneurial and socially responsible. (Ch 3 slides: Generational Differences)\n**Why not B:** Builders value hard work, tenure and proven productivity.\n**Why not C:** Boomers are characterized by achievement, material success and pragmatism.\n**Why not D:** Gen X is characterized by valuing flexibility, family and life options."
+    },
+    {
+      "topic": "Generations and cultures at work",
+      "question": "A manager plans to decide work assignments and development plans mainly by each employee's generation label. What does Exhibit 3.2's guidance on multigenerational workplaces suggest?",
+      "options": {
+        "A": "Give the youngest generation the least responsibility",
+        "B": "Group people by generation, since each one shares a style",
+        "C": "Know each person's context; don't decide by generation alone",
+        "D": "Promote mainly by tenure, as the Builders' values suggest"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 3.2 notes that stellar management of multigenerational workplaces means knowing the context of each employee, so decisions aren't based just on their generation. (Ch 3 slides: Exhibit 3.2, Eight Generations)\n**Why not A:** Nothing in the slides supports this; each generation is described as bringing its own strengths.\n**Why not B:** The exhibit warns against basing decisions just on generation.\n**Why not D:** Tenure-based promotion is a Builders value, not guidance for managing all generations."
+    },
+    {
+      "topic": "Generations and cultures at work",
+      "question": "A Calgary firm's teams include many newcomers to Canada. Its decision meetings produce a rich range of ideas, but HR has also logged some troubling tensions. What do the slides say about Canada's multicultural workplaces?",
+      "options": {
+        "A": "They bring diversity of thought, but tensions exist too",
+        "B": "Cultural differences rarely affect workplace decisions",
+        "C": "They have produced only positive outcomes so far",
+        "D": "Newcomers bring the same work ethic as other staff"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Canada's multicultural landscape has produced a rich diversity of thought and perspective in workplace dialogue and decisions, but negative tensions also exist, and racism and assaults have risen. (Ch 3 slides: Cultural Differences)\n**Why not B:** The slides credit cultural diversity with enriching dialogue and decision making.\n**Why not C:** The slides acknowledge negative tensions alongside the positive outcomes.\n**Why not D:** The slides say newcomers bring values, beliefs and a work ethic that may differ from yours."
+    },
+    {
+      "topic": "Attitudes",
+      "question": "About a newly appointed director, an employee says, 'I plan to request a transfer to another department.' Which component of an attitude does this statement reflect?",
+      "options": {
+        "A": "The affective component",
+        "B": "The normative component",
+        "C": "The behavioural component",
+        "D": "The cognitive component"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The behavioural component is an intention to behave in a certain way toward someone or something, such as planning to transfer. (Ch 3 slides: Exhibit 3.4, Components of an Attitude)\n**Why not A:** The affective component is the emotional or feeling segment, such as disliking the director.\n**Why not B:** Normative refers to a type of organizational commitment, not a component of an attitude.\n**Why not D:** The cognitive component is the opinion or belief segment, such as judging the director unfair."
+    },
+    {
+      "topic": "Attitudes",
+      "question": "An employee says, 'The new inventory software is unreliable and slows our team down.' Which component of an attitude is this statement?",
+      "options": {
+        "A": "The value component",
+        "B": "The cognitive component",
+        "C": "The affective component",
+        "D": "The behavioural component"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The cognitive component is the opinion or belief segment of an attitude, here an evaluation of the software. (Ch 3 slides: Exhibit 3.4, Components of an Attitude)\n**Why not A:** Values aren't a component of an attitude; the three components are cognitive, affective and behavioural.\n**Why not C:** The affective component is the feeling segment, such as 'I hate this software.'\n**Why not D:** The behavioural component is an intention to act, such as planning to complain or stop using it."
+    },
+    {
+      "topic": "Attitudes",
+      "question": "A manager wants to know how staff are reacting to a new hybrid-work policy. What does the slides' advice to managers suggest?",
+      "options": {
+        "A": "Survey once at launch and assume the results will hold",
+        "B": "Measure job attitudes objectively, at regular intervals",
+        "C": "Rely on informal chats with the most vocal staff members",
+        "D": "Wait for year-end turnover figures to show the reaction"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides advise measuring employee job attitudes objectively and at regular intervals to determine how employees are reacting to their work. (Ch 3 slides: OB at Work, For Managers)\n**Why not A:** Attitudes should be measured at regular intervals, not just once.\n**Why not C:** Informal impressions from vocal staff aren't an objective, regular measure.\n**Why not D:** The slides advise measuring attitudes directly and regularly, not waiting for outcomes."
+    },
+    {
+      "topic": "Causes of job satisfaction",
+      "question": "An employer has budget to improve only one facet of its jobs this year. Which facet do the slides say is almost always most strongly correlated with high job satisfaction?",
+      "options": {
+        "A": "Supervision",
+        "B": "Advancement opportunities",
+        "C": "The work itself",
+        "D": "Pay"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Among the key sources (the work itself, pay, advancement, supervision and co-workers), enjoying the work itself is almost always most strongly correlated with high job satisfaction. (Ch 3 slides: Key Sources of Job Satisfaction)\n**Why not A:** Supervision matters, but enjoying the work itself is almost always the strongest correlate.\n**Why not B:** Advancement is a source of satisfaction, but the work itself is the strongest correlate.\n**Why not D:** Once people reach a comfortable living, the link between pay and satisfaction virtually disappears."
+    },
+    {
+      "topic": "Causes of job satisfaction",
+      "question": "At a design firm, employees work interdependently, get regular feedback, support one another and often get together outside work. According to the slides, what is this likely to do?",
+      "options": {
+        "A": "Raise overall job satisfaction through the social context",
+        "B": "Raise satisfaction only for the most extraverted employees",
+        "C": "Lower satisfaction, since interdependence creates friction",
+        "D": "Make little difference, since pay drives satisfaction most"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** There's a strong correspondence between how well people enjoy their workplace's social context and how satisfied they are overall; interdependence, feedback, social support and interaction outside work all contribute. (Ch 3 slides: What Causes Job Satisfaction?)\n**Why not B:** The slides tie the social context to overall satisfaction, without limiting it to extraverts.\n**Why not C:** The slides list interdependence as a contributor to satisfaction, not a drag on it.\n**Why not D:** The slides say pay matters little beyond a comfortable living; the work itself and the social context matter more."
+    },
+    {
+      "topic": "Causes of job satisfaction",
+      "question": "An HR analyst benchmarks the company's survey against Exhibit 3.6's average satisfaction by facet. Which facet does the exhibit show with by far the lowest average satisfaction?",
+      "options": {
+        "A": "Pay",
+        "B": "Co-workers",
+        "C": "Supervision",
+        "D": "Promotion"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In Exhibit 3.6, satisfaction with promotion averages about 20.5 percent, far below pay (58), supervision (65), co-workers (69) and the work itself (77). (Ch 3 slides: Exhibit 3.6, Job Satisfaction by Facet)\n**Why not A:** Pay averages about 58 percent: lower than most facets, but well above promotion.\n**Why not B:** Co-workers average about 69 percent.\n**Why not C:** Supervision averages about 65 percent."
+    },
+    {
+      "topic": "Causes of job satisfaction",
+      "question": "A manager wants to raise a capable employee's sagging job satisfaction. Based on the slides' advice, what should the manager do first?",
+      "options": {
+        "A": "Reduce the job's variety and challenge to lower their stress",
+        "B": "Add perks such as free meals, a games room and longer breaks",
+        "C": "Fit the work to their interests and make it more challenging",
+        "D": "Raise their pay, since pay is the strongest driver of satisfaction"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** To raise satisfaction, evaluate the fit between the employee's work interests and the intrinsic parts of the job, then create work that's challenging and interesting; high pay alone is unlikely to create a satisfying environment. (Ch 3 slides: OB at Work, For Managers)\n**Why not A:** The advice is to make work more challenging and interesting, not less.\n**Why not B:** The slides focus on the fit between interests and the job's intrinsic parts, not on perks.\n**Why not D:** The slides say high pay alone is unlikely to create a satisfying work environment."
+    },
+    {
+      "topic": "Outcomes of job satisfaction",
+      "question": "A multinational wonders whether the link between employee satisfaction and productivity holds in its overseas operations too. What do the slides say?",
+      "options": {
+        "A": "It applies to individuals but not to whole organizations",
+        "B": "Happy workers tend to be productive across countries too",
+        "C": "The link holds only in North American workplaces",
+        "D": "The link reverses in collectivist cultures abroad"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Happy workers are more likely to be productive workers, a finding generalizable across international contexts; organizations with more satisfied employees also tend to be more effective. (Ch 3 slides: Job Satisfaction and Productivity)\n**Why not A:** Organizations with more satisfied employees tend to be more effective as well.\n**Why not C:** The slides describe the finding as generalizable across international contexts.\n**Why not D:** The slides make no such claim; they say the link generalizes internationally."
+    },
+    {
+      "topic": "Outcomes of job satisfaction",
+      "question": "Although it isn't part of their job, a clerk voluntarily reorganizes the shared supply room and trains a newcomer on the ordering system. What is this behaviour called, and what do the slides say drives it?",
+      "options": {
+        "A": "Emotional labour, driven by the firm's display rules",
+        "B": "Counterproductive behaviour, driven by job stress",
+        "C": "Job involvement, driven largely by pay and benefits",
+        "D": "Citizenship behaviour, driven mainly by satisfaction"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** OCBs are discretionary behaviours that aren't part of formal job requirements; job satisfaction is a major determinant, through fairness perceptions and good mood. (Ch 3 slides: Organizational Citizenship Behaviour)\n**Why not A:** Emotional labour is about displaying required emotions, not voluntary extra-role help.\n**Why not B:** Counterproductive work behaviour actively damages the organization; this behaviour helps it.\n**Why not C:** Job involvement is identifying with the job and valuing performance; the discretionary helping is OCB."
+    },
+    {
+      "topic": "Outcomes of job satisfaction",
+      "question": "A hotel chain finds that its most satisfied staff work at the hotels with the most loyal guests. How do the slides explain this link?",
+      "options": {
+        "A": "Satisfied staff push upselling harder at every opportunity",
+        "B": "Loyal guests make staff satisfied, not the other way round",
+        "C": "Satisfied staff are friendlier, more responsive and stay longer",
+        "D": "Satisfied staff stick more closely to service scripts"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Satisfied employees increase customer satisfaction and loyalty: they're more friendly, upbeat and responsive, and less prone to turnover, so customers get experienced help and familiar faces. (Ch 3 slides: Job Satisfaction and Customer Satisfaction)\n**Why not A:** The slides credit friendliness and responsiveness, not sales pressure.\n**Why not B:** The slides describe satisfied employees raising customer satisfaction and loyalty.\n**Why not D:** The slides point to being friendly, upbeat and responsive, not scripted."
+    },
+    {
+      "topic": "Outcomes of job satisfaction",
+      "question": "An employee going through a difficult personal period finds that their job satisfaction is slipping as well. What do the slides say about this connection?",
+      "options": {
+        "A": "Life and job satisfaction are linked; one spills into the other",
+        "B": "Job and life satisfaction are separate and largely unrelated",
+        "C": "Spillover runs only from work into life, never the other way",
+        "D": "Low life satisfaction usually pushes job satisfaction up"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Research in Europe found job satisfaction positively correlated with life satisfaction, and attitudes and experiences in life spill over into how people approach and experience their jobs. (Ch 3 slides: Job Satisfaction and Life Satisfaction)\n**Why not B:** The slides say they may be more related than you think.\n**Why not C:** The slides describe life experiences spilling over into the job.\n**Why not D:** The correlation is positive: the two tend to rise and fall together."
+    },
+    {
+      "topic": "Outcomes of job satisfaction",
+      "question": "A manager can track only one job attitude to anticipate employees' performance, turnover, absenteeism and withdrawal. Which do the slides recommend?",
+      "options": {
+        "A": "Organizational commitment",
+        "B": "Employee engagement",
+        "C": "Perceived organizational support",
+        "D": "Job satisfaction"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Of the major job attitudes, the slides say job satisfaction is the best single predictor of behaviour, and a determinant of performance, turnover, absenteeism and withdrawal. (Ch 3 slides: OB at Work, For Managers)\n**Why not A:** Commitment is one of the major attitudes, but job satisfaction is called the best single predictor.\n**Why not B:** Engagement is linked to positive results, but the slides name job satisfaction as the best single predictor.\n**Why not C:** POS is a major attitude too, but the slides single out job satisfaction."
+    },
+    {
+      "topic": "Dissatisfaction responses and CWB",
+      "question": "Unhappy with a new manager, an analyst updates their résumé and starts interviewing with competitors. Which response to dissatisfaction is this?",
+      "options": {
+        "A": "Voice",
+        "B": "Loyalty",
+        "C": "Exit",
+        "D": "Neglect"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exit is dissatisfaction expressed by actively attempting to leave the organization; in Exhibit 3.7 it's active and destructive. (Ch 3 slides: Exhibit 3.7, Responses to Job Dissatisfaction)\n**Why not A:** Voice is actively and constructively trying to improve conditions.\n**Why not B:** Loyalty is passively waiting for conditions to improve.\n**Why not D:** Neglect is passively allowing conditions to worsen."
+    },
+    {
+      "topic": "Dissatisfaction responses and CWB",
+      "question": "A dissatisfied employee stays quiet, speaks up for the company to outsiders, and trusts management to fix things in time. Which response to dissatisfaction is this?",
+      "options": {
+        "A": "Exit",
+        "B": "Voice",
+        "C": "Loyalty",
+        "D": "Neglect"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Loyalty is dissatisfaction expressed by passively waiting for conditions to improve; it's passive and constructive. (Ch 3 slides: Exhibit 3.7, Responses to Job Dissatisfaction)\n**Why not A:** Exit is actively trying to leave the organization.\n**Why not B:** Voice would mean actively proposing improvements, not waiting.\n**Why not D:** Neglect is passively allowing conditions to worsen."
+    },
+    {
+      "topic": "Dissatisfaction responses and CWB",
+      "question": "Unhappy with a new expense policy, a team drafts a better alternative and presents it to the finance director. Where does this response sit in Exhibit 3.7?",
+      "options": {
+        "A": "Voice: active and constructive",
+        "B": "Neglect: passive and destructive",
+        "C": "Loyalty: passive and constructive",
+        "D": "Exit: active and destructive"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Voice is actively and constructively attempting to improve conditions, such as proposing an alternative policy. (Ch 3 slides: Exhibit 3.7, Responses to Job Dissatisfaction)\n**Why not B:** Neglect passively lets conditions worsen.\n**Why not C:** Loyalty is passively waiting for things to improve; this team is acting.\n**Why not D:** Exit is actively trying to leave; the team is trying to fix the policy."
+    },
+    {
+      "topic": "Dissatisfaction responses and CWB",
+      "question": "Two equally dissatisfied employees respond differently: one starts taking supplies home, while the other keeps arriving late. What do the slides say explains the different choices?",
+      "options": {
+        "A": "Only one of the two is truly dissatisfied with the job",
+        "B": "Specific CWBs are chosen for idiosyncratic reasons",
+        "C": "CWB has little to do with job dissatisfaction itself",
+        "D": "Stealing reflects stronger dissatisfaction than lateness"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Counterproductive work behaviours (stealing, aggression, lateness, absence) actively damage the organization; dissatisfaction generally predicts CWB, but which specific behaviours people choose depends on idiosyncratic factors. (Ch 3 slides: Counterproductive Work Behaviour)\n**Why not A:** Both are described as dissatisfied, and dissatisfaction predicts CWB generally.\n**Why not C:** Job dissatisfaction generally predicts CWB.\n**Why not D:** The slides don't rank the behaviours; the choice reflects idiosyncratic factors."
+    },
+    {
+      "topic": "Commitment, POS and engagement",
+      "question": "A long-time employee of an environmental charity stays because they believe deeply in its mission and feel emotionally attached to it. Which type of commitment is this?",
+      "options": {
+        "A": "Normative commitment",
+        "B": "Affective commitment",
+        "C": "Continuance commitment",
+        "D": "Job involvement"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Affective commitment is an emotional attachment to and identification with an organization, and a belief in its values. (Ch 3 slides: Organizational Commitment)\n**Why not A:** Normative commitment is a felt obligation to stay, not emotional attachment.\n**Why not C:** Continuance commitment is a calculation based on the perceived costs of leaving.\n**Why not D:** Job involvement is identification with the job itself and its importance to self-worth, not the organization's mission."
+    },
+    {
+      "topic": "Commitment, POS and engagement",
+      "question": "A manager reviewing notes from 'stay interviews' with long-serving staff wants to spot normative commitment. Which employee description shows it?",
+      "options": {
+        "A": "One who stays out of emotional attachment to the firm",
+        "B": "One who stays because leaving would cost too much",
+        "C": "One who stays because the job is central to their self-worth",
+        "D": "One who stays because they feel obliged to the firm"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Normative commitment is the obligation an individual feels to stay with an organization. (Ch 3 slides: Organizational Commitment)\n**Why not A:** That's affective commitment: emotional attachment and belief in the organization's values.\n**Why not B:** That's continuance commitment: a calculation of the costs of leaving.\n**Why not C:** That describes job involvement, not a type of organizational commitment."
+    },
+    {
+      "topic": "Commitment, POS and engagement",
+      "question": "A technician believes they can shape their work environment, feels competent, finds the job meaningful and has real autonomy. Which concept from the slides describes this belief?",
+      "options": {
+        "A": "Normative commitment",
+        "B": "Job involvement",
+        "C": "Perceived organizational support",
+        "D": "Psychological empowerment"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Psychological empowerment is employees' belief in the degree to which they affect their work environment, their competence, the meaningfulness of their job and their perceived autonomy. (Ch 3 slides: Job Involvement)\n**Why not A:** Normative commitment is a felt obligation to stay with the organization.\n**Why not B:** Job involvement is identifying with a job, actively participating in it and considering performance important to self-worth.\n**Why not C:** POS is believing the organization values your contributions and cares about your well-being."
+    },
+    {
+      "topic": "Commitment, POS and engagement",
+      "question": "A firm wants employees to believe it values their contributions and cares about their well-being. Which conditions do the slides say lead employees to see an organization this way?",
+      "options": {
+        "A": "Fair rewards, voice in decisions, supportive supervisors",
+        "B": "Strict rules, close monitoring and clear penalties",
+        "C": "Frequent social events and generous office perks",
+        "D": "High pay, impressive job titles and private corner offices"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Perceived organizational support is the belief that the organization values contributions and cares about well-being; it arises when rewards are fair, employees have a voice in decisions and supervisors are seen as supportive. (Ch 3 slides: Perceived Organizational Support)\n**Why not B:** Control-oriented practices aren't among the conditions the slides list.\n**Why not C:** Perks aren't the conditions the slides name for perceived support.\n**Why not D:** The slides stress fairness, voice and supportive supervisors, not status perks."
+    },
+    {
+      "topic": "Commitment, POS and engagement",
+      "question": "A retailer compares stores with highly engaged staff to its other stores. Which results do the slides link to higher engagement?",
+      "options": {
+        "A": "Higher profits, but more accidents because of a faster pace",
+        "B": "More productive staff, but lower customer satisfaction",
+        "C": "More satisfied customers, higher profits, less turnover",
+        "D": "Lower turnover, but no real change in staff productivity"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Firms whose employees are more engaged tend to see higher customer satisfaction, more productive employees, higher profits, and lower levels of turnover and accidents. (Ch 3 slides: Employee Engagement)\n**Why not A:** The slides link engagement to fewer accidents, not more.\n**Why not B:** The slides link engagement to higher customer satisfaction.\n**Why not D:** Engaged employees are described as more productive."
+    },
+    {
+      "topic": "Managing diversity",
+      "question": "When a new project team forms, members first notice one another's age, gender and ethnicity. Months later, differences in values, personality and work preferences matter far more to how well they get along. What does this illustrate?",
+      "options": {
+        "A": "Deep-level diversity grows more important than surface-level",
+        "B": "Surface-level diversity grows more important over time",
+        "C": "Biographical traits matter most once people know each other",
+        "D": "Deep-level differences fade once a team is established"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Surface-level diversity is differences in easily perceived characteristics; deep-level diversity (values, personality, work preferences) becomes progressively more important as people get to know one another. (Ch 3 slides: Surface-Level and Deep-Level Diversity)\n**Why not B:** The slides describe deep-level, not surface-level, differences gaining importance as people get to know one another.\n**Why not C:** Biographical traits are surface-level; deep-level traits matter more with familiarity.\n**Why not D:** Deep-level differences become more important with familiarity, not less."
+    },
+    {
+      "topic": "Managing diversity",
+      "question": "A company designing a diversity program asks what it should promote. Which element do the slides list as part of an effective program?",
+      "options": {
+        "A": "How a diverse workforce can better serve diverse customers",
+        "B": "Teams assigned so that members share the same background",
+        "C": "Hiring targets that each manager sets for their own unit",
+        "D": "Separate training tracks for each demographic group"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Effective diversity programs promote the legal framework for equal employment opportunity and fair treatment, how a diverse workforce can better serve a diverse market, and development practices that bring out everyone's skills. (Ch 3 slides: Effective Diversity Programs)\n**Why not B:** That would reduce, not use, diversity; the slides highlight the value of a diverse workforce.\n**Why not C:** The slides don't list manager-set hiring targets; they list the legal framework, serving diverse markets and development practices.\n**Why not D:** The slides call for development practices that bring out the skills of all workers, not separate tracks."
+    },
+    {
+      "topic": "Managing diversity",
+      "question": "A manager is about to choose between two candidates for a promotion largely on the basis of their ages and lengths of service. What do the slides advise?",
+      "options": {
+        "A": "Rely on biographical traits, since they're objective facts",
+        "B": "Look past biographical traits to each person's capabilities",
+        "C": "Treat both identically and ignore any individual needs",
+        "D": "Promote the longest-serving candidate to keep things fair"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides advise looking beyond readily observable biographical characteristics and considering the individual's capabilities; a fair but individual-oriented approach yields the best performance. (Ch 3 slides: OB at Work, For Managers)\n**Why not A:** The slides advise looking beyond observable biographical characteristics.\n**Why not C:** The slides recommend a fair but individual-oriented approach, including accommodations where needed.\n**Why not D:** Length of service is a biographical characteristic; the advice is to focus on capabilities."
+    },
+    {
+      "topic": "Cultural intelligence and global issues",
+      "question": "On assignment in a new country, a manager quickly learns to read colleagues' unfamiliar, ambiguous gestures the way local people would. Which capability is this?",
+      "options": {
+        "A": "Psychological empowerment",
+        "B": "High self-monitoring",
+        "C": "Emotional intelligence",
+        "D": "Cultural intelligence"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Cultural intelligence is the ability to understand someone's unfamiliar and ambiguous gestures in the same way as people from that culture would; it's particularly helpful to expatriates. (Ch 3 slides: Cultural Intelligence)\n**Why not A:** Empowerment is a belief about your own competence and autonomy at work.\n**Why not B:** Self-monitoring is adjusting your own behaviour to situational cues; the skill here is interpreting others' unfamiliar gestures.\n**Why not C:** EI is perceiving, understanding and regulating emotions, not interpreting another culture's gestures as its members do."
+    },
+    {
+      "topic": "Cultural intelligence and global issues",
+      "question": "Before meeting partners from another culture, a manager asks what they hope to achieve and plans how to relate to them, then uses surprises to work out new approaches for the future. Which facet of cultural intelligence in Exhibit 3.9 does this reflect?",
+      "options": {
+        "A": "Physical CQ",
+        "B": "Emotional/motivational CQ",
+        "C": "Emotional intelligence",
+        "D": "Cognitive CQ"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In Exhibit 3.9, cognitive CQ items cover asking what you hope to achieve, planning how to relate to people, learning from the unexpected, and sensing whether things are going well. (Ch 3 slides: Exhibit 3.9, Measuring Your Cultural Intelligence)\n**Why not A:** Physical CQ covers changing body language, expression, speech style and actions to suit the culture.\n**Why not B:** That facet covers confidence in dealing with, befriending and adapting to people from other cultures.\n**Why not C:** EI concerns perceiving and managing emotions, not planning cross-cultural interactions."
+    },
+    {
+      "topic": "Cultural intelligence and global issues",
+      "question": "An employee about to transfer abroad is confident about befriending people from different backgrounds and adapting to a new lifestyle with relative ease. Which facet of cultural intelligence is strong here?",
+      "options": {
+        "A": "Emotional/motivational CQ",
+        "B": "Cognitive CQ",
+        "C": "Physical CQ",
+        "D": "Emotional intelligence"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 3.9, emotional/motivational CQ items cover confidence in dealing with people from other cultures, befriending them, adapting to their lifestyle and handling unfamiliar situations. (Ch 3 slides: Exhibit 3.9, Measuring Your Cultural Intelligence)\n**Why not B:** Cognitive CQ covers planning, goal setting and learning from cross-cultural experiences.\n**Why not C:** Physical CQ covers adjusting body language, expressions and speech style.\n**Why not D:** EI concerns perceiving, understanding and regulating emotions generally, not confidence in cross-cultural settings."
+    },
+    {
+      "topic": "Cultural intelligence and global issues",
+      "question": "An employee's CQ self-assessment averages 2.5 for cognitive CQ, 3.8 for physical CQ and 4.7 for emotional/motivational CQ. How do the slides suggest interpreting these scores?",
+      "options": {
+        "A": "All three are strengths, since every score is above 2",
+        "B": "None is a strength, since only a perfect 5 counts as one",
+        "C": "Cognitive needs work; emotional/motivational is a strength",
+        "D": "Physical CQ is the main strength; cognitive CQ is fine"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Generally, an average below 3 indicates an area calling for improvement, while an average above 4.5 reflects a true CQ strength. (Ch 3 slides: Exhibit 3.9, Measuring Your Cultural Intelligence)\n**Why not A:** Averages below 3 call for improvement, so 2.5 isn't a strength.\n**Why not B:** An average above 4.5 already reflects a true CQ strength.\n**Why not D:** Only averages above 4.5 count as true strengths, and 2.5 calls for improvement."
+    },
+    {
+      "topic": "Cultural intelligence and global issues",
+      "question": "A Canadian company planning a staff survey in its Asian offices worries that job satisfaction is a purely American idea. What do the slides say?",
+      "options": {
+        "A": "Eastern employees report higher satisfaction than Western",
+        "B": "Satisfaction can be measured only in individualist cultures",
+        "C": "Satisfaction is an American concept that won't apply there",
+        "D": "People in other cultures do form job satisfaction judgments"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Although most job satisfaction research comes from the US, evidence suggests people in other cultures can and do form judgments of job satisfaction; employees in Western cultures report higher levels than those in Eastern cultures. (Ch 3 slides: Is Job Satisfaction a US Concept?)\n**Why not A:** The slides say employees in Western cultures report higher satisfaction than those in Eastern cultures.\n**Why not B:** The slides don't limit job satisfaction to individualist cultures.\n**Why not C:** Evidence suggests people in other cultures do form job satisfaction judgments."
+    }
+  ]
+}

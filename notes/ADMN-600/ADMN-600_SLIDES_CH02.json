@@ -1,0 +1,518 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "02",
+    "title": "Perception, Personality, and Emotions"
+  },
+  "collection": "Lecture slides (9th Canadian ed.)",
+  "collectionOrder": 1,
+  "source": "02.txt – Chapter 2 lecture slides",
+  "questions": [
+    {
+      "topic": "Perception and its influences",
+      "question": "Engineers at a firm are quitting, citing 'no chance of promotion', even though HR data show promotion rates well above the industry average. Why does this matter, based on the slides' view of perception?",
+      "options": {
+        "A": "People act on what they perceive, not on objective reality",
+        "B": "The HR data must be wrong, since staff know the truth best",
+        "C": "Perceptions shape attitudes, but never actual behaviour",
+        "D": "Turnover follows reality, so perceptions can safely be ignored"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Perception is how people organize and interpret impressions to give meaning to their environment; behaviour is based on perceptions of reality, not reality itself, so the world as perceived is what matters behaviourally. (Ch 2 slides: Perception)\n**Why not B:** The slides don't say perceptions are more accurate than data; they say behaviour follows perception either way.\n**Why not C:** Behaviour is based on perception, so perceptions drive what people do, including quitting.\n**Why not D:** The reverse: the perceived world is the behaviourally important one."
+    },
+    {
+      "topic": "Perception and its influences",
+      "question": "Two managers see the same employee leave at 4 p.m. One, who expects staff to slack off, sees laziness; the other, who knows the employee starts at 7 a.m., sees nothing wrong. Which factor in perception explains the difference?",
+      "options": {
+        "A": "The situation: the time of day and the work setting",
+        "B": "The perceiver: their expectations and experience",
+        "C": "The target: its background and proximity",
+        "D": "The target: its novelty and motion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Factors in the perceiver (attitudes, motives, interests, experience and expectations) shape how the same target is interpreted; here the target and the situation are identical. (Ch 2 slides: Exhibit 2.1, Factors That Influence Perception)\n**Why not A:** The time and setting are identical for both managers, so they can't explain the different readings.\n**Why not C:** Nothing about the target's background or proximity differs between the two observers.\n**Why not D:** The target is the same employee leaving at the same time for both managers."
+    },
+    {
+      "topic": "Perception and its influences",
+      "question": "In an office of quiet, grey-suited staff, a new hire who wears a bright red jacket and laughs loudly is noticed by everyone on day one. Which factor influencing perception is mainly at work?",
+      "options": {
+        "A": "Characteristics of the perceivers, like their motives",
+        "B": "Characteristics of the situation, like the time of day",
+        "C": "Characteristics of the perceivers, like their interests",
+        "D": "Characteristics of the target, like novelty and sound"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Target characteristics such as novelty, motion, sounds, size, background, proximity and similarity affect what we notice; someone who stands out against the background gets noticed. (Ch 2 slides: Exhibit 2.1, Factors That Influence Perception)\n**Why not A:** The observers vary, yet everyone notices; the trigger is what the target does and wears.\n**Why not B:** The situation is an ordinary workday; the target's contrast with the background is what draws attention.\n**Why not C:** Everyone notices regardless of their interests, which points to the target."
+    },
+    {
+      "topic": "Perception and its influences",
+      "question": "A joke that gets big laughs at the staff barbecue falls flat when the same person tells it in a formal board meeting. Which factor influencing perception explains the different reactions?",
+      "options": {
+        "A": "The situation: the social and work setting",
+        "B": "The perceiver: the listeners' fixed attitudes",
+        "C": "The target: novelty and similarity of the joke",
+        "D": "The target: the size and motion of the teller"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Situational factors such as time, work setting and social setting influence perception; the same target and behaviour are judged differently at a barbecue and in a boardroom. (Ch 2 slides: Exhibit 2.1, Factors That Influence Perception)\n**Why not B:** Nothing suggests the listeners' attitudes changed; the context did.\n**Why not C:** The joke and the teller are the same in both places; the setting changed.\n**Why not D:** The teller is the same in both settings, so target characteristics don't explain the difference."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "A warehouse worker is curt with customers, co-workers and suppliers alike, whatever the situation. In attribution terms, what does this pattern suggest about the worker's curtness?",
+      "options": {
+        "A": "High consensus, pointing to an external cause",
+        "B": "High distinctiveness, pointing to an external cause",
+        "C": "Low consistency, pointing to an external cause",
+        "D": "Low distinctiveness, pointing to an internal cause"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Distinctiveness considers whether a person acts similarly across a variety of situations; behaving the same way everywhere is low distinctiveness, which points to an internal cause. (Ch 2 slides: Attribution Theory)\n**Why not A:** Consensus concerns whether others act the same way in the same situation; the scenario says nothing about other workers.\n**Why not B:** Distinctiveness would be high only if the curtness showed up in few situations; here it appears everywhere.\n**Why not C:** Consistency concerns behaviour over time; the pattern described is across situations."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "A nurse who has been punctual every day for six years arrives late one morning. Using attribution theory, how is a supervisor likely to interpret this?",
+      "options": {
+        "A": "Low consensus, pointing to an internal cause",
+        "B": "Low distinctiveness, pointing to an internal cause",
+        "C": "High consistency, pointing to an internal cause",
+        "D": "Low consistency, pointing to an external cause"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Consistency considers whether a person has acted the same way over time; lateness that's rare for this nurse is low consistency, which points to an external cause. (Ch 2 slides: Attribution Theory)\n**Why not A:** There's no information about whether others were late, and the key cue here is the nurse's own history.\n**Why not B:** Distinctiveness concerns behaviour across different situations, which isn't what's described.\n**Why not C:** Six years of punctuality makes the lateness inconsistent with past behaviour, not consistent."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "A manager reviewing an analyst's error-filled report learns three things: the analyst makes errors on all kinds of tasks, other analysts rarely make such errors, and this analyst has done so for months. What attribution is the manager likely to make?",
+      "options": {
+        "A": "External: low distinctiveness, high consensus, high consistency",
+        "B": "Internal: low distinctiveness, low consensus, high consistency",
+        "C": "External: high distinctiveness, high consensus, low consistency",
+        "D": "Internal: high distinctiveness, low consensus, low consistency"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 2.2, behaviour that happens in many situations (low distinctiveness), that others seldom show (low consensus) and that recurs over time (high consistency) is attributed to internal causes. (Ch 2 slides: Exhibit 2.2, Attribution Theory)\n**Why not A:** Other analysts rarely make such errors, so consensus is low, not high.\n**Why not C:** That pattern would point outward, but here the errors occur everywhere, few others make them, and they recur.\n**Why not D:** Errors across all kinds of tasks for months mean low distinctiveness and high consistency."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "A delivery driver misses a deadline during a severe snowstorm, and the dispatcher concludes that the driver is careless. Which perceptual error is this?",
+      "options": {
+        "A": "Contrast effect",
+        "B": "Self-serving attribution bias",
+        "C": "Fundamental attribution error",
+        "D": "Selective perception"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The fundamental attribution error is underestimating external factors (the storm) and overestimating internal ones (carelessness) when judging others' behaviour. (Ch 2 slides: How Attributions Get Distorted)\n**Why not A:** A contrast effect arises when a reaction to one person is shaped by others recently encountered.\n**Why not B:** Self-serving bias concerns how people explain their own successes and failures, not someone else's.\n**Why not D:** Selective perception is interpreting what you see through your interests, background and attitudes; the core error here is discounting the storm."
+    },
+    {
+      "topic": "Attribution theory",
+      "question": "At a performance-review workshop, most participants rate their own job performance as above average, and nearly all rate their sense of humour that way too. Which tendency from the slides does this illustrate?",
+      "options": {
+        "A": "Fundamental attribution error",
+        "B": "Halo effect",
+        "C": "Self-serving bias",
+        "D": "Contrast effect"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Self-serving bias is the tendency to credit successes to internal factors and blame failures on external ones; Exhibit 2.3 shows it in self-ratings (78% above average on performance, 96% on sense of humour, 84% on getting along). (Ch 2 slides: Self-Serving Bias, Exhibit 2.3)\n**Why not A:** That error concerns judging other people's behaviour, not rating yourself.\n**Why not B:** The halo effect is forming a general impression of someone from a single characteristic.\n**Why not D:** Contrast effects come from comparing someone with people recently encountered, not from inflated self-ratings."
+    },
+    {
+      "topic": "Perceptual errors and shortcuts",
+      "question": "A manager who opposes remote work notices every missed deadline by remote staff but overlooks the same lapses by people in the office. Which perceptual error is this?",
+      "options": {
+        "A": "Self-fulfilling prophecy",
+        "B": "Contrast effect",
+        "C": "Halo effect",
+        "D": "Selective perception"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Selective perception is interpreting what you see selectively, based on your interests, background, experience and attitudes; the manager's attitude toward remote work filters what gets noticed. (Ch 2 slides: Perceptual Errors)\n**Why not A:** That's when people come to behave as others expect them to; nothing suggests the staff's behaviour changed.\n**Why not B:** Contrast effects come from comparing someone with people recently encountered.\n**Why not C:** The halo effect builds a general impression from one characteristic; here an attitude filters which lapses are noticed."
+    },
+    {
+      "topic": "Perceptual errors and shortcuts",
+      "question": "Because a student has perfect attendance, an instructor assumes the student's essays must be equally strong and grades them generously. Which perceptual error is this?",
+      "options": {
+        "A": "Selective perception",
+        "B": "Contrast effect",
+        "C": "Halo effect",
+        "D": "Stereotyping"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The halo effect is drawing a general impression of a person on the basis of a single characteristic, here attendance. (Ch 2 slides: Perceptual Errors)\n**Why not A:** The error isn't filtering what's seen through interests; it's generalizing from one positive trait.\n**Why not B:** No comparison with recently encountered people is involved.\n**Why not D:** Stereotyping judges someone by perceptions of a group they belong to; this judgment comes from one trait of the individual."
+    },
+    {
+      "topic": "Perceptual errors and shortcuts",
+      "question": "A new accounts clerk seems remarkably fast to the team, mainly because the person who held the job before was extremely slow. Which perceptual error is shaping the team's view?",
+      "options": {
+        "A": "Stereotyping",
+        "B": "Self-serving bias",
+        "C": "Halo effect",
+        "D": "Contrast effect"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Contrast effects occur when our reaction to one person is influenced by other people we have recently encountered. (Ch 2 slides: Perceptual Errors)\n**Why not A:** No group membership is involved; the judgment comes from comparison with the predecessor.\n**Why not B:** Self-serving bias concerns how people explain their own successes and failures.\n**Why not C:** The halo effect generalizes from one characteristic of the same person, not from a comparison with someone else."
+    },
+    {
+      "topic": "Perceptual errors and shortcuts",
+      "question": "A team lead assumes that a new hire from a fine-arts program 'won't be good with numbers' and assigns the hire only writing tasks. Which perceptual error is this?",
+      "options": {
+        "A": "Fundamental attribution error",
+        "B": "Halo effect",
+        "C": "Contrast effect",
+        "D": "Stereotyping"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Stereotyping is judging someone on the basis of one's perception of the group to which that person belongs, here arts graduates. (Ch 2 slides: Perceptual Errors)\n**Why not A:** That error concerns explaining someone's behaviour by internal rather than external causes; here no behaviour has occurred yet.\n**Why not B:** The halo effect builds a general impression from one characteristic of the person, not from beliefs about a group.\n**Why not C:** No comparison with recently encountered people is involved."
+    },
+    {
+      "topic": "Perceptual errors and shortcuts",
+      "question": "A sales director is told that three new recruits are 'high-potential' (they were actually picked at random), treats them accordingly, and by year end they outperform their peers. Which concept does this illustrate?",
+      "options": {
+        "A": "Self-fulfilling prophecy",
+        "B": "Selective perception",
+        "C": "Halo effect",
+        "D": "Contrast effect"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The self-fulfilling prophecy proposes that people behave in ways consistent with how others perceive them; the director's expectations shaped the recruits' performance. (Ch 2 slides: Why Do Perception and Judgment Matter?)\n**Why not B:** Selective perception filters what an observer notices; here the recruits' actual results improved.\n**Why not C:** The halo effect is a general impression formed from one characteristic; here expectations changed actual performance.\n**Why not D:** Contrast effects come from comparisons with people recently encountered."
+    },
+    {
+      "topic": "Personality and its measurement",
+      "question": "A recruiter says they want to assess a candidate's personality, not their skills. According to the slides, what are they trying to assess?",
+      "options": {
+        "A": "The knowledge and abilities the person brings to the job",
+        "B": "How they consistently react to and interact with others",
+        "C": "The person's passing mood on the day of the interview",
+        "D": "The person's beliefs about what is right and wrong"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Personality is the sum total of ways an individual reacts to and interacts with others: stable patterns of behaviour and consistent internal states. (Ch 2 slides: What Is Personality?)\n**Why not A:** Those are skills and abilities, which the recruiter has set aside.\n**Why not C:** Moods are temporary feelings; personality refers to stable, enduring patterns.\n**Why not D:** Beliefs about right and wrong relate to values and ethics, not personality."
+    },
+    {
+      "topic": "Personality and its measurement",
+      "question": "A firm can assess candidates' personalities through self-report surveys or through ratings from people who know them well. Which do the slides say tends to predict job success better?",
+      "options": {
+        "A": "Neither, since personality tests don't help with hiring",
+        "B": "Observer ratings, which give an independent assessment",
+        "C": "Self-report surveys, since people know themselves best",
+        "D": "Self-report surveys, as they can't be faked by candidates"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Self-report surveys have individuals rate themselves; observer ratings provide an independent assessment and tend to be more accurate predictors of success on the job. (Ch 2 slides: Measuring Personality)\n**Why not A:** Research indicates personality tests are useful in hiring decisions.\n**Why not C:** The slides say observer ratings, not self-reports, tend to be the more accurate predictors.\n**Why not D:** The slides don't claim self-reports are fake-proof; they favour observer ratings for prediction."
+    },
+    {
+      "topic": "Personality and its measurement",
+      "question": "Two siblings raised in the same home differ sharply in how sociable they are, and both act more reserved at formal events than at parties. Which personality determinants do the slides list that could account for these patterns?",
+      "options": {
+        "A": "Environment alone, since upbringing shapes everything",
+        "B": "Situations alone, since stable traits don't really exist",
+        "C": "Heredity, environmental factors and situational conditions",
+        "D": "Heredity alone, since personality is fixed at birth"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The slides list three determinants of personality: heredity, environmental factors and situational conditions. (Ch 2 slides: Personality Determinants)\n**Why not A:** Heredity and situational conditions are also listed as determinants.\n**Why not B:** The slides define traits as enduring characteristics, alongside situational effects.\n**Why not D:** The slides also list environmental factors and situational conditions as determinants."
+    },
+    {
+      "topic": "Personality and its measurement",
+      "question": "A team-development facilitator wants to use the Myers-Briggs Type Indicator with a project team that keeps clashing. Based on the slides, what's the most appropriate use?",
+      "options": {
+        "A": "Helping members better understand themselves and each other",
+        "B": "Diagnosing which members have Dark Triad traits",
+        "C": "Ranking members by how well each is likely to perform",
+        "D": "Screening out members whose type predicts conflict"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Although widely criticized, the MBTI may help in training and development: helping employees understand themselves and each other, opening up communication and possibly reducing conflict. (Ch 2 slides: Myers-Briggs Type Indicator, For Managers)\n**Why not B:** The MBTI taps four characteristics to sort people into 16 types; it doesn't measure the Dark Triad.\n**Why not C:** The slides don't present the MBTI as a performance predictor; it classifies people into types.\n**Why not D:** The slides suggest using MBTI results for development, not for screening people out."
+    },
+    {
+      "topic": "The Big Five",
+      "question": "A long-term health study finds that employees who are responsible, organized, dependable and persistent not only perform better but also tend to live longer. Which Big Five trait fits?",
+      "options": {
+        "A": "Agreeableness",
+        "B": "Conscientiousness",
+        "C": "Emotional stability",
+        "D": "Extraversion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 2.6, conscientiousness (effort, persistence, drive, discipline, organization) is linked to higher performance, enhanced leadership and greater longevity. (Ch 2 slides: Exhibit 2.6, How the Big Five Influence OB)\n**Why not A:** Agreeableness is linked to being better liked and to lower deviant behaviour.\n**Why not C:** Emotional stability is linked to job and life satisfaction and lower stress, not longevity.\n**Why not D:** Extraversion is linked to interpersonal skills, leadership and satisfaction, not longevity."
+    },
+    {
+      "topic": "The Big Five",
+      "question": "A warm, cooperative and trusting team member is well liked, goes along with group decisions and almost never breaks workplace rules. Which Big Five trait best explains this?",
+      "options": {
+        "A": "Agreeableness",
+        "B": "Extraversion",
+        "C": "Emotional stability",
+        "D": "Conscientiousness"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Agreeable people are cooperative, warm and trusting; Exhibit 2.6 links the trait to being better liked, more compliant and conforming, and to lower deviant behaviour. (Ch 2 slides: Exhibit 2.6, How the Big Five Influence OB)\n**Why not B:** Extraversion brings sociability and assertiveness, not compliance or lower deviance.\n**Why not C:** Emotional stability is about calm and security, not warmth and compliance.\n**Why not D:** Conscientiousness is about effort, organization and dependability rather than warmth and conformity."
+    },
+    {
+      "topic": "The Big Five",
+      "question": "A training coordinator notices that the curious, creative and flexible employees get the most out of a new training program and adjust most easily to the changes it brings. Which Big Five trait does this reflect?",
+      "options": {
+        "A": "Extraversion",
+        "B": "Openness to experience",
+        "C": "Agreeableness",
+        "D": "Conscientiousness"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Openness (creative, flexible, curious) is linked in Exhibit 2.6 to increased learning, training performance, enhanced leadership and adaptability to change. (Ch 2 slides: Exhibit 2.6, How the Big Five Influence OB)\n**Why not A:** Extraversion relates to sociability and assertiveness, not curiosity and creativity.\n**Why not C:** Agreeableness relates to warmth and cooperation, not learning and adaptability.\n**Why not D:** Conscientiousness relates to effort and organization; the learning and adaptability described point to openness."
+    },
+    {
+      "topic": "The Big Five",
+      "question": "A company finds that its extraverted employees outperform others in team-based sales roles, but not in solitary data-entry jobs. What explains this, according to the slides?",
+      "options": {
+        "A": "Extraverts are simply more conscientious than other people",
+        "B": "Solitary work lowers extraverts' emotional stability",
+        "C": "Extraversion predicts performance mainly in highly social jobs",
+        "D": "Extraversion predicts performance equally well in every job"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 2.6 links extraversion to higher performance in jobs requiring significant teamwork or frequent interpersonal interaction, drawing on better interpersonal skills and expressiveness. (Ch 2 slides: Exhibit 2.6, How the Big Five Influence OB)\n**Why not A:** Conscientiousness is a separate Big Five trait; the gap tracks the social demands of the job.\n**Why not B:** The slides don't say this; they tie extraversion's performance benefit to interpersonal jobs.\n**Why not D:** The link is qualified: it applies to jobs with significant teamwork or frequent interaction."
+    },
+    {
+      "topic": "The Big Five",
+      "question": "An employee is often distracted, disorganized and unreliable about deadlines. On which Big Five trait is this person likely to be low?",
+      "options": {
+        "A": "Conscientiousness",
+        "B": "Emotional stability",
+        "C": "Openness to experience",
+        "D": "Agreeableness"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 2.4 describes low conscientiousness as easily distracted, disorganized and unreliable; high conscientiousness is responsible, organized, dependable and persistent. (Ch 2 slides: Exhibit 2.4, Big Five Personality Traits)\n**Why not B:** Low emotional stability shows up as hostility, anxiety, depression and insecurity.\n**Why not C:** Low openness shows up as being unimaginative, inflexible, literal-minded and dull.\n**Why not D:** Low agreeableness shows up as being cold, disagreeable and antagonistic."
+    },
+    {
+      "topic": "The Dark Triad",
+      "question": "In supplier negotiations, a purchasing manager stays emotionally detached, uses whatever tactics work, believes the ends justify the means, and is rarely swayed by the other side. Which trait does this describe?",
+      "options": {
+        "A": "Psychopathy",
+        "B": "Narcissism",
+        "C": "High Machiavellianism",
+        "D": "High self-monitoring"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Machiavellianism is being pragmatic, keeping emotional distance and believing ends can justify means; high Machs manipulate more, win more, are persuaded less and persuade others more. (Ch 2 slides: The Dark Triad)\n**Why not A:** Psychopathy is a lack of concern for others and no guilt or remorse when actions cause harm, linked to threats and bullying.\n**Why not B:** Narcissism centres on arrogance, a grandiose sense of self-importance, a need for admiration and entitlement.\n**Why not D:** High self-monitors adjust their behaviour to external cues; the core here is detachment and ends-justify-means pragmatism."
+    },
+    {
+      "topic": "The Dark Triad",
+      "question": "A team lead constantly seeks admiration, feels entitled to the best assignments, and is sure they're the strongest leader in the department. What do the slides suggest about how their supervisors are likely to rate them?",
+      "options": {
+        "A": "About the same as everyone else on the team",
+        "B": "As better leaders, but only when the team is in a crisis",
+        "C": "As better leaders, since confidence signals real ability",
+        "D": "As worse leaders than their peers, despite their own view"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Narcissists tend to think they're better leaders than their colleagues, but their supervisors tend to rate them as worse. (Ch 2 slides: The Dark Triad)\n**Why not A:** The slides report a clear gap: narcissists rate themselves better, while supervisors rate them worse.\n**Why not B:** The slides make no such exception.\n**Why not C:** The slides report the opposite: supervisors tend to rate narcissists as worse leaders."
+    },
+    {
+      "topic": "The Dark Triad",
+      "question": "A department head shows no remorse when decisions harm staff and routinely uses threats and verbal intimidation to get results, while shrewdly accumulating power. Which Dark Triad trait does this best match?",
+      "options": {
+        "A": "Psychopathy",
+        "B": "Narcissism",
+        "C": "Machiavellianism",
+        "D": "Low core self-evaluation"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Psychopathy is a lack of concern for others and no guilt or remorse when one's actions cause harm; it's linked to hard influence tactics like threats and to bullying, and its cunning can win power that isn't used toward healthy ends. (Ch 2 slides: The Dark Triad)\n**Why not B:** Narcissism is about arrogance, entitlement and needing admiration rather than remorseless harm and intimidation.\n**Why not C:** Machiavellianism is pragmatic manipulation and emotional distance; the lack of remorse and the bullying point to psychopathy.\n**Why not D:** Low core self-evaluation means doubting your own capability and worth, which isn't described here."
+    },
+    {
+      "topic": "Other personality attributes",
+      "question": "Two equally skilled engineers start on a hard project. One sees themself as capable, effective and in control; the other doubts their own competence. According to the slides, who is likely to perform better, and why?",
+      "options": {
+        "A": "Neither: skill alone decides how well each one performs",
+        "B": "The first: they set bolder goals and persist longer",
+        "C": "The first: they need less effort to reach their goals",
+        "D": "The second: self-doubt makes people more careful"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Core self-evaluation is the bottom-line conclusions people hold about their capabilities, competence and worth; people with positive core self-evaluations set more ambitious goals, are more committed to them and persist longer. (Ch 2 slides: Core Self-Evaluation)\n**Why not A:** The slides say core self-evaluation itself affects performance through goals and persistence.\n**Why not C:** The advantage comes from setting ambitious goals and persisting, not from needing less effort.\n**Why not D:** The slides link positive, not negative, self-evaluations to better performance."
+    },
+    {
+      "topic": "Other personality attributes",
+      "question": "Two colleagues have similar skills. One pays close attention to how others behave and readily adjusts to each situation. Based on the slides, how is this person's career likely to differ?",
+      "options": {
+        "A": "More promotions, more mobility and more central roles",
+        "B": "Longer stays in one job, with less career mobility",
+        "C": "Fewer promotions, since they seem inconsistent to bosses",
+        "D": "Slower progress, since they conform too readily to others"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** High self-monitors adjust behaviour to external, situational factors; they pay closer attention to others, conform more readily, are more mobile in their careers, receive more promotions and are more likely to hold central positions. (Ch 2 slides: Self-Monitoring)\n**Why not B:** High self-monitors tend to be more mobile in their careers.\n**Why not C:** The slides link high self-monitoring to more promotions, not fewer.\n**Why not D:** Being capable of conforming is listed among high self-monitors' traits, alongside more promotions."
+    },
+    {
+      "topic": "Other personality attributes",
+      "question": "An employee constantly spots opportunities, takes initiative and keeps pushing for change. In a rule-bound unit, some of these initiatives cause friction. What do the slides say about proactive personalities?",
+      "options": {
+        "A": "Their initiatives always improve the team's results",
+        "B": "They tend to show lower job performance than their peers",
+        "C": "Their actions can help or hurt, depending on context",
+        "D": "They matter mainly in sales roles rather than other jobs"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Proactive people identify opportunities, show initiative, take action and persevere until meaningful change occurs; they tend to have higher performance and career success, but their actions can be positive or negative depending on the organization and situation. (Ch 2 slides: Proactive Personality)\n**Why not A:** The slides say proactive actions may be positive or negative depending on the context.\n**Why not B:** Proactive personality is linked to higher job performance and career success.\n**Why not D:** The slides don't limit proactive personality to sales; its effects depend on the organization and situation."
+    },
+    {
+      "topic": "Other personality attributes",
+      "question": "In a nuclear plant's control room, rules are clear and consistent, constraints are tight and errors have severe consequences, so operators behave much the same whatever their personalities. Which theory explains this?",
+      "options": {
+        "A": "Affective events theory",
+        "B": "Attribution theory",
+        "C": "Self-fulfilling prophecy",
+        "D": "Situation strength theory"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Situation strength theory says the way personality translates into behaviour depends on the strength of the situation, analyzed in terms of clarity, consistency, constraints and consequences. (Ch 2 slides: Situation Strength Theory)\n**Why not A:** AET explains how workplace events cause emotional reactions that shape attitudes and behaviour.\n**Why not B:** Attribution theory explains how observers judge whether behaviour is internally or externally caused.\n**Why not C:** That concept says people behave as others perceive them, which isn't described here."
+    },
+    {
+      "topic": "Emotions, moods and deviance",
+      "question": "An employee has felt low and flat for two days without being able to point to any cause, and colleagues notice no telltale facial expression. According to the slides, what is this, and why?",
+      "options": {
+        "A": "An emotion: it is intense and aimed at a specific target",
+        "B": "Neither: affect covers only short, intense feelings",
+        "C": "A mood: it lingers, with no clear trigger or expression",
+        "D": "An emotion: it is brief and shows clearly on the face"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Moods are less intense than emotions and lack a contextual stimulus; they last hours or days, have general and unclear causes, and usually aren't shown by distinct expressions. (Ch 2 slides: Exhibit 2.7, Affect, Emotions, and Moods)\n**Why not A:** Emotions are directed at someone or something, which this feeling isn't.\n**Why not B:** Affect is the broad term covering both emotions and moods.\n**Why not D:** Emotions are brief and usually come with distinct facial expressions; this feeling has lasted days with none."
+    },
+    {
+      "topic": "Emotions, moods and deviance",
+      "question": "After a surprise announcement of layoffs, employees feel anxious and angry, and over the following weeks their job satisfaction and effort decline. Which model from the slides describes this chain?",
+      "options": {
+        "A": "Attribution theory",
+        "B": "Affective events theory",
+        "C": "Situation strength theory",
+        "D": "The self-fulfilling prophecy"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Affective events theory suggests that workplace events cause emotional reactions in employees, which then influence their workplace attitudes and behaviours. (Ch 2 slides: Affective Events Theory)\n**Why not A:** Attribution theory explains how we judge the causes of others' behaviour, not how events trigger emotions that shape attitudes.\n**Why not C:** That theory concerns how situational strength shapes the way personality shows up in behaviour.\n**Why not D:** That concept is about people behaving as others expect them to."
+    },
+    {
+      "topic": "Emotions, moods and deviance",
+      "question": "Planning a reorganization, a manager assumes staff will respond purely rationally and sets their feelings aside. What do the slides warn?",
+      "options": {
+        "A": "Only negative emotions need attention from managers",
+        "B": "Rational analysis alone predicts staff behaviour best",
+        "C": "Feelings are part of people, so they can't be set aside",
+        "D": "Emotions matter only after a decision has been announced"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The slides advise not ignoring co-workers' and employees' emotions or assessing behaviour as if it were completely rational; managers who understand emotions and moods explain and predict behaviour much better. (Ch 2 slides: OB at Work, For Managers)\n**Why not A:** The slides also urge modelling positive emotions to foster decision making, creativity and motivation.\n**Why not B:** The slides say understanding emotions significantly improves the ability to predict behaviour.\n**Why not D:** The slides don't limit emotions' relevance to after decisions; they're part of how people respond throughout."
+    },
+    {
+      "topic": "Emotions, moods and deviance",
+      "question": "After being passed over for a promotion they felt they deserved, an employee starts spreading rumours about a co-worker and blaming others for their own mistakes. Which category of employee deviance is this?",
+      "options": {
+        "A": "Property deviance",
+        "B": "Political deviance",
+        "C": "Production deviance",
+        "D": "Personal aggression"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Negative emotions can lead to employee deviance; the political category includes gossiping and blaming co-workers. (Ch 2 slides: Employee Deviance)\n**Why not A:** Property deviance includes stealing and sabotage.\n**Why not C:** Production deviance includes leaving early and intentionally working slowly.\n**Why not D:** Personal aggression includes sexual harassment and verbal abuse."
+    },
+    {
+      "topic": "Emotional labour, EI and regulation",
+      "question": "A flight attendant must appear calm and warm with passengers, even during a frightening stretch of turbulence. Which concept from the slides describes this part of the job?",
+      "options": {
+        "A": "Emotional labour",
+        "B": "Affective events theory",
+        "C": "Emotional intelligence",
+        "D": "Self-monitoring"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Emotional labour is an employee's expression of organizationally desired emotions during interpersonal transactions at work. (Ch 2 slides: Emotional Labour)\n**Why not B:** AET explains how workplace events trigger emotional reactions that shape attitudes and behaviour.\n**Why not C:** EI is the ability to perceive, understand and regulate emotions; the requirement here is to display the emotions the employer wants.\n**Why not D:** Self-monitoring is a personality trait about adjusting to external cues; a required display of emotions is emotional labour."
+    },
+    {
+      "topic": "Emotional labour, EI and regulation",
+      "question": "An HR team learns that in the cascading model of emotional intelligence, each of the three abilities rests on a different individual factor. Which factor underlies the ability to regulate emotions?",
+      "options": {
+        "A": "Extraversion",
+        "B": "Cognitive processing",
+        "C": "Emotional stability",
+        "D": "Conscientiousness"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 2.8, conscientiousness supports perceiving emotions, cognitive processes support understanding them, and emotional stability supports regulating them. (Ch 2 slides: Exhibit 2.8, A Cascading Model of EI)\n**Why not A:** Extraversion isn't part of the cascading model.\n**Why not B:** Cognitive processes underlie understanding the meaning of emotions.\n**Why not D:** Conscientiousness underlies the first step, perceiving emotions in self and others."
+    },
+    {
+      "topic": "Emotional labour, EI and regulation",
+      "question": "In a tense meeting, a manager notices a colleague's frustration, realizes it stems from feeling ignored, and keeps their own irritation in check while responding. Which concept does this sequence illustrate?",
+      "options": {
+        "A": "Self-monitoring: adjusting to external situational cues",
+        "B": "Emotional labour: displaying the required emotions",
+        "C": "Affective events theory: events trigger reactions",
+        "D": "Emotional intelligence: perceive, understand, regulate"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** EI is the ability to perceive emotions in self and others, understand their meaning, and regulate one's own emotions accordingly, in a cascading model. (Ch 2 slides: Emotional Intelligence)\n**Why not A:** Self-monitoring is a trait about adapting behaviour to situations; perceiving, understanding and regulating emotions is EI.\n**Why not B:** Emotional labour is about expressing organizationally desired emotions, not reading and understanding others' feelings.\n**Why not C:** AET explains how events cause emotional reactions that shape attitudes, not a person's skill in handling emotions."
+    },
+    {
+      "topic": "Emotional labour, EI and regulation",
+      "question": "A consultant urges a company to hire on the basis of emotional intelligence scores. Which point from the slides is part of the case against EI?",
+      "options": {
+        "A": "EI predicts criteria that matter, such as performance",
+        "B": "EI has little intuitive appeal for most managers",
+        "C": "Researchers disagree on how EI should be defined",
+        "D": "EI is biologically based rather than simply learned"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The case against EI: researchers don't agree on definitions, EI can't be measured, and its validity is suspect. Intuitive appeal, predicting criteria that matter and being biologically based are arguments for it. (Ch 2 slides: The Case For and Against EI)\n**Why not A:** That's an argument in favour of EI, not against it.\n**Why not B:** Intuitive appeal is listed as part of the case for EI.\n**Why not D:** Being biologically based is listed as part of the case for EI."
+    },
+    {
+      "topic": "Emotional labour, EI and regulation",
+      "question": "A firm is deciding whether to invest in helping staff identify and manage their emotions. According to the slides, what does emotion management ability strongly predict?",
+      "options": {
+        "A": "Task performance and citizenship behaviours",
+        "B": "Faster promotions and greater career mobility",
+        "C": "Lower turnover and fewer sick days taken",
+        "D": "Higher job satisfaction and lower stress"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Emotion regulation means identifying and modifying the emotions you feel, and emotion management ability is a strong predictor of task performance and organizational citizenship behaviours. (Ch 2 slides: Emotion Regulation)\n**Why not B:** Those outcomes are linked in the slides to high self-monitoring, not emotion management.\n**Why not C:** The slides don't list these; they name task performance and citizenship behaviours.\n**Why not D:** Those outcomes are linked in Exhibit 2.6 to emotional stability."
+    },
+    {
+      "topic": "Emotional labour, EI and regulation",
+      "question": "A manager is furious after learning that a key project was cancelled without consultation. Following the slides' advice on regulating intense emotions, what should the manager do?",
+      "options": {
+        "A": "Share the anger with the whole team at the next meeting",
+        "B": "Vent directly to the executive who cancelled the project",
+        "C": "Suppress the anger completely and say nothing at all",
+        "D": "Vent only to a supportive listener who isn't involved"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides advise recognizing the legitimacy of the emotion and venting only to a supportive listener who isn't involved in the event; acknowledging rather than suppressing emotional responses is one regulation strategy. (Ch 2 slides: OB at Work, For Managers)\n**Why not A:** The advice is to vent to one supportive listener who isn't involved, not to the affected group.\n**Why not B:** The advice is to vent only to a listener who isn't involved in the event.\n**Why not C:** The slides list acknowledging rather than suppressing emotional responses as a strategy."
+    },
+    {
+      "topic": "Culture and global differences",
+      "question": "A Canadian company wants to use a Big Five personality assessment in its offices in several countries. What do the slides say about the Big Five across cultures?",
+      "options": {
+        "A": "Personality can't be measured outside North America",
+        "B": "Each culture needs an entirely different trait model",
+        "C": "The five factors show up mainly in Western cultures",
+        "D": "The five factors show up in nearly all cultures studied"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides note that the five Big Five factors appear in almost all cross-cultural studies. (Ch 2 slides: Global Differences)\n**Why not A:** Nothing in the slides says this; the Big Five appears widely across cultures.\n**Why not B:** The Big Five's appearance across almost all cultures argues against needing separate models.\n**Why not C:** The slides say the factors appear in almost all cross-cultural studies, not mainly Western ones."
+    },
+    {
+      "topic": "Culture and global differences",
+      "question": "Managers from two different cultures watch the same meeting and later recall different details and explain people's behaviour in different ways. What do the slides say about this?",
+      "options": {
+        "A": "Perception and attribution work the same in every culture",
+        "B": "Culture affects what people notice, remember and attribute",
+        "C": "Such differences come from personality, never from culture",
+        "D": "Only emotions differ across cultures; perception doesn't"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Studies suggest cultural differences in perception affect what we focus on and remember, and most studies find cultural differences in the attributions people make. (Ch 2 slides: Global Differences)\n**Why not A:** The slides cite evidence of cultural differences in both perception and attribution.\n**Why not C:** The slides attribute these differences to culture, noting that even the Big Five appears across cultures.\n**Why not D:** The slides describe cultural differences in perception and attribution as well as in emotions."
+    }
+  ]
+}

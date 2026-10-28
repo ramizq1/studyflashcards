@@ -1,0 +1,494 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "09",
+    "title": "Conflict and Negotiation"
+  },
+  "collection": "Lecture slides (9th Canadian ed.)",
+  "collectionOrder": 1,
+  "source": "09.txt – Chapter 9 lecture slides",
+  "questions": [
+    {
+      "topic": "Conflict and its types",
+      "question": "A project manager hears that a peer plans to move two of the manager's analysts to another project next month. Nothing has happened yet, but the manager is already upset. By the slides' definition, is this conflict?",
+      "options": {
+        "A": "Yes, but only once both parties admit there's a problem",
+        "B": "No: conflict starts only once actual harm has occurred",
+        "C": "No: conflict requires an open argument between the two",
+        "D": "Yes: they perceive a threat to something they care about"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Conflict is a process that begins when one party perceives that another has negatively affected, or is about to negatively affect, something the first party cares about. (Ch 9 slides: Conflict Defined)\n**Why not A:** Conflict begins with one party's perception; both sides needn't acknowledge it.\n**Why not B:** The definition includes being about to negatively affect something, so a perceived future threat counts.\n**Why not C:** The definition turns on perception, not on an open dispute having started."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "Two regional managers' running disputes over territory have stalled their joint campaigns, and the group's sales are slipping. How do the slides classify this conflict?",
+      "options": {
+        "A": "Functional, because any debate sharpens group thinking",
+        "B": "Neither, since conflict between two people isn't a group issue",
+        "C": "Dysfunctional, because it hinders group performance",
+        "D": "Functional, since it's about the content of the work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Functional conflict supports the group's goals and improves its performance; dysfunctional conflict hinders group performance, as here. (Ch 9 slides: Functional versus Dysfunctional Conflict)\n**Why not A:** Conflict is functional only when it supports goals and improves performance, which this doesn't.\n**Why not B:** The conflict is hurting the group's results, which makes it dysfunctional.\n**Why not D:** What matters is the effect, and this conflict is hurting performance."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "A project team agrees on its goals and deliverables but argues constantly about which software tools and workflow to use to get the work done. Which type of conflict is this?",
+      "options": {
+        "A": "Relationship conflict",
+        "B": "Process conflict",
+        "C": "Task conflict",
+        "D": "Intergroup conflict"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Process conflict is conflict over how work gets done; task conflict concerns the content and goals of the work. (Ch 9 slides: Types of Conflict)\n**Why not A:** Nothing suggests the dispute is personal or interpersonal.\n**Why not C:** The team agrees on goals and deliverables; the dispute is about how to do the work.\n**Why not D:** Intergroup is a locus (between groups), not a type, and this dispute is within one team."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "Two co-workers' dislike for each other has turned personal, with snide remarks and cold shoulders, and both say they're worn out by it. What do the slides say about this type of conflict?",
+      "options": {
+        "A": "Relationship conflict, almost always dysfunctional",
+        "B": "Process conflict, solved by clearer roles",
+        "C": "Relationship conflict, which usually clears the air",
+        "D": "Task conflict, usually helpful if kept civil"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Relationship conflict is based on interpersonal relationships; the slides say it's almost always dysfunctional and can be psychologically exhausting. (Ch 9 slides: Types of Conflict)\n**Why not B:** Process conflict concerns how work gets done; this one is about the relationship.\n**Why not C:** The slides describe relationship conflict as almost always dysfunctional and exhausting.\n**Why not D:** The dispute isn't about the content or goals of the work; it's personal."
+    },
+    {
+      "topic": "Conflict and its types",
+      "question": "A department has almost no conflict. Staff are apathetic and unresponsive to change, new ideas are rare, and performance is low. Which situation in Exhibit 9.1 does this match?",
+      "options": {
+        "A": "Situation B: an optimal level of functional conflict",
+        "B": "Situation A: too little conflict, which is dysfunctional",
+        "C": "Situation A, which the exhibit labels as functional",
+        "D": "Situation C: so much conflict that the unit becomes chaotic"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 9.1, Situation A (low or no conflict) is dysfunctional: the unit is apathetic, stagnant, unresponsive to change and short of new ideas, so performance is low. (Ch 9 slides: Exhibit 9.1, Conflict and Unit Performance)\n**Why not A:** Situation B units are viable, self-critical and innovative, with high performance.\n**Why not C:** Too little conflict is labelled dysfunctional in the exhibit.\n**Why not D:** Situation C involves high conflict and disruptive, uncooperative behaviour, not apathy."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "A firm is dealing with three disputes: two analysts at odds with each other, a team divided internally over a plan, and Sales feuding with Operations. Which loci of conflict are these, in order?",
+      "options": {
+        "A": "Dyadic, intragroup, intergroup",
+        "B": "Interpersonal, task, intergroup",
+        "C": "Intragroup, dyadic, intergroup",
+        "D": "Dyadic, intergroup, intragroup"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Dyadic conflict occurs between two people, intragroup conflict within a group or team, and intergroup conflict between different groups or teams. (Ch 9 slides: Loci of Conflict)\n**Why not B:** Task conflict is a type of conflict, not a locus; the loci are dyadic, intragroup and intergroup.\n**Why not C:** Two analysts at odds is dyadic, and a team divided internally is intragroup.\n**Why not D:** A divided team is intragroup, and Sales versus Operations is intergroup."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "Two managers clash after one sends an 'urgent' request expecting a same-day response, while the other took 'urgent' to mean sometime this week. Which source of conflict is this?",
+      "options": {
+        "A": "Leadership style",
+        "B": "Personal variables",
+        "C": "Structure",
+        "D": "Communication"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Communication is a source of conflict through semantic difficulties, misunderstandings and 'noise' in the communication channels. (Ch 9 slides: Sources of Conflict)\n**Why not A:** Leadership style is a structural source; nothing here concerns how either manager leads.\n**Why not B:** Personal variables are personality, emotions and values; the problem here is a misunderstanding of meaning.\n**Why not C:** Structural sources include group size, ambiguity of responsibility, reward systems and dependence; this clash comes from a misread word."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "A company rewards its sales team for revenue and its credit team for minimizing bad debt, and the two teams clash constantly over approving new customers. Which source of conflict is mainly at work?",
+      "options": {
+        "A": "Structure: reward systems and differing goals",
+        "B": "Personal variables: clashing personalities",
+        "C": "Personal variables: differing emotions",
+        "D": "Communication: noise in the channel"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Structural sources of conflict include reward systems and the diversity of goals; rewarding the teams for opposing results sets them against each other. (Ch 9 slides: Sources of Conflict)\n**Why not B:** The clash follows from how each team is rewarded, not from individuals' personalities.\n**Why not C:** Emotions may run high, but the root cause is the structure of rewards and goals.\n**Why not D:** Nothing suggests a misunderstanding; the teams understand each other but are rewarded for opposite outcomes."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "A warehouse can't ship orders until the purchasing department releases stock, and the two units clash often over delays. Which source of conflict do the slides point to?",
+      "options": {
+        "A": "Structure: the size of each group",
+        "B": "Personal variables: the staff's differing values",
+        "C": "Communication: semantic difficulties",
+        "D": "Structure: one group depends on the other"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Structural sources of conflict include the size and specialization of groups, ambiguity of responsibility, reward systems, leadership style, diverse goals, and one group's dependence on another. (Ch 9 slides: Sources of Conflict)\n**Why not A:** Group size is a structural source, but here the clash comes from dependence.\n**Why not B:** The conflict arises from the units' interdependence, not from personal values.\n**Why not C:** The issue isn't misunderstood words; it's that one unit's work hinges on the other's."
+    },
+    {
+      "topic": "Loci and sources of conflict",
+      "question": "A team lead must pick someone to run a tense joint project with another unit. Which profile do the slides say is most prone to clash with others and react poorly when conflict arises?",
+      "options": {
+        "A": "High disagreeableness, neuroticism or self-monitoring",
+        "B": "High conscientiousness and openness to experience",
+        "C": "High agreeableness and very strong emotional stability",
+        "D": "Low self-monitoring paired with high extraversion"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** People high in disagreeableness, neuroticism or self-monitoring are prone to tangle with other people more often and to react poorly when conflict occurs. (Ch 9 slides: Sources of Conflict, Personal Variables)\n**Why not B:** The slides don't link these traits to frequent conflict.\n**Why not C:** Agreeable, emotionally stable people aren't the ones the slides flag as conflict-prone.\n**Why not D:** The slides flag high, not low, self-monitoring as conflict-prone."
+    },
+    {
+      "topic": "Conflict-handling styles",
+      "question": "In a dispute, a manager works hard to satisfy their own concerns while showing little interest in the other party's. In dual concern theory terms, which style is this?",
+      "options": {
+        "A": "Compromising: moderate on both dimensions",
+        "B": "Avoiding: low assertiveness, low cooperativeness",
+        "C": "Yielding: low assertiveness, high cooperativeness",
+        "D": "Forcing: high assertiveness, low cooperativeness"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Assertiveness is trying to satisfy your own concerns and cooperativeness is trying to satisfy the other party's; forcing imposes your will, satisfying your own interests without concern for theirs. (Ch 9 slides: Dual Concern Theory, Exhibit 9.2)\n**Why not A:** Compromising balances concern for yourself with concern for the other party.\n**Why not B:** Avoiding withdraws from the conflict rather than pushing your own concerns.\n**Why not C:** Yielding places the other party's interests above your own."
+    },
+    {
+      "topic": "Conflict-handling styles",
+      "question": "In a dispute over overtime, both sides give something up, match each other's concessions and settle on a middle point. Which conflict-handling style is this?",
+      "options": {
+        "A": "Compromising",
+        "B": "Problem solving",
+        "C": "Yielding",
+        "D": "Avoiding"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Compromising balances concern for oneself with concern for the other party; Exhibit 9.2 lists both sides giving something up, matching concessions and searching for a middle ground. (Ch 9 slides: Exhibit 9.2, Conflict-Handling Strategies)\n**Why not B:** Problem solving seeks mutually beneficial outcomes by exchanging information and trading off unimportant for important issues, not by splitting the difference.\n**Why not C:** Yielding involves one-sided concessions; here both sides give ground.\n**Why not D:** Avoiding withdraws from or ignores the conflict."
+    },
+    {
+      "topic": "Conflict-handling styles",
+      "question": "Whenever a dispute with a co-worker comes up, an employee changes the subject and tries not to think about the issue at all. Which conflict-handling style is this?",
+      "options": {
+        "A": "Yielding",
+        "B": "Compromising",
+        "C": "Forcing",
+        "D": "Avoiding"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Avoiding means ignoring or minimizing the importance of the issues creating the conflict: withdrawing and not thinking about them. (Ch 9 slides: Exhibit 9.2, Conflict-Handling Strategies)\n**Why not A:** Yielding accepts the other party's will; this employee doesn't engage at all.\n**Why not B:** Compromising involves both sides giving something up to reach a solution.\n**Why not C:** Forcing imposes one's will on the other party."
+    },
+    {
+      "topic": "Conflict-handling styles",
+      "question": "Midway through a dispute, a manager realizes the issue matters far more to a colleague than to them, and that giving way now would build goodwill for later. What do the slides advise?",
+      "options": {
+        "A": "Avoid the topic until the colleague loses interest",
+        "B": "Split the difference evenly to keep things fair",
+        "C": "Force the issue, since giving way signals weakness",
+        "D": "Accommodate them to build trust and credit for later"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides suggest accommodating when issues are more important to others than to yourself, when you want to satisfy others and maintain cooperation, and when you can build social credits for later issues. (Ch 9 slides: OB at Work, For Managers)\n**Why not A:** Avoiding doesn't build the goodwill the slides associate with accommodating.\n**Why not B:** Compromise suits equal-power opponents with mutually exclusive goals, not this case.\n**Why not C:** The slides list these exact conditions as reasons to accommodate."
+    },
+    {
+      "topic": "Conflict-handling styles",
+      "question": "Two equally powerful directors are committed to mutually exclusive goals for a shared budget, and the company needs a temporary settlement while a longer-term fix is worked out. What do the slides suggest?",
+      "options": {
+        "A": "Avoiding",
+        "B": "Compromise",
+        "C": "Yielding",
+        "D": "Forcing"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides suggest compromising when goals are important but not worth potential disruption, when opponents of equal power are committed to mutually exclusive goals, and when temporary settlements to complex issues are needed. (Ch 9 slides: OB at Work, For Managers)\n**Why not A:** Avoiding leaves the budget issue unresolved when a settlement is needed.\n**Why not C:** Yielding hands one side everything, which isn't what the slides recommend here.\n**Why not D:** Forcing imposes one side's will, which doesn't suit equal-power opponents seeking a temporary settlement."
+    },
+    {
+      "topic": "Conflict-handling styles",
+      "question": "A manager needs to combine insights from people with very different perspectives and win their commitment by building their concerns into a consensus. Which approach do the slides recommend?",
+      "options": {
+        "A": "Seek an integrative, problem-solving solution",
+        "B": "Decide by authoritative command and move on",
+        "C": "Avoid the issue to keep the peace for now",
+        "D": "Compromise quickly to save time and effort"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The slides advise seeking integrative solutions when the objective is to learn, to merge insights from people with different perspectives, to gain commitment by building concerns into a consensus, or to work through feelings that have hurt a relationship. (Ch 9 slides: OB at Work, For Managers)\n**Why not B:** Imposing a decision wouldn't merge perspectives or win commitment.\n**Why not C:** Avoiding wouldn't merge insights or build commitment.\n**Why not D:** Compromise suits temporary settlements between equal-power opponents, not building consensus."
+    },
+    {
+      "topic": "Resolution techniques and outcomes",
+      "question": "To end constant clashes between two units, management redraws reporting lines so both report to one director, and redesigns their responsibilities. Which conflict-management technique is this?",
+      "options": {
+        "A": "Altering structural variables",
+        "B": "Expansion of resources",
+        "C": "Authoritative command",
+        "D": "Altering the human variable"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The slides list altering the structural variables among the techniques for managing conflict, alongside expansion of resources, authoritative command and altering the human variable. (Ch 9 slides: What Can Individuals Do to Manage Conflict?)\n**Why not B:** No new resources are added; the reporting lines and responsibilities change.\n**Why not C:** Management isn't simply ruling on a dispute; it's redesigning the structure.\n**Why not D:** Altering the human variable targets people's attitudes and behaviour; this change is to structure."
+    },
+    {
+      "topic": "Resolution techniques and outcomes",
+      "question": "After weeks of deadlock between two supervisors over shift patterns, the plant manager simply decides the matter and tells both to comply. Which technique is this?",
+      "options": {
+        "A": "Expansion of resources",
+        "B": "Developing overarching goals",
+        "C": "Authoritative command",
+        "D": "Altering the human variable"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Authoritative command is one of the additional conflict-management techniques the slides list: the dispute is resolved by a decision from management. (Ch 9 slides: What Can Individuals Do to Manage Conflict?)\n**Why not A:** No additional resources are provided to ease the dispute.\n**Why not B:** That technique unites the parties around a shared goal; here the manager imposes a decision.\n**Why not D:** That technique works on people's attitudes and behaviour, not on issuing a ruling."
+    },
+    {
+      "topic": "Resolution techniques and outcomes",
+      "question": "A team's tensions trace back to rumours about one colleague, finger-pointing over a missed deadline, and a feeling that some members get better treatment. Which factors do the slides list behind personality conflicts like these?",
+      "options": {
+        "A": "Unclear goals, shared budgets and tight deadlines",
+        "B": "Large teams, flat structures and remote work",
+        "C": "Rumours, blaming and perceived inequalities",
+        "D": "Low pay, long hours and outdated equipment"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The slides list misunderstandings based on age, race or culture; intolerance, prejudice and bigotry; perceived inequalities; misunderstandings, rumours or falsehoods; and blaming for mistakes (finger-pointing). (Ch 9 slides: Resolving Personality Conflicts)\n**Why not A:** These aren't among the causes of personality conflicts the slides list.\n**Why not B:** Structural features aren't what the slides list for personality conflicts.\n**Why not D:** The slides don't list working conditions as causes of personality conflicts."
+    },
+    {
+      "topic": "Resolution techniques and outcomes",
+      "question": "After a long dispute, a team reaches a fair agreement, ends up trusting one another more, and feels better equipped to handle the next disagreement. Which desired conflict outcomes do these represent?",
+      "options": {
+        "A": "Forcing, yielding and problem solving",
+        "B": "Agreement, stronger relationships, learning",
+        "C": "Compromise, compliance and commitment",
+        "D": "Settled task, relationship and process conflicts"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The three desired outcomes are agreement (equitable and fair agreements are best), stronger relationships with greater trust, and learning how to handle conflict better next time. (Ch 9 slides: Conflict Outcomes)\n**Why not A:** Those are conflict-handling styles, not outcomes.\n**Why not C:** Compliance and commitment are responses to power, and compromise is a handling style.\n**Why not D:** Task, relationship and process are types of conflict, not outcomes."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "In contract talks, 'delivery schedule' is on the agenda; the supplier insists on monthly deliveries; and the supplier's underlying concern is limited warehouse space. Which terms describe these three, in order?",
+      "options": {
+        "A": "Issue, position, interest",
+        "B": "Position, issue, interest",
+        "C": "Interest, position, issue",
+        "D": "Issue, interest, position"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Issues are items placed on the bargaining table for discussion, positions are a party's stand on the issues, and interests are the underlying reasons an issue matters (the focus of integrative bargaining in Exhibit 9.3). (Ch 9 slides: Negotiation, Exhibit 9.3)\n**Why not B:** The agenda item is the issue, and the insistence on monthly deliveries is the position.\n**Why not C:** The agenda item is the issue, not the interest.\n**Why not D:** Insisting on monthly deliveries is a position; the warehouse concern is the interest."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "In a negotiation, one side refuses to share any information for fear it will be used against them, and keeps repeating, 'I can't go beyond this point.' Which bargaining approach does this reflect?",
+      "options": {
+        "A": "Problem solving",
+        "B": "Integrative bargaining",
+        "C": "Distributive bargaining",
+        "D": "Compromising"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 9.3, distributive bargaining focuses on positions ('I can't go beyond this point'), treats interests as opposed, and keeps information sharing low because sharing lets the other side take advantage. (Ch 9 slides: Exhibit 9.3, Distributive versus Integrative Bargaining)\n**Why not A:** Problem solving exchanges information about priorities to find mutually beneficial outcomes.\n**Why not B:** Integrative bargaining focuses on interests and shares information widely to find ways to satisfy both sides.\n**Why not D:** Compromising involves matching concessions and searching for a middle ground, not refusing to move or share."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "Partway through a negotiation, one party asks the other, 'Can you explain why this issue is so important to you?' According to Exhibit 9.3, what does this signal?",
+      "options": {
+        "A": "An attempt to set the ground rules for the negotiation",
+        "B": "A focus on interests, typical of integrative bargaining",
+        "C": "A focus on positions, typical of distributive bargaining",
+        "D": "An attempt to find weaknesses and claim more of the pie"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 9.3 contrasts distributive bargaining's focus on positions with integrative bargaining's focus on interests, illustrated by asking why an issue is so important to the other party. (Ch 9 slides: Exhibit 9.3, Distributive versus Integrative Bargaining)\n**Why not A:** Ground rules cover how the negotiation will run; this question explores interests.\n**Why not C:** Positions sound like 'I can't go beyond this point'; asking why an issue matters probes interests.\n**Why not D:** Asking about interests aims to expand the pie, not to claim more of a fixed one."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "A hospital is negotiating with a supplier it expects to rely on for the next decade. Which bargaining approach does Exhibit 9.3 associate with this kind of relationship?",
+      "options": {
+        "A": "Distributive, which suits long-term relationships",
+        "B": "Integrative, which suits long-term relationships",
+        "C": "Distributive, since firm positions build lasting trust",
+        "D": "Either one, since relationship length doesn't matter"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 9.3 links integrative bargaining to long-term relationships and distributive bargaining to short-term ones; integrative bargaining also tends to build lasting relationships. (Ch 9 slides: Exhibit 9.3, Distributive versus Integrative Bargaining)\n**Why not A:** The exhibit links distributive bargaining to short-term relationships.\n**Why not C:** Distributive bargaining is confrontational and focused on the short term, often reducing satisfaction.\n**Why not D:** The exhibit explicitly contrasts the two approaches on the duration of the relationship."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "A purchasing team wins nearly every price battle with its suppliers, yet supplier satisfaction and cooperation keep falling. What do the slides say about this pattern?",
+      "options": {
+        "A": "Distributive bargaining reliably builds lasting relationships",
+        "B": "Integrative bargaining would require giving up self-interest",
+        "C": "Supplier satisfaction has little to do with bargaining style",
+        "D": "Distributive wins can leave the other side dissatisfied"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Distributive bargaining can resolve disputes but often reduces the satisfaction of one or more negotiators because it's confrontational and focused on the short term; integrative bargaining tends to satisfy all parties and build lasting relationships. (Ch 9 slides: OB at Work, For Managers)\n**Why not A:** The slides credit integrative, not distributive, bargaining with building lasting relationships.\n**Why not B:** The slides say seeking creative win-win solutions doesn't mean sacrificing your self-interest.\n**Why not C:** The slides tie distributive bargaining to reduced satisfaction."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "Two negotiating teams have agreed on who will negotiate, where, when and on what issues. Now each side is explaining and supporting its original demands with documentation. Which step of the negotiation process are they in?",
+      "options": {
+        "A": "Developing a strategy",
+        "B": "Bargaining and problem solving",
+        "C": "Clarifying and justifying",
+        "D": "Defining ground rules"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The five steps are developing a strategy, defining ground rules, clarifying and justifying, bargaining and problem solving, and attaining closure and implementation; explaining and backing up initial demands is clarifying and justifying. (Ch 9 slides: How to Negotiate, Exhibit 9.4)\n**Why not A:** Strategy development happens before the parties meet.\n**Why not B:** Bargaining comes next, when the parties work out the actual give-and-take.\n**Why not D:** Settling who, where, when and what has already been done."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "Before negotiating a lease renewal, a store manager confirms that a comparable space nearby is available at a known rent, the fallback if talks with the landlord fail. What is this fallback called?",
+      "options": {
+        "A": "The bargaining zone",
+        "B": "The manager's BATNA",
+        "C": "The manager's target point",
+        "D": "The manager's opening position"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A BATNA is the best alternative to a negotiated agreement: the outcome an individual faces if negotiations fail. (Ch 9 slides: BATNA)\n**Why not A:** The bargaining zone is the range between the parties' resistance points, where they overlap.\n**Why not C:** The target point is what the manager hopes to achieve in the negotiation, not the fallback.\n**Why not D:** A position is a party's stand on the issues, not the alternative if talks fail."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "A buyer hopes to pay $8,000 for used equipment but will go as high as $10,500. The seller wants $12,000 but will accept as little as $9,000. Where is the bargaining zone?",
+      "options": {
+        "A": "Between $8,000 and $12,000",
+        "B": "Between $10,500 and $12,000",
+        "C": "Between $9,000 and $10,500",
+        "D": "Between $8,000 and $9,000"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The bargaining zone lies between each party's resistance point (the buyer's maximum of $10,500 and the seller's minimum of $9,000), assuming the ranges overlap, as in Exhibit 9.5. (Ch 9 slides: Exhibit 9.5, Staking Out the Bargaining Zone)\n**Why not A:** Those are the target points; the zone lies between the resistance points.\n**Why not B:** Above $10,500 the buyer won't pay, so no deal is possible there.\n**Why not D:** Below $9,000 the seller won't sell, so no deal is possible there."
+    },
+    {
+      "topic": "The negotiation process",
+      "question": "A buyer won't pay more than $9,000 for a vehicle, and the seller won't accept less than $9,500. Based on the slides' definition, what does this mean for the negotiation?",
+      "options": {
+        "A": "No bargaining zone exists; the ranges don't overlap",
+        "B": "The midpoint of $9,250 is where the deal will close",
+        "C": "The bargaining zone runs between the two target points",
+        "D": "The bargaining zone runs from $9,000 to $9,500"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The bargaining zone is the zone between each party's resistance point, assuming there is overlap; here the buyer's maximum is below the seller's minimum, so there's no zone. (Ch 9 slides: The Bargaining Zone)\n**Why not B:** No price satisfies both resistance points, so there is no zone in which a deal can close.\n**Why not C:** The zone is defined by the resistance points, and it requires overlap.\n**Why not D:** Neither party will accept a price in that gap, so it isn't a bargaining zone."
+    },
+    {
+      "topic": "Individual differences and social context",
+      "question": "A manager is choosing who should handle a one-time, win-lose price negotiation with a new vendor. Which traits do the slides link to weaker results in this kind of distributive bargaining?",
+      "options": {
+        "A": "Emotional stability and openness",
+        "B": "Conscientiousness and openness",
+        "C": "Agreeableness and extraversion",
+        "D": "Neuroticism and disagreeableness"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Agreeable or extraverted negotiators aren't very successful in distributive bargaining: extraverts tend to share more information than they should, and agreeable people prefer cooperating to butting heads. (Ch 9 slides: Personality Traits in Negotiation)\n**Why not A:** The slides don't link these to weaker distributive bargaining.\n**Why not B:** The slides don't link these traits to weaker distributive results; openness is valued in cross-cultural talks.\n**Why not D:** These traits make people conflict-prone, but the slides tie weak distributive results to agreeableness and extraversion."
+    },
+    {
+      "topic": "Individual differences and social context",
+      "question": "A negotiation trainer tells a class that showing anger always wins concessions. What do the slides say about emotions in negotiation?",
+      "options": {
+        "A": "Only positive emotions have any effect on negotiations",
+        "B": "Emotions have no real effect on negotiation outcomes",
+        "C": "They matter, but effects depend on emotion and context",
+        "D": "Anger reliably wins concessions in every context"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Moods and emotions do influence negotiation, especially negative ones like anger, disappointment and anxiety, but how they work depends on the emotion and the context. (Ch 9 slides: Moods/Emotions in Negotiation)\n**Why not A:** The slides specifically highlight negative emotions such as anger, disappointment and anxiety.\n**Why not B:** The slides say emotions, especially negative ones, matter to negotiation.\n**Why not D:** The slides say effects depend on the emotion and the context; East Asian negotiators, for example, were less likely to accept offers from angry counterparts."
+    },
+    {
+      "topic": "Individual differences and social context",
+      "question": "A manager notices that negotiation partners respond differently to colleagues depending on how they express their gender. What does the research in the slides suggest?",
+      "options": {
+        "A": "Women gain an edge by acting in gender-stereotypical ways",
+        "B": "Any differences reflect skill alone, not stereotyped thinking",
+        "C": "Gender expression has no real effect on negotiation outcomes",
+        "D": "Partners treat people differently by gender expression"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** People who express as men or women are treated differently by negotiation partners, which affects outcomes; women may face backlash for gender-stereotypical behaviours, and stereotyped thinking perpetuates discrimination. (Ch 9 slides: Gender Expression in Negotiation)\n**Why not A:** The research indicates women may experience a backlash for gender-stereotypical behaviours.\n**Why not B:** The slides say stereotyped thinking about individual, family and socio-cultural factors perpetuates discrimination.\n**Why not C:** The slides say differences in treatment affect outcomes."
+    },
+    {
+      "topic": "Individual differences and social context",
+      "question": "A purchasing manager wants future talks with a key supplier to become more integrative. According to the slides, what is the most effective way to build the trust this requires?",
+      "options": {
+        "A": "Rely on a tight contract instead of trust",
+        "B": "Win early concessions to establish strength",
+        "C": "Behave honestly across repeated interactions",
+        "D": "Keep information private until trust exists"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A reputation for trustworthiness matters, trust opens the door to integrative strategies, and the most effective way to build trust is to behave honestly across repeated interactions. (Ch 9 slides: Reputation)\n**Why not A:** The slides stress building trust, which opens the door to integrative strategies.\n**Why not B:** The slides tie trust to honest behaviour over time, not to early wins.\n**Why not D:** Withholding information limits the discovery of common interests; trust comes from honest dealing."
+    },
+    {
+      "topic": "Individual differences and social context",
+      "question": "Two department heads are negotiating next year's shared budget. Why does the slides' discussion of negotiation in a social context matter here?",
+      "options": {
+        "A": "Relationships matter only when the stakes are low",
+        "B": "They'll work together again, and others will hear of it",
+        "C": "The outcome stays private, so only the result counts",
+        "D": "It's a one-time deal, so their reputations hardly matter"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Organizational negotiations are often open-ended and public: you're probably negotiating with someone you know and will work with again, and the negotiation and its outcome are likely to be talked about. (Ch 9 slides: Negotiation in a Social Context)\n**Why not A:** The slides don't limit the social component to low-stakes negotiations.\n**Why not C:** The slides say outcomes are likely to be topics people talk about.\n**Why not D:** In organizations, negotiations are typically repeated, with people you'll work with again."
+    },
+    {
+      "topic": "Third-party negotiations",
+      "question": "A mediator is brought into a labour dispute, but one side has no intention of settling and sees the mediator as siding with management. What do the slides suggest about the mediation's chances?",
+      "options": {
+        "A": "Good, since a mediator can simply impose a settlement",
+        "B": "Poor, since the will to settle and neutrality are missing",
+        "C": "Good, since mediation always ends in a binding settlement",
+        "D": "Poor, since mediators are used only in civil court cases"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A mediator is a neutral third party who facilitates a solution through reasoning, persuasion and suggested alternatives; participants must be motivated to bargain and settle, and the mediator must appear neutral and non-coercive. (Ch 9 slides: Third-Party Negotiations, Mediator)\n**Why not A:** Mediators facilitate; it's arbitrators who have the authority to dictate an agreement.\n**Why not C:** It's arbitration that always results in a settlement.\n**Why not D:** Mediators are used in labour-management negotiations as well as civil court disputes."
+    },
+    {
+      "topic": "Third-party negotiations",
+      "question": "A union and an employer submit a deadlocked dispute to an arbitrator. What do the slides say they can expect?",
+      "options": {
+        "A": "Informal message-carrying between the two sides",
+        "B": "Suggestions only, since an arbitrator can't decide",
+        "C": "A settlement only if both sides freely agree to it",
+        "D": "A sure settlement, though the conflict may return"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** An arbitrator has the authority to dictate an agreement; arbitration (voluntary or compulsory) always results in a settlement, but the conflict may resurface at a later time. (Ch 9 slides: Third-Party Negotiations, Arbitrator)\n**Why not A:** That's the role of a conciliator.\n**Why not B:** Arbitrators have the authority to dictate an agreement; it's mediators who suggest alternatives.\n**Why not C:** That describes mediation, where the parties must be motivated to settle."
+    },
+    {
+      "topic": "Third-party negotiations",
+      "question": "In a dispute between siblings who co-own a family business, a trusted family friend carries messages between them, gathers facts, interprets what each side means and nudges them toward agreement. What role is this?",
+      "options": {
+        "A": "Mediator",
+        "B": "Conciliator",
+        "C": "Negotiator",
+        "D": "Arbitrator"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A conciliator is a trusted third party who provides an informal communication link between the parties; conciliators are used extensively in family, community, labour and international disputes to fact-find, interpret messages and persuade disputants to develop agreements. (Ch 9 slides: Third-Party Negotiations, Conciliator)\n**Why not A:** A mediator is a neutral facilitator who uses reasoning, persuasion and suggested alternatives; the informal go-between who fact-finds and interprets messages is a conciliator.\n**Why not C:** The friend isn't a party to the dispute but a third party linking the two sides.\n**Why not D:** An arbitrator has the authority to dictate an agreement, which the friend doesn't."
+    },
+    {
+      "topic": "Culture and negotiation",
+      "question": "A Canadian manager leading a team in a strongly collectivist culture expects colleagues to raise disagreements bluntly in meetings. What do the slides suggest is more likely?",
+      "options": {
+        "A": "Blunt, open debate that puts individual views first",
+        "B": "Quick escalation of disputes to formal arbitration",
+        "C": "Avoiding all disagreement by never holding meetings",
+        "D": "Indirect handling that keeps relationships intact"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Collectivists are more likely to seek to preserve relationships and promote the good of the group as a whole, avoiding direct expression of conflict in favour of indirect methods. (Ch 9 slides: Conflict Resolution and Culture)\n**Why not A:** That fits individualistic tendencies, not collectivistic ones.\n**Why not B:** The slides describe collectivists favouring indirect methods, not formal escalation.\n**Why not C:** Collectivists still resolve differences, just through indirect methods."
+    },
+    {
+      "topic": "Culture and negotiation",
+      "question": "A firm is choosing who will lead negotiations with a prospective partner from another country. What do the slides suggest?",
+      "options": {
+        "A": "Pick whoever negotiates best at home; skills transfer fully",
+        "B": "Pick the most agreeable person, since rapport is all that counts",
+        "C": "Pick someone high in openness; cross-cultural talks are harder",
+        "D": "Pick someone who discloses little, to avoid being exploited"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** People generally negotiate more effectively within cultures than between them, and in cross-cultural negotiations it's especially important that negotiators be high in openness. (Ch 9 slides: Cultural Differences in Negotiating Style)\n**Why not A:** The slides say people negotiate more effectively within cultures than between them.\n**Why not B:** The slides single out openness as especially important in cross-cultural negotiations.\n**Why not D:** Lower trust and less disclosure reduce the discovery of common interests in cross-cultural talks."
+    },
+    {
+      "topic": "Culture and negotiation",
+      "question": "A study had Chinese and US negotiators face an angry counterpart. According to the slides, how did their responses differ?",
+      "options": {
+        "A": "Chinese negotiators got more distributive; US ones less so",
+        "B": "US negotiators got more distributive; Chinese ones less so",
+        "C": "Both groups became more cooperative and integrative",
+        "D": "Neither group changed its tactics in response to anger"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** When confronted with an angry negotiator, Chinese negotiators increased their use of distributive tactics while US negotiators decreased theirs; East Asian negotiators were also less likely to accept offers from angry negotiators. (Ch 9 slides: Culture, Negotiations, and Emotions)\n**Why not B:** This reverses the finding reported in the slides.\n**Why not C:** The groups responded in opposite directions, not both toward cooperation.\n**Why not D:** Both groups changed their use of distributive tactics, in opposite directions."
+    }
+  ]
+}
