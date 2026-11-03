@@ -1,0 +1,358 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "06",
+    "title": "Discuss ethical consideration in project procurement"
+  },
+  "source": "MGMT 608 - LO6.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Ethics and its forms",
+      "question": "A procurement team reviews a real bid in which a supplier offered the evaluators free concert tickets, and works out how its ethical principles apply to that specific situation. Which form of ethics is the team practising?",
+      "options": {
+        "A": "Personal ethics",
+        "B": "Applied ethics",
+        "C": "Normative ethics",
+        "D": "Contract ethics"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Applied ethics is the application of ethical theory to real-life situations; normative ethics studies, in general, what makes actions right or wrong. (LO6: Ethics)\n**Why not A:** Personal ethics are an individual's own values, principles and opinions, not a team applying principles to a case.\n**Why not C:** Normative ethics studies what makes actions right or wrong in general, not how to handle a specific case.\n**Why not D:** The slides describe normative and applied ethics; applying principles to a real case is applied ethics."
+    },
+    {
+      "topic": "Ethics and its forms",
+      "question": "In a philosophy seminar, students debate what, in general, makes any action right or wrong, without looking at any particular workplace case. Which form of ethics is this?",
+      "options": {
+        "A": "Professional ethics",
+        "B": "Normative ethics",
+        "C": "Applied ethics",
+        "D": "Business ethics"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Normative ethics is the study of what makes actions right and wrong, while applied ethics applies ethical theory to real-life situations. (LO6: Ethics)\n**Why not A:** Professional ethics are the codes followed by members of a profession, such as PMI's code for project managers.\n**Why not C:** Applied ethics works on real-life situations; this debate is general and theoretical.\n**Why not D:** Business ethics covers an organization's code of conduct and policies, such as conflict-of-interest and gift rules."
+    },
+    {
+      "topic": "Ethics and its forms",
+      "question": "Choosing between two suppliers, a project manager weighs each option's effects on the affected community, on the organization's resources and on the local environment. Which definition of ethics from the slides matches this thinking?",
+      "options": {
+        "A": "PMI's: the best decisions for people, resources and environment",
+        "B": "Avoiding any decision that someone could later criticize",
+        "C": "Following whatever the most senior person in the room decides",
+        "D": "Choosing whatever option maximizes the project's short-term profit"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The slides quote PMI: ethics is about making the best possible decisions concerning people, resources and the environment; ethics is also described as the branch of philosophy that examines moral ideals, motives of choice and patterns of good and bad conduct. (LO6: Ethics)\n**Why not B:** Ethical decisions aim for the best outcome for people, resources and the environment, not avoiding criticism.\n**Why not C:** Ethics, as the slides define it, is about the best decision, not deference to rank.\n**Why not D:** The PMI definition weighs people, resources and the environment, not profit alone."
+    },
+    {
+      "topic": "Ethics and its forms",
+      "question": "A newly hired buyer wants to know which professional code of ethics applies specifically to purchasing professionals. According to the slides, which one is it?",
+      "options": {
+        "A": "PMI's Code of Ethics and Professional Conduct",
+        "B": "The Institute for Supply Management's principles",
+        "C": "The employer's own gift acceptance policy",
+        "D": "The NCMA's Code of Ethics for its members"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Professional ethics codes in the slides: PMI's Code of Ethics and Professional Conduct for project managers, the Institute for Supply Management's principles and standards for buyers, and the NCMA Code of Ethics for contract managers. (LO6: Ethics, Professional Ethics)\n**Why not A:** PMI's code is listed for project managers, not buyers.\n**Why not C:** Gift acceptance policies are business ethics set by the organization, not a professional code.\n**Why not D:** The National Contract Management Association code is listed for contract managers."
+    },
+    {
+      "topic": "Ethics and its forms",
+      "question": "A company's code of conduct, its conflict-of-interest rules and its gift acceptance policy all apply to every employee, whatever their profession. Which type of ethics do these represent?",
+      "options": {
+        "A": "Normative ethics",
+        "B": "Professional ethics",
+        "C": "Business ethics",
+        "D": "Personal ethics"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Business ethics include an organization's code of conduct, conflict-of-interest and gift acceptance policies; professional ethics are codes for a profession, and personal ethics are an individual's own values, principles and opinions. (LO6: Ethics, Business Ethics)\n**Why not A:** Normative ethics is the general study of what makes actions right or wrong.\n**Why not B:** Professional ethics are codes for members of a profession, such as PMI's or ISM's.\n**Why not D:** Personal ethics are an individual's own values, principles and opinions."
+    },
+    {
+      "topic": "Conflicts of interest",
+      "question": "While evaluating bids, a buyer realizes that a family member partly owns one of the bidding companies. No favouritism has happened yet. How do the slides classify this situation?",
+      "options": {
+        "A": "Only a warning sign, not a conflict in itself",
+        "B": "Not a concern unless that bidder wins the contract",
+        "C": "Fraud, since the buyer must already be profiting",
+        "D": "A conflict of interest, even before any harm occurs"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A conflict of interest arises when an employee has or appears to have a competing personal or professional interest that could make it hard to discharge their duties; managing a procurement that includes a seller partly owned by a family member is one of the slides' examples. (LO6: Conflicts of Interest, Examples)\n**Why not A:** The slides list this exact situation as a conflict-of-interest example.\n**Why not B:** The conflict exists while the buyer manages the procurement, whoever wins.\n**Why not C:** Fraud involves wrongdoing such as ghost sellers or bid rigging; a conflict exists even with no gain yet."
+    },
+    {
+      "topic": "Conflicts of interest",
+      "question": "A buyer has done nothing improper, but colleagues notice the buyer's close friendship with the owner of a firm bidding on the buyer's procurement. Can this still be a conflict of interest?",
+      "options": {
+        "A": "Yes, but only once a contract has been awarded",
+        "B": "No: only an actual conflict of interest counts",
+        "C": "Yes: a conflict can be apparent as well as actual",
+        "D": "No: it's fine as long as the buyer feels objective"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A conflict of interest arises when an employee has, or appears to have, a competing interest; the conflict can be actual or apparent. (LO6: Conflicts of Interest)\n**Why not A:** An apparent conflict can exist during the procurement, before any award.\n**Why not B:** The slides say conflicts can be actual or apparent.\n**Why not D:** An apparent conflict exists regardless of how objective the buyer feels."
+    },
+    {
+      "topic": "Conflicts of interest",
+      "question": "Knowing which seller has been selected, a buyer quietly purchases that seller's shares just before the award is announced. How does this fit the slides?",
+      "options": {
+        "A": "A problem only if the seller later overcharges the buyer",
+        "B": "A normal investment, since the award decision is already made",
+        "C": "A conflict of interest, using inside information for gain",
+        "D": "Acceptable, as long as only a small number of shares is bought"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Purchasing stock of a selected seller before the award announcement is a listed conflict-of-interest example, and using information obtained for professional reasons for personal gain is prohibited conduct. (LO6: Conflicts of Interest, Examples)\n**Why not A:** The conflict arises from the trade itself, regardless of later pricing.\n**Why not B:** Trading on non-public award information is a listed conflict of interest.\n**Why not D:** The amount doesn't matter; using inside information for personal gain is the problem."
+    },
+    {
+      "topic": "Conflicts of interest",
+      "question": "Partway through administering a contract, a contract manager is told by the incumbent seller that a well-paid job could be waiting for them at the seller's firm. What do the slides say about this?",
+      "options": {
+        "A": "It only matters if the seller is chosen through sole sourcing",
+        "B": "A potential job offer from an incumbent seller is a conflict",
+        "C": "It's fine, as long as the manager hasn't accepted the offer yet",
+        "D": "It's a private career matter that has no bearing on the contract"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A potential offer of employment from an incumbent seller is one of the slides' conflict-of-interest examples, since it could make it hard for the manager to properly discharge duties to the employer. (LO6: Conflicts of Interest, Examples)\n**Why not A:** The conflict applies to any incumbent seller, however it was selected.\n**Why not C:** A potential offer is enough to create a conflict.\n**Why not D:** The slides treat it as a conflict, since it competes with the manager's duty to the employer."
+    },
+    {
+      "topic": "Conflicts of interest",
+      "question": "In the middle of a competitive procurement, a bidding seller's representative invites the buyer to a paid lunch 'just to catch up'. What does the slides' guidance suggest?",
+      "options": {
+        "A": "Accept, as long as the procurement isn't discussed at lunch",
+        "B": "Decline: a seller-paid lunch mid-procurement is a conflict",
+        "C": "Accept, since a single lunch is too small to influence anyone",
+        "D": "Accept, but leave the tip so the cost is shared fairly"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Attending a lunch paid for by a seller's representative during a competitive procurement is one of the slides' conflict-of-interest examples. (LO6: Conflicts of Interest, Examples)\n**Why not A:** The conflict comes from the seller paying during the procurement, whatever is discussed.\n**Why not C:** The slides list exactly this lunch as a conflict-of-interest example.\n**Why not D:** Paying part of the cost doesn't remove the conflict."
+    },
+    {
+      "topic": "Conflicts of interest",
+      "question": "In the slides' Kirat Housing case, an assistant to the head of procurement tells a bidder that it will win the tender if it gives him a $200,000 contract as an 'independent consultant'. In the slides' terms, what is the assistant doing?",
+      "options": {
+        "A": "Requesting a bid bond to secure the tender process",
+        "B": "Applying the published source selection criteria",
+        "C": "Using influence over the procurement for personal gain",
+        "D": "Negotiating a normal pre-bid consulting arrangement"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In procurement, a conflict of interest arises when someone with influence over a procurement uses that position for personal gain or a third party's gain; disguising a payment as a consulting contract also points toward fraud. (LO6: Kirat Housing Development Society Case, Conflicts of Interest)\n**Why not A:** A bid bond guarantees the lowest bid's validity; this is a demand for personal payment.\n**Why not B:** Source selection criteria evaluate sellers' merits, not payments to an official.\n**Why not D:** The 'consulting' contract is the price of winning, not a legitimate service."
+    },
+    {
+      "topic": "Conflicts of interest",
+      "question": "In the same case, after the meeting the bidder's consultant finds an expensive-looking diamond pendant waiting in his hotel room. How should a procurement professional treat a gift like this, based on the slides?",
+      "options": {
+        "A": "As fine to keep quietly, since no one else knows",
+        "B": "As a normal business courtesy that is fine to keep",
+        "C": "As acceptable once the bid has been won",
+        "D": "As a conflict-of-interest risk to avoid and disclose"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Accepting gifts is one of the slides' conflict-of-interest examples, and employees should avoid relationships and activities that undermine their objectivity or their duties to their employer. (LO6: Kirat Housing Development Society Case, Conflicts of Interest)\n**Why not A:** Whether others know doesn't change the conflict; disclosure is part of avoiding it.\n**Why not B:** The slides list accepting gifts as a conflict-of-interest example.\n**Why not C:** Timing doesn't remove the conflict a gift creates."
+    },
+    {
+      "topic": "Fraud and the fraud triangle",
+      "question": "A buyer is deep in personal debt, knows the company's payment controls are weak, and tells themself the company will never miss the money. Which model from the slides describes these three factors?",
+      "options": {
+        "A": "The conflict-of-interest test",
+        "B": "Cressey's fraud triangle",
+        "C": "The warning signs of misconduct",
+        "D": "The Law of Agency duties"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Cressey's fraud triangle has three factors: pressure (a financial need or want), opportunity (the ability and method to commit fraud) and rationalization (convincing oneself the wrongdoing is justified). (LO6: Fraud, Cressey's Fraud Triangle)\n**Why not A:** Conflicts of interest can be actual or apparent; that's not a model of why fraud happens.\n**Why not C:** Warning signs help detect misconduct; they aren't the factors that drive fraud.\n**Why not D:** The Law of Agency lists an agent's duties (loyalty, obedience, performance, accounting, notification), not the factors behind fraud."
+    },
+    {
+      "topic": "Fraud and the fraud triangle",
+      "question": "An employee who has been skimming from purchase orders tells a friend, 'I'm not paid enough anyway, and the company won't even notice.' Which element of the fraud triangle do these statements show?",
+      "options": {
+        "A": "Rationalization",
+        "B": "Opportunity",
+        "C": "Pressure",
+        "D": "Collusion"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Rationalization is convincing oneself that the wrongdoing is justified, for example that the organization won't be affected, that there's no other way, that one isn't paid enough, or that a family member needs help. (LO6: Fraud, Rationalization)\n**Why not B:** Opportunity is the ability and method to commit fraud.\n**Why not C:** Pressure is the financial need or want behind the fraud, not the justification for it.\n**Why not D:** Collusion is a buyer and seller committing fraud together; it isn't a triangle factor."
+    },
+    {
+      "topic": "Fraud and the fraud triangle",
+      "question": "A buyer who knows the purchasing system well begins by diverting small amounts, believing the scheme can't be detected; over the months, the amounts grow. Which element of the fraud triangle does this mainly describe?",
+      "options": {
+        "A": "Rationalization",
+        "B": "Pressure",
+        "C": "Opportunity",
+        "D": "Conflict of interest"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Opportunity facilitates the ability and method to commit fraud: the person believes it will go undetected, has enough technical skill to spot the opening, and often starts small before growing over time. (LO6: Fraud, Opportunity)\n**Why not A:** Rationalization is the self-justification, which isn't described here.\n**Why not B:** Pressure is the financial need or want; the description focuses on the means and method.\n**Why not D:** A conflict of interest is a competing interest, not the method used to commit fraud."
+    },
+    {
+      "topic": "Fraud and the fraud triangle",
+      "question": "A buyer secretly sets up a fake supplier company that the buyer controls, then approves invoices so payments flow to it. How do the slides classify this fraud?",
+      "options": {
+        "A": "A 'ghost' seller: fraud committed by the buyer alone",
+        "B": "Bid rigging: collusion between a buyer and a seller",
+        "C": "Sole sourcing when other providers are available",
+        "D": "An apparent conflict of interest, with no fraud"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The slides' examples of a buyer or contract manager committing fraud alone include a 'ghost' seller the buyer controls and directs payments to, diverting shipments, and charging the organization for services that benefit the buyer. (LO6: Fraud, Opportunity Examples)\n**Why not B:** Bid rigging is collusion with a real seller; here the buyer acts alone through a fake one.\n**Why not C:** Sole sourcing is a collusive example; this scheme uses a fake supplier.\n**Why not D:** Directing payments to a fake supplier is fraud, not just an appearance of conflict."
+    },
+    {
+      "topic": "Fraud and the fraud triangle",
+      "question": "A buyer drafts the requirements for a tender so that only a friend's company can realistically meet them. Which kind of fraud do the slides call this?",
+      "options": {
+        "A": "A ghost seller that the buyer secretly controls",
+        "B": "Diverting the shipment of orders to the buyer",
+        "C": "A legitimate use of a performance specification",
+        "D": "Bid rigging: collusion between buyer and seller"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides' examples of a buyer and seller colluding include bid rigging (drafting requirements that benefit a specific seller), drafting evaluation criteria that favour a seller, sole sourcing when others are available, and inflating or accepting falsified invoices. (LO6: Fraud, Opportunity Examples)\n**Why not A:** A ghost seller is a fake company; here a real seller is being favoured.\n**Why not B:** Diverting shipments is a solo fraud involving goods, not tender requirements.\n**Why not C:** Tailoring requirements so only one seller can meet them is bid rigging, not a fair specification."
+    },
+    {
+      "topic": "Fraud and the fraud triangle",
+      "question": "A contract manager keeps sole-sourcing work to one seller even though other providers are available, and routinely approves that seller's padded invoices. How do the slides classify this?",
+      "options": {
+        "A": "A legitimate single-sourcing strategy",
+        "B": "Collusive fraud by buyer and seller",
+        "C": "Only an apparent conflict, with no fraud",
+        "D": "Fraud committed by the contract manager alone"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Sole sourcing when other providers are available and inflating or accepting falsified invoices are listed as examples of a buyer or contract manager and a seller colluding to commit fraud. (LO6: Fraud, Opportunity Examples)\n**Why not A:** Single sourcing can be legitimate, but not when others are available and invoices are padded.\n**Why not C:** Approving padded invoices goes beyond an appearance of conflict.\n**Why not D:** The seller's padded invoices make this collusion, not solo fraud."
+    },
+    {
+      "topic": "Warning signs of unethical conduct",
+      "question": "A buyer regularly works excessive overtime, won't let other staff deal with certain sellers, refuses a promotion, and lives well beyond their apparent means. What do the slides say these are?",
+      "options": {
+        "A": "Behavioural warning signs of unethical conduct",
+        "B": "Normal traits of a tough, effective negotiator",
+        "C": "Practice-based signs, such as sole sourcing",
+        "D": "Signs of a highly committed and loyal employee"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Behavioural warning signs include excessive overtime or arriving early and leaving late, unwillingness to share duties or let others deal with certain sellers, refusing promotion, deviating from procedures, living beyond one's means, and close association with a seller. (LO6: Warning Signs of Unethical Conduct, Behaviour)\n**Why not B:** These behaviours are listed as warning signs, not negotiating traits.\n**Why not C:** Practice signs concern procurement patterns; these are personal behaviours.\n**Why not D:** The slides list these behaviours as warning signs of unethical conduct."
+    },
+    {
+      "topic": "Warning signs of unethical conduct",
+      "question": "A procurement audit finds frequent sole sourcing and repeated purchases from the same seller across many projects. How do the slides classify these findings?",
+      "options": {
+        "A": "Signs of a mature, world-class procurement function",
+        "B": "Behavioural warning signs in an employee",
+        "C": "Evidence of a strong strategic supplier partnership",
+        "D": "Warning signs in procurement practices"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Practice-based warning signs include frequent sole sourcing, repeated procurements from the same seller, overcharging by a seller, poor record keeping or missing files, and a seller paying an employee's travel and expenses. (LO6: Warning Signs of Unethical Conduct, Practices)\n**Why not A:** Mature functions are marked by strategy and metrics, not repeated sole sourcing.\n**Why not B:** Behavioural signs concern personal conduct, such as refusing promotion or living beyond one's means.\n**Why not C:** Repeated sole sourcing is listed as a warning sign, whatever the relationship."
+    },
+    {
+      "topic": "Warning signs of unethical conduct",
+      "question": "A seller offers to pay for a buyer's flights and hotel so the buyer can visit the seller's manufacturing facilities. How do the slides view this?",
+      "options": {
+        "A": "As a routine courtesy between business partners",
+        "B": "As a step required before any contract award",
+        "C": "As a warning sign of possible unethical conduct",
+        "D": "As a normal site tour for checking capacity"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A seller paying travel and expenses for an employee to visit the seller's facilities is listed among the practice-based warning signs of unethical conduct. (LO6: Warning Signs of Unethical Conduct, Practices)\n**Why not A:** The slides list seller-paid travel as a warning sign, not a courtesy.\n**Why not B:** Nothing requires seller-paid visits; they're listed as a warning sign.\n**Why not D:** Site tours can be part of evaluating capacity, but the seller paying the buyer's expenses is a warning sign."
+    },
+    {
+      "topic": "Warning signs of unethical conduct",
+      "question": "During a review, auditors find that a seller has been overcharging for months and that several contract files are missing. What do these findings mean, according to the slides?",
+      "options": {
+        "A": "They're warning signs that need a closer look",
+        "B": "They show a strategic, high-trust relationship",
+        "C": "They're routine administrative slips to ignore",
+        "D": "They prove that the buyer has committed fraud"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Overcharging by a seller and poor record keeping or missing files are practice-based warning signs; they signal possible unethical conduct worth investigating rather than proving it. (LO6: Warning Signs of Unethical Conduct, Practices)\n**Why not B:** Overcharging and missing files are warning signs, not marks of trust.\n**Why not C:** The slides list these as warning signs, not harmless slips.\n**Why not D:** Warning signs indicate possible misconduct; they aren't proof on their own."
+    },
+    {
+      "topic": "Preventing and detecting unethical conduct",
+      "question": "A CFO wants to focus anti-fraud spending on the fraud triangle factor that the organization can influence most. According to the slides, which factor is that?",
+      "options": {
+        "A": "All three equally, since each is fully controllable",
+        "B": "Pressure, by easing employees' financial needs",
+        "C": "Opportunity, so reduce the opportunities for fraud",
+        "D": "Rationalization, by changing how employees think"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Of the three fraud triangle factors, the organization has the most control over opportunity, so it should reduce the opportunities for fraud. (LO6: Prevention and Detection, Address Fraud Triangle Factors)\n**Why not A:** The slides single out opportunity as the factor the organization controls most.\n**Why not B:** The slides say the organization has the most control over opportunity, not pressure.\n**Why not D:** Rationalization is internal to the person; the slides point to opportunity."
+    },
+    {
+      "topic": "Preventing and detecting unethical conduct",
+      "question": "A company separates who approves new suppliers, who places orders and who releases payments, and requires every buyer to take vacation each year. Why do these controls help, according to the slides?",
+      "options": {
+        "A": "They stop any conflict of interest from ever arising",
+        "B": "They reduce employees' financial pressure to commit fraud",
+        "C": "They remove the need for audits and periodic assessments",
+        "D": "They reduce the opportunity to commit fraud"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Ways to reduce fraud opportunities include employee background screening, mandatory vacation, a fraud detection program, verifying seller ownership, segregation of duties, audits, periodic assessments and inventory management. (LO6: Prevention and Detection, Address Fraud Triangle Factors)\n**Why not A:** Conflicts can still arise; these controls target fraud opportunity.\n**Why not B:** These controls limit the means to commit fraud, not employees' financial needs.\n**Why not C:** Audits and periodic assessments are also listed as controls, alongside these."
+    },
+    {
+      "topic": "Preventing and detecting unethical conduct",
+      "question": "Before adding a new supplier to its payment system, a company checks who actually owns the supplier. Which risk is this control mainly designed to reduce?",
+      "options": {
+        "A": "Fraud such as a ghost seller controlled by a buyer",
+        "B": "Disputes over who has authority to act on contracts",
+        "C": "Late deliveries caused by inexperienced suppliers",
+        "D": "Price increases caused by supply market volatility"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Verifying a seller's ownership is one of the controls for reducing fraud opportunities; it helps catch schemes like a 'ghost' seller that a buyer secretly controls. (LO6: Prevention and Detection, Address Fraud Triangle Factors)\n**Why not B:** Authority to act is a contract term, not an ownership check.\n**Why not C:** Ownership checks target fraud, not delivery performance.\n**Why not D:** Market volatility is a sourcing risk, not what ownership checks address."
+    },
+    {
+      "topic": "Preventing and detecting unethical conduct",
+      "question": "Before scoring any proposals, each member of a selection committee signs a statement confirming they have no conflict of interest. Which prevention measure from the slides is this?",
+      "options": {
+        "A": "Training: a session on the Law of Agency and its duties",
+        "B": "Detection: a periodic audit of procurement files",
+        "C": "Conduct: steering clear of relationships with sellers",
+        "D": "Awareness: a declaration and attestation of no conflict"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides group prevention into training (code of conduct, documented examples of conflicts, Law of Agency), awareness (declaration and attestation of no conflict, knowing the warning signs) and conduct (avoiding relationships that harm objectivity, not using work information for personal gain). (LO6: Prevention and Detection of Unethical Conduct)\n**Why not A:** Law of Agency training is part of the training measures, not a signed declaration.\n**Why not B:** Audits are fraud-opportunity controls; this is a declaration made in advance.\n**Why not C:** Avoiding compromising relationships is a conduct measure; this is a signed declaration."
+    },
+    {
+      "topic": "Preventing and detecting unethical conduct",
+      "question": "Through work, a buyer learns that a supplier is about to be acquired, and thinks about buying the supplier's shares before the news becomes public. What does the slides' conduct guidance say?",
+      "options": {
+        "A": "Don't use information obtained at work for personal gain",
+        "B": "It's fine as long as the shares are bought through a broker",
+        "C": "It's fine once the buyer's procurement with them is closed",
+        "D": "It's fine if the amount invested is fairly small"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Conduct guidance in the slides says to avoid activities and relationships that harm objectivity or the discharge of employment duties, and not to use information obtained for professional reasons for personal gain. (LO6: Prevention and Detection, Conduct)\n**Why not B:** How the shares are bought doesn't matter; using work information for gain is the problem.\n**Why not C:** The information was still obtained at work and used for personal gain.\n**Why not D:** The amount doesn't change the misuse of work information."
+    },
+    {
+      "topic": "Preventing and detecting unethical conduct",
+      "question": "An HR team is building a training module on the Law of Agency for its buyers. Which duties do the slides list under it?",
+      "options": {
+        "A": "Obedience, care, disclosure, diligence and loyalty",
+        "B": "Performance, competition, accounting, obedience and notice",
+        "C": "Loyalty, secrecy, profit, accounting and notification",
+        "D": "Loyalty, obedience, performance, accounting and notification"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides list the Law of Agency duties as the duty of loyalty, obedience, performance, accounting and notification; Law of Agency training is part of preventing unethical conduct. (LO6: Prevention and Detection, Law of Agency)\n**Why not A:** Care, disclosure and diligence aren't on the slides' list; performance, accounting and notification are.\n**Why not B:** Competition isn't a listed duty; loyalty is missing from this set.\n**Why not C:** Secrecy and profit aren't among the duties listed; obedience and performance are."
+    },
+    {
+      "topic": "Preventing and detecting unethical conduct",
+      "question": "In the Kirat Housing case, a consultant three months into his first job is sent alone to a pre-bid meeting where a bribe is demanded. Based on the slides' prevention measures, how could his firm have better prepared him?",
+      "options": {
+        "A": "Send only its most junior staff to pre-bid meetings",
+        "B": "Avoid written codes so that staff rely on instinct",
+        "C": "Train staff on the code of conduct and known conflicts",
+        "D": "Let each employee judge gifts and payments case by case"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Prevention starts with training on the code of conduct, documented examples of actual or perceived conflicts of interest and the Law of Agency, plus awareness of the warning signs. (LO6: Kirat Housing Case, Prevention and Detection)\n**Why not A:** Sending inexperienced staff alone is part of the problem, not the fix.\n**Why not B:** Written codes of conduct are central to the slides' prevention measures.\n**Why not D:** The slides call for a code of conduct and training, not ad hoc judgment."
+    }
+  ]
+}

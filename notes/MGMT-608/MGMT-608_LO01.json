@@ -10,61 +10,61 @@
       "topic": "Procurement processes and roles",
       "question": "A hospital's IT project needs a specialized scheduling system, and the team decides to acquire it from an external vendor rather than build it internally. In the slides' terms, what is the team doing?",
       "options": {
-        "A": "Scope management: defining exactly what the project will deliver",
-        "B": "Project procurement: buying goods or services from an outside source",
-        "C": "Resource management: assigning the organization's own staff to tasks",
-        "D": "Integration management: coordinating the work of all the knowledge areas"
+        "A": "Project procurement: buying goods or services from an outside source",
+        "B": "Resource management: assigning the organization's own staff to tasks",
+        "C": "Integration management: coordinating the work of all the knowledge areas",
+        "D": "Scope management: defining exactly what the project will deliver"
       },
-      "answer": "B",
-      "note": "**Why B is correct:** Procurement means acquiring goods and/or services from an outside source; project procurement management is acquiring them for a project from outside the performing organization. (LO1: Project Procurement Management)\n**Why not A:** Scope management defines the work; obtaining it from a vendor is procurement.\n**Why not C:** Resource management deals with internal resources, not acquiring from an outside source.\n**Why not D:** Integration is a separate knowledge area; buying from an outside vendor is procurement."
+      "answer": "A",
+      "note": "**Why A is correct:** Procurement means acquiring goods and/or services from an outside source; project procurement management is acquiring them for a project from outside the performing organization. (LO1: Project Procurement Management)\n**Why not B:** Resource management deals with internal resources, not acquiring from an outside source.\n**Why not C:** Integration is a separate knowledge area; buying from an outside vendor is procurement.\n**Why not D:** Scope management defines the work; obtaining it from a vendor is procurement."
     },
     {
       "topic": "Procurement processes and roles",
       "question": "A project manager is tracking a vendor's contract performance, negotiating a change to the delivery schedule, and preparing to close out the contract. Which procurement process is this?",
       "options": {
-        "A": "Controlling procurements",
-        "B": "Identifying the procurement need",
-        "C": "Planning procurement management",
-        "D": "Conducting procurements"
+        "A": "Identifying the procurement need",
+        "B": "Planning procurement management",
+        "C": "Conducting procurements",
+        "D": "Controlling procurements"
       },
-      "answer": "A",
-      "note": "**Why A is correct:** Controlling procurements means managing relationships with sellers, monitoring contract performance, making changes as needed and closing out contracts. (LO1: Project Procurement Management, Main Processes)\n**Why not B:** Identifying the need is a pre-award activity; this work happens after award.\n**Why not C:** Planning decides what to procure, and when and how; this contract is already in place.\n**Why not D:** Conducting procurements obtains seller responses, selects sellers and awards contracts, which is already done here."
+      "answer": "D",
+      "note": "**Why D is correct:** Controlling procurements means managing relationships with sellers, monitoring contract performance, making changes as needed and closing out contracts. (LO1: Project Procurement Management, Main Processes)\n**Why not A:** Identifying the need is a pre-award activity; this work happens after award.\n**Why not B:** Planning decides what to procure, and when and how; this contract is already in place.\n**Why not C:** Conducting procurements obtains seller responses, selects sellers and awards contracts, which is already done here."
     },
     {
       "topic": "Procurement processes and roles",
       "question": "After issuing bid documents, a project team collects vendor proposals, chooses the most suitable seller and awards the contract. Which procurement process does this describe?",
       "options": {
-        "A": "Closing the project or phase",
-        "B": "Planning procurement management",
-        "C": "Conducting procurements",
-        "D": "Controlling procurements"
+        "A": "Controlling procurements",
+        "B": "Closing the project or phase",
+        "C": "Planning procurement management",
+        "D": "Conducting procurements"
       },
-      "answer": "C",
-      "note": "**Why C is correct:** Conducting procurements is obtaining seller responses, selecting sellers and awarding contracts. (LO1: Project Procurement Management, Main Processes)\n**Why not A:** Closing comes at the end, in the post-award phase.\n**Why not B:** Planning determines what to procure and when and how to do it, before any responses come in.\n**Why not D:** Controlling manages seller relationships and contract performance after award."
+      "answer": "D",
+      "note": "**Why D is correct:** Conducting procurements is obtaining seller responses, selecting sellers and awarding contracts. (LO1: Project Procurement Management, Main Processes)\n**Why not A:** Controlling manages seller relationships and contract performance after award.\n**Why not B:** Closing comes at the end, in the post-award phase.\n**Why not C:** Planning determines what to procure and when and how to do it, before any responses come in."
     },
     {
       "topic": "Procurement processes and roles",
       "question": "A buyer from a commercial firm says their team is now in the 'manage contracts' and 'administer contracts' stage. Using the slides' PMBOK and commercial terminology comparison, where does this fall?",
       "options": {
         "A": "Award phase: Conduct Procurement",
-        "B": "Pre-award phase: Develop Competitive Solicitation",
-        "C": "Pre-award phase: Plan Procurement Management",
-        "D": "Post-award phase: Control Procurement and closing"
+        "B": "Post-award phase: Control Procurement and closing",
+        "C": "Pre-award phase: Develop Competitive Solicitation",
+        "D": "Pre-award phase: Plan Procurement Management"
       },
-      "answer": "D",
-      "note": "**Why D is correct:** In the comparison, the post-award phase pairs PMBOK's Control Procurement and Close Project or Phase with the commercial terms Manage Contracts and Administer Contracts. (LO1: PMBOK Guide and Procurement Terminology Comparison)\n**Why not A:** The award phase matches Conduct Competitive Solicitation and Conduct Negotiations.\n**Why not B:** Developing the solicitation happens before award, not while contracts are being administered.\n**Why not C:** Pre-award matches the commercial steps Identify Procurement Need and Develop Competitive Solicitation."
+      "answer": "B",
+      "note": "**Why B is correct:** In the comparison, the post-award phase pairs PMBOK's Control Procurement and Close Project or Phase with the commercial terms Manage Contracts and Administer Contracts. (LO1: PMBOK Guide and Procurement Terminology Comparison)\n**Why not A:** The award phase matches Conduct Competitive Solicitation and Conduct Negotiations.\n**Why not C:** Developing the solicitation happens before award, not while contracts are being administered.\n**Why not D:** Pre-award matches the commercial steps Identify Procurement Need and Develop Competitive Solicitation."
     },
     {
       "topic": "Procurement processes and roles",
       "question": "A software firm's project manager is delivering a system to a client, and for the same project is buying servers from a hardware supplier. How do the slides describe the project manager's two roles?",
       "options": {
         "A": "Seller in both relationships, managing a contract with each party",
-        "B": "Buyer in both relationships, managing procurement with each party",
-        "C": "Buyer from the client, managing procurement; seller to the supplier, managing a contract",
-        "D": "Seller to the client, managing a contract; buyer from the supplier, managing procurement"
+        "B": "Buyer from the client, managing procurement; seller to the supplier, managing a contract",
+        "C": "Seller to the client, managing a contract; buyer from the supplier, managing procurement",
+        "D": "Buyer in both relationships, managing procurement with each party"
       },
-      "answer": "D",
-      "note": "**Why D is correct:** The slides show the project manager as seller to the customer (contract management) and as buyer from a supplier (procurement management). (LO1: Project Manager, Buyer vs. Seller)\n**Why not A:** The project manager buys from the supplier, so that relationship is procurement management.\n**Why not B:** The project manager sells to the client, so that relationship is contract management.\n**Why not C:** This reverses the roles: the client buys from the project manager, who buys from the supplier."
+      "answer": "C",
+      "note": "**Why C is correct:** The slides show the project manager as seller to the customer (contract management) and as buyer from a supplier (procurement management). (LO1: Project Manager, Buyer vs. Seller)\n**Why not A:** The project manager buys from the supplier, so that relationship is procurement management.\n**Why not B:** This reverses the roles: the client buys from the project manager, who buys from the supplier.\n**Why not D:** The project manager sells to the client, so that relationship is contract management."
     },
     {
       "topic": "Procurement processes and roles",
@@ -72,23 +72,23 @@
       "options": {
         "A": "Focusing on the core business and accessing skills and technologies",
         "B": "Avoiding procurement planning by handing everything to one vendor",
-        "C": "Removing the need for the city to oversee the vendor's work",
-        "D": "Guaranteeing lower costs no matter how the contract is managed"
+        "C": "Guaranteeing lower costs no matter how the contract is managed",
+        "D": "Removing the need for the city to oversee the vendor's work"
       },
       "answer": "A",
-      "note": "**Why A is correct:** The slides list accessing skills and technologies, reducing fixed and recurrent costs, focusing on the core business, flexibility and increased accountability as reasons to outsource. (LO1: Importance of Project Procurement Management)\n**Why not B:** Outsourcing still requires planning, conducting and controlling procurements.\n**Why not C:** The NYC examples show outsourced IT still needs strong oversight by the buyer.\n**Why not D:** Cost reduction is a goal, but the NYC cost overruns show it isn't guaranteed."
+      "note": "**Why A is correct:** The slides list accessing skills and technologies, reducing fixed and recurrent costs, focusing on the core business, flexibility and increased accountability as reasons to outsource. (LO1: Importance of Project Procurement Management)\n**Why not B:** Outsourcing still requires planning, conducting and controlling procurements.\n**Why not C:** Cost reduction is a goal, but the NYC cost overruns show it isn't guaranteed.\n**Why not D:** The NYC examples show outsourced IT still needs strong oversight by the buyer."
     },
     {
       "topic": "Procurement processes and roles",
       "question": "A city's outsourced payroll system ends up costing far more than planned, partly because of fraud and weak management of major IT projects. What lesson do the slides' New York City examples point to?",
       "options": {
         "A": "Outsourcing reliably reduces the total cost of IT projects",
-        "B": "Contractor fraud can't happen once a contract is signed",
-        "C": "Large IT projects should never be outsourced at all",
-        "D": "Outsourced IT projects still need strong oversight from the buyer"
+        "B": "Outsourced IT still needs strong oversight by the buyer",
+        "C": "Contractor fraud can't happen once a contract is signed",
+        "D": "Large IT projects should never be outsourced at all"
       },
-      "answer": "D",
-      "note": "**Why D is correct:** New York's mayor acknowledged City Hall had mismanaged major IT projects and vowed better oversight; CityTime's price was inflated by fraud and Nycaps' cost rose from $66 million to over $363 million. (LO1: Debates and Global Issues on Outsourcing)\n**Why not A:** The NYC projects show outsourcing can go badly over budget.\n**Why not B:** CityTime's price tag was inflated by fraud after contracting.\n**Why not C:** The slides present a debate: some firms outsource little, others a lot."
+      "answer": "B",
+      "note": "**Why B is correct:** New York's mayor acknowledged City Hall had mismanaged major IT projects and vowed better oversight; CityTime's price was inflated by fraud and Nycaps' cost rose from $66 million to over $363 million. (LO1: Debates and Global Issues on Outsourcing)\n**Why not A:** The NYC projects show outsourcing can go badly over budget.\n**Why not C:** CityTime's price tag was inflated by fraud after contracting.\n**Why not D:** The slides present a debate: some firms outsource little, others a lot."
     },
     {
       "topic": "Procurement processes and roles",
@@ -96,215 +96,275 @@
       "options": {
         "A": "Routine COTS buying",
         "B": "Interdivisional procurement",
-        "C": "Strategic teaming",
-        "D": "Urban onshoring"
+        "C": "Urban onshoring",
+        "D": "Strategic teaming"
       },
-      "answer": "D",
-      "note": "**Why D is correct:** Urban onshoring brings IT jobs back to the US, especially functions like software testing; the Urban Development Center model builds technology training and jobs in low-income urban neighbourhoods. (LO1: Debates and Global Issues on Outsourcing)\n**Why not A:** COTS buys are routine purchases of standard items or services.\n**Why not B:** That's buying work from another division of the same company.\n**Why not C:** Teaming divides a major project among separate companies under a teaming agreement."
+      "answer": "C",
+      "note": "**Why C is correct:** Urban onshoring brings IT jobs back to the US, especially functions like software testing; the Urban Development Center model builds technology training and jobs in low-income urban neighbourhoods. (LO1: Debates and Global Issues on Outsourcing)\n**Why not A:** COTS buys are routine purchases of standard items or services.\n**Why not B:** That's buying work from another division of the same company.\n**Why not D:** Teaming divides a major project among separate companies under a teaming agreement."
+    },
+    {
+      "topic": "Procurement processes and roles",
+      "question": "A company runs its payroll every two weeks as ongoing operations, and separately launches a one-time effort to move payroll onto a new cloud system by March. Using the PMBOK definition in the slides, which of these is a project?",
+      "options": {
+        "A": "Both, since each involves planned work and a budget",
+        "B": "The migration: a temporary effort with a unique result",
+        "C": "The payroll runs, since they repeat on a set schedule",
+        "D": "Neither, unless outside vendors are hired to do it"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides quote PMBOK: a project is a temporary endeavour undertaken to create a unique product, service or result; the regular payroll runs are repetitive operations. (LO1: What Is a Project?)\n**Why not A:** Planned, budgeted work isn't enough; a project is temporary and creates something unique.\n**Why not C:** Work that repeats on a schedule is ongoing operations, not a temporary endeavour.\n**Why not D:** Using vendors is a procurement choice; it doesn't decide whether work is a project."
     },
     {
       "topic": "Procurement categories",
       "question": "A project manager is sorting the project's 'buy' decisions using the slides' framework. Which list gives the three generic procurement categories?",
       "options": {
-        "A": "Design, performance and functional procurements",
-        "B": "Major complexity, minor complexity and all other routine procurements",
-        "C": "Big, small and highly risky procurements of any kind",
-        "D": "Strategic teaming, interdivisional and all other routine procurements"
+        "A": "Strategic teaming, interdivisional and all other routine procurements",
+        "B": "Big, small and highly risky procurements of any kind",
+        "C": "Major complexity, minor complexity and all other routine procurements",
+        "D": "Design, performance and functional procurements"
       },
-      "answer": "B",
-      "note": "**Why B is correct:** Buying from outside sources splits into three generic categories (major complexity, minor complexity and routine procurements) and two special relationships (strategic teaming and interdivisional). (LO1: Make with Own Staff or Buy from Outside Sources)\n**Why not A:** Those are types of specifications, not procurement categories.\n**Why not C:** Those describe how procurements differ, not the three generic categories.\n**Why not D:** Strategic teaming and interdivisional work are the two special relationships, not generic categories."
+      "answer": "C",
+      "note": "**Why C is correct:** Buying from outside sources splits into three generic categories (major complexity, minor complexity and routine procurements) and two special relationships (strategic teaming and interdivisional). (LO1: Make with Own Staff or Buy from Outside Sources)\n**Why not A:** Strategic teaming and interdivisional work are the two special relationships, not generic categories.\n**Why not B:** Those describe how procurements differ, not the three generic categories.\n**Why not D:** Those are types of specifications, not procurement categories."
     },
     {
       "topic": "Procurement categories",
       "question": "A city has hired a firm to design a new commercial centre. Both parties have made major financial commitments, there's strong resistance to switching suppliers, and further competition is waived while quality stays high and pricing seems reasonable. Which category of procurement is this?",
       "options": {
         "A": "Minor complexity procurement",
-        "B": "Routine COTS procurement",
-        "C": "Major complexity procurement",
+        "B": "Major complexity procurement",
+        "C": "Routine COTS procurement",
         "D": "Interdivisional procurement"
       },
-      "answer": "C",
-      "note": "**Why C is correct:** Major complexity procurements involve major financial commitments by both parties, strong resistance to changing suppliers without compelling justification, and competition often waived while quality and pricing stay acceptable. (LO1: Major Complexity Procurements)\n**Why not A:** Minor complexity buys are commercially available items bought with little or no modification.\n**Why not B:** Routine buys are standard items or services handled with basic purchasing principles.\n**Why not D:** Interdivisional work is bought from another division of the same company."
+      "answer": "B",
+      "note": "**Why B is correct:** Major complexity procurements involve major financial commitments by both parties, strong resistance to changing suppliers without compelling justification, and competition often waived while quality and pricing stay acceptable. (LO1: Major Complexity Procurements)\n**Why not A:** Minor complexity buys are commercially available items bought with little or no modification.\n**Why not C:** Routine buys are standard items or services handled with basic purchasing principles.\n**Why not D:** Interdivisional work is bought from another division of the same company."
     },
     {
       "topic": "Procurement categories",
       "question": "A project includes developing a new airplane design through an outside firm. Based on the slides, how should the project handle this procurement?",
       "options": {
-        "A": "Identify it early and give it its own dedicated team",
-        "B": "Rebid it often so the supplier stays competitive",
+        "A": "Rebid it often so the supplier stays competitive",
+        "B": "Treat it as a routine buy and identify it in a later phase",
         "C": "Substitute comparable items whenever they are cheaper",
-        "D": "Treat it as a routine buy and identify it in a later phase"
+        "D": "Identify it early and give it its own dedicated team"
       },
-      "answer": "A",
-      "note": "**Why A is correct:** For major complexity procurements, early identification is critical to plan and organize them, and firms using an integrated project team approach often create a separate team for each; they're also prone to scope creep. (LO1: Major Complexity Procurements)\n**Why not B:** Further competition is often waived on these buys while quality and pricing remain acceptable.\n**Why not C:** Substitution of comparable items is a feature of minor complexity buys, not new development.\n**Why not D:** Late identification suits routine COTS buys, not a major complexity procurement like a new airplane."
+      "answer": "D",
+      "note": "**Why D is correct:** For major complexity procurements, early identification is critical to plan and organize them, and firms using an integrated project team approach often create a separate team for each; they're also prone to scope creep. (LO1: Major Complexity Procurements)\n**Why not A:** Further competition is often waived on these buys while quality and pricing remain acceptable.\n**Why not B:** Late identification suits routine COTS buys, not a major complexity procurement like a new airplane.\n**Why not C:** Substitution of comparable items is a feature of minor complexity buys, not new development."
     },
     {
       "topic": "Procurement categories",
       "question": "A transit agency buys several existing buses from a manufacturer's standard product line, with only minimal modifications. The order is worth millions. Which category of procurement is this?",
       "options": {
-        "A": "Minor complexity procurement",
-        "B": "Strategic teaming procurement",
-        "C": "Routine COTS procurement",
-        "D": "Major complexity procurement"
+        "A": "Major complexity procurement",
+        "B": "Routine COTS procurement",
+        "C": "Strategic teaming procurement",
+        "D": "Minor complexity procurement"
       },
-      "answer": "A",
-      "note": "**Why A is correct:** Minor complexity procurements often involve large monetary values, but the items exist, conform to the seller's existing specifications, are commercially available and are bought with little or no modification. (LO1: Minor Complexity Procurements)\n**Why not B:** Teaming involves companies dividing a major project under a teaming agreement.\n**Why not C:** Routine buys are low-value standard items like fasteners or routine services, not high-value vehicles.\n**Why not D:** The buses already exist in the seller's line; nothing new is being created, despite the large dollar value."
+      "answer": "D",
+      "note": "**Why D is correct:** Minor complexity procurements often involve large monetary values, but the items exist, conform to the seller's existing specifications, are commercially available and are bought with little or no modification. (LO1: Minor Complexity Procurements)\n**Why not A:** The buses already exist in the seller's line; nothing new is being created, despite the large dollar value.\n**Why not B:** Routine buys are low-value standard items like fasteners or routine services, not high-value vehicles.\n**Why not C:** Teaming involves companies dividing a major project under a teaming agreement."
     },
     {
       "topic": "Procurement categories",
       "question": "Midway through a plant expansion, a project manager realizes the large standard-model electrical generators still haven't been ordered, and their lead time threatens the schedule. What do the slides say should have happened?",
       "options": {
-        "A": "They didn't need early identification, since they're standard items",
-        "B": "They should have had a separate integrated project team",
-        "C": "They needed early identification to plan lead time and funds",
-        "D": "They should have been bought under a teaming agreement"
+        "A": "They should have been bought under a teaming agreement",
+        "B": "They needed early identification to plan lead time and funds",
+        "C": "They should have had a separate integrated project team",
+        "D": "They didn't need early identification, since they're standard items"
       },
-      "answer": "C",
-      "note": "**Why C is correct:** For minor complexity buys, early identification is important in order to schedule the lead time for each item and budget the necessary funds. (LO1: Minor Complexity Procurements)\n**Why not A:** Late identification suits routine COTS buys; minor complexity buys need early identification for lead time.\n**Why not B:** Separate teams are suggested for major complexity procurements.\n**Why not D:** Teaming agreements are for dividing major projects among companies, not buying standard generators."
+      "answer": "B",
+      "note": "**Why B is correct:** For minor complexity buys, early identification is important in order to schedule the lead time for each item and budget the necessary funds. (LO1: Minor Complexity Procurements)\n**Why not A:** Teaming agreements are for dividing major projects among companies, not buying standard generators.\n**Why not C:** Separate teams are suggested for major complexity procurements.\n**Why not D:** Late identification suits routine COTS buys; minor complexity buys need early identification for lead time."
     },
     {
       "topic": "Procurement categories",
       "question": "A project manager is deciding how much planning effort to give to buying fasteners, sheet metal and paint, plus an outsourced cafeteria service. What do the slides suggest?",
       "options": {
-        "A": "Identify them first, since they drive the project's critical schedule",
-        "B": "Apply basic purchasing principles; these can be identified in later phases",
+        "A": "Manage each one as a critical subproject with its own contract team",
+        "B": "Use basic purchasing; identify them in later phases",
         "C": "Use teaming agreements so the risks are shared with suppliers",
-        "D": "Manage each one as a critical subproject with its own contract team"
+        "D": "Identify them first, since they drive the project's critical schedule"
       },
       "answer": "B",
-      "note": "**Why B is correct:** Routine COTS buys rely on the fundamental principles of basic purchasing, and their early identification is typically not vital; they can be identified in later phases without causing difficulties. (LO1: Routine Buys of COTS Items or Purchased Services)\n**Why not A:** The slides say early identification of routine buys is typically not vital.\n**Why not C:** Teaming agreements are strategic, high-dollar accords between executives.\n**Why not D:** Managing complicated contracts as subprojects fits major complexity buys, not routine ones."
+      "note": "**Why B is correct:** Routine COTS buys rely on the fundamental principles of basic purchasing, and their early identification is typically not vital; they can be identified in later phases without causing difficulties. (LO1: Routine Buys of COTS Items or Purchased Services)\n**Why not A:** Managing complicated contracts as subprojects fits major complexity buys, not routine ones.\n**Why not C:** Teaming agreements are strategic, high-dollar accords between executives.\n**Why not D:** The slides say early identification of routine buys is typically not vital."
+    },
+    {
+      "topic": "Procurement categories",
+      "question": "A long-time supplier of standard industrial pumps can't ship the usual model on time, and offers a different model with comparable performance that meets all of the project's requirements. What do the slides say about this kind of minor complexity buy?",
+      "options": {
+        "A": "A comparable item may be substituted if it meets the needs",
+        "B": "A teaming agreement is needed before any change is made",
+        "C": "It must be rebid as a major complexity procurement instead",
+        "D": "Substitution is never allowed once a model is specified"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Although minor complexity items are bought through long-term buyer–seller relationships, comparable-performance items may sometimes be substituted as long as they satisfy the same project requirements. (LO1: Minor Complexity Procurements)\n**Why not B:** Teaming agreements are for strategic, high-dollar projects split between companies.\n**Why not C:** The pumps are still commercially available items; a substitute doesn't make the buy major complexity.\n**Why not D:** The slides allow comparable substitutes for minor complexity buys."
+    },
+    {
+      "topic": "Procurement categories",
+      "question": "A firm's outsourced development of a brand-new software package keeps growing as stakeholders add features partway through. According to the slides, what is this a typical sign of in a major complexity procurement?",
+      "options": {
+        "A": "Scope creep, which these procurements often experience",
+        "B": "A shift of the buy into the minor complexity category",
+        "C": "A problem that early identification prevents entirely",
+        "D": "A reason to switch suppliers immediately and rebid"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The slides note that major complexity procurements often experience a phenomenon called scope creep, which is one reason early identification and a dedicated team matter. (LO1: Major Complexity Procurements)\n**Why not B:** Minor complexity buys are existing commercial items, not new development.\n**Why not C:** Early identification helps plan and organize these buys; the slides don't say it removes scope creep.\n**Why not D:** The slides note strong resistance to changing suppliers without compelling justification."
     },
     {
       "topic": "Special procurement relationships",
       "question": "The executives of two aerospace firms sign an overriding corporate agreement to split a new system into parts, each built by one company, combining their assets, facilities and people and sharing the risks. What kind of procurement is this?",
       "options": {
-        "A": "An interdivisional procurement within one company",
+        "A": "A minor complexity buy of commercially available items",
         "B": "A major complexity buy from a single prime supplier",
-        "C": "A minor complexity buy of commercially available items",
+        "C": "An interdivisional procurement within one company",
         "D": "A special procurement under a strategic teaming agreement"
       },
       "answer": "D",
-      "note": "**Why D is correct:** Teaming agreements (alliances or arrangements) are strategic, high-dollar accords between corporate executives that divide a major project into parts, each assigned to a separate company, combining assets and sharing risks. (LO1: Special Procurements, Strategic Teaming Agreements)\n**Why not A:** Interdivisional work is bought from another division of the same company, not a separate firm.\n**Why not B:** Here two companies jointly divide the work under an overriding legal agreement.\n**Why not C:** The system is new and divided between companies, not bought off the shelf."
+      "note": "**Why D is correct:** Teaming agreements (alliances or arrangements) are strategic, high-dollar accords between corporate executives that divide a major project into parts, each assigned to a separate company, combining assets and sharing risks. (LO1: Special Procurements, Strategic Teaming Agreements)\n**Why not A:** The system is new and divided between companies, not bought off the shelf.\n**Why not B:** Here two companies jointly divide the work under an overriding legal agreement.\n**Why not C:** Interdivisional work is bought from another division of the same company, not a separate firm."
     },
     {
       "topic": "Special procurement relationships",
       "question": "Two companies forming a teaming arrangement for a new project ask how the work can be structured between them. What do the slides say?",
       "options": {
-        "A": "As a routine catalogue purchase from each partner",
-        "B": "Only as equal partners, with no company acting as prime",
-        "C": "As prime contractor and subcontractor, or as associates",
+        "A": "Only as equal partners, with no company acting as prime",
+        "B": "As prime contractor and subcontractor, or as associates",
+        "C": "As a routine catalogue purchase from each partner",
         "D": "As an interdivisional transfer of work within one company"
       },
-      "answer": "C",
-      "note": "**Why C is correct:** Teaming arrangements can create a prime contractor–subcontractor relationship, in which the designated prime receives the contract, or an 'associate' type of relationship. (LO1: Special Procurements, Strategic Teaming Agreements)\n**Why not A:** Teaming covers strategic, high-dollar work, not routine purchases.\n**Why not B:** The slides say a designated prime company may receive the contract.\n**Why not D:** Teaming is between separate companies, not divisions of one firm."
+      "answer": "B",
+      "note": "**Why B is correct:** Teaming arrangements can create a prime contractor–subcontractor relationship, in which the designated prime receives the contract, or an 'associate' type of relationship. (LO1: Special Procurements, Strategic Teaming Agreements)\n**Why not A:** The slides say a designated prime company may receive the contract.\n**Why not C:** Teaming covers strategic, high-dollar work, not routine purchases.\n**Why not D:** Teaming is between separate companies, not divisions of one firm."
     },
     {
       "topic": "Special procurement relationships",
       "question": "A project buys engineering work from another division of the same company. Costs keep accumulating, accountants move project dollars without regard to the value delivered, and neither division's executive wants to confront the other. What do the slides say about this kind of procurement?",
       "options": {
-        "A": "It's governed by a formal teaming agreement between firms",
-        "B": "It should be easiest, but often proves the most painful",
-        "C": "It's reliably the easiest, since both divisions share goals",
+        "A": "It's reliably the easiest, since both divisions share goals",
+        "B": "It's governed by a formal teaming agreement between firms",
+        "C": "It should be easiest, but often proves the most painful",
         "D": "It must always be managed as a major complexity buy"
       },
-      "answer": "B",
-      "note": "**Why B is correct:** Interdivisional work should be the easiest arrangement but too often is the most painful: projects don't get respect, interdivisional costs are hard to shut off, and executives at the same level avoid confrontation. (LO1: Special Procurements, Interdivisional Work)\n**Why not A:** Teaming agreements are between separate companies, not divisions.\n**Why not C:** The slides say it too often turns out to be the most painful arrangement.\n**Why not D:** Interdivisional work can fall into any of the three procurement categories."
+      "answer": "C",
+      "note": "**Why C is correct:** Interdivisional work should be the easiest arrangement but too often is the most painful: projects don't get respect, interdivisional costs are hard to shut off, and executives at the same level avoid confrontation. (LO1: Special Procurements, Interdivisional Work)\n**Why not A:** The slides say it too often turns out to be the most painful arrangement.\n**Why not B:** Teaming agreements are between separate companies, not divisions.\n**Why not D:** Interdivisional work can fall into any of the three procurement categories."
     },
     {
       "topic": "Special procurement relationships",
       "question": "On a government-funded defence project, a manager plans to give a large work package to a sister division without any competition. What do the slides warn?",
       "options": {
-        "A": "Government always treats interdivisional work as 'make' work",
+        "A": "Government may insist on a formal competitive process",
         "B": "Interdivisional work is exempt from government procurement rules",
-        "C": "Government may insist on a formal, documented competitive procurement",
-        "D": "Government prefers work to stay inside one company"
+        "C": "Government prefers work to stay inside one company",
+        "D": "Government always treats interdivisional work as 'make' work"
       },
-      "answer": "C",
-      "note": "**Why C is correct:** Government wants the lowest price for work under its contracts and will often insist on formal solicitation, formal evaluation, source selection and a documented competitive procurement process, even for interdivisional work. (LO1: Special Procurements, Interdivisional Work)\n**Why not A:** Government may treat it as either make or buy work, depending on the point it's stressing.\n**Why not B:** The slides describe government insisting on formal processes for such work.\n**Why not D:** Government's priority is the lowest price, often through competition."
+      "answer": "A",
+      "note": "**Why A is correct:** Government wants the lowest price for work under its contracts and will often insist on formal solicitation, formal evaluation, source selection and a documented competitive procurement process, even for interdivisional work. (LO1: Special Procurements, Interdivisional Work)\n**Why not B:** The slides describe government insisting on formal processes for such work.\n**Why not C:** Government's priority is the lowest price, often through competition.\n**Why not D:** Government may treat it as either make or buy work, depending on the point it's stressing."
     },
     {
       "topic": "Special procurement relationships",
       "question": "A manufacturer moves from many suppliers chosen on price to one supplier that shares forecasts, opens its books and joins product development early. Which relationship does the slides' spectrum say it now has?",
       "options": {
-        "A": "A routine COTS relationship, with basic purchasing",
-        "B": "A transactional relationship, with little trust",
-        "C": "An alliance, marked by institutional trust",
-        "D": "An interdivisional relationship, with shared profits"
+        "A": "A transactional relationship, with little trust",
+        "B": "An interdivisional relationship, with shared profits",
+        "C": "A routine COTS relationship, with basic purchasing",
+        "D": "An alliance, marked by institutional trust"
       },
-      "answer": "C",
-      "note": "**Why C is correct:** On the spectrum, alliances sit at the high-trust (institutional) end, with one or few suppliers, open books, shared forecasts and many early contributions to new products. (LO1: Spectrum of Supply Relationships and Institutional Trust)\n**Why not A:** Routine buying relies on basic purchasing principles, not deep integration.\n**Why not B:** Transactional relationships use many suppliers, focus on price and share no forecasts.\n**Why not D:** Interdivisional work is within one company, not with an outside supplier."
+      "answer": "D",
+      "note": "**Why D is correct:** On the spectrum, alliances sit at the high-trust (institutional) end, with one or few suppliers, open books, shared forecasts and many early contributions to new products. (LO1: Spectrum of Supply Relationships and Institutional Trust)\n**Why not A:** Transactional relationships use many suppliers, focus on price and share no forecasts.\n**Why not B:** Interdivisional work is within one company, not with an outside supplier.\n**Why not C:** Routine buying relies on basic purchasing principles, not deep integration."
     },
     {
       "topic": "Special procurement relationships",
       "question": "A buyer chooses suppliers mainly on price, relies on incoming inspection for quality, deals with many suppliers and expects that supply disruptions are possible. Where does this sit in the slides' characteristics of relationships?",
       "options": {
-        "A": "Transactional",
+        "A": "Collaborative",
         "B": "Alliance",
-        "C": "Strategic teaming",
-        "D": "Collaborative"
+        "C": "Transactional",
+        "D": "Strategic teaming"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In the characteristics table, transactional relationships focus on price, rely on incoming inspection, use many suppliers, have low trust and treat supply disruptions as possible. (LO1: Characteristics of Three Types of Relationships)\n**Why not A:** Collaborative relationships sit between the two extremes, with more trust than described here.\n**Why not B:** Alliances focus on total cost, design quality into the system, use one or few suppliers and make disruptions unlikely.\n**Why not D:** Teaming is a special procurement relationship between companies sharing a major project."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "A buyer and a supplier rely mainly on good working relationships between the individuals who manage the account. They're well past a price-only, arm's-length approach, but haven't formed a full alliance. Where does this sit on the slides' spectrum of supply relationships?",
+      "options": {
+        "A": "Collaborative, resting on interpersonal trust",
+        "B": "Interdivisional, resting on shared budgets",
+        "C": "Transactional, resting on little trust",
+        "D": "Alliance, resting on institutional trust"
       },
       "answer": "A",
-      "note": "**Why A is correct:** In the characteristics table, transactional relationships focus on price, rely on incoming inspection, use many suppliers, have low trust and treat supply disruptions as possible. (LO1: Characteristics of Three Types of Relationships)\n**Why not B:** Alliances focus on total cost, design quality into the system, use one or few suppliers and make disruptions unlikely.\n**Why not C:** Teaming is a special procurement relationship between companies sharing a major project.\n**Why not D:** Collaborative relationships sit between the two extremes, with more trust than described here."
+      "note": "**Why A is correct:** On the spectrum, transactional relationships carry little trust, collaborative relationships rest on interpersonal trust, and alliances rest on institutional trust. (LO1: Spectrum of Supply Relationships and Institutional Trust)\n**Why not B:** Interdivisional work is done by another division of the same company.\n**Why not C:** Transactional relationships are arm's-length and price-focused, which this one has moved past.\n**Why not D:** An alliance is the far end of the spectrum, which these parties haven't reached."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "A project needs routine, off-the-shelf services from another division of the same company. According to the slides, does this interdivisional procurement need to be identified early?",
+      "options": {
+        "A": "Yes, since every interdivisional buy is high risk",
+        "B": "Yes, since such work is always major complexity",
+        "C": "Not usually, unless it creates something new",
+        "D": "No, since interdivisional work needs no planning"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Early identification of many interdivisional procurements is typically not critical, unless the work involves creating something new as a Category 1 (major complexity) buy; interdivisional work can fall into any of the three categories. (LO1: Special Procurements, Interdivisional Work)\n**Why not A:** The slides say early identification is typically not critical for many interdivisional buys.\n**Why not B:** Interdivisional work can take any of the three procurement categories.\n**Why not D:** It still needs managing; the slides only say early identification usually isn't critical."
     },
     {
       "topic": "Planning procurement and its inputs",
       "question": "A project team concludes that every need can be met by the organization's own staff and equipment. According to the slides, what follows for procurement?",
       "options": {
-        "A": "No other procurement management processes need to be performed",
-        "B": "Conducting and controlling procurements must still be performed",
-        "C": "Every item must still go through make-or-buy analysis again",
-        "D": "An RFI must be issued to confirm nothing should be bought"
+        "A": "An RFI must be issued to confirm nothing should be bought",
+        "B": "Every item must still go through make-or-buy analysis again",
+        "C": "Conducting and controlling procurements must still be performed",
+        "D": "No other procurement management processes need to be performed"
       },
-      "answer": "A",
-      "note": "**Why A is correct:** If there's no need to buy any products or services from outside the organization, there's no need to perform any of the other procurement management processes. (LO1: Plan Procurement Management)\n**Why not B:** Those processes only apply when something is bought from outside.\n**Why not C:** The make-or-buy decision has been made: everything will be made internally.\n**Why not D:** The slides don't require an RFI; planning has already shown no outside buys are needed."
+      "answer": "D",
+      "note": "**Why D is correct:** If there's no need to buy any products or services from outside the organization, there's no need to perform any of the other procurement management processes. (LO1: Plan Procurement Management)\n**Why not A:** The slides don't require an RFI; planning has already shown no outside buys are needed.\n**Why not B:** The make-or-buy decision has been made: everything will be made internally.\n**Why not C:** Those processes only apply when something is bought from outside."
     },
     {
       "topic": "Planning procurement and its inputs",
       "question": "At the end of procurement planning, a project manager documents which components will be built internally and which will be bought. Which output of Plan Procurement Management is this?",
       "options": {
-        "A": "The closed-out contract files",
-        "B": "The make-or-buy decisions",
-        "C": "The awarded seller contracts",
-        "D": "The seller performance reviews"
+        "A": "The seller performance reviews",
+        "B": "The closed-out contract files",
+        "C": "The make-or-buy decisions",
+        "D": "The awarded seller contracts"
       },
-      "answer": "B",
-      "note": "**Why B is correct:** Plan Procurement Management involves deciding whether, how, what, how much and when to procure; an important output is the make-or-buy decision. (LO1: Plan Procurement Management)\n**Why not A:** Close-out happens during Control Procurements.\n**Why not C:** Contracts are awarded in Conduct Procurements, after planning.\n**Why not D:** Performance is monitored in Control Procurements."
+      "answer": "C",
+      "note": "**Why C is correct:** Plan Procurement Management involves deciding whether, how, what, how much and when to procure; an important output is the make-or-buy decision. (LO1: Plan Procurement Management)\n**Why not A:** Performance is monitored in Control Procurements.\n**Why not B:** Close-out happens during Control Procurements.\n**Why not D:** Contracts are awarded in Conduct Procurements, after planning."
     },
     {
       "topic": "Planning procurement and its inputs",
       "question": "A new project manager asks what a procurement management plan actually covers. Which answer fits the slides?",
       "options": {
-        "A": "How procurement is managed, from purchase documents to closure",
-        "B": "A fixed template whose contents are identical on every project",
+        "A": "A fixed template whose contents are identical on every project",
+        "B": "The detailed technical specifications of each item to be bought",
         "C": "Only the final list of vendors chosen to supply the project",
-        "D": "The detailed technical specifications of each item to be bought"
+        "D": "How procurement is managed, from purchase documents to closure"
       },
-      "answer": "A",
-      "note": "**Why A is correct:** The procurement management plan describes how procurement will be managed, from developing documentation for outside purchases or acquisitions to contract closure; its contents vary with project needs. (LO1: Procurement Management Plan)\n**Why not B:** The slides say the plan's contents vary based on project needs.\n**Why not C:** The plan covers the whole procurement process, not just a vendor list.\n**Why not D:** Specifications belong to the SOW and requirement documents."
+      "answer": "D",
+      "note": "**Why D is correct:** The procurement management plan describes how procurement will be managed, from developing documentation for outside purchases or acquisitions to contract closure; its contents vary with project needs. (LO1: Procurement Management Plan)\n**Why not A:** The slides say the plan's contents vary based on project needs.\n**Why not B:** Specifications belong to the SOW and requirement documents.\n**Why not C:** The plan covers the whole procurement process, not just a vendor list."
     },
     {
       "topic": "Planning procurement and its inputs",
       "question": "A project manager is gathering documents to start Plan Procurement Management. Which of these is listed in the slides as an input to the process?",
       "options": {
-        "A": "The risk register and stakeholder register",
-        "B": "The close-out report for each contract",
-        "C": "The proposals received from bidding sellers",
-        "D": "The contracts signed with selected sellers"
+        "A": "The contracts signed with selected sellers",
+        "B": "The risk register and stakeholder register",
+        "C": "The close-out report for each contract",
+        "D": "The proposals received from bidding sellers"
       },
-      "answer": "A",
-      "note": "**Why A is correct:** Inputs include the project charter, business documents, the project management plan, project documents (requirements documentation, risk register, stakeholder register), EEFs and OPAs. (LO1: Plan Procurement Management, Inputs)\n**Why not B:** Close-out comes at the end, under Control Procurements.\n**Why not C:** Proposals are received while conducting procurements.\n**Why not D:** Signed contracts come out of Conduct Procurements, later in the process."
+      "answer": "B",
+      "note": "**Why B is correct:** Inputs include the project charter, business documents, the project management plan, project documents (requirements documentation, risk register, stakeholder register), EEFs and OPAs. (LO1: Plan Procurement Management, Inputs)\n**Why not A:** Signed contracts come out of Conduct Procurements, later in the process.\n**Why not C:** Close-out comes at the end, under Control Procurements.\n**Why not D:** Proposals are received while conducting procurements."
     },
     {
       "topic": "Planning procurement and its inputs",
       "question": "A project manager rushes requirements gathering, and later finds the procured equipment meets most of the project's needs, but not all of them. What do the slides say about this stage?",
       "options": {
-        "A": "Meeting most of the needs is acceptable in procurement",
-        "B": "Defining the requirement details is the seller's responsibility",
-        "C": "Requirements can be refined after the contracts are awarded",
-        "D": "Detailed requirements come first; this is where errors creep in"
+        "A": "Defining the requirement details is the seller's responsibility",
+        "B": "Meeting most of the needs is acceptable in procurement",
+        "C": "Detailed requirements come first; this is where errors creep in",
+        "D": "Requirements can be refined after the contracts are awarded"
       },
-      "answer": "D",
-      "note": "**Why D is correct:** The first step in procurement planning is understanding the requirements for each work activity; errors arise from oversight or accepting resources that meet 'most' needs, so accurate, reliable information is essential. (LO1: Project Procurement Requirements)\n**Why not A:** The slides call meeting 'most' but not all needs a source of error.\n**Why not B:** The project manager must gather and understand the requirements.\n**Why not C:** The slides put understanding requirements first, before procuring."
+      "answer": "C",
+      "note": "**Why C is correct:** The first step in procurement planning is understanding the requirements for each work activity; errors arise from oversight or accepting resources that meet 'most' needs, so accurate, reliable information is essential. (LO1: Project Procurement Requirements)\n**Why not A:** The project manager must gather and understand the requirements.\n**Why not B:** The slides call meeting 'most' but not all needs a source of error.\n**Why not D:** The slides put understanding requirements first, before procuring."
     },
     {
       "topic": "Procurement information sources",
@@ -322,109 +382,121 @@
       "topic": "Procurement information sources",
       "question": "A project has no customer specification document. According to the slides, which document becomes the primary source of procurement information?",
       "options": {
-        "A": "The activity information checklist",
-        "B": "The network diagram",
-        "C": "The project statement of work",
+        "A": "The project statement of work",
+        "B": "The activity information checklist",
+        "C": "The network diagram",
         "D": "The bill of materials"
       },
-      "answer": "C",
-      "note": "**Why C is correct:** The project SOW, generated at the start of a project, outlines the deliverables and is used as the primary source of procurement information if the customer specification isn't available. (LO1: Procurement Information Sources)\n**Why not A:** The checklist breaks deliverables into components, but it's built from the requirements and specifications.\n**Why not B:** The network diagram sequences work activities.\n**Why not D:** The BOM lists components to procure; it doesn't replace the customer specification as the primary source."
+      "answer": "A",
+      "note": "**Why A is correct:** The project SOW, generated at the start of a project, outlines the deliverables and is used as the primary source of procurement information if the customer specification isn't available. (LO1: Procurement Information Sources)\n**Why not B:** The checklist breaks deliverables into components, but it's built from the requirements and specifications.\n**Why not C:** The network diagram sequences work activities.\n**Why not D:** The BOM lists components to procure; it doesn't replace the customer specification as the primary source."
     },
     {
       "topic": "Procurement information sources",
       "question": "A procurement analyst needs a list showing the quantity and exact part number or model of every component to be bought, sometimes naming the vendor an item must come from. Which document is this?",
       "options": {
-        "A": "The activity information checklist",
-        "B": "The bill of materials (BOM)",
-        "C": "The statement of work",
-        "D": "The work breakdown structure"
+        "A": "The statement of work",
+        "B": "The work breakdown structure",
+        "C": "The activity information checklist",
+        "D": "The bill of materials (BOM)"
       },
-      "answer": "B",
-      "note": "**Why B is correct:** A BOM is a specific list of items used to create a deliverable, listing quantities and actual part numbers or models of every component to be procured, and possibly required vendors. (LO1: Procurement Information Sources)\n**Why not A:** The checklist organizes work activities, not parts and quantities.\n**Why not C:** The SOW describes the work required, not a parts list.\n**Why not D:** The WBS breaks the deliverable into its smallest components and sequences them, without part numbers or vendors."
+      "answer": "D",
+      "note": "**Why D is correct:** A BOM is a specific list of items used to create a deliverable, listing quantities and actual part numbers or models of every component to be procured, and possibly required vendors. (LO1: Procurement Information Sources)\n**Why not A:** The SOW describes the work required, not a parts list.\n**Why not B:** The WBS breaks the deliverable into its smallest components and sequences them, without part numbers or vendors.\n**Why not C:** The checklist organizes work activities, not parts and quantities."
     },
     {
       "topic": "Procurement information sources",
       "question": "After the WBS and activity checklists are complete, a team maps which activities can run in parallel and which must finish before others start, so items are procured at the right time. Which source is this?",
       "options": {
-        "A": "The bill of materials",
-        "B": "The project charter",
+        "A": "The project charter",
+        "B": "The bill of materials",
         "C": "The customer specifications",
         "D": "The network diagram"
       },
       "answer": "D",
-      "note": "**Why D is correct:** The network diagram is developed after the WBS and activity information checklists to arrange work activities in sequence and analyze the flow of work, including parallel and dependent activities. (LO1: Procurement Information Sources)\n**Why not A:** The BOM lists items and quantities, not activity sequence.\n**Why not B:** The charter may contain critical requirements, but it doesn't sequence activities.\n**Why not C:** Specifications detail what the customer needs, not the order of the work."
+      "note": "**Why D is correct:** The network diagram is developed after the WBS and activity information checklists to arrange work activities in sequence and analyze the flow of work, including parallel and dependent activities. (LO1: Procurement Information Sources)\n**Why not A:** The charter may contain critical requirements, but it doesn't sequence activities.\n**Why not B:** The BOM lists items and quantities, not activity sequence.\n**Why not C:** Specifications detail what the customer needs, not the order of the work."
     },
     {
       "topic": "Procurement information sources",
       "question": "A project manager overseeing a new food processing plant learns that the metal of storage containers and the hoses that move food must meet FDA stipulations. Which source of procurement information does this illustrate?",
       "options": {
-        "A": "Special requirements set by the customer",
+        "A": "Regulatory requirements beyond the customer's",
         "B": "Design specifications written by the buyer",
-        "C": "Regulatory requirements beyond the customer's",
-        "D": "Customer specifications listed in the charter"
+        "C": "Customer specifications listed in the charter",
+        "D": "Special requirements set by the customer"
       },
-      "answer": "C",
-      "note": "**Why C is correct:** Regulatory requirements can go beyond customer requirements, covering items that state, local or federal regulations mandate; the FDA food plant is the slides' example. (LO1: Procurement Information Sources, Regulatory Requirements)\n**Why not A:** These rules come from a regulator, not from the customer.\n**Why not B:** The requirement comes from government regulation, not a buyer's design choices.\n**Why not D:** The FDA rules apply regardless of what the customer specifies."
+      "answer": "A",
+      "note": "**Why A is correct:** Regulatory requirements can go beyond customer requirements, covering items that state, local or federal regulations mandate; the FDA food plant is the slides' example. (LO1: Procurement Information Sources, Regulatory Requirements)\n**Why not B:** The requirement comes from government regulation, not a buyer's design choices.\n**Why not C:** The FDA rules apply regardless of what the customer specifies.\n**Why not D:** These rules come from a regulator, not from the customer."
     },
     {
       "topic": "Procurement information sources",
       "question": "A buyer writes a statement of work that describes only the work required under one particular contract. What do the slides call it, and what kind of document is it?",
       "options": {
-        "A": "A procurement plan, which is a type of project charter",
+        "A": "A bill of materials, which is a type of specification",
         "B": "A contract SOW, which is a type of scope statement",
-        "C": "A bill of materials, which is a type of specification",
+        "C": "A procurement plan, which is a type of project charter",
         "D": "A requirements document, which is a type of RFP"
       },
       "answer": "B",
-      "note": "**Why B is correct:** A SOW describes the work required for the procurement; when used in a contract to describe only that contract's work, it's a contract SOW, a type of scope statement. A good SOW helps bidders understand the buyer's expectations. (LO1: Statement of Work)\n**Why not A:** The procurement plan describes how procurement will be managed, not the work under one contract.\n**Why not C:** A BOM lists items and part numbers, not the work required.\n**Why not D:** An RFP is a bid document; the contract SOW is a scope statement."
+      "note": "**Why B is correct:** A SOW describes the work required for the procurement; when used in a contract to describe only that contract's work, it's a contract SOW, a type of scope statement. A good SOW helps bidders understand the buyer's expectations. (LO1: Statement of Work)\n**Why not A:** A BOM lists items and part numbers, not the work required.\n**Why not C:** The procurement plan describes how procurement will be managed, not the work under one contract.\n**Why not D:** An RFP is a bid document; the contract SOW is a scope statement."
+    },
+    {
+      "topic": "Procurement information sources",
+      "question": "A hospital client insists that every new door in its wing come from a specific fire-rated product line the hospital has approved. Which procurement information source does this fall under, and what do the slides advise?",
+      "options": {
+        "A": "The bill of materials; let the supplier choose freely",
+        "B": "The network diagram; sequence the door deliveries",
+        "C": "Regulatory requirements; treat it as a legal mandate",
+        "D": "Special customer requirements; interpret them with care"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Customers may have special requirements, and special care is needed in understanding them in order to correctly identify the special procurements they require. (LO1: Procurement Information Sources, Special Customer Requirements)\n**Why not A:** A BOM may name required vendors, but this requirement comes from the customer and needs careful interpretation.\n**Why not B:** The network diagram sequences activities; it doesn't capture the customer's product rule.\n**Why not C:** This rule comes from the customer, not from state, local or federal regulations."
     },
     {
       "topic": "Make-or-buy and planning tools",
       "question": "A telecom project manager must decide whether the company's internal machine shop should produce a heat-sink housing with tight tolerances. Following the slides' example, what should the manager check before choosing to make it in-house?",
       "options": {
-        "A": "Only whether making the part in-house is cheaper",
+        "A": "Whether the shop can meet the specs, quality and schedule",
         "B": "Whether the shop manager would like to take on the work",
         "C": "Whether outside suppliers will lower their price",
-        "D": "Whether the shop can meet the specs, quality and schedule"
+        "D": "Only whether making the part in-house is cheaper"
       },
-      "answer": "D",
-      "note": "**Why D is correct:** In the example, the project manager reviews the specifications with the machine shop manager, then evaluates the shop's quality level and when the item would be available before choosing the make option. (LO1: Procurement Decision Processes, Example)\n**Why not A:** Cost matters, but the example stresses capability, quality and schedule.\n**Why not B:** The test is capability, quality and timing, not preference.\n**Why not C:** The make option depends on internal capability, not on supplier discounts."
+      "answer": "A",
+      "note": "**Why A is correct:** In the example, the project manager reviews the specifications with the machine shop manager, then evaluates the shop's quality level and when the item would be available before choosing the make option. (LO1: Procurement Decision Processes, Example)\n**Why not B:** The test is capability, quality and timing, not preference.\n**Why not C:** The make option depends on internal capability, not on supplier discounts.\n**Why not D:** Cost matters, but the example stresses capability, quality and schedule."
     },
     {
       "topic": "Make-or-buy and planning tools",
       "question": "The machine shop manager says the heat-sink housing is beyond the shop's capability. According to the slides' example, what should the project manager do?",
       "options": {
-        "A": "Delay the project until the shop buys new equipment",
-        "B": "Buy externally to meet the specs and schedule, accepting the cost",
-        "C": "Relax the tolerances so the shop can manage the part",
-        "D": "Make it in-house anyway, since internal work is cheaper"
+        "A": "Source it externally, meeting the specs and schedule",
+        "B": "Make it in-house anyway, since internal work is cheaper",
+        "C": "Delay the project until the shop buys new equipment",
+        "D": "Relax the tolerances so the shop can manage the part"
       },
-      "answer": "B",
-      "note": "**Why B is correct:** If the work is beyond internal capability, the project manager looks to external resources to make the item to all specified requirements and the delivery schedule, living with the cost of procuring it externally. (LO1: Procurement Decision Processes, Example)\n**Why not A:** The example's answer is to procure externally while keeping the schedule.\n**Why not C:** The example requires meeting all of the specified requirements.\n**Why not D:** The example only uses internal resources when they're capable."
+      "answer": "A",
+      "note": "**Why A is correct:** If the work is beyond internal capability, the project manager looks to external resources to make the item to all specified requirements and the delivery schedule, living with the cost of procuring it externally. (LO1: Procurement Decision Processes, Example)\n**Why not B:** The example only uses internal resources when they're capable.\n**Why not C:** The example's answer is to procure externally while keeping the schedule.\n**Why not D:** The example requires meeting all of the specified requirements."
     },
     {
       "topic": "Make-or-buy and planning tools",
       "question": "A construction project manager must decide whether to purchase or rent a crane needed for a three-week activity. How do the slides frame decisions like this?",
       "options": {
-        "A": "As procurement decisions made in the project's best interest",
+        "A": "As contract closure decisions made after delivery",
         "B": "As source selection decisions made by a seller committee",
-        "C": "As risk acceptance decisions made by the sponsor",
-        "D": "As contract closure decisions made after delivery"
+        "C": "As procurement decisions made in the project's best interest",
+        "D": "As risk acceptance decisions made by the sponsor"
       },
-      "answer": "A",
-      "note": "**Why A is correct:** Procurement decisions include buying versus making, internal versus external resources, and purchasing versus renting equipment; they determine how things are obtained and the contract type, and should serve the project, budget, schedule and quality. (LO1: Procurement Decision Processes)\n**Why not B:** Source selection chooses among sellers; this decision is how the crane is obtained.\n**Why not C:** The slides treat purchase-or-rent as a procurement decision, not a risk response.\n**Why not D:** Closure happens after the work; this decision is made in planning."
+      "answer": "C",
+      "note": "**Why C is correct:** Procurement decisions include buying versus making, internal versus external resources, and purchasing versus renting equipment; they determine how things are obtained and the contract type, and should serve the project, budget, schedule and quality. (LO1: Procurement Decision Processes)\n**Why not A:** Closure happens after the work; this decision is made in planning.\n**Why not B:** Source selection chooses among sellers; this decision is how the crane is obtained.\n**Why not D:** The slides treat purchase-or-rent as a procurement decision, not a risk response."
     },
     {
       "topic": "Make-or-buy and planning tools",
       "question": "A team new to buying lab robotics consults specialists inside and outside the organization, and studies the many potential suppliers before planning its purchases. Which planning tools and techniques is it using?",
       "options": {
-        "A": "Contract audits and close-out reviews",
+        "A": "Bidder conferences and negotiations",
         "B": "Expert judgment and market research",
-        "C": "Change requests and lessons learned",
-        "D": "Bidder conferences and negotiations"
+        "C": "Contract audits and close-out reviews",
+        "D": "Change requests and lessons learned"
       },
       "answer": "B",
-      "note": "**Why B is correct:** Plan Procurement Management tools include make-or-buy analysis, expert judgment from inside and outside experts, and market research, since many potential suppliers are often available. (LO1: Plan Procurement Management, Tools and Techniques)\n**Why not A:** Those are part of controlling procurements.\n**Why not C:** Those are outputs and updates, not planning tools.\n**Why not D:** Those belong to conducting procurements, after planning."
+      "note": "**Why B is correct:** Plan Procurement Management tools include make-or-buy analysis, expert judgment from inside and outside experts, and market research, since many potential suppliers are often available. (LO1: Plan Procurement Management, Tools and Techniques)\n**Why not A:** Those belong to conducting procurements, after planning.\n**Why not C:** Those are part of controlling procurements.\n**Why not D:** Those are outputs and updates, not planning tools."
     }
   ]
 }
