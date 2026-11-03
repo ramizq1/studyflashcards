@@ -1,0 +1,382 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "05",
+    "title": "Identify, assess and plan to mitigate procurement risks"
+  },
+  "source": "MGMT 608 - LO5.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Risks, issues and the RAID log",
+      "question": "A vendor's lead developer might resign next month, which would delay delivery. Separately, the vendor's test server has been down since this morning. How do the slides classify these two situations?",
+      "options": {
+        "A": "Both are risks until they're entered in the log",
+        "B": "The resignation is an issue; the outage is a risk",
+        "C": "Both are issues, since both could hurt objectives",
+        "D": "The resignation is a risk; the outage is an issue"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A risk is an uncertain future event or condition that would affect project objectives if it occurs; an issue is a current event already having a negative effect. (LO5: What Is Project Risk? What Is a Project Issue?)\n**Why not A:** Logging doesn't decide the category; the outage is already happening.\n**Why not B:** This reverses the terms: the possible resignation is future and uncertain, while the outage is happening now.\n**Why not C:** Only current events with a negative effect are issues; the resignation hasn't happened."
+    },
+    {
+      "topic": "Risks, issues and the RAID log",
+      "question": "A supplier might deliver a key component two weeks early, which would let testing start sooner. Does this belong in risk management?",
+      "options": {
+        "A": "No: opportunities sit outside risk work",
+        "B": "No: risks are negative events only",
+        "C": "No: it's an issue, since it affects the schedule",
+        "D": "Yes: a risk can have a positive effect"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A project risk is an uncertain future event or condition that, if it occurs, has a positive or negative effect on one or more project objectives. (LO5: What Is Project Risk?)\n**Why not A:** Risk responses include exploit, share and enhance strategies for positive risks.\n**Why not B:** The slides define risk as having a positive or negative effect.\n**Why not C:** Issues are current events with negative effects; this is uncertain and positive."
+    },
+    {
+      "topic": "Risks, issues and the RAID log",
+      "question": "A procurement team has identified its contract risks and analyzed them. According to the slides' risk management cycle, what comes next?",
+      "options": {
+        "A": "Implement risk responses",
+        "B": "Plan risk responses",
+        "C": "Monitor risks",
+        "D": "Identify risks again"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The cycle runs identify risks, analyze risks, plan risk responses, implement risk responses, and monitor risks. (LO5: Project Risk Management Process)\n**Why not A:** Responses must be planned before they're implemented.\n**Why not C:** Monitoring follows once responses have been planned and implemented.\n**Why not D:** Identification has just been done; responses come next."
+    },
+    {
+      "topic": "Risks, issues and the RAID log",
+      "question": "A supplier insolvency that the team had recorded in its RAID log as a risk actually happens. How should the RAID log reflect this?",
+      "options": {
+        "A": "Delete the entry, since it's no longer a risk",
+        "B": "Log it as an issue too, with an owner",
+        "C": "Leave it in the risk log, unchanged, as before",
+        "D": "Record it only in the decision log, with a date"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The issues log records known problems that have occurred, with a description, owner and resolution; if a risk triggers, it becomes an issue as well. (LO5: Risks, Assumptions, Issues and Decision (RAID) Log)\n**Why not A:** The slides say a triggered risk becomes an issue as well; it isn't simply erased.\n**Why not C:** Once it occurs, it's a known problem and belongs in the issues log too.\n**Why not D:** The decision log records decisions made, not problems that have occurred."
+    },
+    {
+      "topic": "Risks, issues and the RAID log",
+      "question": "A project manager records that the steering committee chose Supplier B on May 3, with a description of the choice and who made it. Which part of the RAID log is this?",
+      "options": {
+        "A": "The decision log",
+        "B": "The risk log",
+        "C": "The actions log",
+        "D": "The issues log"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The decision log records the decision description, the date and who made the decision. (LO5: RAID Log)\n**Why not B:** The risk log tracks things that could go wrong but haven't yet.\n**Why not C:** The actions log tracks things to be done, with owners and due and completion dates.\n**Why not D:** The issues log tracks problems that have occurred."
+    },
+    {
+      "topic": "Risks, issues and the RAID log",
+      "question": "A project manager fills in the RAID log once at kickoff and never opens it again. What do the slides say about how the log should be used?",
+      "options": {
+        "A": "It's dynamic, maintained throughout the project",
+        "B": "It needs updating only before an audit is due",
+        "C": "It only needs updating when the project closes",
+        "D": "That's fine; it's a one-time planning record"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The RAID log should have the right level of detail for the project so it supports audits, governance and oversight, and it's a dynamic document constantly maintained throughout the project or program. (LO5: RAID Log)\n**Why not B:** It's maintained throughout, so it's always ready for audits and oversight.\n**Why not C:** It should be maintained constantly, not just at closing.\n**Why not D:** The slides describe the log as dynamic, not a one-off record."
+    },
+    {
+      "topic": "Identifying and analyzing risks",
+      "question": "A team's risk register for an outsourcing contract lists only budget and schedule risks. Based on the slides, how should it be expanded?",
+      "options": {
+        "A": "Add technical risks only, since the others rarely occur",
+        "B": "Add only the risks that the sponsor has already raised",
+        "C": "To all areas: contracts, legal, safety, reputation and more",
+        "D": "It needn't be, since budget and schedule hold most risks"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Risks should be identified in all areas of the project, including assumptions, constraints, budget, schedule, scope changes, technical issues, contracts, legal, safety, regulations and reputation. (LO5: Identify Risks)\n**Why not A:** Contracts, legal, safety, regulations and reputation are listed too.\n**Why not B:** Risk identification should be broad, not limited to known concerns.\n**Why not D:** The slides call for identifying risks in all areas of the project."
+    },
+    {
+      "topic": "Identifying and analyzing risks",
+      "question": "To find hidden risks, a team goes through each assumption and constraint in its procurement plan and asks which might prove false or too restrictive. Which risk-eliciting technique is this?",
+      "options": {
+        "A": "Cause and effect diagramming",
+        "B": "Assumption and constraint analysis",
+        "C": "Risk breakdown structure analysis",
+        "D": "Review of risk checklists"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides' risk-eliciting techniques include assumption and constraint analysis, a risk breakdown structure, brainstorming, cause and effect diagrams, checklists and document review. (LO5: Risk Eliciting Techniques)\n**Why not A:** A cause and effect diagram traces the causes behind a potential problem.\n**Why not C:** A risk breakdown structure organizes risks by category, rather than testing each assumption.\n**Why not D:** Checklists apply standard lists of known risks rather than testing the plan's own assumptions."
+    },
+    {
+      "topic": "Identifying and analyzing risks",
+      "question": "A supplier-delay risk is rated 4 (High) for probability and 3 (Medium) for impact. Using the slides' probability and impact matrix, what is its severity?",
+      "options": {
+        "A": "7, rated Medium",
+        "B": "15, rated Very High",
+        "C": "12, rated Medium",
+        "D": "12, rated High"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Severity is probability multiplied by impact (4 × 3 = 12), and in the matrix a score of 12 falls in the High band. (LO5: Analyze Risk, Probability and Impact Matrix)\n**Why not A:** The ratings are multiplied, not added.\n**Why not B:** 4 × 3 is 12, and Very High starts at 20.\n**Why not C:** In the matrix, scores of 10 to 16 are rated High."
+    },
+    {
+      "topic": "Identifying and analyzing risks",
+      "question": "Risk A has a probability of 5 and an impact of 2. Risk B has a probability of 1 and an impact of 5. Using the slides' matrix, which should rank higher?",
+      "options": {
+        "A": "Risk A: probability always outweighs impact",
+        "B": "Neither: each one includes a 'Very High' rating",
+        "C": "Risk A: it scores 10 (High) versus B's 5 (Medium)",
+        "D": "Risk B: a Very High impact always ranks first"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The matrix multiplies probability by impact: A scores 5 × 2 = 10 (High) and B scores 1 × 5 = 5 (Medium), so A ranks higher. (LO5: Analyze Risk, Probability and Impact Matrix)\n**Why not A:** A ranks higher because of its combined score, not because probability counts more.\n**Why not B:** Their products differ (10 versus 5), so they don't tie.\n**Why not D:** Severity combines probability and impact; B's very low probability gives it a lower score."
+    },
+    {
+      "topic": "Identifying and analyzing risks",
+      "question": "In the slides' wedding risk exercise, a team member lists 'bad weather' as a risk. Under the exercise's ground rules, what's needed?",
+      "options": {
+        "A": "Keep it exactly as worded, since any wording works",
+        "B": "Mark it out of scope, since it isn't on the wedding day",
+        "C": "Drop it, since nobody can control the weather",
+        "D": "Restate it in a quantifiable way so it can be rated"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The ground rules say everyone participates respectfully, and all risks are acceptable as long as they're stated in a quantifiable manner, so they can be rated for impact, probability and severity. (LO5: Risk Management Exercise)\n**Why not A:** The rules require risks to be stated in a quantifiable manner.\n**Why not B:** Events on the wedding day are in scope, including weather.\n**Why not C:** Uncontrollable risks are still acceptable if stated quantifiably."
+    },
+    {
+      "topic": "Identifying and analyzing risks",
+      "question": "The project manager in the wedding exercise is responsible only for events on the wedding day. Which of these risks falls outside the project's scope?",
+      "options": {
+        "A": "The honeymoon flight being cancelled",
+        "B": "The caterer arriving late on the day",
+        "C": "The venue losing power during the ceremony",
+        "D": "Security failing to manage the crowds"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In-scope work is arranging all events on the wedding day; the prenuptial agreement, buying the rings, inviting guests and the honeymoon are out of scope. (LO5: Risk Management Exercise)\n**Why not B:** Food on the wedding day is in scope.\n**Why not C:** The location and ceremony on the day are in scope.\n**Why not D:** Security on the wedding day is in scope."
+    },
+    {
+      "topic": "Risk response strategies",
+      "question": "A procurement team learns that an unproven supplier is likely to miss deadlines, so it changes its plan to use an established supplier instead, removing the cause of the risk. Which response strategy is this?",
+      "options": {
+        "A": "Mitigate",
+        "B": "Accept",
+        "C": "Transfer",
+        "D": "Avoid"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Avoiding a risk means eliminating the risk or its cause; for opportunities, the parallel strategy is exploit. (LO5: Plan Risk Responses)\n**Why not A:** Mitigating reduces the probability or impact, rather than removing the cause.\n**Why not B:** Accepting means living with the risk, passively or actively.\n**Why not C:** Transferring moves some or all of the negative impact to a third party."
+    },
+    {
+      "topic": "Risk response strategies",
+      "question": "A buyer adds a contract clause and buys insurance so that a third party bears most of the cost if a shipment is lost at sea. Which response strategy is this?",
+      "options": {
+        "A": "Mitigate",
+        "B": "Avoid",
+        "C": "Transfer",
+        "D": "Accept"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Transferring (or sharing, for opportunities) moves all or some of the negative impact to a third party. (LO5: Plan Risk Responses)\n**Why not A:** Mitigating lowers probability or impact, rather than shifting it to someone else.\n**Why not B:** Avoiding eliminates the risk or its cause; the shipment risk still exists.\n**Why not D:** Accepting keeps the impact with the buyer."
+    },
+    {
+      "topic": "Risk response strategies",
+      "question": "To lower the chance of receiving defective parts, a buyer adds an extra inspection at the supplier's plant before shipment. Which response strategy is this?",
+      "options": {
+        "A": "Transfer",
+        "B": "Avoid",
+        "C": "Exploit",
+        "D": "Mitigate"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Mitigating reduces the likelihood (probability) or the severity of the impact; enhancing is the reverse, used to increase a positive risk. (LO5: Plan Risk Responses)\n**Why not A:** Transferring shifts the impact to a third party.\n**Why not B:** Avoiding would remove the cause entirely, for example by changing suppliers.\n**Why not C:** Exploiting ensures a positive outcome occurs; this targets a negative risk."
+    },
+    {
+      "topic": "Risk response strategies",
+      "question": "A team decides to actively accept the risk that a minor component may arrive late. According to the slides, what does active acceptance require?",
+      "options": {
+        "A": "A contingency plan",
+        "B": "Transfer to an insurer",
+        "C": "Nothing further at all",
+        "D": "Removing the risk's cause"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Risks can be accepted passively or actively; with active acceptance, a contingency plan is required. (LO5: Plan Risk Responses)\n**Why not B:** Transferring is a different strategy from accepting.\n**Why not C:** That describes passive acceptance; active acceptance needs a contingency plan.\n**Why not D:** Removing the cause is avoidance, not acceptance."
+    },
+    {
+      "topic": "Risk response strategies",
+      "question": "A contractor sees a chance to earn an early-completion bonus, and reassigns its best crew to make sure the early finish actually happens. Which response strategy is this?",
+      "options": {
+        "A": "Share",
+        "B": "Exploit",
+        "C": "Enhance",
+        "D": "Accept"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** For opportunities, exploiting means ensuring the positive outcome occurs; it's the counterpart of avoiding a threat. (LO5: Plan Risk Responses)\n**Why not A:** Sharing moves some of the opportunity to a third party.\n**Why not C:** Enhancing increases the probability or impact of an opportunity, rather than ensuring it happens.\n**Why not D:** Accepting would leave the opportunity to chance."
+    },
+    {
+      "topic": "Special contractual terms",
+      "question": "A supply contract states that 'time is of the essence', and the seller delivers one day late. What is the effect of this clause, according to the slides?",
+      "options": {
+        "A": "A one-day delay is excused because it's only minor",
+        "B": "Only the buyer is bound to meet the scheduled dates",
+        "C": "Dates are strict, so the late delivery is a breach",
+        "D": "Time is important to performance, but not fatal to it"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** When 'time is of the essence' is inserted, performance by all parties as scheduled is strictly required, and failing to meet specified dates is a breach of contract; without it, time is important but not fatal. (LO5: Special Contractual Terms, Time Is of the Essence)\n**Why not A:** The clause makes scheduled dates strict, which is why it should be used with care.\n**Why not B:** The clause requires performance by all parties as scheduled.\n**Why not D:** That's the position when the phrase is not included."
+    },
+    {
+      "topic": "Special contractual terms",
+      "question": "A contract says the seller will pay $100 for each day a delivery is late, an amount based on the buyer's reasonable estimated costs of delay. What principle governs this liquidated damages clause?",
+      "options": {
+        "A": "It can include punitive amounts to deter any delay",
+        "B": "It applies only once the buyer proves its actual losses",
+        "C": "The damages can only be compensatory, not punitive",
+        "D": "It lets the buyer cancel the contract on the first late day"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Liquidated damages give the seller an incentive to deliver on time; they can only be compensatory, not punitive, and are often based on the reasonable estimated costs of the delay. (LO5: Special Contractual Terms, Liquidated Damages)\n**Why not A:** The slides say liquidated damages can only be compensatory.\n**Why not B:** The amount is set in advance from estimated delay costs.\n**Why not D:** The clause sets payments for lateness; it isn't a termination right."
+    },
+    {
+      "topic": "Special contractual terms",
+      "question": "A flood shuts a supplier's plant for two weeks, and the contract includes a force majeure clause. What does the clause give the supplier?",
+      "options": {
+        "A": "An excusable time delay, not a release from performing",
+        "B": "A full release from all of its contract obligations",
+        "C": "Nothing, since the clause protects only the buyer",
+        "D": "An automatic termination for the buyer's convenience"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Force majeure prevents damages from circumstances beyond either party's control (acts of God, war, riots, natural disasters); it applies to both parties and gives an excusable delay rather than excusing performance outright. (LO5: Special Contractual Terms, Force Majeure)\n**Why not B:** Force majeure doesn't excuse performance outright; it excuses a delay.\n**Why not C:** The condition should apply to both parties.\n**Why not D:** Termination for convenience is a separate, negotiated provision."
+    },
+    {
+      "topic": "Special contractual terms",
+      "question": "A buyer ends a supply contract early for its own convenience, even though the seller hasn't defaulted. Under a negotiated termination-for-convenience clause, what is the seller entitled to?",
+      "options": {
+        "A": "Compensatory damages that recover its costs",
+        "B": "Nothing, since a buyer may end any contract at any time",
+        "C": "Only what common law allows after a seller's default",
+        "D": "Punitive damages to punish the buyer's early exit"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Under common law a party can terminate on the other's default; a negotiated termination-for-convenience provision lets the buyer end early, with the seller entitled to compensatory damages sufficient to recover all its costs. (LO5: Special Contractual Terms, Termination for Convenience)\n**Why not B:** The seller is entitled to compensatory damages to be made whole.\n**Why not C:** Common law covers default; this provision covers convenience terminations.\n**Why not D:** The slides describe compensatory damages, not punitive ones."
+    },
+    {
+      "topic": "Special contractual terms",
+      "question": "A buyer of large steel pipes wants to check quality before the pipes are shipped, and again after they arrive. What should the right-to-inspect provision specify?",
+      "options": {
+        "A": "Who has authority to act on the contract for the buyer",
+        "B": "The performance bonds the seller must post for the order",
+        "C": "Where inspections take place, before and after shipping",
+        "D": "Only the length of the warranty period that covers the pipes"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** An important item in this provision is where inspection takes place, at the buyer's or seller's location; some provisions call for a preliminary inspection at the seller's site and final inspection and acceptance at the buyer's site. (LO5: Special Contractual Terms, Right to Inspect Goods)\n**Why not A:** Authority to act is a separate term, usually defined in the SOW.\n**Why not B:** Bonding and insurance are covered by a separate special term.\n**Why not D:** Warranty periods are a separate special term."
+    },
+    {
+      "topic": "Special contractual terms",
+      "question": "Defective parts arrive at a buyer's plant. Rather than shipping them back, the buyer repairs them itself and bills the seller for the repair costs. Which special contractual term allows this?",
+      "options": {
+        "A": "Progress payments",
+        "B": "Back-charges",
+        "C": "Liquidated damages",
+        "D": "Force majeure"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Back-charge provisions address defective goods found on arrival; the buyer may reserve the right to make the necessary repairs and charge the repair costs back to the seller. (LO5: Special Contractual Terms, Back-Charges)\n**Why not A:** Progress payments cover paying the seller before final delivery.\n**Why not C:** Liquidated damages compensate for late delivery using an agreed amount.\n**Why not D:** Force majeure excuses delays caused by events beyond the parties' control."
+    },
+    {
+      "topic": "Special contractual terms",
+      "question": "A seller building custom equipment asks to be paid monthly as work progresses. The contract authorizes progress payments. What do the slides say is the best way to verify progress before paying?",
+      "options": {
+        "A": "Require an updated schedule from the supplier",
+        "B": "Pay once a year regardless of actual progress",
+        "C": "Rely on the supplier's verbal progress reports",
+        "D": "Pay the full amount up front to keep goodwill"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Progress payments before final delivery must be authorized in the agreement; the best way to verify progress is to require an updated schedule from the supplier, and the provision should say whether a withhold of roughly 5% to 20% applies. (LO5: Special Contractual Terms, Progress Payment)\n**Why not B:** Payments should be tied to the seller's verified progress.\n**Why not C:** The slides call for verified progress, supported by an updated schedule.\n**Why not D:** Without stated terms, payment comes after delivery and inspection."
+    },
+    {
+      "topic": "Special contractual terms",
+      "question": "Two companies in a contract dispute hire a professional who will hear both sides and preside as a kind of judge and jury in a simplified mini-trial. Which form of dispute resolution is this?",
+      "options": {
+        "A": "Litigation",
+        "B": "Arbitration",
+        "C": "Negotiation",
+        "D": "Mediation"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Arbitration is the more formal of the two common ADR processes, a simplified mini-trial in which a professional arbitrator presides as a type of judge and jury. (LO5: Special Contractual Terms, Alternate Dispute Resolution)\n**Why not A:** Litigation takes place in a court of law.\n**Why not C:** Negotiation happens directly between the parties, without a presiding third party.\n**Why not D:** Mediation is facilitated negotiation, in which a mediator helps both sides find a middle ground."
+    },
+    {
+      "topic": "Bonding: guarantor and surety",
+      "question": "A contractor defaults on a project where its performance is backed under a surety arrangement. What can the injured buyer do?",
+      "options": {
+        "A": "Wait until the principal's bankruptcy is discharged",
+        "B": "First exhaust all efforts against the principal",
+        "C": "Pursue only the principal, since the surety just vouches",
+        "D": "Go directly to the surety for performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A surety has primary liability along with the principal, so on default the injured party can go directly after the surety for performance, since it's on an equal standing with the principal. (LO5: Bonding the Sellers, Guarantor vs. Surety)\n**Why not A:** Nothing requires waiting; the surety can be pursued directly.\n**Why not B:** That's the rule under a guarantor arrangement, not a surety.\n**Why not C:** The surety shares primary liability and can be pursued directly."
+    },
+    {
+      "topic": "Bonding: guarantor and surety",
+      "question": "A seller defaults on a contract where its obligations are backed by a guarantor. What must the injured party do before pursuing the guarantor?",
+      "options": {
+        "A": "Prove that the guarantor caused the seller's default",
+        "B": "Try first to enforce performance on the principal",
+        "C": "Nothing; it can claim against the guarantor right away",
+        "D": "Obtain the principal's written consent to the claim"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A guarantor has only secondary liability: the injured party must make every attempt to enforce performance on the principal first, and only after that fails may it go after the guarantor. (LO5: Bonding the Sellers, Guarantor vs. Surety)\n**Why not A:** The guarantor's liability doesn't depend on causing the default.\n**Why not C:** Going straight to the backer is how a surety works, not a guarantor.\n**Why not D:** No consent is needed; the principal must be pursued first."
+    },
+    {
+      "topic": "Bonding: guarantor and surety",
+      "question": "A government agency's bonding rules require a surety rather than a guarantor for its construction sellers. Why do most governmental requirements prefer the surety?",
+      "options": {
+        "A": "It's faster: the principal needn't be pursued first",
+        "B": "Guarantors aren't allowed to provide seller bonds by law",
+        "C": "Surety bonds always cost sellers much less than guarantees",
+        "D": "Guarantors carry primary liability, which agencies avoid"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The secondary-versus-primary distinction matters for speedy completion: pursuing the principal and then a guarantor takes time, so most governmental requirements specify a surety. (LO5: Bonding the Sellers, Guarantor vs. Surety)\n**Why not B:** Bonding companies, insurers, banks and other lenders can provide bonding; the issue is speed.\n**Why not C:** Cost isn't the reason the slides give; speed of completion is.\n**Why not D:** This reverses them: guarantors carry secondary liability, sureties primary."
+    },
+    {
+      "topic": "Bonding: guarantor and surety",
+      "question": "The lowest bidder on a bonded public tender wins, but then refuses to accept the contract award. What does the bid bond provide?",
+      "options": {
+        "A": "It requires the project to be re-tendered at no charge",
+        "B": "The bonding company covers the gap to the next-lowest bid",
+        "C": "It refunds the buyer's full cost of running the tender",
+        "D": "It forces the buyer to award to the low bidder anyway"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Bid bonds guarantee the validity of the lowest bid; if the low bidder refuses the award, the bonding company is liable for the difference between the lowest bid and the next lowest bid. (LO5: Types of Seller Bonds, Bid Bonds)\n**Why not A:** The slides describe paying the bid difference, not re-tendering.\n**Why not C:** The bond covers the difference between the two lowest bids.\n**Why not D:** The bond compensates the buyer; it doesn't force an award."
+    },
+    {
+      "topic": "Bonding: guarantor and surety",
+      "question": "On a construction project, subcontractors and material suppliers go unpaid because the prime contractor failed to pay them. Which bond protects them?",
+      "options": {
+        "A": "A bid bond",
+        "B": "A performance bond",
+        "C": "A payment bond",
+        "D": "A completion bond"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Payment bonds protect unpaid labourers, tradespeople, suppliers and subcontractors for work they've performed, guaranteeing payment if the seller fails to pay. (LO5: Types of Seller Bonds, Payment Bonds)\n**Why not A:** A bid bond guarantees the validity of the lowest bid.\n**Why not B:** A performance bond protects against loss from a contractor's inability or refusal to perform.\n**Why not D:** A completion bond covers finishing the work, or paying for it, if the contractor defaults."
+    },
+    {
+      "topic": "Bonding: guarantor and surety",
+      "question": "A city requires bonding on a new public works project to protect itself against loss if the contractor is unable or refuses to perform the contract. Which bond is this?",
+      "options": {
+        "A": "A bid bond",
+        "B": "A payment bond",
+        "C": "A performance bond",
+        "D": "A completion bond"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A performance bond is a contract bond that protects against loss due to a contractor's inability or refusal to perform; such bonds are normally required on public construction projects. (LO5: Bonding the Sellers, Performance Bond)\n**Why not A:** A bid bond protects the validity of the lowest bid during tendering.\n**Why not B:** A payment bond protects unpaid labourers, suppliers and subcontractors.\n**Why not D:** A completion bond is a third party's promise to finish the work or pay for finishing it if the contractor defaults; the scenario asks for protection against loss from non-performance."
+    }
+  ]
+}

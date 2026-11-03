@@ -1,0 +1,346 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "02",
+    "title": "Develop project procurement plan"
+  },
+  "source": "MGMT 608 - LO2.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Procurement plan and strategy",
+      "question": "A project manager drafting the procurement management plan has listed stakeholder roles, constraints and assumptions, contract types, decision criteria, prequalified sellers and a timeline. Which other items do the slides list as typical contents?",
+      "options": {
+        "A": "The signed contracts, and the sellers' final invoices",
+        "B": "Metrics to manage contracts, and sponsor acceptance",
+        "C": "Each seller's detailed proposal, and its pricing",
+        "D": "Completed seller performance reviews, and audits"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Typical contents include stakeholder roles, constraints and assumptions, procurement requirements, contract types, decision criteria, prequalified sellers, a timeline, coordination with other project activities, metrics to manage contracts and sponsor acceptance. (LO2: Procurement Management Plan)\n**Why not A:** Contracts and invoices come later; the plan describes how procurement will be managed.\n**Why not C:** Proposals arrive while conducting procurements, after the plan is written.\n**Why not D:** Performance reviews happen while controlling procurements."
+    },
+    {
+      "topic": "Procurement plan and strategy",
+      "question": "A sponsor asks where the project's procurement strategy is documented and what it defines. Which answer fits the slides?",
+      "options": {
+        "A": "In the SOW: deliverables, specifications and acceptance terms",
+        "B": "In each contract: payment terms, penalties and closure steps",
+        "C": "In the procurement plan: delivery method, contract types, phases",
+        "D": "In the RFP: evaluation criteria, weighting and pricing rules"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The procurement strategy is typically incorporated within the procurement management plan, and defines the project delivery method, the contract types and the procurement phases. (LO2: Procurement Strategy)\n**Why not A:** The SOW describes the work required, not the overall procurement strategy.\n**Why not B:** Contracts come after the strategy has shaped the procurement.\n**Why not D:** The RFP solicits proposals; the strategy sits in the procurement management plan."
+    },
+    {
+      "topic": "Procurement plan and strategy",
+      "question": "After planning procurement, a project manager adds two new vendors to the preapproved seller list and revises the organization's procurement guidelines. Which kind of output is this?",
+      "options": {
+        "A": "Change requests raised for the project",
+        "B": "Updates to the project's documents",
+        "C": "Updates to organizational process assets",
+        "D": "A new statement of work for procurement"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Other Plan Procurement outputs include change requests, project document updates and OPA updates, such as preapproved seller lists, procurement policies, procedures and guidelines, and contract types. (LO2: Other Plan Procurement Outputs)\n**Why not A:** Change requests propose changes to the project; these are updates to organizational assets.\n**Why not B:** Project document updates cover items like the lessons learned register, milestone list, requirements, and risk and stakeholder registers.\n**Why not D:** A SOW describes the work to be procured, not seller lists or policies."
+    },
+    {
+      "topic": "Procurement plan and strategy",
+      "question": "To save time, a project manager copies last year's procurement management plan unchanged onto a very different project. What do the slides suggest?",
+      "options": {
+        "A": "Sponsor acceptance makes later changes unnecessary",
+        "B": "Plans are standard, so reusing one unchanged is expected",
+        "C": "Only the timeline needs updating for a new project",
+        "D": "Contents vary with project needs, so it should be tailored"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The procurement management plan's contents vary based on project needs; samples and templates are a starting point, not a copy-and-paste answer. (LO2: Procurement Management Plan)\n**Why not A:** Sponsor acceptance is one item in the plan, not a reason to skip tailoring.\n**Why not B:** The slides stress that contents depend on the project's needs.\n**Why not C:** Requirements, contract types, criteria and sellers may all differ."
+    },
+    {
+      "topic": "SOWs and specifications",
+      "question": "A buyer worries that a small firm bidding on a very large job might subcontract almost all of the work. Based on the slides' history of SOW problems, which clause addresses this?",
+      "options": {
+        "A": "Require a firm fixed price that rules out any change orders",
+        "B": "Name committed staff, with résumés and their time on the job",
+        "C": "Require all of the work to be done at the buyer's own site",
+        "D": "Require a performance bond covering the full contract value"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In the 1970s and 1980s small companies bid on mega jobs and subcontracted over 99% of the work; lawsuits followed, so SOWs began requiring the names and résumés of committed internal resources and their percentage of time. (LO2: Statement of Work)\n**Why not A:** Pricing terms don't reveal whether the bidder will subcontract the work.\n**Why not C:** The slides' solution concerns identifying committed staff, not the work location.\n**Why not D:** Bonds protect against non-performance, but the SOW fix described targets who will actually do the work."
+    },
+    {
+      "topic": "SOWs and specifications",
+      "question": "A buyer's specification sets out the exact dimensions, materials and physical characteristics of a machined component. What type of specification is this, and who bears the risk of performance?",
+      "options": {
+        "A": "A performance specification, with the risk on the buyer",
+        "B": "A design specification, with the risk on the buyer",
+        "C": "A functional specification, with the risk on the buyer",
+        "D": "A design specification, with the risk on the contractor"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A design specification details what is to be done in terms of physical characteristics, and the risk of performance is on the buyer. (LO2: Statement of Work, Specifications)\n**Why not A:** Performance specifications state measurable capabilities, and their risk sits with the contractor.\n**Why not C:** Functional specifications describe end use, and their risk sits with the contractor.\n**Why not D:** With a design specification, the buyer dictates the design, so the buyer carries the performance risk."
+    },
+    {
+      "topic": "SOWs and specifications",
+      "question": "A buyer states that a pump must deliver 500 litres per minute at a set pressure, and leaves the design entirely to the seller. What type of specification is this, and who bears the risk of performance?",
+      "options": {
+        "A": "A performance specification, with the risk on the contractor",
+        "B": "A design specification, leaving the risk with the contractor",
+        "C": "A functional specification, with the risk on the buyer",
+        "D": "A performance specification, with the risk on the buyer"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A performance specification states measurable capabilities the end product must achieve in operational terms, and the risk of performance is on the contractor. (LO2: Statement of Work, Specifications)\n**Why not B:** A design specification would dictate physical characteristics, and puts the risk on the buyer.\n**Why not C:** Functional specifications describe the item's end use, and the risk is on the contractor.\n**Why not D:** Under a performance specification, the contractor carries the performance risk."
+    },
+    {
+      "topic": "SOWs and specifications",
+      "question": "To encourage competition among off-the-shelf products at a lower overall cost, a procurement document simply describes what the item will be used for. Which type of specification is this?",
+      "options": {
+        "A": "A performance specification",
+        "B": "A functional specification",
+        "C": "A contract statement of work",
+        "D": "A design specification"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A functional specification describes the end use of the item to stimulate competition among commercial items at a lower overall cost; the risk of performance is on the contractor. (LO2: Statement of Work, Specifications)\n**Why not A:** A performance specification sets measurable operating capabilities, not just the end use.\n**Why not C:** A contract SOW describes the work under one contract; it isn't a type of specification.\n**Why not D:** A design specification details physical characteristics rather than end use."
+    },
+    {
+      "topic": "RFI, RFQ and RFP",
+      "question": "A hospital isn't sure what remote patient-monitoring products exist, and its requirements are still too vague to complete the SOW. Which bid document should it issue first?",
+      "options": {
+        "A": "A request for bid (RFB)",
+        "B": "A request for information (RFI)",
+        "C": "A request for proposal (RFP)",
+        "D": "A request for quotation (RFQ)"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** An RFI is an informational tool used when requirements or the SOW are vague and the buyer wants to understand what exists in the marketplace; it's quick, can be informal, and can precede an RFQ or RFP. (LO2: Bid Documents, RFI)\n**Why not A:** A request for bid is another name for an RFQ, used for well-defined, price-based buys.\n**Why not C:** An RFP is the final, complete solicitation document, which the hospital isn't ready to write.\n**Why not D:** An RFQ needs detailed, precise requirements and strong market knowledge."
+    },
+    {
+      "topic": "RFI, RFQ and RFP",
+      "question": "A vendor responding to a hospital's RFI asks whether its response commits either side to doing business together. What do the slides say?",
+      "options": {
+        "A": "Yes: each responder must later submit a full proposal",
+        "B": "Yes: the buyer must issue an RFQ to everyone who responds",
+        "C": "No: it flags a potential source but commits neither party",
+        "D": "No, although it does lock the buyer into a set price range"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** An RFI signals the supplier as a potential source of supply but doesn't commit either party to future business; it's typically followed by an RFQ or RFP. (LO2: Bid Documents, RFI, RFQ and RFP)\n**Why not A:** Responding to an RFI doesn't commit the vendor to anything further.\n**Why not B:** An RFI may be followed by an RFQ or RFP, but it creates no obligation.\n**Why not D:** An RFI gathers information; it sets no prices."
+    },
+    {
+      "topic": "RFI, RFQ and RFP",
+      "question": "A city knows the market and its qualified sellers well, and needs 500 laptops to a detailed, precise specification. The award will go to the best price that meets the delivery schedule. Which bid document fits?",
+      "options": {
+        "A": "A procurement management plan",
+        "B": "A request for information (RFI)",
+        "C": "A request for proposal (RFP)",
+        "D": "A request for quotation (RFQ)"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** An RFQ is a price-comparison tool used when requirements and the SOW are detailed and precise and the buyer knows the market; it follows a formal, rigid competitive process focused on best price and schedule. (LO2: Bid Documents, RFQ)\n**Why not A:** The plan describes how procurement is managed; it isn't sent to sellers.\n**Why not B:** An RFI suits vague requirements and market exploration, not a precise buy.\n**Why not C:** An RFP gives suppliers more latitude and suits requirements that are hard to describe."
+    },
+    {
+      "topic": "RFI, RFQ and RFP",
+      "question": "A retailer needs a new customer-experience platform, can't fully describe the requirement, and wants vendors to propose innovative approaches. Which bid document fits?",
+      "options": {
+        "A": "A request for proposal (RFP)",
+        "B": "A request for information (RFI)",
+        "C": "A request for bid (RFB)",
+        "D": "A request for quotation (RFQ)"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** RFPs allow more latitude to the supplier than RFQs and are used when the requirement is difficult to describe or the purchaser expects innovation or creativity. (LO2: Bid Documents, RFP)\n**Why not B:** An RFI gathers market information; it doesn't solicit full proposals.\n**Why not C:** A request for bid is used when a decision rests on price for a standard item.\n**Why not D:** An RFQ asks for price and terms on a precisely defined requirement."
+    },
+    {
+      "topic": "RFI, RFQ and RFP",
+      "question": "A procurement lead wants to save time by rushing out a short, rough RFP for a large, complex contract. What do the slides say about RFPs?",
+      "options": {
+        "A": "It's mainly a tool for gathering market information",
+        "B": "It's only a quick precursor that comes before an RFI",
+        "C": "It's informal, so gaps can simply be fixed after award",
+        "D": "It's the final document, so it must be clear and complete"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The RFP is the final document sent to prospective suppliers; it must be clear, complete and allow a competitive response, and preparing a good one for a large contract can be expensive and time-consuming. (LO2: Bid Documents, RFP)\n**Why not A:** Gathering market information is the RFI's purpose.\n**Why not B:** RFIs come before RFPs, not the other way round.\n**Why not C:** The slides describe the RFP as a critical document that must be complete."
+    },
+    {
+      "topic": "RFI, RFQ and RFP",
+      "question": "A provincial agency is buying road salt, a standard item, and will choose the seller purely on price. What do the slides say such requests are often called?",
+      "options": {
+        "A": "A teaming agreement",
+        "B": "A request for information",
+        "C": "A proposal for innovation",
+        "D": "A bid or tender"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** An RFQ (or request for bid) is a serious inquiry asking suppliers to declare price and terms; when the seller decision rests on price for a standard item, terms such as bid or tender are used. (LO2: Bid Documents, RFI, RFQ and RFP)\n**Why not A:** Teaming agreements are strategic accords between companies on major projects.\n**Why not B:** An RFI explores the market without committing anyone to buy.\n**Why not C:** Proposals suit hard-to-describe needs where creativity is expected."
+    },
+    {
+      "topic": "Source selection criteria",
+      "question": "Before awarding a multi-year contract, a buyer reviews a seller's financial statements certified by an independent third party. Which source selection criterion is being applied?",
+      "options": {
+        "A": "Financial capacity and stability",
+        "B": "Business capacity and interest",
+        "C": "Customer reference checks",
+        "D": "Seller capability and approach"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A seller's ongoing ability is tied to its financial capacity and stability, which should be evaluated carefully, including a review of financial statements certified by an independent third party. (LO2: Source Selection Criteria)\n**Why not B:** That criterion concerns capacity to deliver (for example, via site tours) and the seller's interest in the buyer's business.\n**Why not C:** References come from the seller's past clients, not from audited statements.\n**Why not D:** That criterion asks whether the seller has the required capability to deliver under contract."
+    },
+    {
+      "topic": "Source selection criteria",
+      "question": "A buyer tours a seller's facilities to confirm it can handle the required volume, and gauges how interested the seller is in the buyer's business. Which source selection criterion is this?",
+      "options": {
+        "A": "Acceptance and warranty",
+        "B": "Financial capacity and stability",
+        "C": "Business capacity and interest",
+        "D": "Management approach"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Business capacity and interest asks whether the seller has adequate capacity to deliver under the agreement (which may require site tours) and how interested it is in the buyer's business. (LO2: Source Selection Criteria)\n**Why not A:** That criterion concerns standing behind products and remedying deficiencies.\n**Why not B:** That criterion focuses on financial resources and certified financial statements.\n**Why not D:** That criterion concerns culture fit and how the seller manages delivery."
+    },
+    {
+      "topic": "Source selection criteria",
+      "question": "For a construction project overseas, a buyer checks whether each bidder can source local workers and resources in that country. Which source selection criterion is this?",
+      "options": {
+        "A": "Management approach",
+        "B": "Business capacity and interest",
+        "C": "Diversity sellers",
+        "D": "Capability and approach"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Capability and approach asks whether the seller has the required capability; in international procurement, specific capabilities such as sourcing local workers or resources must be evaluated. (LO2: Source Selection Criteria)\n**Why not A:** That criterion concerns culture fit and the approach to managing delivery.\n**Why not B:** That criterion concerns the volume a seller can handle and its interest in the buyer's business.\n**Why not C:** That criterion concerns awarding a share of work to minority-, woman- or veteran-owned firms."
+    },
+    {
+      "topic": "Source selection criteria",
+      "question": "One bidder offers a defined acceptance period with remedies, commits to correct any non-conforming items or refund the money, and backs its work with a long warranty. Which criterion does this strengthen, according to the slides?",
+      "options": {
+        "A": "Intellectual property and proprietary rights",
+        "B": "Pricing",
+        "C": "Contract commitments and risk",
+        "D": "Acceptance and warranty"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides treat a seller's willingness to stand behind its work, with an acceptance period, remedies and a warranty period and coverage, as a strong indication of its ability to deliver or perform. (LO2: Source Selection Criteria)\n**Why not A:** That criterion concerns ownership and rights to the work, not remedies for defects.\n**Why not B:** Pricing is a separate criterion; this offer is about standing behind the work.\n**Why not C:** That criterion is listed separately and doesn't centre on acceptance periods and warranties."
+    },
+    {
+      "topic": "Source selection criteria",
+      "question": "A public agency must award a set percentage of its procurements to minority-owned, woman-owned or veteran-owned firms. Which source selection criterion is this, and why do organizations use it?",
+      "options": {
+        "A": "Diversity sellers, partly to look favourable to the public",
+        "B": "Business capacity, to confirm the firms can handle volume",
+        "C": "Customer reference, to confirm past clients were satisfied",
+        "D": "Management approach, to make sure the cultures fit"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Some organizations require that a certain percentage of procurements go to diversity sellers such as minority-, woman- or veteran-owned firms, in part to be viewed in a favourable light by the public. (LO2: Source Selection Criteria)\n**Why not B:** Capacity concerns ability to deliver, not the ownership of the seller.\n**Why not C:** References check a seller's track record, not its ownership.\n**Why not D:** Culture fit is a different criterion from diversity requirements."
+    },
+    {
+      "topic": "Source selection criteria",
+      "question": "A buyer phones a seller's past clients to ask how satisfied they were with its performance and staff, whether it understood their needs and communicated clearly, and whether the value matched the price. Which criterion is this?",
+      "options": {
+        "A": "Customer reference",
+        "B": "Seller understanding of project needs",
+        "C": "Financial capacity and stability",
+        "D": "Business capacity and interest"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Customer reference checks ask past clients about performance, delivery, staff skills, understanding of needs, communication, and whether value matched price; the process can provide significant value. (LO2: Source Selection Criteria)\n**Why not B:** That criterion assesses the seller's grasp of this project, typically from its response.\n**Why not C:** That criterion reviews certified financial statements, not client feedback.\n**Why not D:** That criterion concerns capacity to deliver and interest in the buyer's business."
+    },
+    {
+      "topic": "Seller selection committee",
+      "question": "During a competitive procurement, a seller phones a committee member directly to ask how its proposal is being scored. What should the committee member do?",
+      "options": {
+        "A": "Share the scoring criteria to keep the process open",
+        "B": "Answer informally to keep the relationship friendly",
+        "C": "Pass the call to another committee member to handle",
+        "D": "Send the seller back to the buyer, per the protocol"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Committee members should re-direct sellers that don't follow the communication protocol to the buyer and keep the committee's work confidential. (LO2: Seller Selection Committee, Roles and Cautions)\n**Why not A:** The committee's work must be kept confidential.\n**Why not B:** Informal answers break the communication protocol and the committee's confidentiality.\n**Why not C:** Sellers who bypass the protocol should be sent to the buyer, not to other members."
+    },
+    {
+      "topic": "Seller selection committee",
+      "question": "Partway through evaluations, a committee member realizes their spouse works for one of the bidders. What do the slides say the member must do?",
+      "options": {
+        "A": "Stay on, and recuse only if that bidder wins",
+        "B": "Score that bidder lower to show neutrality",
+        "C": "Recuse themself from the committee immediately",
+        "D": "Disclose it, but keep scoring that bidder fairly"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Committee members must immediately recuse themselves in the case of an actual or apparent conflict of interest. (LO2: Seller Selection Committee, Cautions)\n**Why not A:** Recusal must be immediate, not after the outcome.\n**Why not B:** Adjusting scores is unfair; the member must step aside.\n**Why not D:** Even an apparent conflict requires immediate recusal."
+    },
+    {
+      "topic": "Seller selection committee",
+      "question": "At a bidder conference, several sellers ask committee members for their business cards so they can follow up. How do the slides say members should handle this?",
+      "options": {
+        "A": "Publish the full committee list to show fairness",
+        "B": "Assign one member as each seller's main contact",
+        "C": "Be introduced, but give out no contact details",
+        "D": "Exchange contacts to make follow-up questions easier"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** At seller conferences, committee members may be introduced to sellers, but no contact information should be disclosed; no one outside the committee needs to know its composition or members' information. (LO2: Seller Selection Committee, Cautions)\n**Why not A:** The committee's composition should stay confidential.\n**Why not B:** Sellers communicate through the buyer, not through committee members.\n**Why not D:** Contact information must not be disclosed to sellers."
+    },
+    {
+      "topic": "Seller selection committee",
+      "question": "After shortlisting sellers, a committee is planning its remaining work. Which tasks do the slides list as committee duties at this stage?",
+      "options": {
+        "A": "Inspect delivered goods and approve the seller's payments",
+        "B": "Plan a best and final offer, and debrief losing sellers",
+        "C": "Sign the final contract on the organization's behalf",
+        "D": "Approve the project budget and the project charter"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Duties include short-listing sellers, helping develop negotiation strategies such as best and final offer, conducting due diligence, and participating in debriefing unsuccessful sellers. (LO2: Seller Selection Committee, Role and Duties)\n**Why not A:** Inspection and payment happen after award, under contract administration.\n**Why not C:** Signing isn't listed among the committee's duties.\n**Why not D:** Budget and charter approval aren't committee duties."
+    },
+    {
+      "topic": "Procurement maturity",
+      "question": "An organization wants to know whether its procurement function is sophisticated enough to use the procurement knowledge area as a structured methodology, and where its gaps in organizational process assets lie. Which tool fits?",
+      "options": {
+        "A": "The Procurement Maturity Model",
+        "B": "A request for information (RFI)",
+        "C": "A make-or-buy decision analysis",
+        "D": "A pre-proposal bidder conference"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The Procurement Maturity Model gauges the performance and maturity level of a procurement function and helps define where there are gaps in OPAs. (LO2: Procurement Maturity)\n**Why not B:** An RFI gathers information from the market about products and services.\n**Why not C:** Make-or-buy analysis decides whether to make or purchase specific items.\n**Why not D:** Bidder conferences clarify bid documents for sellers."
+    },
+    {
+      "topic": "Procurement maturity",
+      "question": "At one company, procurement is an afterthought buried deep in the hierarchy, customers and suppliers avoid interacting with it, and its employees are actively disengaged. Where does it sit in the Procurement Maturity Model?",
+      "options": {
+        "A": "At the lowest levels: inhibiting or performing",
+        "B": "At the top levels: best in class or world class",
+        "C": "At the middle levels: enabling or optimizing",
+        "D": "At the optimizing level, just below best in class"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In the model, the bottom levels (performing and inhibiting) feature procurement as an afterthought, not a core competency, with customers and suppliers avoiding interaction and employees actively disengaged. (LO2: Procurement Maturity Model, Levels of Maturity)\n**Why not B:** The top levels treat procurement as a strategic core competency reporting to the C-level.\n**Why not C:** The middle levels see procurement as value-add, with some executive support and engaged employees.\n**Why not D:** Optimizing organizations see procurement as value-add, unlike this company."
+    },
+    {
+      "topic": "Procurement maturity",
+      "question": "At another company, procurement is seen as a 'value-add' function with some executive support and investment, customers and suppliers are mostly satisfied, and there's some pursuit of best practices. Where does it sit in the model?",
+      "options": {
+        "A": "At the world class level only",
+        "B": "At the middle levels: enabling or optimizing",
+        "C": "At the lowest levels: inhibiting or performing",
+        "D": "At the top levels: best in class or world class"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The middle levels (enabling and optimizing) see procurement as value-add, with some executive support and investment, mostly satisfied customers and suppliers, engaged employees and some pursuit of best practices. (LO2: Procurement Maturity Model, Levels of Maturity)\n**Why not A:** World class goes well beyond value-add, to procurement as a strategic core competency.\n**Why not C:** The lowest levels treat procurement as an afterthought with disengaged employees.\n**Why not D:** The top levels add a strategic core competency, certified staff, high automation and metrics."
+    },
+    {
+      "topic": "Procurement maturity",
+      "question": "A third company treats procurement as a strategic core competency reporting to the C-level, staffs it with degreed and certified professionals, automates heavily, manages by metrics and supports supplier diversity and development. Where does it sit?",
+      "options": {
+        "A": "At the lowest levels: inhibiting or performing",
+        "B": "At the performing level, above inhibiting",
+        "C": "At the top levels: best in class or world class",
+        "D": "At the middle levels: enabling or optimizing"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The top levels describe procurement as strategic and a core competency reporting to the C-level, staffed with qualified professionals, highly automated, metrics-driven, and looking beyond itself. (LO2: Procurement Maturity Model, Levels of Maturity)\n**Why not A:** Lowest levels treat procurement as an afterthought.\n**Why not B:** Performing is one of the lowest levels, far from this profile.\n**Why not D:** Middle levels see procurement as value-add with only some executive support."
+    }
+  ]
+}

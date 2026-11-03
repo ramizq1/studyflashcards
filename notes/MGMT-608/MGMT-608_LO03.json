@@ -1,0 +1,394 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "03",
+    "title": "Use Criteria of the Bidder Evaluation and Selection"
+  },
+  "source": "MGMT 608 - LO3.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Conducting procurement",
+      "question": "A buyer has identified the key sourcing requirement and finished its market research and bidder conferences. According to the slides' steps in conducting procurement, what comes next?",
+      "options": {
+        "A": "Determine the appropriate sourcing strategy",
+        "B": "Negotiate and execute the agreement",
+        "C": "Determine the method of supplier evaluation",
+        "D": "Make the supplier selection decision"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The steps run: identify the key requirement; conduct market research, advertising and/or bidder conferences; determine the sourcing strategy; identify potential sources; prepare qualified seller lists; determine the evaluation method; make the selection; negotiate and execute the agreement. (LO3: Steps in Conducting Procurement)\n**Why not B:** Negotiating and executing the agreement is the final step.\n**Why not C:** The evaluation method is chosen after potential sources are identified and listed.\n**Why not D:** Selection comes later, after sources are identified, lists prepared and the evaluation method chosen."
+    },
+    {
+      "topic": "Conducting procurement",
+      "question": "Before approaching any suppliers, a team asks what it needs internally in quality, cycle time, cost, technology, responsiveness, delivery and design support. Which step of conducting procurement is this?",
+      "options": {
+        "A": "Preparing the potentially qualified seller list",
+        "B": "Determining the method of supplier evaluation",
+        "C": "Identifying the key sourcing requirements",
+        "D": "Negotiating and executing the agreement"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The first step is identifying key procurement and sourcing requirements, which includes asking what the organization's internal requirements are for quality, cycle time, cost, technology, responsiveness, delivery and design support. (LO3: Identify Key Procurement and Sourcing Requirements)\n**Why not A:** Seller lists come after the requirements and sourcing strategy are set.\n**Why not B:** The evaluation method is set later, once potential suppliers are listed.\n**Why not D:** Negotiation is the last step, after a supplier is selected."
+    },
+    {
+      "topic": "Conducting procurement",
+      "question": "A project manager is assembling the inputs to the Conduct Procurement process. Which of these is among the inputs the slides list?",
+      "options": {
+        "A": "Procurement documents such as bid documents and the SOW",
+        "B": "The supplier's performance ratings after delivery",
+        "C": "The signed contract and its final payment records",
+        "D": "The closed contract files from this procurement"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Inputs include project management plans (scope, requirements, procurement), project documents (lessons learned, schedule, risk register), procurement documents (bid documents, SOW), EEFs and OPAs. (LO3: Inputs to Conduct Procurement)\n**Why not B:** Post-delivery performance is tracked while controlling procurements.\n**Why not C:** The contract is signed at the end of conducting procurement, and final payments come much later.\n**Why not D:** Contract closure happens at the end of the procurement life cycle."
+    },
+    {
+      "topic": "Conducting procurement",
+      "question": "A buyer has just made its supplier selection decision for a large equipment contract. According to the slides, which step remains?",
+      "options": {
+        "A": "Identify potential supply sources",
+        "B": "Negotiate and execute the agreement",
+        "C": "Conduct market research on the industry",
+        "D": "Prepare a potentially qualified seller list"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** After the supplier selection decision, the final step in conducting procurement is to negotiate and execute the agreement. (LO3: Steps in Conducting Procurement)\n**Why not A:** Sources are identified well before a selection decision.\n**Why not C:** Market research is one of the earliest steps.\n**Why not D:** Seller lists are prepared before the evaluation method and the selection decision."
+    },
+    {
+      "topic": "Market research, seller lists and conferences",
+      "question": "To learn which firms can supply drone-inspection services, a buyer studies industry and seller-specific capabilities, attends trade conferences and reads online reviews. What is the buyer doing?",
+      "options": {
+        "A": "Conducting market research",
+        "B": "Carrying out supplier development",
+        "C": "Running a weighted point evaluation",
+        "D": "Holding a bidder conference"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Market research covers industry and seller-specific capabilities, conferences and online reviews. (LO3: Conduct Market Research)\n**Why not B:** Supplier development helps create a supplier when none can meet the need.\n**Why not C:** Weighted scoring rates specific suppliers against weighted factors.\n**Why not D:** A bidder conference clarifies bid documents for sellers already responding."
+    },
+    {
+      "topic": "Market research, seller lists and conferences",
+      "question": "A seller is pleased to learn it's on a buyer's prequalified seller list. What does being on that list actually mean?",
+      "options": {
+        "A": "It has passed a site tour and a certified financial audit",
+        "B": "It has already won a contract with this buyer before",
+        "C": "It's approved and can be awarded work without competing",
+        "D": "It has the capabilities, but isn't qualified or approved yet"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A prequalified seller list holds sellers with the technical, functional and financial capabilities to provide certain products, services or results; being on it doesn't mean 'qualified' or 'approved' at that point. (LO3: Prequalified Seller List)\n**Why not A:** Those checks belong to detailed evaluation, not to joining the list.\n**Why not B:** The list may include incumbents, but also sellers with no prior relationship.\n**Why not C:** The list is used to invite sellers to compete, not to award work directly."
+    },
+    {
+      "topic": "Market research, seller lists and conferences",
+      "question": "Before proposals are due on a complex system, a buyer invites all participating sellers to attend together so it can clarify the contents of the bid documents. What is this meeting?",
+      "options": {
+        "A": "A seller selection committee meeting",
+        "B": "A best and final offer session",
+        "C": "A pre-proposal bidder conference",
+        "D": "A debriefing for unsuccessful sellers"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Bidder conferences, commonly called pre-proposal or pre-response conferences, clarify the contents of the bid documents with all participating sellers invited to attend together. (LO3: Bidder Conferences)\n**Why not A:** Committee meetings are internal to the buyer, without sellers present.\n**Why not B:** BAFO is a negotiation strategy used after short-listing.\n**Why not D:** Debriefings happen after award, for sellers that lost."
+    },
+    {
+      "topic": "Market research, seller lists and conferences",
+      "question": "A procurement lead asks whether members of the seller selection committee should attend the bidder conference. What do the slides suggest?",
+      "options": {
+        "A": "Yes, so sellers can follow up with members directly",
+        "B": "Only the chair, to answer the sellers' pricing questions",
+        "C": "Yes, all members must attend to answer sellers' questions",
+        "D": "Preferably not, to keep the committee members anonymous"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The committee may or may not attend, but attendance isn't preferred, in order to keep the anonymity of the committee members. (LO3: Bidder Conferences)\n**Why not A:** Sellers shouldn't have direct contact with committee members.\n**Why not B:** Nothing assigns pricing questions to a committee chair; anonymity is the concern.\n**Why not C:** The slides prefer that the committee not attend, to protect anonymity."
+    },
+    {
+      "topic": "Market research, seller lists and conferences",
+      "question": "One of five invited sellers doesn't show up to the bidder conference. What might this indicate, according to the slides?",
+      "options": {
+        "A": "Nothing at all, since attendance is purely optional",
+        "B": "It already fully understands the bid documents",
+        "C": "A possible lack of interest in continuing to compete",
+        "D": "It is automatically disqualified from the procurement"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A lack of attendance at the bidder conference by a seller may indicate a lack of interest in continuing in the competitive procurement. (LO3: Bidder Conferences)\n**Why not A:** The slides treat non-attendance as potentially meaningful.\n**Why not B:** The slides read absence as a possible sign of low interest, not full understanding.\n**Why not D:** The slides don't say absent sellers are disqualified."
+    },
+    {
+      "topic": "Market research, seller lists and conferences",
+      "question": "A team wonders who decides whether to hold a bidder conference, and when that decision should be made. What do the slides say?",
+      "options": {
+        "A": "The selection committee, after proposals arrive",
+        "B": "The buyer and PM, in planning, based on complexity",
+        "C": "The sponsor, at the time the contract is awarded",
+        "D": "The sellers, after they've read the bid documents"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The need for a bidder conference is decided by the buyer in consultation with the project manager, largely based on the procurement's complexity, during Plan Procurement Management, and it's included in the procurement management plan. (LO3: Bidder Conferences)\n**Why not A:** It's decided earlier, during procurement planning.\n**Why not C:** Award is far too late; the decision belongs in the procurement plan.\n**Why not D:** The buyer makes this decision, not the sellers."
+    },
+    {
+      "topic": "Sourcing strategy",
+      "question": "A part needs custom tooling so expensive that paying for a second set at another supplier makes no sense. Which sourcing approach do the slides' arguments support?",
+      "options": {
+        "A": "Single sourcing, since duplicating the tools costs too much",
+        "B": "Multiple sourcing, to keep the suppliers on their toes",
+        "C": "Multiple sourcing, for back-up and assurance of supply",
+        "D": "Supplier development, to create a brand-new source"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Arguments for single sourcing include a prohibitive cost of duplication (for example, tools and dies), along with prior commitments, exclusivity and opportunities for discounts. (LO3: Arguments in Favor of Single Sourcing)\n**Why not B:** That's an argument for multiple sourcing, but duplicating tooling would cost too much here.\n**Why not C:** Assurance of supply favours multiple sources, but the tooling cost argues against it.\n**Why not D:** Supplier development applies when no supplier can meet the need."
+    },
+    {
+      "topic": "Sourcing strategy",
+      "question": "A manufacturer wants a just-in-time, stockless buying arrangement and plans to build a long-term partnership with its supplier. Which sourcing approach do the slides' arguments favour?",
+      "options": {
+        "A": "Dual sourcing, since government regulations demand it",
+        "B": "Multiple sourcing, since partnering requires competition",
+        "C": "Multiple sourcing, since JIT needs several back-up suppliers",
+        "D": "Single sourcing, since JIT and partnering favour one supplier"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The single-sourcing arguments include JIT, stockless buying or systems contracting, easier delivery scheduling, and single sourcing as a prerequisite to partnering. (LO3: Arguments in Favor of Single Sourcing)\n**Why not A:** Nothing here involves government regulation.\n**Why not B:** Single sourcing is described as a prerequisite to partnering.\n**Why not C:** JIT and stockless buying are listed as arguments for single sourcing."
+    },
+    {
+      "topic": "Sourcing strategy",
+      "question": "A key supplier's capacity is limited, and the market for the material is highly volatile. Which sourcing approach do the slides' arguments support?",
+      "options": {
+        "A": "Supplier development, to train one supplier to grow",
+        "B": "Multiple sourcing, given limited capacity and volatility",
+        "C": "Single sourcing, to win more attention as a big customer",
+        "D": "Single sourcing, since deliveries are easier to schedule"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Arguments for multiple sourcing include limited supplier capacity, supply market volatility, assurance of supply and back-up arrangements, and volume flexibility. (LO3: Arguments in Favor of Multiple Sourcing)\n**Why not A:** The slides list limited capacity and volatility as reasons for multiple sourcing.\n**Why not C:** Being a more important customer is a single-sourcing argument, but capacity limits make one source risky.\n**Why not D:** Easier scheduling favours one source, but volatility and limited capacity argue for several."
+    },
+    {
+      "topic": "Sourcing strategy",
+      "question": "A buyer accounts for most of a small supplier's sales, and also wants a chance to try out a promising new vendor. Which sourcing approach do these concerns support?",
+      "options": {
+        "A": "Strategic teaming",
+        "B": "Supplier development",
+        "C": "Multiple sourcing",
+        "D": "Single sourcing"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Multiple-sourcing arguments include avoiding a supplier's dependence on one customer and the opportunity to test a new supplier. (LO3: Arguments in Favor of Multiple Sourcing)\n**Why not A:** Teaming is a corporate accord dividing a major project, not a sourcing choice for one item.\n**Why not B:** Supplier development creates a supplier when none exists; here suppliers already exist.\n**Why not D:** Concentrating everything on one source would deepen that supplier's dependence and leave no room to test a new one."
+    },
+    {
+      "topic": "Sourcing strategy",
+      "question": "Following the slides' flowchart for identifying supply sources, a buyer finds that no current supplier can meet the requirement and no new supplier can be found. What question comes next?",
+      "options": {
+        "A": "Should the contract go to the lowest bidder anyway?",
+        "B": "Should the whole requirement be rethought right away?",
+        "C": "Should the item be made in-house without further analysis?",
+        "D": "Can supplier development be used to create a supplier?"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In the flowchart, when no current or new supplier can meet the need, the next question is whether supplier development can create a supplier; if not, ask whether a redesign or re-specification would let a supplier meet it. (LO3: Identification of Potential Supply Sources)\n**Why not A:** No supplier can meet the requirement, so awarding on price isn't an option.\n**Why not B:** Rethinking comes last, only if redesign and in-house making both fail.\n**Why not C:** Making in-house is considered later, after supplier development and redesign."
+    },
+    {
+      "topic": "Sourcing strategy",
+      "question": "In the same flowchart, the buyer concludes that supplier development won't work either. What does the flowchart ask next?",
+      "options": {
+        "A": "Can a supplier be bought out to secure the capability?",
+        "B": "Can the requirement be split among two or more suppliers?",
+        "C": "Can the buyer go back and choose any current supplier?",
+        "D": "Can the item be re-specified so a supplier can meet it?"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** If supplier development isn't possible, the flowchart asks whether the item can be redesigned or re-specified so an existing or new supplier can meet it; if not, whether it can be made in-house; if not, rethink. (LO3: Identification of Potential Supply Sources)\n**Why not A:** Acquiring a supplier isn't a step in the slides' flowchart.\n**Why not B:** Splitting requires suppliers who can meet the need, which don't exist here.\n**Why not C:** The flowchart has already established that no current supplier can meet the need."
+    },
+    {
+      "topic": "Evaluating potential suppliers",
+      "question": "A supplier clearly has the technical ability to make a component, but shows little interest in serving a small buyer over the long term. How does this fare against the slides' two key questions for evaluating potential sources?",
+      "options": {
+        "A": "It passes on capability, but may fail on motivation",
+        "B": "Neither question applies, since only price is judged",
+        "C": "It passes both, since capability is all that matters",
+        "D": "It fails on capability, since interest reflects skill"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The two key questions ask whether a supplier is capable of supplying the requirements satisfactorily, and whether it's motivated to supply them as expected, both in the short and the long term. (LO3: Evaluation of Potential Sources, Two Key Questions)\n**Why not B:** The slides evaluate capability and motivation, not price alone.\n**Why not C:** Motivation to supply as expected is the second key question.\n**Why not D:** The supplier's ability isn't in doubt; its motivation is."
+    },
+    {
+      "topic": "Evaluating potential suppliers",
+      "question": "A buyer's supplier review now covers each supplier's sustainability (environmental and social), innovation, and regulatory and political exposure, alongside financial factors. Which level of supplier evaluation is this?",
+      "options": {
+        "A": "A preliminary first-cut screening",
+        "B": "Level 1: strategic evaluation",
+        "C": "Level 2: traditional evaluation",
+        "D": "Level 3: current additional evaluation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Level 3 (current additional) covers financial, sustainability (environmental and social), innovation, regulatory and political factors. (LO3: Three Levels of Supplier Evaluation)\n**Why not A:** First-cut screening narrows the pool using financial risk, past performance and supplier information.\n**Why not B:** Level 1 links sourcing to organizational strategy and defines strategic purchases.\n**Why not C:** Level 2 covers quality, quantity, delivery, price and service, plus technical, service and management capabilities."
+    },
+    {
+      "topic": "Evaluating potential suppliers",
+      "question": "An evaluator examines a supplier's quality systems, engineering strengths, capacity and lead-time flexibility, and financial ratios such as the current ratio and inventory turns. Which level of supplier evaluation is this?",
+      "options": {
+        "A": "Level 3: current additional evaluation",
+        "B": "Level 2: traditional evaluation",
+        "C": "Level 1: strategic evaluation",
+        "D": "A Kraljic supply positioning"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Level 2 covers technical, engineering and operations factors (quality systems, technical strengths, capacity, process capability), service delivery, and management and financial factors such as profit, inventory turns and the current ratio. (LO3: Level 2, Traditional Evaluation)\n**Why not A:** Level 3 adds sustainability, innovation, regulatory and political factors.\n**Why not C:** Level 1 is about linking sourcing to organizational strategy, not operational detail.\n**Why not D:** The Kraljic matrix classifies purchases by risk and value, not supplier capabilities."
+    },
+    {
+      "topic": "Evaluating potential suppliers",
+      "question": "A hospital first sorts its purchases by whether they're mission critical before deciding how much sourcing effort each deserves. Why do the slides recommend this step?",
+      "options": {
+        "A": "To avoid under-investing effort in strategic purchases",
+        "B": "It keeps sourcing separate from organizational strategy",
+        "C": "It ensures every purchase gets exactly the same effort",
+        "D": "It removes the need to assess risk on strategic purchases"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Defining strategic purchases is the first step in strategic sourcing; it drives sourcing decisions and resource allocation, and without it an organization may overinvest in tactical or operational purchases and under-invest in strategic ones. (LO3: Level 1, Define Strategic Purchases)\n**Why not B:** Strategic sourcing deliberately links sourcing to organizational strategy.\n**Why not C:** The point is to allocate effort differently by strategic importance.\n**Why not D:** Risk assessment still applies; supply decisions follow the risk profile."
+    },
+    {
+      "topic": "Evaluating potential suppliers",
+      "question": "A company is deciding which supply risks it's prepared to take on a new product line. According to the slides, how should its supply decisions be made?",
+      "options": {
+        "A": "By the suppliers, since they bear the supply risk",
+        "B": "In the context of the organization's risk profile",
+        "C": "So as to eliminate every possible supply risk",
+        "D": "On the lowest price available, setting risk aside"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Management decides which risks to take in light of expected returns, and acts to avoid, mitigate, transfer, insure against, limit or explicitly assume them; supply decisions must fit the organization's risk profile. (LO3: Risk Assessment)\n**Why not A:** Management makes these decisions for the organization.\n**Why not C:** The slides allow risks to be accepted or limited in light of expected returns.\n**Why not D:** Supply decisions must account for risk, not just price."
+    },
+    {
+      "topic": "Evaluating potential suppliers",
+      "question": "Facing 40 possible vendors and too little time to evaluate each in depth, a buyer narrows the pool using financial risk analysis, past performance and information the suppliers provide. What is the buyer doing?",
+      "options": {
+        "A": "Negotiating the final terms of the agreement",
+        "B": "A weighted point evaluation to pick the winner",
+        "C": "A Level 3 evaluation of sustainability and innovation",
+        "D": "A first cut to prepare a qualified seller list"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Preparing potentially qualified seller lists means a preliminary evaluation to narrow the pool, since time and resources prohibit in-depth evaluation of all suppliers, using financial risk analysis, previous performance and supplier-provided information. (LO3: Prepare Potentially Qualified Seller Lists)\n**Why not A:** Negotiation comes after the supplier is selected.\n**Why not B:** Weighted scoring is used to rate and select among the remaining suppliers.\n**Why not C:** Level 3 is a deeper evaluation, not a first cut."
+    },
+    {
+      "topic": "Supply positioning and scoring",
+      "question": "A component is custom-designed to unique specifications, few suppliers can make it, switching sources would be very difficult, continuous availability is essential, and the spend is high. Where does it sit in the supply risk and value matrix?",
+      "options": {
+        "A": "Leverage",
+        "B": "Strategic",
+        "C": "Non-critical",
+        "D": "Bottleneck"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Strategic items are high risk and high value: continuous availability is essential, designs are custom or unique, supplier technology matters, few suppliers are adequate and changing sources is difficult. (LO3: Supply Risks and Dollars Extended (Kraljic))\n**Why not A:** Leverage items are high value but low risk, with substitution possible and a competitive market.\n**Why not C:** Non-critical items are standard, low-risk, low-value commodities.\n**Why not D:** Bottleneck items are high risk but low value."
+    },
+    {
+      "topic": "Supply positioning and scoring",
+      "question": "A low-cost item has a unique specification, depends on scarce production capacity, is hard to substitute, and its usage fluctuates. Where does it sit in the supply risk and value matrix?",
+      "options": {
+        "A": "Strategic",
+        "B": "Non-critical",
+        "C": "Bottleneck",
+        "D": "Leverage"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Bottleneck items are high risk but low value, with unique specifications, important supplier technology, production-based scarcity, difficult substitution, fluctuating usage and potential storage risk. (LO3: Supply Risks and Dollars Extended (Kraljic))\n**Why not A:** Strategic items are high risk and high value; this item's value is low.\n**Why not B:** Non-critical items are standard commodities with substitutes and low risk.\n**Why not D:** Leverage items are high value and low risk, with substitution possible."
+    },
+    {
+      "topic": "Supply positioning and scoring",
+      "question": "A buyer spends a lot on a material sold in a competitive market, where substitutes are available and careful cost management really matters. Where does it sit in the supply risk and value matrix?",
+      "options": {
+        "A": "Strategic",
+        "B": "Leverage",
+        "C": "Bottleneck",
+        "D": "Non-critical"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Leverage items are high value and low risk: unique cost management is important, substitution is possible, and the supply market is competitive. (LO3: Supply Risks and Dollars Extended (Kraljic))\n**Why not A:** Strategic items carry high supply risk, with few suppliers and difficult substitution.\n**Why not C:** Bottleneck items are low value and high risk.\n**Why not D:** Non-critical items are low value as well as low risk."
+    },
+    {
+      "topic": "Supply positioning and scoring",
+      "question": "In a weighted point evaluation like the slides' example, a supplier is rated 90 on responsiveness, a factor carrying a weight of 0.25. What is its final value for that factor?",
+      "options": {
+        "A": "2.25",
+        "B": "36.0",
+        "C": "22.5",
+        "D": "90.25"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Each factor's final value is the rating multiplied by the weight (90 × 0.25 = 22.50), and the final values are summed into a total score, as in the slides' example. (LO3: Weighted Point Evaluation, Make Supplier Selection Decision)\n**Why not A:** That would use a weight of 0.025; 90 × 0.25 is 22.5.\n**Why not B:** That would use a weight of 0.40, not 0.25.\n**Why not D:** Adding the weight to the rating isn't the method; the rating is multiplied by the weight."
+    },
+    {
+      "topic": "Supply positioning and scoring",
+      "question": "A buyer setting up a weighted point evaluation assigns technology a weight of 0.10 and responsiveness a weight of 0.25. What do these weights represent?",
+      "options": {
+        "A": "How many suppliers will be rated on that factor",
+        "B": "How much each supplier charges for that factor",
+        "C": "How important each factor is relative to the others",
+        "D": "How well each supplier performed on that factor"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Weighted point systems identify the evaluation factors, determine the importance of each factor (its weight), and establish a system to rate each supplier on each factor. (LO3: Weighted Point Evaluation Systems)\n**Why not A:** Weights express importance; they don't count suppliers.\n**Why not B:** Price may be one factor, but weights express importance, not cost.\n**Why not D:** That's the rating, which is then multiplied by the weight."
+    },
+    {
+      "topic": "Supply positioning and scoring",
+      "question": "A buyer's scorecard rates each supplier as good, fair or unsatisfactory on quality, quantity, delivery, price and service. What is this?",
+      "options": {
+        "A": "A formal supplier evaluation",
+        "B": "A pre-proposal bidder conference",
+        "C": "A risk assessment of the supply base",
+        "D": "A Kraljic supply positioning"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Formal supplier evaluations rate performance on quality, quantity, delivery, price and service, as good, fair or unsatisfactory. (LO3: Formal Supplier Evaluations)\n**Why not B:** Bidder conferences clarify bid documents for sellers.\n**Why not C:** Risk assessment decides which risks to take; this rates supplier performance.\n**Why not D:** The Kraljic matrix classifies purchases by supply risk and value, not supplier performance."
+    },
+    {
+      "topic": "Buyer–supplier relationships",
+      "question": "In a long-running supply dispute, the buyer and supplier actively work against each other's needs, and neither takes responsibility for anything that goes wrong. Where does this sit on the spectrum of buyer–supplier relationships?",
+      "options": {
+        "A": "Antagonistic, a lose/lose relationship",
+        "B": "Cooperative, where both see the benefit of working together",
+        "C": "Adversarial, a win/lose relationship",
+        "D": "Collaborative, a win/win relationship"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Antagonistic relationships are lose/lose: the parties work actively against each other's needs, and neither takes responsibility for what happens in the relationship. (LO3: Spectrum of Buyer–Supplier Relationships)\n**Why not B:** Cooperative parties work together to satisfy each other's needs.\n**Why not C:** Adversarial parties compete to capture maximum value, but don't actively work against each other's needs.\n**Why not D:** Collaborative parties have congruent goals and create value together."
+    },
+    {
+      "topic": "Buyer–supplier relationships",
+      "question": "In annual price talks, a buyer and supplier each fight to capture the maximum value for their own side, in a competitive struggle. Where does this sit on the spectrum?",
+      "options": {
+        "A": "Antagonistic, a lose/lose relationship",
+        "B": "Adversarial, a win/lose relationship",
+        "C": "Collaborative, with jointly created value",
+        "D": "Cooperative, with supplier input increasing"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Adversarial relationships are win/lose: the parties are engaged in a competitive struggle and attempt to capture the maximum value for their side. (LO3: Spectrum of Buyer–Supplier Relationships)\n**Why not A:** Antagonistic parties actively work against each other's needs and take no responsibility.\n**Why not C:** Collaborative parties search for creative solutions together.\n**Why not D:** Cooperative parties work together to satisfy each other's needs."
+    },
+    {
+      "topic": "Buyer–supplier relationships",
+      "question": "A buyer and supplier share congruent goals, grow closer because of those mutual goals, and search jointly for creative solutions that create new value. Where does this sit on the spectrum?",
+      "options": {
+        "A": "Cooperative, where supplier input is just beginning",
+        "B": "Antagonistic, a lose/lose relationship",
+        "C": "Adversarial, a win/lose relationship",
+        "D": "Collaborative, a win/win relationship"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Collaborative relationships are win/win: goals are congruent, closer relations result from mutual goals, and the parties search jointly for creative solutions to create new value. (LO3: Spectrum of Buyer–Supplier Relationships)\n**Why not A:** Cooperative relationships are a step short of fully congruent goals and joint value creation.\n**Why not B:** Antagonistic parties work against each other's needs.\n**Why not C:** Adversarial parties compete for value rather than creating it together."
+    },
+    {
+      "topic": "Buyer–supplier relationships",
+      "question": "A buyer can't find any supplier for a specialized part, so it approaches a small local machine shop and helps it become capable of making the part. Which context from the slides does this illustrate?",
+      "options": {
+        "A": "The sales context: the supplier takes the initiative",
+        "B": "Strategic teaming: two firms divide a major project",
+        "C": "Supplier development: the buyer takes the initiative",
+        "D": "Multiple sourcing: the buyer adds a back-up supplier"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In the supplier development context, the purchaser takes the supply initiative and the supplier responds, the reverse of the usual sales context, where the supplier takes the sales initiative. (LO3: Supplier Development Initiative)\n**Why not A:** In the sales context the supplier initiates; here the buyer does.\n**Why not B:** Teaming divides a large project between companies; it isn't supplier development.\n**Why not D:** There was no existing supplier to back up; the buyer is creating one."
+    }
+  ]
+}

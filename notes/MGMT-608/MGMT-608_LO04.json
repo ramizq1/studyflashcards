@@ -1,0 +1,466 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "04",
+    "title": "Assess Contract Types and Negotiations Strategies"
+  },
+  "source": "MGMT 608 - LO4.pptx.pdf",
+  "questions": [
+    {
+      "topic": "What makes a contract",
+      "question": "A supplier and a buyer shook hands on a deal, and later disagree about whether it was 'just an agreement' or a contract. According to the slides, what is the key difference?",
+      "options": {
+        "A": "A simple agreement becomes a contract after a payment",
+        "B": "A contract must always be a formal, written document",
+        "C": "A contract only exists once a lawyer has drafted it",
+        "D": "Only a contract can be enforced through the courts"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Contracts are agreements enforceable through the law; the difference between a simple agreement and a contract is that a party can use the courts to enforce a contract. (LO4: Contract vs. Simple Agreement)\n**Why not A:** Payment alone isn't the test; enforceability depends on the elements of a valid contract.\n**Why not B:** Contracts don't always have to be formal or written; only a few must be in writing by law.\n**Why not C:** Nothing in the slides requires a lawyer; contracts can be formed in many ways."
+    },
+    {
+      "topic": "What makes a contract",
+      "question": "Two friends agree to take turns driving to work, and separately, two businesses agree on a supply deal after negotiating terms. Which agreement does the law presume was intended to be enforceable?",
+      "options": {
+        "A": "Both, since every agreement shows an intention to be bound",
+        "B": "The business deal; social deals are presumed non-binding",
+        "C": "Neither, unless each is written down and signed",
+        "D": "The friends' deal, since friendship implies a promise"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** If parties go to the trouble of negotiating a commercial agreement, the law assumes intention was present; social or domestic relationships are presumed not to be contracts. (LO4: Intention)\n**Why not A:** Social and domestic agreements are presumed not to be enforceable contracts.\n**Why not C:** Most contracts don't have to be in writing; intention is the issue here.\n**Why not D:** The presumption runs the other way for social arrangements."
+    },
+    {
+      "topic": "What makes a contract",
+      "question": "A buyer's checklist confirms intention and consensus ad idem, an offer, acceptance, consideration and capacity. According to the slides' six-item checklist, what else must be confirmed?",
+      "options": {
+        "A": "A written signature",
+        "B": "Registration with a court",
+        "C": "Legality",
+        "D": "A witness to the deal"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The checklist asks about intention and consensus ad idem, offer, acceptance, consideration, capacity and legality; if all six are present, a legal contractual relationship probably exists. (LO4: Checklist for Legal Relationship)\n**Why not A:** Writing isn't one of the six elements; most contracts needn't be written.\n**Why not B:** Contracts don't need court registration to be valid.\n**Why not D:** A witness isn't among the elements of a valid contract."
+    },
+    {
+      "topic": "What makes a contract",
+      "question": "A company receives a customer order through its website's online order form, with no paper signed. Is a contract formed this way valid, according to the slides?",
+      "options": {
+        "A": "Yes: UECA treats electronic contracts as valid",
+        "B": "Only once both parties print and sign a paper copy",
+        "C": "No: only contracts on paper can be enforced in court",
+        "D": "Only for purchases below a small dollar amount"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The Uniform Electronic Commerce Act recognizes electronic contracts as being as valid as any other contract, with the basic contract rules applying, and clarifies how those rules apply to electronic formation. (LO4: Uniform Electronic Commerce Act (UECA))\n**Why not B:** Under UECA's functional equivalency rules, electronic documents can satisfy writing requirements.\n**Why not C:** UECA specifically recognizes electronic contracts as valid.\n**Why not D:** UECA's recognition of electronic contracts isn't limited by amount."
+    },
+    {
+      "topic": "What makes a contract",
+      "question": "A start-up founder asks why bother with contracts at all if courts rarely get involved in business deals. Which answer fits the slides?",
+      "options": {
+        "A": "Courts routinely rewrite contracts to make them fair to both sides",
+        "B": "Contract law protects people's rights in commercial deals",
+        "C": "Contracts matter only for deals worth more than a million dollars",
+        "D": "Contracts are only needed when the parties distrust each other"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Contract law is the basis of commercial liability and provides basic protection of a person's rights in a commercial deal; courts avoid interfering except where the parties clearly can't resolve problems. (LO4: Why Are Contracts Needed?)\n**Why not A:** Courts prefer not to interfere with contracts unless parties can't resolve clear problems.\n**Why not C:** Even everyday purchases like a coffee or bus fare are contracts.\n**Why not D:** Contracts create an enforceable framework regardless of trust."
+    },
+    {
+      "topic": "Offer, acceptance and consideration",
+      "question": "A business owner emails a contact: 'I'll sell you my delivery van.' No price is mentioned. Has a valid offer been made?",
+      "options": {
+        "A": "No: an offer must state parties, product and price",
+        "B": "Yes, as long as the buyer accepts quickly",
+        "C": "No: it's a counteroffer, since terms are missing",
+        "D": "Yes: the price can simply be agreed on at a later date"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** An offer is a promise to contract on complete and specific terms; it must specify the parties, the product and the price, and if any is missing or invalid, no offer has been made. (LO4: Offer)\n**Why not B:** Quick acceptance can't cure a missing price.\n**Why not C:** A counteroffer responds to an offer by changing its terms; this is an incomplete statement.\n**Why not D:** Without a price, the terms aren't complete enough to be an offer."
+    },
+    {
+      "topic": "Offer, acceptance and consideration",
+      "question": "A seller offers a used forklift for $8,000 and says, 'Let me know by 5 p.m. Friday.' The buyer calls to accept at 5:05 p.m. on Friday. What's the result?",
+      "options": {
+        "A": "A contract, since five minutes is a reasonable delay",
+        "B": "A contract, as long as the forklift hasn't been sold",
+        "C": "A counteroffer that the seller is now obliged to answer",
+        "D": "No contract: the offer lapsed at the deadline"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** An offer lapses with the passage of time; once the stated deadline passes, there's no longer any offer to accept, as in the slides' noon-deadline example. (LO4: Lapse of an Offer, Daria and Jamal)\n**Why not A:** 'Reasonable time' applies only when no deadline is stated.\n**Why not B:** Once the offer expired, there's nothing left to accept.\n**Why not C:** A late acceptance isn't a counteroffer, and the seller has no obligation."
+    },
+    {
+      "topic": "Offer, acceptance and consideration",
+      "question": "A buyer pays a seller $20 to keep an offer on a laptop open until Monday. On Saturday, someone else offers the seller more. Can the seller revoke the first offer?",
+      "options": {
+        "A": "Yes: any offer can be revoked until it's accepted",
+        "B": "Yes, because the new offer is for a higher price",
+        "C": "No: paying to keep it open makes the offer irrevocable",
+        "D": "Yes, as long as the seller refunds the $20 first"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** An offer can normally be revoked any time before it's accepted, but if the offeree pays any amount to keep it open, it becomes irrevocable for that period. (LO4: Daria and Jamal, Revoking an Offer)\n**Why not A:** That's the general rule, but payment to hold the offer open changes it.\n**Why not B:** A better offer doesn't let the seller break the paid-for promise.\n**Why not D:** Refunding doesn't undo the irrevocability the payment created."
+    },
+    {
+      "topic": "Offer, acceptance and consideration",
+      "question": "A seller offers a bike for $300. The buyer replies, 'Yes, I'll buy it for $300, but only if you include the helmet.' What is the buyer's reply, legally?",
+      "options": {
+        "A": "A unilateral contract on the buyer's terms",
+        "B": "A counteroffer, not an acceptance",
+        "C": "An acceptance by conduct",
+        "D": "An acceptance with a minor added condition"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Any alteration of an offer is a counteroffer that continues the bargaining; adding a condition (like the iPad in the slides' example) means there's no acceptance. (LO4: Acceptance, Daria and Jamal)\n**Why not A:** A unilateral contract arises when someone performs a requested act.\n**Why not C:** Acceptance by conduct means acting on the offer as made, not adding terms.\n**Why not D:** Changing the terms in any way makes it a counteroffer."
+    },
+    {
+      "topic": "Offer, acceptance and consideration",
+      "question": "A buyer mails an acceptance of a supplier's offer on Monday; it arrives on Thursday. On Tuesday, the supplier phones to revoke the offer. Under the slides' post box rule, what's the result?",
+      "options": {
+        "A": "No contract, since the acceptance arrived after revocation",
+        "B": "A contract formed on Thursday, when the letter arrived",
+        "C": "No contract, since acceptances can't be sent by mail",
+        "D": "A contract was formed on Monday, when the acceptance was mailed"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Under the post box rule, an offer is accepted when the acceptance is given to the postal service, an exception to the rule that acceptance must be received; the contract existed before Tuesday's revocation. (LO4: Acceptance, Post Box Rule)\n**Why not A:** The post box rule makes acceptance effective on mailing, before the revocation.\n**Why not B:** Under the post box rule, timing turns on mailing, not receipt.\n**Why not C:** Acceptance can be communicated in many ways, including by mail."
+    },
+    {
+      "topic": "Offer, acceptance and consideration",
+      "question": "A company posts a notice: '$500 to anyone who finds our missing prototype laptop.' What kind of contract is this, and when is it formed?",
+      "options": {
+        "A": "Bilateral; it's formed when someone promises to search",
+        "B": "Bilateral; it's formed as soon as someone reads the notice",
+        "C": "Unilateral; it's formed once someone performs the requested act",
+        "D": "No contract at all, since a reward is just a gift"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In a unilateral contract, one party makes a promise and the other accepts by performing the required act; the contract is created once the act is performed, as in the lost-cat reward example. (LO4: Acceptance by Promise or Performance)\n**Why not A:** Bilateral contracts exchange promises; here acceptance is by performance.\n**Why not B:** Reading the notice doesn't accept it; performing the act does.\n**Why not D:** A reward offer accepted by performance creates a unilateral contract."
+    },
+    {
+      "topic": "Offer, acceptance and consideration",
+      "question": "A farmer finds a construction company's missing loader on his land and calls the company to return it, unaware of the $2,000 reward it had advertised. Later he sees the ad and claims the reward. What do the slides conclude?",
+      "options": {
+        "A": "He can claim half of it, as quantum meruit for his time",
+        "B": "He can't: he didn't know of the offer when he acted",
+        "C": "He can claim it once he has read the advertisement",
+        "D": "He can claim it, because he performed the act requested"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In the slides' case, the offer wasn't communicated to Smith until after he'd performed; he returned the loader without intending to create a contract, so his act was gratuitous and he can't later claim payment. (LO4: A Case Exercise, Communication Rule)\n**Why not A:** His act was gratuitous, so no payment can be claimed.\n**Why not C:** Learning of the offer after performing doesn't turn the act into acceptance.\n**Why not D:** Performance only accepts an offer that the performer knew about."
+    },
+    {
+      "topic": "Offer, acceptance and consideration",
+      "question": "A neighbour promises to repair a small business's fence for free, then never shows up. The owner wants to enforce the promise. What do the slides say?",
+      "options": {
+        "A": "It can't be enforced: a gratuitous promise isn't consideration",
+        "B": "It can be enforced, since any clear promise is binding",
+        "C": "It can be enforced, since the repair work has real value",
+        "D": "It can be enforced, since consideration needn't be equal"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Each party must give and receive something of value; a gratuitous promise or favour, done with no expectation of anything in return, is not consideration. (LO4: Consideration)\n**Why not B:** Without consideration from both sides, there's no enforceable contract.\n**Why not C:** The work's value doesn't help when nothing is given in exchange.\n**Why not D:** Consideration needn't be equal, but each party must receive some benefit, which the neighbour doesn't."
+    },
+    {
+      "topic": "Capacity, legality and form",
+      "question": "In Quebec, a 15-year-old apprentice signs an agreement relating to the practice of their craft. What do the Quebec articles cited in the slides suggest?",
+      "options": {
+        "A": "No minor in Quebec can contract on anything until age 21",
+        "B": "From 14, a minor can act on employment or craft matters",
+        "C": "Full civil rights begin at 14 for all purposes in Quebec",
+        "D": "A parent must sign every agreement until the minor is 19"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides cite Quebec articles setting the age of majority at 18 for the full exercise of civil rights, and 14 or over for acts pertaining to one's employment or the practice of one's craft or profession. (LO4: Capacity, Contractual Rights of Minors)\n**Why not A:** The slides cite 18 for full civil rights and 14 for employment- and craft-related acts.\n**Why not C:** The age for full exercise of civil rights is 18.\n**Why not D:** Parents can contract for a minor, but the cited articles let 14-year-olds act on craft matters."
+    },
+    {
+      "topic": "Capacity, legality and form",
+      "question": "While heavily intoxicated, a customer buys groceries and also signs up for an expensive luxury cruise. Based on the slides, which purchase is the customer most likely bound by?",
+      "options": {
+        "A": "The groceries, since they count as necessaries",
+        "B": "Both purchases in full, as with any other buyer",
+        "C": "Neither purchase, since impairment voids every contract",
+        "D": "Only the cruise, since it's the larger commitment"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Impaired persons generally can't incur contractual liability, but they're liable for contracts for necessaries; contracts for non-necessary items are treated differently. (LO4: Capacity, Impaired and Insane Persons)\n**Why not B:** Impairment generally limits liability, except for necessaries.\n**Why not C:** Liability for necessaries remains, as a matter of public policy.\n**Why not D:** Size isn't the test; necessaries are."
+    },
+    {
+      "topic": "Capacity, legality and form",
+      "question": "A business owner who has declared bankruptcy, and hasn't yet been discharged, wants to sign a new supplier contract. What do the slides say?",
+      "options": {
+        "A": "They can sign freely as long as the trustee is told later",
+        "B": "Capacity is limited: discharge comes first, except for necessaries",
+        "C": "They can never enter into any contract again",
+        "D": "Capacity is unaffected, since bankruptcy is purely financial"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Bankrupt persons have limited capacity to contract and must receive a discharge before entering any contract except for necessaries; earlier business contracts become the trustee's responsibility. (LO4: Capacity, Bankrupt Persons)\n**Why not A:** A discharge is required first, except for necessaries.\n**Why not C:** On discharge, the bankrupt can contract again and is released from most prior debts.\n**Why not D:** The slides say bankrupt persons have limited capacity to contract."
+    },
+    {
+      "topic": "Capacity, legality and form",
+      "question": "A supplier signed a contract only after the buyer threatened to harm the supplier's business. Which element of a valid contract is in question?",
+      "options": {
+        "A": "Consideration, because the values were unequal",
+        "B": "Capacity, because of the supplier's age",
+        "C": "Legality, because of duress or coercion",
+        "D": "Offer, because the price wasn't specified"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Legality issues listed in the slides include misrepresentation (fraudulent, negligent or innocent), undue influence, duress or coercion, and mistake. (LO4: Legality)\n**Why not A:** Consideration needn't be equal; the threat raises a legality problem.\n**Why not B:** Nothing suggests the supplier lacked capacity; the problem is the threat.\n**Why not D:** The terms aren't in question; the pressure used to get agreement is."
+    },
+    {
+      "topic": "Capacity, legality and form",
+      "question": "A buyer agrees by phone to lease a warehouse for five years, and both sides plan to skip the paperwork. What do the slides say?",
+      "options": {
+        "A": "It can stay oral, since the phone call proves the deal",
+        "B": "It must be written only if it's worth over a million dollars",
+        "C": "It can stay oral, since leases are exempt from writing rules",
+        "D": "It must be written, since it's a contract relating to land"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Four types of contracts must be in writing: those relating to land (including leases), those not performable within a year, guarantees, and in some provinces sales of goods above a small amount. (LO4: Requirements for Written Contracts)\n**Why not A:** Oral contracts are hard to prove, and this type must be in writing anyway.\n**Why not B:** The land rule doesn't depend on value.\n**Why not C:** Leases of land are among the contracts that must be written."
+    },
+    {
+      "topic": "Capacity, legality and form",
+      "question": "At the counter, a car rental company hands a customer a pre-printed agreement written entirely by the company, with no room to negotiate the terms. What type of contract is this?",
+      "options": {
+        "A": "A simple, unenforceable agreement",
+        "B": "A negotiated bilateral contract",
+        "C": "A standard form contract",
+        "D": "A unilateral reward contract"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Standard form contracts are drafted by one party without negotiation with the other, like rental car contracts, and are written in a way that greatly benefits the company. (LO4: Standard Form Contracts)\n**Why not A:** Standard form contracts are enforceable contracts.\n**Why not B:** The customer has no chance to negotiate the terms.\n**Why not D:** A unilateral contract is accepted by performing a requested act."
+    },
+    {
+      "topic": "Contract types",
+      "question": "A buyer is procuring 200 standard workstations with a fully defined scope, and no significant scope changes are expected. Which contract category fits best?",
+      "options": {
+        "A": "Time and material",
+        "B": "Cost-reimbursable",
+        "C": "Fixed-price",
+        "D": "Cost plus award fee"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Fixed-price contracts set a fixed total price for a defined product, service or result, and suit a well-defined scope with no significant changes expected. (LO4: Contract Types)\n**Why not A:** T&M contracts are used when a precise statement of work isn't possible.\n**Why not B:** Cost-reimbursable contracts suit work where significant scope changes are expected.\n**Why not D:** CPAF is a cost-reimbursable type, unsuited to a fully defined scope."
+    },
+    {
+      "topic": "Contract types",
+      "question": "A research project expects significant changes to its scope as experiments reveal new directions. Which contract category do the slides recommend?",
+      "options": {
+        "A": "Cost-reimbursable",
+        "B": "Fixed price incentive fee",
+        "C": "Firm fixed price",
+        "D": "Fixed price with economic price adjustment"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Cost-reimbursable contracts pay the seller's actual costs plus a fee representing its profit, and should be used when significant changes to scope are expected during execution. (LO4: Contract Types)\n**Why not B:** This is still a fixed-price type, suited to defined scope.\n**Why not C:** A firm fixed price suits a well-defined scope that won't change significantly.\n**Why not D:** This adjusts for economic factors like inflation, not for scope changes."
+    },
+    {
+      "topic": "Contract types",
+      "question": "A buyer needs specialist support but can't write a precise statement of work, so it wants a hybrid arrangement with features of both fixed-price and cost-reimbursable contracts. Which type fits?",
+      "options": {
+        "A": "Fixed price incentive fee",
+        "B": "Cost plus fixed fee",
+        "C": "Firm fixed price",
+        "D": "Time and material"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Time and material contracts, also known as hybrid contracts, combine aspects of fixed-price and cost-reimbursable contracts and are usually used when a precise statement of work isn't possible. (LO4: Contract Types)\n**Why not A:** FPIF is a fixed-price type that still needs a defined scope.\n**Why not B:** CPFF is a pure cost-reimbursable type, not the hybrid described.\n**Why not C:** A firm fixed price needs a well-defined scope."
+    },
+    {
+      "topic": "Contract types",
+      "question": "A five-year supply contract will be paid in a foreign currency, and both parties want protection against inflation and exchange-rate swings. Which fixed-price variant fits?",
+      "options": {
+        "A": "Cost-reimbursable plus an incentive fee",
+        "B": "Fixed price plus an incentive fee",
+        "C": "Firm fixed price with no price changes",
+        "D": "Fixed price with economic price adjustment"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** FPEPA contracts provide adjustments for economic factors such as inflation or different currencies, and are usually used when a contract spans several years. (LO4: Fixed Price Contract Types)\n**Why not A:** CPIF is a cost-reimbursable type, not a fixed-price variant.\n**Why not B:** FPIF adds incentives for performance, not adjustments for inflation.\n**Why not C:** In a firm fixed price contract, the price is set at the start and doesn't change."
+    },
+    {
+      "topic": "Contract types",
+      "question": "A buyer agrees a fixed price for a software build, plus extra payments if the seller beats the schedule, with an overall price ceiling. Which contract type is this?",
+      "options": {
+        "A": "Fixed price incentive fee",
+        "B": "Fixed price with economic price adjustment",
+        "C": "Firm fixed price",
+        "D": "Cost plus award fee"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** FPIF contracts add financial incentives for specific performance related to cost, schedule or technical aspects on top of the fixed price, and usually have a price ceiling. (LO4: Fixed Price Contract Types)\n**Why not B:** FPEPA adjusts for economic factors like inflation, not for beating the schedule.\n**Why not C:** A firm fixed price has no incentive payments; the price simply doesn't change.\n**Why not D:** CPAF reimburses costs and rewards subjective performance; this one starts from a fixed price."
+    },
+    {
+      "topic": "Contract types",
+      "question": "A buyer will reimburse a contractor's allowable costs and pay an additional fee based on the buyer's subjective judgment of how well the contractor performed. Which contract type is this?",
+      "options": {
+        "A": "Cost plus incentive fee",
+        "B": "Cost plus fixed fee",
+        "C": "Fixed price incentive fee",
+        "D": "Cost plus award fee"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** CPAF contracts reimburse allowable costs and provide financial incentives for specific subjective performance. (LO4: Cost Reimbursable Contract Types)\n**Why not A:** CPIF ties incentives to specific performance, not to the buyer's subjective judgment.\n**Why not B:** CPFF pays a fixed fee calculated as a percentage of cost, with no performance incentive.\n**Why not C:** FPIF starts from a fixed price rather than reimbursing costs."
+    },
+    {
+      "topic": "UCC and FAR",
+      "question": "After buying used equipment, a company discovers that the seller's bank still holds a lien on it. Which UCC provision has been breached?",
+      "options": {
+        "A": "Buyer's right to inspect",
+        "B": "Warranty of title",
+        "C": "Implied warranty",
+        "D": "Express warranty"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Under the warranty of title, the seller conveys a valid title that can be transferred to the buyer, with the goods free from liens (attached liability). (LO4: UCC, Warranty of Title)\n**Why not A:** Inspection rights concern checking goods before payment, not liens.\n**Why not C:** An implied warranty concerns goods serving their intended purpose.\n**Why not D:** An express warranty is a statement of fact or promise about the product."
+    },
+    {
+      "topic": "UCC and FAR",
+      "question": "A salesperson tells a buyer, 'This pump will run for 10,000 hours without a rebuild.' It fails at 2,000 hours. Which kind of warranty is involved?",
+      "options": {
+        "A": "A warranty of title",
+        "B": "An express warranty",
+        "C": "A liquidated damages clause",
+        "D": "An implied warranty"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** An express warranty arises when a seller makes a statement of fact or promise about the product being sold; an express warranty is superior to an implied one. (LO4: UCC, Express and Implied Warranty)\n**Why not A:** Warranty of title concerns valid ownership and freedom from liens.\n**Why not C:** Liquidated damages set an agreed formula for breach, not a product promise.\n**Why not D:** Implied warranties aren't spoken or written; this promise was stated outright."
+    },
+    {
+      "topic": "UCC and FAR",
+      "question": "A new television bought for a hotel lobby won't turn on. Nothing was said or written about its quality at the time of sale. What protects the buyer?",
+      "options": {
+        "A": "The warranty of title to the television",
+        "B": "An express warranty made at the time of sale",
+        "C": "An implied warranty that goods serve their purpose",
+        "D": "The buyer's right to inspect before paying"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Implied warranties aren't spoken or written; they're imputed from the seller to the buyer based on reasonable customer expectations, and declare that goods sold will serve the purpose for which they're intended. (LO4: UCC, Express and Implied Warranty)\n**Why not A:** Title concerns ownership and liens, not whether the goods work.\n**Why not B:** No statement or promise was made, so there's no express warranty.\n**Why not D:** Inspection rights don't by themselves cover goods failing to work."
+    },
+    {
+      "topic": "UCC and FAR",
+      "question": "A buyer accepts a shipment but doesn't open or inspect it for four months, then claims the goods were defective on arrival. What does the UCC's right to inspect suggest?",
+      "options": {
+        "A": "The buyer had no right to inspect before paying",
+        "B": "The buyer may inspect at any time before final payment",
+        "C": "It's assumed done; it was due within a reasonable time",
+        "D": "Inspection was the seller's duty, not the buyer's"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The buyer has an absolute right to inspect goods before paying, but the inspection must take place within a reasonable time after delivery, or it will be assumed to have taken place. (LO4: UCC, Buyer's Right to Inspect Goods)\n**Why not A:** The UCC gives the buyer an absolute right to inspect before paying.\n**Why not B:** The inspection must happen within a reasonable time after delivery.\n**Why not D:** The right to inspect belongs to the buyer."
+    },
+    {
+      "topic": "UCC and FAR",
+      "question": "After a breach of contract, a court awards the injured party the exact amount of its loss, and then also awards additional damages on top. What are these two kinds of damages called?",
+      "options": {
+        "A": "Punitive damages, plus liquidated damages",
+        "B": "Compensatory damages only, for the actual loss",
+        "C": "Liquidated damages only, under the contract formula",
+        "D": "Compensatory damages, plus punitive damages"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Compensatory (actual) damages are the exact amount of the injured party's damage; punitive (exemplary) damages are additional damages a court may also award. (LO4: UCC, Liquidation or Limitation of Damages)\n**Why not A:** The exact loss is compensatory, not punitive.\n**Why not B:** The additional award beyond the loss is punitive.\n**Why not C:** A court award on top of the exact loss is punitive, not a contract formula."
+    },
+    {
+      "topic": "UCC and FAR",
+      "question": "A Canadian engineering firm is bidding on a project funded by the United States government. Which body of rules will govern the procurement process?",
+      "options": {
+        "A": "The Federal Acquisition Regulations (FAR)",
+        "B": "UCC Article 2 alone, with no other rules",
+        "C": "The Uniform Electronic Commerce Act (UECA)",
+        "D": "Only the firm's own internal procurement policy"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** All projects funded by the US government are subject to a formal procurement process called the Federal Acquisition Regulations, created to codify uniform policies and procedures for federal acquisitions. (LO4: Federal Acquisition Regulations (FAR) System)\n**Why not B:** The UCC covers sales of goods; US government-funded projects fall under FAR.\n**Why not C:** UECA recognizes electronic contracts in Canada; it doesn't govern US federal acquisitions.\n**Why not D:** Government-funded projects must follow FAR."
+    },
+    {
+      "topic": "UCC and FAR",
+      "question": "A contracts officer on a US government-funded project needs the FAR rules on types of contracts. Where in the FAR system do the slides point?",
+      "options": {
+        "A": "Subchapter C, Part 16",
+        "B": "Subchapter G, Part 49",
+        "C": "Subchapter B, Part 6",
+        "D": "Subchapter D, Part 19"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The slides map FAR subchapters: B, Part 6 (competition requirements); C, Part 16 (types of contracts); D, Part 19 (small business programs); E, Part 32 (contract financing); and G, Part 49 (termination of contracts). (LO4: Federal Acquisition Regulations (FAR) System)\n**Why not B:** Part 49 covers termination of contracts.\n**Why not C:** Part 6 covers competition requirements.\n**Why not D:** Part 19 covers small business programs."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "During a site emergency, a project manager takes charge and makes an immediate decision without consulting anyone. In the Thomas-Kilmann model, which style is this, and what's its main risk?",
+      "options": {
+        "A": "Accommodating; the manager may resent giving in",
+        "B": "Compromising; both sides give up too much",
+        "C": "Collaborating; it takes too long to reach agreement",
+        "D": "Competing; using it too often disrupts relationships"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Competing (the shark: 'I take charge') is useful when something must be decided quickly, as in an emergency, but using it too often disrupts relationships. (LO4: Conflict Resolution Styles, Competing)\n**Why not A:** Accommodating means giving in, the opposite of taking charge.\n**Why not B:** Compromising means meeting halfway, not taking charge.\n**Why not C:** Collaborating seeks a solution satisfying everyone, which isn't happening here."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "A buyer and a key supplier want a solution that fully satisfies both sides, so they spend several meetings getting all their concerns and feelings out in the open. Which style is this, and what's its drawback?",
+      "options": {
+        "A": "Avoiding; important views go unspoken",
+        "B": "Collaborating; it's time-consuming",
+        "C": "Compromising; neither side gets all it wants",
+        "D": "Competing; it damages the relationship"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Collaborating (the owl: 'we both win') seeks something that satisfies all sides and deals with thoughts and feelings so they don't cause problems later, but it's time-consuming and not worth it for minor issues. (LO4: Conflict Resolution Styles, Collaborating)\n**Why not A:** Avoiding withdraws from the issue instead of working through it.\n**Why not C:** Compromising splits the difference rather than satisfying both sides fully.\n**Why not D:** Competing imposes one side's will, which isn't happening here."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "With a delivery deadline looming, a buyer and seller each give up something and agree to split the difference on price. Which conflict-handling style is this?",
+      "options": {
+        "A": "Compromising",
+        "B": "Competing",
+        "C": "Accommodating",
+        "D": "Collaborating"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Compromising (the fox: 'we meet halfway', 'let's split the difference') suits decisions that must be made in a timely manner where both give up something, though finding a solution that pleases everyone can still take time. (LO4: Conflict Resolution Styles, Compromising)\n**Why not B:** Competing means one side takes charge and imposes its will.\n**Why not C:** Accommodating means one side simply gives in.\n**Why not D:** Collaborating aims to satisfy both sides fully, not to split the difference."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "A buyer gives in to a long-time supplier on a disputed charge because the relationship matters more to the buyer than the issue. Which style is this, and what's its risk?",
+      "options": {
+        "A": "Compromising; both sides give something up",
+        "B": "Collaborating; it consumes a lot of time",
+        "C": "Avoiding; the issue is never actually addressed",
+        "D": "Accommodating; overused, it breeds resentment"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Accommodating (the teddy bear: 'I give in') reflects caring more about the other person than the issue, but if it happens too much you may resent not being able to give your opinion. (LO4: Conflict Resolution Styles, Accommodating)\n**Why not A:** Here only the buyer gives up anything.\n**Why not B:** Collaborating works toward a solution satisfying both sides.\n**Why not C:** Avoiding withdraws from the issue; this buyer actively concedes."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "Emotions are running high in a contract dispute, so a manager postpones the discussion to let everyone cool down. Which style is this, and what's its drawback?",
+      "options": {
+        "A": "Avoiding; you may not voice views that matter",
+        "B": "Compromising; it can still take time to agree",
+        "C": "Competing; relationships may be damaged",
+        "D": "Accommodating; you may resent always giving in"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Avoiding (the turtle: 'I leave') can get you away from dangerous situations and allow cooling down when emotions are high, but you don't give your opinion when it's something that matters to you. (LO4: Conflict Resolution Styles, Avoiding)\n**Why not B:** Compromising involves both sides giving something up.\n**Why not C:** Competing means taking charge and deciding.\n**Why not D:** Accommodating means conceding, not stepping away from the issue."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "In the slides' Thomas-Kilmann diagram, what does moving toward the 'more assertive' end of the horizontal axis reflect?",
+      "options": {
+        "A": "Placing more importance on the relationship",
+        "B": "Becoming more willing to avoid the issue",
+        "C": "Placing more importance on the outcome",
+        "D": "Becoming more cooperative with the other side"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In the diagram, assertiveness corresponds to how important the outcome is, while cooperativeness corresponds to how important the relationship is. (LO4: Conflict Resolution Styles, Thomas-Kilmann Model)\n**Why not A:** Importance of the relationship maps to cooperativeness, the vertical axis.\n**Why not B:** Avoiding sits at the less assertive, less cooperative corner.\n**Why not D:** Cooperativeness is the other dimension of the model."
+    }
+  ]
+}

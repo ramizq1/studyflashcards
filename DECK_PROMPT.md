@@ -18,18 +18,17 @@ Source rules:
 
 Question rules:
 - Write scenario-based questions: put the concept in a realistic workplace situation, so the question tests understanding and application rather than recall of a definition.
-- Cover every major section or sub-objective of the material, and group the questions into subtopics that follow the material's main headings (roughly 4 to 10 subtopics, each with at least 2 questions). Put the subtopic name in each question's `"topic"`.
+- Cover every section or sub-objective of the material, and group the questions into subtopics that follow the material's main headings (between 2 to 6 subtopics, each with at least 4 questions). Put the subtopic name in each question's `"topic"`.
 - Every question has exactly 4 options, A to D, and exactly one correct answer.
 - Every wrong option must be plausible: a common misconception, a related concept from the same material, or a logical misstep. No throwaway options.
-- Keep all four options similar in length, tone, structure and level of detail. The correct answer must not be the longest or the most detailed option; check this for every question.
+- Keep all four options similar in tone, and level of detail.
 - Never use "All of the above", "None of the above", or combined options such as "Both A and B".
-- Distribute the correct answers across A, B, C and D randomly and roughly evenly, with no pattern.
+- Distribute the correct answers across A, B, C and D randomly and roughly evenly, with no pattern. But if you fail to do so and realize at the end you failed, you dont need to re-do that.
 
 Explanation rules (the `"note"`):
 - Say why the correct answer is right, citing the logic or the section of the material it comes from.
-- Then say briefly why each wrong option is wrong.
 - Use this layout, with `\n` between the lines (it matches the other decks):
-  `**Why C is correct:** ... (Section name)\n**Why not A:** ...\n**Why not B:** ...\n**Why not D:** ...`
+  `**Why C is correct:** ... (Section name)`
 - `**bold**` and `\n` are the only formatting allowed. No HTML.
 
 Output rules (important, the file is read by a program):
