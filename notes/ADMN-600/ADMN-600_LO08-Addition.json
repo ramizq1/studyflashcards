@@ -1,0 +1,231 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "08",
+    "title": "Power and Politics"
+  },
+  "deckTitle": "LO08-Addition: Power and Politics",
+  "collection": "Lecture slide additions: charts and pictures (9th Canadian ed.)",
+  "collectionOrder": 1.5,
+  "source": "08_langton_OB_9e_ppt_ch08.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Bases of power and responses",
+      "question": "Two managers each ask their teams to adopt a new scheduling system. One is admired and well liked, and staff want to be like her; the other controls the bonus pool. According to Exhibit 8.1, what response should each expect?",
+      "options": {
+        "A": "Both should expect commitment, since both hold personal power",
+        "B": "Both should expect compliance, since both are formal leaders",
+        "C": "The admired manager gets commitment; the bonus holder gets compliance",
+        "D": "The admired manager gets compliance; the bonus holder gets commitment"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 8.1, referent power (influence from desirable personal traits) reaches all the way to commitment, while reward power stops at compliance. (Exhibit 8.1, Continuum of Responses to Power)\n**Why not A:** Reward power is not personal power, and its most likely response is compliance, not commitment.\n**Why not B:** Referent power goes beyond compliance to commitment.\n**Why not D:** This reverses the two bases' positions on the continuum."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "A project manager has no formal authority over the specialists on her project, yet she wants their genuine commitment, not grudging effort. Based on Exhibit 8.1, which bases of power should she build?",
+      "options": {
+        "A": "Expert and referent power",
+        "B": "Legitimate and reward power",
+        "C": "Coercive and legitimate power",
+        "D": "Reward and coercive power"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 8.1 shows expert and referent power as the only bases whose most likely response is commitment. Neither depends on formal authority: they rest on special skills or knowledge, or on desirable personal traits. (Exhibit 8.1, Continuum of Responses to Power)\n**Why not B:** Legitimate and reward power most likely bring compliance, not commitment, and she lacks formal authority anyway.\n**Why not C:** Coercive power most likely brings resistance, and legitimate power brings compliance.\n**Why not D:** Reward power brings compliance and coercive power brings resistance."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "A trainer asks managers to rank the five bases of power in Exhibit 8.1 from least to most likely to win enthusiastic support. Which ranking matches the exhibit?",
+      "options": {
+        "A": "Legitimate; then reward and coercive; then expert and referent",
+        "B": "Coercive; then expert and reward; then legitimate and referent",
+        "C": "Reward; then coercive and legitimate; then referent and expert",
+        "D": "Coercive; then reward and legitimate; then expert and referent"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In Exhibit 8.1, coercive power's bar stops in the resistance zone, reward and legitimate power both reach compliance, and expert and referent power both reach commitment. (Exhibit 8.1, Continuum of Responses to Power)\n**Why not A:** Coercive power, not legitimate power, is the least likely to win support; legitimate power sits with reward power at compliance.\n**Why not B:** Expert power reaches commitment, and legitimate power stops at compliance.\n**Why not C:** Reward power reaches compliance, ahead of coercive power."
+    },
+    {
+      "topic": "Bases of power and responses",
+      "question": "A plant manager says, 'I don't need anyone to be enthusiastic about the new safety checklist. I just need people to go along with it.' According to Exhibit 8.1, which bases of power would most likely produce exactly that response?",
+      "options": {
+        "A": "Expert or referent power",
+        "B": "Reward or legitimate power",
+        "C": "Coercive power alone",
+        "D": "Referent or coercive power"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 8.1 shows reward and legitimate power most likely producing compliance, where people go along with a request grudgingly, putting in minimal effort. (Exhibit 8.1, Continuum of Responses to Power; Ch 8 slides: Which Bases of Power Are Most Effective?)\n**Why not A:** Expert and referent power reach further, to commitment, which is more than the manager says he needs.\n**Why not C:** Coercive power most likely produces resistance, where people oppose the request and try to avoid it.\n**Why not D:** Referent power leads to commitment and coercive power to resistance, so neither fits compliance."
+    },
+    {
+      "topic": "Influence tactics by direction",
+      "question": "An analyst wants her director to approve a new analytics tool. According to Exhibit 8.3, which tactic is preferred when influencing upward?",
+      "options": {
+        "A": "Rational persuasion",
+        "B": "Ingratiation",
+        "C": "Exchange",
+        "D": "Consultation"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 8.3 lists only one preferred tactic under upward influence: rational persuasion, which Exhibit 8.2 defines as using logical arguments and factual evidence to show a proposal is viable. (Exhibit 8.3, Preferred Tactics by Influence Direction)\n**Why not B:** Ingratiation appears under downward and lateral influence, not upward.\n**Why not C:** Exchange also appears only under downward and lateral influence.\n**Why not D:** Consultation is listed for downward and lateral influence, not upward."
+    },
+    {
+      "topic": "Influence tactics by direction",
+      "question": "A new team leader studies Exhibit 8.3 to find the tactics that are preferred only when influencing subordinates, and not peers or bosses. Which two tactics appear only in the downward column?",
+      "options": {
+        "A": "Personal appeals and coalitions",
+        "B": "Consultation and exchange",
+        "C": "Inspirational appeals and pressure",
+        "D": "Rational persuasion and legitimacy"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 8.3, inspirational appeals and pressure appear only under downward influence. The downward column also lists rational persuasion, consultation, ingratiation, exchange and legitimacy, but those appear in the lateral column too. (Exhibit 8.3, Preferred Tactics by Influence Direction)\n**Why not A:** Personal appeals and coalitions appear only under lateral influence.\n**Why not B:** Consultation and exchange appear under both downward and lateral influence.\n**Why not D:** Rational persuasion appears in all three columns, and legitimacy in both downward and lateral."
+    },
+    {
+      "topic": "Influence tactics by direction",
+      "question": "Cross-checking the ten tactics defined in Exhibit 8.2 against Exhibit 8.3, a trainer notices that one tactic isn't listed as preferred in any direction. Which one?",
+      "options": {
+        "A": "Coalitions",
+        "B": "Legitimating",
+        "C": "Pressure",
+        "D": "Upward appeals"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 8.2 defines upward appeals (claiming a request is approved by higher management, or asking higher management to help gain compliance), but Exhibit 8.3 doesn't list it under upward, downward or lateral influence. (Exhibit 8.2, Influence Tactics; Exhibit 8.3, Preferred Tactics by Influence Direction)\n**Why not A:** Coalitions appear under lateral influence.\n**Why not B:** Legitimacy appears under both downward and lateral influence.\n**Why not C:** Pressure appears under downward influence, even though the slides say it often backfires."
+    },
+    {
+      "topic": "Influence tactics by direction",
+      "question": "Before asking two team members to cover a weekend shift, a manager reminds them that she covered for them during last month's family emergencies. Which tactic in Exhibit 8.2 is she using?",
+      "options": {
+        "A": "Personal appeal",
+        "B": "Exchange",
+        "C": "Ingratiation",
+        "D": "Legitimating"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 8.2 defines exchange as promising rewards or tangible benefits for compliance, or reminding the other person of a prior favour to be reciprocated, which is what the manager does. (Exhibit 8.2, Influence Tactics)\n**Why not A:** A personal appeal calls on feelings of loyalty and friendship, not on a favour owed.\n**Why not C:** Ingratiation tries to put the person in a good mood, or make them think favourably of you, before asking.\n**Why not D:** Legitimating claims the authority or right to make a request, or ties it to policies, rules and traditions."
+    },
+    {
+      "topic": "Influence tactics by direction",
+      "question": "A manager tells a nervous account executive, 'This pitch is about helping small businesses survive, which I know matters to you, and you have exactly the skills to win it.' Which tactic in Exhibit 8.2 is this?",
+      "options": {
+        "A": "Rational persuasion",
+        "B": "Consultation",
+        "C": "Ingratiation",
+        "D": "Inspirational appeals"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 8.2 defines inspirational appeals as an emotional request that arouses enthusiasm by appealing to the person's values and ideals, or by increasing their confidence that they can do it. The manager does both. (Exhibit 8.2, Influence Tactics)\n**Why not A:** Rational persuasion relies on logical arguments and factual evidence, not values and confidence.\n**Why not B:** Consultation asks for the person's participation in a decision or plan.\n**Why not C:** Ingratiation aims to put the person in a good mood before a request, not to inspire them about the task."
+    },
+    {
+      "topic": "Empowerment and workplace politics",
+      "question": "An employee chooses her own work methods, believes her work has an important purpose and knows she does it well, but feels her suggestions disappear without a trace. Which characteristic of empowered people in Exhibit 8.4 is missing?",
+      "options": {
+        "A": "Self-determination",
+        "B": "Sense of meaning",
+        "C": "Sense of impact",
+        "D": "Sense of competence"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 8.4 describes a sense of impact as believing that your ideas are listened to and that you can influence work outcomes, the one piece she lacks. (Exhibit 8.4, Characteristics of Empowered People)\n**Why not A:** She chooses her own methods, so she has self-determination.\n**Why not B:** She believes her work has an important purpose, so she has a sense of meaning.\n**Why not D:** She knows she does the work well, so she has a sense of competence."
+    },
+    {
+      "topic": "Empowerment and workplace politics",
+      "question": "A skilled designer who cares deeply about her projects complains that her manager dictates and checks every step of her work. Which characteristic of empowered people in Exhibit 8.4 is being undermined?",
+      "options": {
+        "A": "Self-determination",
+        "B": "Sense of competence",
+        "C": "Sense of meaning",
+        "D": "Sense of impact"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 8.4 describes self-determination as people choosing how to do their work instead of being micromanaged. Dictating every step takes that choice away. (Exhibit 8.4, Characteristics of Empowered People)\n**Why not B:** She is skilled, and nothing suggests she doubts her ability.\n**Why not C:** She cares deeply about her projects, so meaning is intact.\n**Why not D:** Impact is about whether her ideas are heard and shape outcomes; her complaint is about how her work is controlled."
+    },
+    {
+      "topic": "Empowerment and workplace politics",
+      "question": "Filling in Exhibit 8.5, an employee strongly agrees with item 12, 'Pay and promotion policies are generally clearly communicated in this organization.' How is this answer scored?",
+      "options": {
+        "A": "5 points, the same as strong agreement on every other item",
+        "B": "1 point, because items 11 and 12 are reverse-scored",
+        "C": "No points, because policy items are left out of the total",
+        "D": "10 points, because the policy items count double"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 8.5 scores items 1 to 10 from 1 point (strongly disagree) to 5 points (strongly agree), but reverses items 11 and 12, so strongly agree earns 1 point. A higher total means more perceived politics, and clearly communicated policies point to less. (Exhibit 8.5, A Quick Measure of How Political Your Workplace Is)\n**Why not A:** Items 11 and 12 are the exception, because they are reverse-scored.\n**Why not C:** All 12 items are summed into the total.\n**Why not D:** No item counts double; items 11 and 12 are only reversed."
+    },
+    {
+      "topic": "Empowerment and workplace politics",
+      "question": "An HR team runs the Exhibit 8.5 questionnaire. Item 6 reads, 'My co-workers help themselves, not others.' Which of the questionnaire's three dimensions of perceived politics does this item tap?",
+      "options": {
+        "A": "Manager behaviour",
+        "B": "Organizational policies and practices",
+        "C": "Impression management",
+        "D": "Co-worker behaviour"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 8.5 says the questionnaire taps three dimensions linked to perceptions of politics: manager behaviour, co-worker behaviour, and organizational policies and practices. An item about co-workers helping themselves taps co-worker behaviour. (Exhibit 8.5, A Quick Measure of How Political Your Workplace Is)\n**Why not A:** Manager-behaviour items cover what managers do, such as hiring or rating people to suit their own agenda.\n**Why not B:** Policy items cover pay and promotion rules, such as whether they are well defined and clearly communicated.\n**Why not C:** Impression management is a separate topic in the chapter, not one of the questionnaire's three dimensions."
+    },
+    {
+      "topic": "Impression management techniques",
+      "question": "After a project slips, a coordinator weighs two ways to manage his boss's impression: downplaying how serious the delay is, or admitting fault and asking to be forgiven. Which category does Exhibit 8.7 put both of these techniques in?",
+      "options": {
+        "A": "Defensive techniques: excuses and apologies",
+        "B": "Assertive techniques: flattery and exemplification",
+        "C": "Self-focused techniques: self-promotion and enhancement",
+        "D": "Ingratiation: conformity and favours"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 8.7 classes excuses (explaining a predicament so as to minimize its apparent severity) and apologies (admitting responsibility while seeking a pardon) as defensive impression management techniques. (Exhibit 8.7, Impression Management Techniques)\n**Why not B:** Flattery and exemplification are the exhibit's assertive techniques.\n**Why not C:** Self-promotion and enhancement are its self-focused techniques.\n**Why not D:** Conformity and favours are forms of ingratiation, aimed at winning approval."
+    },
+    {
+      "topic": "Impression management techniques",
+      "question": "A new hire regularly stays late and makes sure her supervisor sees her late-night emails, and she often compliments colleagues on how skilfully they handle clients. Exhibit 8.7 puts both of these techniques in which category?",
+      "options": {
+        "A": "Defensive",
+        "B": "Self-focused",
+        "C": "Assertive",
+        "D": "Ingratiation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Staying late to show dedication is exemplification, and complimenting others' virtues to appear perceptive and likeable is flattery. Exhibit 8.7 classes both as assertive impression management techniques. (Exhibit 8.7, Impression Management Techniques)\n**Why not A:** The defensive techniques are excuses and apologies, used after a predicament.\n**Why not B:** The self-focused techniques are self-promotion and enhancement.\n**Why not D:** Ingratiation covers conformity and favours in the exhibit."
+    },
+    {
+      "topic": "Impression management techniques",
+      "question": "A developer tells the vice-president that her small bug fix 'basically saved the product launch', even though most people saw it as routine work. Which technique in Exhibit 8.7 is this?",
+      "options": {
+        "A": "Self-promotion",
+        "B": "Enhancement",
+        "C": "Exemplification",
+        "D": "Excuses"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 8.7 defines enhancement as claiming that something you did is more valuable than most other members of the organization would think, a self-focused technique. (Exhibit 8.7, Impression Management Techniques)\n**Why not A:** Self-promotion highlights your best qualities and achievements while downplaying deficits; here she inflates the value of one piece of work.\n**Why not C:** Exemplification is doing more than you need to, to show dedication.\n**Why not D:** Excuses minimize the severity of a predicament, and there is no predicament here."
+    },
+    {
+      "topic": "Impression management techniques",
+      "question": "In a planning meeting, an analyst instantly says she 'couldn't agree more' with her director's plan, mainly to win the director's approval. Which technique in Exhibit 8.7 is she using, and how does the exhibit classify it?",
+      "options": {
+        "A": "Flattery, an assertive technique",
+        "B": "Enhancement, a self-focused technique",
+        "C": "Apology, a defensive technique",
+        "D": "Conformity, a form of ingratiation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 8.7 defines conformity as agreeing with someone else's opinion to gain their approval, and calls it a form of ingratiation. (Exhibit 8.7, Impression Management Techniques)\n**Why not A:** Flattery compliments a person's virtues; she is agreeing with an opinion.\n**Why not B:** Enhancement inflates the value of your own work.\n**Why not C:** An apology admits responsibility for an undesirable event and seeks a pardon."
+    },
+    {
+      "topic": "Impression management techniques",
+      "question": "After missing a client deadline, a team lead says, 'That's on me. I'm sorry, and I hope you'll give us the chance to make it right.' Which technique in Exhibit 8.7 is this?",
+      "options": {
+        "A": "Excuses",
+        "B": "Exemplification",
+        "C": "Apologies",
+        "D": "Favours"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 8.7 defines an apology as admitting responsibility for an undesirable event while seeking a pardon for it, a defensive technique. (Exhibit 8.7, Impression Management Techniques)\n**Why not A:** An excuse explains the event so as to minimize how serious it seems, instead of taking responsibility.\n**Why not B:** Exemplification is doing more than you need to, to show dedication.\n**Why not D:** Favours are doing something nice for someone to win their approval."
+    }
+  ]
+}

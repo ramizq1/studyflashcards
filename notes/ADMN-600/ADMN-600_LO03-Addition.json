@@ -1,0 +1,315 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "03",
+    "title": "Values, Attitudes, and Diversity in the Workplace"
+  },
+  "deckTitle": "LO03-Addition: Values, Attitudes, and Diversity in the Workplace",
+  "collection": "Lecture slide additions: charts and pictures (9th Canadian ed.)",
+  "collectionOrder": 1.5,
+  "source": "03_langton_OB_9e_ppt_ch03.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Assessing cultural values",
+      "question": "Two new analysts, one from China and one from Nigeria, are joining a planning team. On which dimension does Exhibit 3.1 show the widest gap between their home cultures?",
+      "options": {
+        "A": "Indulgence",
+        "B": "Uncertainty avoidance",
+        "C": "Long-term orientation",
+        "D": "Power distance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 3.1 gives China 87 and Nigeria 13 on long-term orientation, a 74-point gap, the largest between these two countries on any dimension. (Exhibit 3.1, Hofstede's Cultural Dimensions for Countries with Most Immigration to Canada in 2019)\n**Why not A:** The indulgence gap is also large (Nigeria 84, China 24), but at 60 points it is smaller than the long-term orientation gap.\n**Why not B:** On uncertainty avoidance Nigeria scores 55 and China 30, a gap of only 25.\n**Why not D:** Both countries score 80 on power distance, so there is no gap at all."
+    },
+    {
+      "topic": "Assessing cultural values",
+      "question": "An employer planning team social events notices big cultural differences on indulgence among its newcomer staff. According to Exhibit 3.1, which home culture scores far higher on indulgence than the other three?",
+      "options": {
+        "A": "China",
+        "B": "India",
+        "C": "The Philippines",
+        "D": "Nigeria"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Nigeria's indulgence score in Exhibit 3.1 is 84, double the Philippines (42) and far above India (26) and China (24). Nigeria's scores are marked as estimated. (Exhibit 3.1, Hofstede's Cultural Dimensions for Countries with Most Immigration to Canada in 2019)\n**Why not A:** China has the lowest indulgence score of the four, at 24.\n**Why not B:** India scores 26, close to China.\n**Why not C:** The Philippines is second at 42, well below Nigeria."
+    },
+    {
+      "topic": "Assessing cultural values",
+      "question": "A manager assumes the four newcomer cultures in Exhibit 3.1 are all equally collectivist. Which home culture actually scores highest on individualism, though still below the midpoint of the scale?",
+      "options": {
+        "A": "India",
+        "B": "The Philippines",
+        "C": "Nigeria",
+        "D": "China"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** On individualism, Exhibit 3.1 shows India at 48, ahead of the Philippines (32), Nigeria (30) and China (20). All four are below 50, but India is closest to the midpoint. (Exhibit 3.1, Hofstede's Cultural Dimensions for Countries with Most Immigration to Canada in 2019)\n**Why not B:** The Philippines scores 32 on individualism, well below India.\n**Why not C:** Nigeria's estimated score is 30.\n**Why not D:** China has the lowest individualism score of the four, at 20."
+    },
+    {
+      "topic": "Assessing cultural values",
+      "question": "An HR analyst building a cultural briefing plans to quote Nigeria's scores from Exhibit 3.1 as precise measurements. What caution does the exhibit itself flag?",
+      "options": {
+        "A": "Nigeria's scores cover only two of the six dimensions",
+        "B": "Nigeria's scores are marked as estimates, not measured values",
+        "C": "Nigeria's scores are averages of the other three countries",
+        "D": "Nigeria's scores come from a much older survey than the rest"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 3.1, Nigeria carries an asterisk that the chart explains as 'Estimated', so its scores should be treated as estimates rather than precise measurements. (Exhibit 3.1, Hofstede's Cultural Dimensions for Countries with Most Immigration to Canada in 2019)\n**Why not A:** Nigeria has a score on all six dimensions in the chart.\n**Why not C:** Nothing in the exhibit says Nigeria's figures come from the other countries, and several of them (indulgence 84, long-term orientation 13) are far from the others.\n**Why not D:** The exhibit gives one source for all four countries; the only flag on Nigeria is that its scores are estimated."
+    },
+    {
+      "topic": "Assessing cultural values",
+      "question": "A diversity trainer asks why Exhibit 3.1 compares China, India, Nigeria and the Philippines rather than, say, the US and the UK. What reason does the exhibit give?",
+      "options": {
+        "A": "They have the highest power distance scores in the world",
+        "B": "They are the countries Hofstede's research covered first",
+        "C": "They sent the most immigrants to Canada in 2019",
+        "D": "They are Canada's largest trading partners overseas"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The exhibit's title says it shows the countries with the most immigration to Canada in 2019. Since newcomers bring values and a work ethic that may differ from yours, these are the cultures Canadian managers are most likely to meet at work. (Exhibit 3.1; Ch 3 slides: Cultural Differences)\n**Why not A:** They do score high on power distance, but the exhibit makes no world-ranking claim, and that isn't why they were chosen.\n**Why not B:** The slides say nothing about the order of Hofstede's research.\n**Why not D:** Trade isn't mentioned; the exhibit is about immigration."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "A long-serving employee believes promotions should come from tenure and proven productivity, and is wary of colleagues who rise on one flashy success. Which generation in Exhibit 3.2 does this describe?",
+      "options": {
+        "A": "Boomers",
+        "B": "Builders",
+        "C": "Gen X",
+        "D": "Xennials"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 3.2 describes Builders as believing in earning your way through hard work, with promotions due to tenure and proven productivity, and as distrusting flash-in-the-pan successes. (Exhibit 3.2, Eight Generations Emerging in the Workplace)\n**Why not A:** Boomers are described as workaholics who relish long weeks and overtime and are seen as good team players.\n**Why not C:** Gen X is described as juggling work and family and as the biggest revenue generators.\n**Why not D:** Xennials are described as highly adaptive, with strong but less vocal opinions."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "Two young employees belong to the same generation in Exhibit 3.2, yet one is driven by status, success and hype and the other by sustainability, equality and mental health. Which generation's two subdivisions do they represent?",
+      "options": {
+        "A": "Millennials (Gen Y)",
+        "B": "Gen Z",
+        "C": "Gen Alpha",
+        "D": "Zennials"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 3.2 splits Zennials into Gen Me, driven by status, success and hype, and Gen We, driven by sustainability, equality and mental health. Zennials are also described as pragmatic, self-taught and resourceful, and as using social media for everything. (Exhibit 3.2, Eight Generations Emerging in the Workplace)\n**Why not A:** Millennials are described as independent workers drawn to companies with social responsibility initiatives, with no subdivisions.\n**Why not B:** Gen Z is described by its entrepreneurial ambitions and 'always on' multitasking.\n**Why not C:** Gen Alpha, born after 2015, is not yet in the workplace."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "A manager has a highly adaptive team member who adjusts easily to different points of view and holds strong opinions but rarely voices them. Following Exhibit 3.2, which approach fits best?",
+      "options": {
+        "A": "Leave them alone, since Millennials prefer to work independently",
+        "B": "Offer a venture project, since Gen Z wants to be entrepreneurial",
+        "C": "Coach them, since Xennials can then leverage their point of view",
+        "D": "Reward their tenure, since Builders believe in earning their way"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 3.2 describes Xennials as highly adaptive and able to adjust to different points of view, with strong opinions but less vocal than Millennials, and says that with coaching they can leverage their unique point of view. (Exhibit 3.2, Eight Generations Emerging in the Workplace)\n**Why not A:** Independent work matches the exhibit's description of Millennials, not an adaptive but quiet employee.\n**Why not B:** Wanting to be entrepreneurs describes Gen Z (72% of them).\n**Why not D:** Valuing tenure describes Builders; nothing in the scenario points there."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "A start-up's recruiter notices that most of her youngest applicants hope to start their own businesses one day and are at ease working across several screens at once. Which generation does Exhibit 3.2 describe this way?",
+      "options": {
+        "A": "Gen Z",
+        "B": "Zennials",
+        "C": "Millennials (Gen Y)",
+        "D": "Gen Alpha"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 3.2 says 72% of Gen Zers want to be entrepreneurs and describes them as 'always on' employees who can multitask with multiple screens. (Exhibit 3.2, Eight Generations Emerging in the Workplace)\n**Why not B:** Zennials are described as using social media for everything and as pragmatic and self-taught, with Gen Me and Gen We subdivisions.\n**Why not C:** Millennials are described as independent workers drawn to socially responsible companies.\n**Why not D:** Gen Alpha, born after 2015, is not old enough to be applying for jobs yet."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "A workforce planner is preparing for the generation that Exhibit 3.2 says will arrive in workplaces within a couple of years. What does the exhibit tell her to expect?",
+      "options": {
+        "A": "Workaholics who relish long weeks and overtime",
+        "B": "Workers who expect promotion based on tenure",
+        "C": "Employees who juggle work and family and drive revenue",
+        "D": "The most educated, tech-savvy generation, for whom AI is reality"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 3.2 describes Gen Alpha as born after 2015 and due in the workplace in a couple of years: the most educated and tech-savvy generation, for whom AI is a reality and social media will be the dominant form of interaction. (Exhibit 3.2, Eight Generations Emerging in the Workplace)\n**Why not A:** That describes Boomers.\n**Why not B:** That describes Builders.\n**Why not C:** That describes Gen X."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "A consultant quotes two survey figures from Exhibit 3.2: 70% of companies believe one generation makes the best overall workers, and 53% say another is made up of good team players. Which generations are these, in that order?",
+      "options": {
+        "A": "Millennials, then Builders",
+        "B": "Gen X, then Boomers",
+        "C": "Boomers, then Gen X",
+        "D": "Gen Z, then Xennials"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 3.2 says 70% of companies believe Gen X are the best overall workers (it also calls them the biggest revenue generators), and 53% say Boomers are good team players who work well with others. (Exhibit 3.2, Eight Generations Emerging in the Workplace)\n**Why not A:** The exhibit gives no company-survey figures for Millennials or Builders.\n**Why not C:** This reverses the two generations.\n**Why not D:** The only figure for Gen Z is that 72% want to be entrepreneurs, and Xennials have no survey figure."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "A federal agency is opening service offices across Canada's Arctic and wants to offer services in the Indigenous language family that Exhibit 3.3 shows spoken across the North. Which family is it?",
+      "options": {
+        "A": "Athabaskan languages",
+        "B": "Algonquian languages",
+        "C": "Inuit languages",
+        "D": "Salish languages"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** On the Exhibit 3.3 map, communities that speak Inuit languages at home are spread across the Arctic and the northern coasts. (Exhibit 3.3, Indigenous Languages Spoken in Canadian Homes)\n**Why not A:** Athabaskan languages are concentrated in the northwest, not across the Arctic.\n**Why not B:** Algonquian languages dominate the southern half of the country, from the Prairies to the Atlantic.\n**Why not D:** Salish languages appear only in the far southwest."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "A national bank wants to translate customer materials into the one Indigenous language family spoken at home in the most communities from the Prairies through Ontario, Quebec and the Atlantic provinces. Based on Exhibit 3.3, which family should it choose?",
+      "options": {
+        "A": "Algonquian languages",
+        "B": "Siouan languages",
+        "C": "Inuit languages",
+        "D": "Wakashan languages"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The Exhibit 3.3 map shows Algonquian-speaking communities in a dense band from the Prairies east through Ontario and Quebec to the Atlantic provinces, far more widespread than any other family. (Exhibit 3.3, Indigenous Languages Spoken in Canadian Homes)\n**Why not B:** Siouan languages appear in only a few Prairie communities.\n**Why not C:** Inuit languages are spoken in the Arctic and along the northern coasts, not across the south.\n**Why not D:** Wakashan languages are limited to the west coast."
+    },
+    {
+      "topic": "Values in the Canadian workplace",
+      "question": "An HR director arguing for Indigenous-language services quotes the headline figure in Exhibit 3.3: 228,765. What does that number count?",
+      "options": {
+        "A": "Indigenous people employed in federal jobs in 2016",
+        "B": "People who studied an Aboriginal language at school in 2016",
+        "C": "People who used an Aboriginal language at work in 2016",
+        "D": "People who spoke an Aboriginal language at home in 2016"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 3.3 states that in 2016, 228,765 people spoke an Aboriginal language at home, and maps the main language families spoken at home in communities across Canada. (Exhibit 3.3, Indigenous Languages Spoken in Canadian Homes)\n**Why not A:** The figure counts language use at home, not employment.\n**Why not B:** The exhibit says nothing about studying a language at school.\n**Why not C:** The map and the figure are about the language spoken at home, not at work."
+    },
+    {
+      "topic": "Attitudes and job satisfaction",
+      "question": "After the company cancels its bonus program, Jordan concludes that management broke its word, feels angry at the company and starts urging co-workers to look for jobs elsewhere. How does Exhibit 3.4 say these three reactions relate?",
+      "options": {
+        "A": "They are three separate attitudes, each needing its own fix",
+        "B": "Only the urging counts, since thoughts and feelings are private",
+        "C": "The anger causes the judgment, never the other way round",
+        "D": "They are closely related parts of one negative attitude"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 3.4 shows the cognitive (evaluation), affective (feeling) and behavioural (action) components feeding a single negative attitude, and notes that cognition, affect and behaviour are closely related. Jordan's judgment, anger and actions are those three components. (Exhibit 3.4, The Components of an Attitude)\n**Why not A:** The exhibit treats them as components of one attitude, not as three attitudes.\n**Why not B:** All three components make up the attitude; the exhibit gives thoughts and feelings an equal place with actions.\n**Why not C:** The exhibit links the components with two-way arrows, not a one-way chain."
+    },
+    {
+      "topic": "Attitudes and job satisfaction",
+      "question": "An engagement survey has three items: (1) 'I plan to look for another job this year', (2) 'Management treats people fairly', (3) 'I enjoy coming to work'. Using Exhibit 3.4's labels, which component does each item tap, in order?",
+      "options": {
+        "A": "Affective, cognitive, behavioural",
+        "B": "Behavioural, cognitive, affective",
+        "C": "Cognitive, behavioural, affective",
+        "D": "Behavioural, affective, cognitive"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 3.4, the behavioural component is action (a plan to leave), the cognitive component is evaluation (a judgment that management is fair) and the affective component is feeling (enjoying work). (Exhibit 3.4, The Components of an Attitude)\n**Why not A:** A plan to look for a job is an intended action, not a feeling.\n**Why not C:** 'Management treats people fairly' is an evaluation, which is cognitive, not behavioural.\n**Why not D:** This swaps the evaluation and the feeling."
+    },
+    {
+      "topic": "Attitudes and job satisfaction",
+      "question": "A Canadian HR team reviews the World Happiness Report, as the slides recommend, to see where Canada stood from 2018 to 2020. What does Exhibit 3.5 show?",
+      "options": {
+        "A": "Canada ranked 14th (7.103), behind Finland and ahead of the US",
+        "B": "Canada ranked 1st (7.842), ahead of all the Nordic countries",
+        "C": "Canada ranked 19th (6.951), just ahead of Belgium",
+        "D": "Canada ranked 4th (7.554), just behind Switzerland"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 3.5, Canada is 14th with a score of 7.103. Finland leads at 7.842, and the United Kingdom (17th) and the United States (19th) rank below Canada. (Exhibit 3.5, Ranking of Happiness (2018-2020))\n**Why not B:** First place, at 7.842, belongs to Finland.\n**Why not C:** 19th place, at 6.951, belongs to the United States.\n**Why not D:** 4th place, at 7.554, belongs to Iceland."
+    },
+    {
+      "topic": "Attitudes and job satisfaction",
+      "question": "A manager asks why an organizational behaviour course would show a country happiness ranking like Exhibit 3.5. What reason do the slides give?",
+      "options": {
+        "A": "Happier countries pay more, and pay is the main source of satisfaction",
+        "B": "The ranking predicts which immigrants will be the most productive",
+        "C": "Happiness is linked to job satisfaction, so the report can guide action",
+        "D": "Happiness has replaced job satisfaction as the key work attitude"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The slides introduce Exhibit 3.5 by noting that happiness is linked to job satisfaction, and suggest OB professionals review the happiness report to decide how to address negative feelings employees have at work. (Ch 3 slides: Job Satisfaction; Exhibit 3.5)\n**Why not A:** The slides say that once people reach a comfortable living, the link between pay and satisfaction virtually disappears.\n**Why not B:** The slides make no link between the ranking and immigrants' productivity.\n**Why not D:** Job satisfaction is still listed as a key attitude; happiness is linked to it, not a replacement for it."
+    },
+    {
+      "topic": "Attitudes and job satisfaction",
+      "question": "An HR analyst compares her firm's survey with Exhibit 3.6 to see which single job facet averages the highest satisfaction. What does the exhibit show?",
+      "options": {
+        "A": "Co-workers",
+        "B": "Work itself",
+        "C": "Supervision",
+        "D": "Pay"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 3.6 the work itself has the tallest facet bar, with roughly three-quarters of employees satisfied, nearly level with overall satisfaction. This fits the slides' point that enjoying the work itself is almost always most strongly tied to high job satisfaction. (Exhibit 3.6, Average Job Satisfaction Levels by Facet)\n**Why not A:** Co-workers come second among the facets, a little below the work itself.\n**Why not C:** Supervision is below both the work itself and co-workers.\n**Why not D:** Pay is the second-lowest facet, above only promotion."
+    },
+    {
+      "topic": "Attitudes and job satisfaction",
+      "question": "A compensation manager expects pay to be the facet employees are least satisfied with. Reading Exhibit 3.6, how does average satisfaction with pay actually compare with the other facets?",
+      "options": {
+        "A": "It is second lowest, above only promotion",
+        "B": "It is the highest facet, above overall satisfaction",
+        "C": "It is the lowest facet, well below promotion",
+        "D": "It is level with co-workers and supervision"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 3.6 puts pay just under 60%, below the work itself, co-workers and supervision, but far above promotion, the lowest facet at around 20%. (Exhibit 3.6, Average Job Satisfaction Levels by Facet)\n**Why not B:** The work itself and overall satisfaction are the tallest bars; pay is well below them.\n**Why not C:** Promotion, not pay, is the lowest facet by a wide margin.\n**Why not D:** Pay sits clearly below both co-workers and supervision."
+    },
+    {
+      "topic": "Attitudes and job satisfaction",
+      "question": "A manager sees that only about one in five employees is satisfied with promotion opportunities, yet overall job satisfaction is high, and assumes the survey must be wrong. Is this pattern consistent with Exhibit 3.6?",
+      "options": {
+        "A": "No, since overall satisfaction must equal the average of the facets",
+        "B": "No, since promotion is the most satisfying facet in the exhibit",
+        "C": "Yes, but only because pay is the top-rated facet in the exhibit",
+        "D": "Yes, the exhibit shows high overall satisfaction with low promotion"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 3.6 shows overall satisfaction close to 80% even though satisfaction with promotion is only around 20%, so one weak facet can sit alongside high overall satisfaction. (Exhibit 3.6, Average Job Satisfaction Levels by Facet)\n**Why not A:** In the exhibit, overall satisfaction is about as high as the top facet and far above what averaging the facets would give.\n**Why not B:** Promotion is the lowest facet, not the highest.\n**Why not C:** Pay is the second-lowest facet; the work itself is the highest."
+    },
+    {
+      "topic": "Responses to dissatisfaction",
+      "question": "Frustrated by a reorganization, a technician starts arriving late, puts in less effort and lets errors pile up. Where does Exhibit 3.7 place this response?",
+      "options": {
+        "A": "Exit: active and destructive",
+        "B": "Loyalty: passive and constructive",
+        "C": "Neglect: passive and destructive",
+        "D": "Voice: active and constructive"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 3.7 puts neglect in the passive, destructive quadrant: letting conditions worsen through lateness, reduced effort and growing errors, without acting to change anything. (Exhibit 3.7, Responses to Job Dissatisfaction)\n**Why not A:** Exit is active and aimed at leaving the organization; the technician is staying and doing less.\n**Why not B:** Loyalty is passive but constructive: waiting for conditions to improve, not making them worse.\n**Why not D:** Voice is an active, constructive attempt to improve conditions."
+    },
+    {
+      "topic": "Responses to dissatisfaction",
+      "question": "A manager wants to steer unhappy staff toward the responses that Exhibit 3.7 places on the constructive side. Which two responses are those?",
+      "options": {
+        "A": "Voice and loyalty",
+        "B": "Exit and voice",
+        "C": "Loyalty and neglect",
+        "D": "Exit and neglect"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 3.7 the constructive half holds voice (active) and loyalty (passive); the destructive half holds exit (active) and neglect (passive). (Exhibit 3.7, Responses to Job Dissatisfaction)\n**Why not B:** Exit and voice share the active half, but exit is destructive.\n**Why not C:** Loyalty and neglect share the passive half, but neglect is destructive.\n**Why not D:** Exit and neglect are the two destructive responses."
+    },
+    {
+      "topic": "Responses to dissatisfaction",
+      "question": "Two unhappy employees react differently: one quietly lets her work slide, while the other is actively interviewing elsewhere. According to Exhibit 3.7, what do their responses share, and how do they differ?",
+      "options": {
+        "A": "Both are passive; neglect is destructive and exit is constructive",
+        "B": "Both are destructive; neglect is passive and exit is active",
+        "C": "Both are active; neglect is destructive and exit is constructive",
+        "D": "Both are constructive; neglect is passive and exit is active"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 3.7 places exit and neglect on the destructive side. Exit is active (trying to leave), while neglect is passive (letting conditions worsen). (Exhibit 3.7, Responses to Job Dissatisfaction)\n**Why not A:** Exit is active, not passive, and neither response is constructive.\n**Why not C:** Neglect is passive, and exit is destructive, not constructive.\n**Why not D:** Both responses sit on the destructive side of the exhibit."
+    },
+    {
+      "topic": "Responses to dissatisfaction",
+      "question": "A consultant uses Exhibit 3.7 to classify how dissatisfied staff are reacting. Which two questions does the exhibit have her ask about each reaction?",
+      "options": {
+        "A": "Is it active or passive, and is it constructive or destructive?",
+        "B": "Is it caused internally or externally, and is it a one-off?",
+        "C": "Is it cognitive or affective, and is it short- or long-term?",
+        "D": "Is it individual or group-based, and is it formal or informal?"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 3.7 is built on two axes: active versus passive (vertical) and constructive versus destructive (horizontal). Their four combinations give exit, voice, loyalty and neglect. (Exhibit 3.7, Responses to Job Dissatisfaction)\n**Why not B:** The exhibit doesn't sort reactions by their cause or by how often they happen.\n**Why not C:** Cognitive and affective are components of an attitude (Exhibit 3.4), not axes of this exhibit.\n**Why not D:** The exhibit doesn't classify responses as individual or group, or as formal or informal."
+    }
+  ]
+}

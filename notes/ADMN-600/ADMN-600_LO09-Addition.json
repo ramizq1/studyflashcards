@@ -1,0 +1,231 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "09",
+    "title": "Conflict and Negotiation"
+  },
+  "deckTitle": "LO09-Addition: Conflict and Negotiation",
+  "collection": "Lecture slide additions: charts and pictures (9th Canadian ed.)",
+  "collectionOrder": 1.5,
+  "source": "09_langton_OB_9e_ppt_ch09.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Conflict and unit performance",
+      "question": "A design team hasn't had a real disagreement in two years. Members seem apathetic, resist every proposed change and haven't produced a new idea in months. Where does this team sit in Exhibit 9.1?",
+      "options": {
+        "A": "Situation B: optimal, functional conflict",
+        "B": "Situation A: low conflict that is dysfunctional",
+        "C": "Situation C: high conflict that is dysfunctional",
+        "D": "Between B and C: rising but still functional conflict"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 9.1 describes situation A as low or no conflict that is dysfunctional, with a unit that is apathetic, stagnant, nonresponsive to change and lacking new ideas, and low performance. (Exhibit 9.1, Conflict and Unit Performance)\n**Why not A:** Situation B units are viable, self-critical and innovative, with high performance.\n**Why not C:** Situation C has high conflict, with a disruptive, chaotic, uncooperative unit; this team has almost no conflict.\n**Why not D:** The team has almost no conflict, so it sits at the low end of the curve, not between B and C."
+    },
+    {
+      "topic": "Conflict and unit performance",
+      "question": "A department is torn by constant clashes. Meetings are chaotic, work is disrupted and members refuse to cooperate with each other. Which situation in Exhibit 9.1 does this match?",
+      "options": {
+        "A": "Situation A: low conflict, low performance",
+        "B": "Situation B: optimal conflict, high performance",
+        "C": "Situation A: functional conflict, high performance",
+        "D": "Situation C: high conflict, low performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 9.1 describes situation C as a high level of dysfunctional conflict, with a disruptive, chaotic and uncooperative unit and low performance. (Exhibit 9.1, Conflict and Unit Performance)\n**Why not A:** Situation A has too little conflict; its units are apathetic and stagnant, not chaotic.\n**Why not B:** Situation B's optimal conflict produces viable, self-critical, innovative units.\n**Why not C:** Situation A's conflict is dysfunctional and its performance is low."
+    },
+    {
+      "topic": "Conflict and unit performance",
+      "question": "A new manager believes that the less conflict her unit has, the better it will perform. What does the curve in Exhibit 9.1 suggest?",
+      "options": {
+        "A": "Performance peaks at an optimal level of conflict, not at zero",
+        "B": "Performance rises steadily as conflict falls toward zero",
+        "C": "Performance rises steadily as conflict keeps increasing",
+        "D": "The level of conflict has no clear link to performance"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 9.1 is an inverted U: unit performance is highest at situation B, an optimal level of functional conflict, and falls toward both very low (A) and very high (C) conflict. (Exhibit 9.1, Conflict and Unit Performance)\n**Why not B:** At very low conflict (situation A), performance is low, not high.\n**Why not C:** Past the optimal point, more conflict becomes dysfunctional and performance falls (situation C).\n**Why not D:** The curve shows a clear link: performance rises and then falls as conflict increases."
+    },
+    {
+      "topic": "Conflict and unit performance",
+      "question": "Two units post equally poor results. One is apathetic and stagnant; the other is chaotic and uncooperative. How does Exhibit 9.1 explain both?",
+      "options": {
+        "A": "Both have optimal conflict that hasn't paid off yet",
+        "B": "Both have too much conflict, at different stages",
+        "C": "Both have dysfunctional conflict: one too little, one too much",
+        "D": "Both have functional conflict but poor leadership"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 9.1, situation A (low or no conflict) and situation C (high conflict) are both labelled dysfunctional with low performance. The apathetic unit has too little conflict and the chaotic one has too much. (Exhibit 9.1, Conflict and Unit Performance)\n**Why not A:** Optimal conflict (situation B) goes with high performance, not poor results.\n**Why not B:** The apathetic, stagnant unit matches the low-conflict end of the curve.\n**Why not D:** The exhibit labels both extremes as dysfunctional conflict and says nothing about leadership."
+    },
+    {
+      "topic": "Conflict-handling strategies",
+      "question": "In a budget dispute, a director bluffs that she will take the issue to the CEO, argues hard for her figure and declares that it is not open for discussion. Which strategy in Exhibit 9.2 do these behaviours signal?",
+      "options": {
+        "A": "Forcing",
+        "B": "Compromising",
+        "C": "Problem solving",
+        "D": "Avoiding"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 9.2 lists making threats and bluffs, making persuasive arguments and making positional commitments as the behaviours of forcing: satisfying one's own interests without concern for the other's. (Exhibit 9.2, Conflict-Handling Strategies and Accompanying Behaviours)\n**Why not B:** Compromising involves matching concessions and searching for a middle ground.\n**Why not C:** Problem solving involves exchanging information about priorities and making trade-offs to find mutually beneficial outcomes.\n**Why not D:** Avoiding means withdrawing from the conflict, not pushing hard in it."
+    },
+    {
+      "topic": "Conflict-handling strategies",
+      "question": "Two managers openly share their priorities. They agree that one gets the earlier launch date, which matters most to her, while the other gets the larger budget, which matters most to him. Which strategy in Exhibit 9.2 is this?",
+      "options": {
+        "A": "Compromising",
+        "B": "Yielding",
+        "C": "Problem solving",
+        "D": "Forcing"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 9.2 describes problem solving as clarifying differences to find mutually beneficial outcomes, by exchanging information about priorities and preferences, showing insights and making trade-offs between important and unimportant issues. (Exhibit 9.2, Conflict-Handling Strategies and Accompanying Behaviours)\n**Why not A:** In compromising both sides give something up to meet in the middle; here each gets what matters most to them.\n**Why not B:** Yielding places the other's interests above one's own, but both managers protect their key interest.\n**Why not D:** Forcing ignores the other party's interests."
+    },
+    {
+      "topic": "Conflict-handling strategies",
+      "question": "To end a disagreement with another team, a team lead drops his request without asking for anything in return and promises to help the other team no matter what. Which strategy in Exhibit 9.2 do these behaviours reflect?",
+      "options": {
+        "A": "Compromising",
+        "B": "Avoiding",
+        "C": "Problem solving",
+        "D": "Yielding"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 9.2 lists making unilateral concessions, making unconditional promises and offering help as the behaviours of yielding: placing the other's interests above one's own. (Exhibit 9.2, Conflict-Handling Strategies and Accompanying Behaviours)\n**Why not A:** In compromising, concessions are matched and promises are conditional; his are one-sided and unconditional.\n**Why not B:** Avoiding withdraws from the conflict, while he actively gives the other team what it wants.\n**Why not C:** Problem solving seeks an outcome that is good for both sides through trade-offs."
+    },
+    {
+      "topic": "Conflict-handling strategies",
+      "question": "A supplier tells a buyer, 'I'll cut my price by 5% if you raise your order by 5%,' and the two keep matching each other's concessions until they land in the middle. Which strategy in Exhibit 9.2 is this?",
+      "options": {
+        "A": "Problem solving",
+        "B": "Compromising",
+        "C": "Forcing",
+        "D": "Yielding"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 9.2 describes compromising as giving up something to reach an outcome, done by both parties, through matching the other's concessions, making conditional promises and threats, and searching for a middle ground. (Exhibit 9.2, Conflict-Handling Strategies and Accompanying Behaviours)\n**Why not A:** Problem solving trades off important against unimportant issues to find mutually beneficial outcomes, rather than splitting the difference.\n**Why not C:** Forcing pushes one side's interests without regard for the other's.\n**Why not D:** Yielding makes one-sided, unconditional concessions; these are matched and conditional."
+    },
+    {
+      "topic": "Conflict-handling strategies",
+      "question": "When a scheduling dispute flares up, an employee neither pushes for what she wants nor tries to meet her colleague's needs; she simply stops thinking about the issue. Where does Exhibit 9.2 place this strategy on its two axes?",
+      "options": {
+        "A": "Avoiding: unassertive and uncooperative",
+        "B": "Yielding: unassertive but cooperative",
+        "C": "Forcing: assertive but uncooperative",
+        "D": "Compromising: midway on both axes"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 9.2 plots strategies on assertiveness (trying to satisfy one's own concerns) and cooperativeness (trying to satisfy the other person's concerns). Avoiding, which means withdrawing from or ignoring conflict ('don't think about the issues'), sits at the unassertive, uncooperative corner. (Exhibit 9.2, Conflict-Handling Strategies and Accompanying Behaviours)\n**Why not B:** Yielding is cooperative: it puts the other person's interests first.\n**Why not C:** Forcing is assertive: it pushes one's own interests.\n**Why not D:** Compromising involves both sides giving something up, not ignoring the issue."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "Negotiating a one-time equipment purchase, a buyer refuses to reveal anything about her budget or needs, convinced the supplier would use it against her. According to Exhibit 9.3, what kind of bargaining does this reflect?",
+      "options": {
+        "A": "Integrative, since she shares information only when useful",
+        "B": "Integrative, since both parties' interests are congruent",
+        "C": "Distributive, since sharing would let the other side exploit her",
+        "D": "Distributive, since she aims to expand the pie for both sides"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 9.3 says information sharing in distributive bargaining is low, because sharing information will only allow the other party to take advantage. In integrative bargaining it is high, so each party can find ways to satisfy both sides' interests. (Exhibit 9.3, Distributive vs Integrative Bargaining)\n**Why not A:** Integrative bargaining is marked by high information sharing, not withholding.\n**Why not B:** Congruent interests belong to integrative bargaining, but she treats the supplier's interests as opposed to hers.\n**Why not D:** Expanding the pie is the integrative goal; the distributive goal is to get as much of the pie as possible."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "A manufacturer is negotiating with a parts supplier it expects to work with for the next ten years. According to Exhibit 9.3, which approach fits that kind of relationship?",
+      "options": {
+        "A": "Distributive, since it suits long-term relationships",
+        "B": "Integrative, since it suits long-term relationships",
+        "C": "Distributive, since win-lose deals build trust over time",
+        "D": "Integrative, since it suits short, one-time deals"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 9.3 links integrative bargaining to long-term relationships and distributive bargaining to short-term ones. A ten-year partnership calls for the win-win, interest-focused approach. (Exhibit 9.3, Distributive vs Integrative Bargaining)\n**Why not A:** Distributive bargaining is linked to short-term relationships.\n**Why not C:** Distributive bargaining is win-lose, and the exhibit doesn't link it to building trust.\n**Why not D:** This reverses the exhibit: integrative bargaining goes with long-term relationships."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "Midway through contract talks, a retailer and a shipper realize they both want to cut damage to goods in transit, so solving that problem helps both of them. In Exhibit 9.3's terms, how are their interests described, and which approach does that fit?",
+      "options": {
+        "A": "Opposed, which fits distributive bargaining",
+        "B": "Opposed, which fits integrative bargaining",
+        "C": "Congruent, which fits distributive bargaining",
+        "D": "Congruent, which fits integrative bargaining"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 9.3 describes interests in integrative bargaining as congruent and in distributive bargaining as opposed. A shared interest such as cutting damage invites a win-win approach. (Exhibit 9.3, Distributive vs Integrative Bargaining)\n**Why not A:** Their interests line up here, so they are not opposed.\n**Why not B:** Opposed interests go with distributive bargaining, not integrative.\n**Why not C:** Congruent interests go with integrative bargaining, not distributive."
+    },
+    {
+      "topic": "Distributive vs integrative bargaining",
+      "question": "On holiday, a tourist haggles hard over a carpet in a market she will never visit again, telling the seller, 'I can't go above this price.' Which column of Exhibit 9.3 best describes her approach?",
+      "options": {
+        "A": "Distributive: win-lose, focused on positions, short term",
+        "B": "Integrative: win-win, focused on interests, long term",
+        "C": "Distributive: win-win, focused on interests, short term",
+        "D": "Integrative: win-lose, focused on positions, long term"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 9.3 describes distributive bargaining as win-lose, focused on positions (its example is 'I can't go beyond this point on this issue') and tied to short-term relationships, all of which fit a one-time haggle. (Exhibit 9.3, Distributive vs Integrative Bargaining)\n**Why not B:** That describes integrative bargaining, which isn't what a one-off haggle over price looks like.\n**Why not C:** Distributive bargaining is win-lose and focused on positions, not win-win and interests.\n**Why not D:** Integrative bargaining is win-win and focused on interests, so this mixes up the columns."
+    },
+    {
+      "topic": "Negotiation process and bargaining zone",
+      "question": "In Exhibit 9.5, the buyer's target is $400, the seller's resistance point is $475, the buyer's resistance point is $525 and the seller's target is $600. Which final price could both sides accept?",
+      "options": {
+        "A": "$450",
+        "B": "$500",
+        "C": "$550",
+        "D": "$600"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The bargaining zone lies between the two resistance points, from $475 (the seller's) to $525 (the buyer's). Only $500 falls inside it. (Exhibit 9.5, Staking Out the Bargaining Zone; Ch 9 slides: Negotiation)\n**Why not A:** $450 is below the seller's resistance point of $475.\n**Why not C:** $550 is above the buyer's resistance point of $525.\n**Why not D:** $600 is the seller's target point, well beyond what the buyer will pay."
+    },
+    {
+      "topic": "Negotiation process and bargaining zone",
+      "question": "A procurement trainee studying Exhibit 9.5 asks what the $525 mark represents. What is it?",
+      "options": {
+        "A": "The seller's resistance point",
+        "B": "The buyer's target point",
+        "C": "The buyer's resistance point",
+        "D": "The seller's target point"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 9.5 labels $525 as the buyer's resistance point, the upper edge of the bargaining zone; the seller's resistance point ($475) marks the lower edge. (Exhibit 9.5, Staking Out the Bargaining Zone)\n**Why not A:** The seller's resistance point is $475.\n**Why not B:** The buyer's target point is $400.\n**Why not D:** The seller's target point is $600."
+    },
+    {
+      "topic": "Negotiation process and bargaining zone",
+      "question": "Using the figures in Exhibit 9.5, the buyer makes a final offer of $460. What does the exhibit suggest about this offer?",
+      "options": {
+        "A": "It can close the deal, since it lies inside the bargaining zone",
+        "B": "It can close the deal, since it beats the buyer's target point",
+        "C": "It forces the seller down to the buyer's target of $400",
+        "D": "It can't close the deal, since it's below the seller's resistance point"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The bargaining zone runs between the two resistance points, $475 and $525. At $460 the offer falls below the seller's resistance point and outside the zone, so no agreement is possible at that price. (Exhibit 9.5, Staking Out the Bargaining Zone; Ch 9 slides: Negotiation)\n**Why not A:** $460 is outside the bargaining zone, which starts at $475.\n**Why not B:** Being above the buyer's own target doesn't help if the seller won't go that low.\n**Why not C:** Nothing in the exhibit forces the seller below its resistance point; $400 is only the buyer's target."
+    },
+    {
+      "topic": "Negotiation process and bargaining zone",
+      "question": "Two departments have each developed a strategy and agreed on the ground rules for negotiating how to share IT costs. According to Exhibit 9.4, which step comes next?",
+      "options": {
+        "A": "Clarifying and justifying",
+        "B": "Bargaining and problem solving",
+        "C": "Achieving closure and implementation",
+        "D": "Developing a strategy"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 9.4 shows the process as developing a strategy, defining ground rules, clarifying and justifying, bargaining and problem solving, and achieving closure and implementation. Clarifying and justifying follows the ground rules. (Exhibit 9.4, The Negotiation Process)\n**Why not B:** Bargaining and problem solving comes after clarifying and justifying.\n**Why not C:** Closure and implementation is the final step.\n**Why not D:** Developing a strategy is the first step, which they have already done."
+    },
+    {
+      "topic": "Negotiation process and bargaining zone",
+      "question": "After weeks of bargaining, a union and an employer reach a deal on scheduling. According to Exhibit 9.4, what final step remains?",
+      "options": {
+        "A": "Defining ground rules",
+        "B": "Clarifying and justifying",
+        "C": "Achieving closure and implementation",
+        "D": "Developing a strategy"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 9.4, achieving closure and implementation follows bargaining and problem solving as the last step of the negotiation process. (Exhibit 9.4, The Negotiation Process)\n**Why not A:** Defining ground rules is the second step, done before any bargaining.\n**Why not B:** Clarifying and justifying is the third step, also before bargaining.\n**Why not D:** Developing a strategy is the first step."
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "04",
+    "title": "Theories of Motivation"
+  },
+  "deckTitle": "LO04-Addition: Theories of Motivation",
+  "collection": "Lecture slide additions: charts and pictures (9th Canadian ed.)",
+  "collectionOrder": 1.5,
+  "source": "04_langton_OB_9e_ppt_ch04.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Needs theories",
+      "question": "A company offers good pay and solid job security, yet new hires still feel like outsiders and many leave within a year. In Exhibit 4.1's workplace version of Maslow's hierarchy, which need is going unmet, and what meets it at work?",
+      "options": {
+        "A": "Safety, which is met through job security",
+        "B": "Self-esteem, which is met through recognition",
+        "C": "Physiological, which is met through salary and rewards",
+        "D": "Belonging, which is met through corporate culture"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 4.1 pairs each of Maslow's levels with a workplace equivalent, and belonging is met through corporate culture. Pay (physiological) and job security (safety) are already in place, so the next unmet need is feeling part of the group. (Exhibit 4.1, Maslow's Hierarchy of Needs Applied to the Workplace)\n**Why not A:** Job security is the workplace form of safety, and the company already provides it.\n**Why not B:** Recognition meets self-esteem, which sits above belonging; the problem here is feeling like an outsider.\n**Why not C:** Salary and rewards meet physiological needs, which good pay already covers."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "An engineer is well paid, has a secure job and is part of a close team, but says no one ever tells her that her work matters. Which level of Exhibit 4.1 is unmet, and what would address it?",
+      "options": {
+        "A": "Self-actualization: performance that drives corporate results",
+        "B": "Self-esteem: feeling valued through recognition",
+        "C": "Belonging: a stronger corporate culture",
+        "D": "Self-transcendence: altruistic goals tied to social responsibility"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 4.1, self-esteem is met at work by the feeling of being valued via recognition. Her pay, security and team cover the lower levels; what's missing is recognition. (Exhibit 4.1, Maslow's Hierarchy of Needs Applied to the Workplace)\n**Why not A:** Self-actualization (performance resulting in positive corporate results) sits above self-esteem; her complaint is about not being valued.\n**Why not C:** She already has a close team, so belonging is met.\n**Why not D:** Self-transcendence is the top level and is about altruistic goals, not about being recognized."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "A senior manager who has already delivered strong results now wants her work to serve goals beyond herself, in line with the company's genuine commitment to social responsibility. Which level does Exhibit 4.1 place at the very top of the pyramid for this?",
+      "options": {
+        "A": "Self-actualization",
+        "B": "Self-esteem",
+        "C": "Self-transcendence",
+        "D": "Belonging"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 4.1 adds self-transcendence above self-actualization, matched at work with altruistic goals aligned to a vision of authentic corporate social responsibility. (Exhibit 4.1, Maslow's Hierarchy of Needs Applied to the Workplace)\n**Why not A:** Self-actualization is matched with performance resulting in positive corporate results, which she has already achieved.\n**Why not B:** Self-esteem is about feeling valued through recognition.\n**Why not D:** Belonging is about fitting into the corporate culture."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "An HR director studying Exhibit 4.2 wants to know which single factor came up most often in the events that led to extreme dissatisfaction. What does the chart show?",
+      "options": {
+        "A": "Company policy and administration",
+        "B": "Relationship with supervisor",
+        "C": "Supervision",
+        "D": "Relationship with peers"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 4.2, company policy and administration has by far the longest bar on the dissatisfaction side, at roughly a third of the 1,844 dissatisfying events. (Exhibit 4.2, Comparison of Satisfiers and Dissatisfiers)\n**Why not B:** Relationship with supervisor appears in only about one in ten dissatisfying events, far fewer than company policy.\n**Why not C:** Supervision is the second most common dissatisfier, but well behind company policy.\n**Why not D:** Relationship with peers has one of the shorter bars on the dissatisfaction side."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "A consultant is arguing to a leadership team that fixing policies and working conditions alone won't create highly satisfied staff. Which figure from the inset of Exhibit 4.2 best supports her?",
+      "options": {
+        "A": "Hygiene factors made up 81% of the factors behind satisfaction",
+        "B": "Motivators and hygiene factors each drove about half of satisfaction",
+        "C": "Motivators made up 81% of the factors behind satisfaction",
+        "D": "Motivators made up 31% of the factors behind satisfaction"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The inset shows motivators accounting for 81% of the factors contributing to job satisfaction, with hygiene factors at only 19%, while hygiene factors made up 69% of the factors contributing to dissatisfaction. Policies and working conditions are hygiene factors, so fixing them mainly reduces dissatisfaction. (Exhibit 4.2, Comparison of Satisfiers and Dissatisfiers)\n**Why not A:** Hygiene factors made up only 19% of the factors behind satisfaction; the 81% belongs to motivators.\n**Why not B:** The split is lopsided, 81% to 19%, not half and half.\n**Why not D:** 31% is the motivators' share of the factors behind dissatisfaction, not satisfaction."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "After fixing a strained supervisor relationship and poor working conditions, a manager expects her team to become highly satisfied, but they simply stop complaining. How does Herzberg's view in Exhibit 4.3 explain this?",
+      "options": {
+        "A": "Satisfaction lies on one continuum, so more of the same fixes are needed",
+        "B": "The fixes were motivators, which take longer to raise satisfaction",
+        "C": "Hygiene factors raise satisfaction only when pay rises too",
+        "D": "Hygiene fixes remove dissatisfaction; satisfaction needs motivators"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 4.3 shows Herzberg's two separate scales: hygiene factors run from dissatisfaction to no dissatisfaction, and motivators run from no satisfaction to satisfaction. Fixing supervision and conditions moved the team to 'no dissatisfaction'; satisfaction would take motivators such as achievement or recognition. (Exhibit 4.3, Contrasting Views of Satisfaction and Dissatisfaction)\n**Why not A:** A single continuum is the traditional view, which Herzberg's view replaces with two scales.\n**Why not B:** Supervisor relationships and working conditions are hygiene factors, not motivators.\n**Why not C:** The exhibit gives hygiene factors no route to satisfaction, with or without pay."
+    },
+    {
+      "topic": "Needs theories",
+      "question": "A trainer uses Exhibit 4.4 to connect the needs theories. An employee with a strong need for affiliation lines up with which of Herzberg's factors, and which of Maslow's levels?",
+      "options": {
+        "A": "Motivators, linked to self-actualization and esteem",
+        "B": "Hygiene factors, linked to social, safety and physiological needs",
+        "C": "Motivators, linked to social and esteem needs",
+        "D": "Hygiene factors, linked to esteem and self-actualization"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 4.4, Maslow's social, safety and physiological needs feed Herzberg's hygiene factors, which connect to McClelland's need for affiliation. Self-actualization and esteem feed the motivators, which connect to the needs for achievement and power. (Exhibit 4.4, Relationship of Various Needs Theories)\n**Why not A:** Motivators line up with the needs for achievement and power, not affiliation.\n**Why not C:** Social needs feed hygiene factors, not motivators, and affiliation links to hygiene.\n**Why not D:** Esteem and self-actualization feed the motivators, not the hygiene factors."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "In Exhibit 4.6, a student is offered $1 million to memorize the textbook by tomorrow morning. The student would love the money but won't even try. Which combination explains this?",
+      "options": {
+        "A": "Expectancy and instrumentality are both zero, though valence is high",
+        "B": "Valence is zero, since the student doesn't value the money",
+        "C": "Expectancy is high, but the reward's valence is too low",
+        "D": "Instrumentality is high, but expectancy and valence are zero"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 4.6 scores expectancy at 0 (memorizing the text in 24 hours isn't possible), instrumentality at 0 (the professor doesn't look like someone with $1 million) and valence at 1 (the money would be wonderful). With the first two links broken, valuing the reward isn't enough to motivate. (Exhibit 4.6, How Does Expectancy Theory Work?)\n**Why not B:** Valence is 1: the student clearly values the money.\n**Why not C:** Expectancy is 0, not high, and valence is high, not low.\n**Why not D:** Instrumentality is 0, and valence is 1, not 0."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "A sales rep is sure she can hit the quarterly target and really wants the promised trip, but after last year's broken promise she doubts the company will pay out. Which link in Exhibit 4.6 is weak?",
+      "options": {
+        "A": "Expectancy: the effort-to-performance link",
+        "B": "Valence: the rewards-to-personal-goals link",
+        "C": "Instrumentality: the performance-to-rewards link",
+        "D": "Equity: the output-to-input comparison"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 4.6 defines instrumentality as the performance-rewards link: will good performance actually bring the reward? Her doubt sits exactly there. (Exhibit 4.6, How Does Expectancy Theory Work?)\n**Why not A:** She is confident she can hit the target, so expectancy is strong.\n**Why not B:** She wants the trip, so valence is strong.\n**Why not D:** Equity theory is a separate model about comparing ratios with others; it isn't one of the three links in Exhibit 4.6."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "A new hire tells his manager, 'No matter how hard I try, I can't get these reports right.' Following Exhibit 4.7, what should the manager do first?",
+      "options": {
+        "A": "Ask him which rewards he values most",
+        "B": "Remind him how past good work led to rewards",
+        "C": "Make sure promised rewards are delivered",
+        "D": "Provide training and set reasonable goals"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** His problem is expectancy, the belief that effort leads to performance. Exhibit 4.7's steps for improving expectancy are to make sure employees have the skills for the task, provide training and assign reasonable tasks and goals. (Exhibit 4.7, Steps to Increasing Motivation, Using Expectancy Theory)\n**Why not A:** Asking about valued rewards improves valence, but he doesn't doubt the reward; he doubts he can perform.\n**Why not B:** Showing how good performance led to rewards improves instrumentality.\n**Why not C:** Delivering rewards as promised also improves instrumentality, not his ability to perform."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "A company's top performers shrug at the 'employee of the month' plaque they win. Which column of Exhibit 4.7 should HR act on, and how?",
+      "options": {
+        "A": "Improving expectancy, by providing more training",
+        "B": "Improving valence, by asking staff which rewards they value",
+        "C": "Improving instrumentality, by delivering rewards as promised",
+        "D": "Improving instrumentality, by recognizing performance more often"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The plaque is delivered but isn't meaningful to the winners, which is a valence problem. Exhibit 4.7 says to make sure the reward is meaningful: ask employees what rewards they value and give rewards that are valued. (Exhibit 4.7, Steps to Increasing Motivation, Using Expectancy Theory)\n**Why not A:** These are top performers; their ability to perform isn't the issue.\n**Why not C:** The reward is already delivered; the problem is that it isn't valued.\n**Why not D:** Their performance is already recognized with the plaque; more of an unvalued reward won't help."
+    },
+    {
+      "topic": "Expectancy theory",
+      "question": "Staff in a large office doubt that working harder will ever be noticed or rewarded. Which actions does Exhibit 4.7 list for fixing this belief?",
+      "options": {
+        "A": "Observe and recognize performance, and deliver rewards as promised",
+        "B": "Check employees have the skills, and assign reasonable goals",
+        "C": "Ask employees what they value, and give valued rewards",
+        "D": "Raise base pay, so that everyone feels more secure"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The doubt is about instrumentality, the belief that performance will lead to reward. Exhibit 4.7's steps for improving it are to observe and recognize performance, deliver rewards as promised and show employees how previous good performance led to greater rewards. (Exhibit 4.7, Steps to Increasing Motivation, Using Expectancy Theory)\n**Why not B:** These steps improve expectancy, the ability to perform.\n**Why not C:** These steps improve valence, how meaningful the reward is.\n**Why not D:** A flat raise isn't tied to performance, so it does nothing for the performance-reward link, and it isn't one of the exhibit's steps."
+    },
+    {
+      "topic": "Goal setting and self-efficacy",
+      "question": "A team leader sets a clear target of 40 client calls a week. Within days, staff stop drifting into side tasks and start mapping out call schedules. Which two mechanisms from Exhibit 4.8 are at work?",
+      "options": {
+        "A": "Regulating effort, and increasing persistence",
+        "B": "Increasing persistence, and directing attention",
+        "C": "Directing attention, and developing strategies and action plans",
+        "D": "Regulating effort, and developing strategies and action plans"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 4.8 says goals motivate by directing attention, regulating effort, increasing persistence and encouraging the development of strategies and action plans. Dropping side tasks is attention being directed; mapping out schedules is strategy and action planning. (Exhibit 4.8, Locke's Model of Goal Setting)\n**Why not A:** Nothing in the scenario shows staff adjusting how hard they work or pushing through setbacks.\n**Why not B:** Attention is right, but there is no setback to show persistence.\n**Why not D:** Planning is right, but the change in focus is attention, not effort."
+    },
+    {
+      "topic": "Goal setting and self-efficacy",
+      "question": "A software migration hits setback after setback, but the team, working to a firm deadline goal, keeps at it instead of giving up. Which mechanism in Exhibit 4.8 does this show most clearly?",
+      "options": {
+        "A": "Directing attention",
+        "B": "Increasing persistence",
+        "C": "Regulating effort",
+        "D": "Developing strategies and action plans"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Keeping going in the face of repeated setbacks is persistence, one of the four ways Exhibit 4.8 says goals motivate, alongside directing attention, regulating effort and encouraging strategies and action plans. (Exhibit 4.8, Locke's Model of Goal Setting)\n**Why not A:** Directing attention is about what people focus on, not about sticking with it through setbacks.\n**Why not C:** Regulating effort is about how hard people work; the key feature here is not quitting.\n**Why not D:** The scenario doesn't mention new plans, only staying with the task."
+    },
+    {
+      "topic": "Goal setting and self-efficacy",
+      "question": "A manager sets a difficult, specific sales goal for a rep who is confident she can reach it. According to Exhibit 4.9, what happens next?",
+      "options": {
+        "A": "She lowers her own goal to avoid the stress of a hard target",
+        "B": "Her confidence replaces the need for any goal at all",
+        "C": "The goal raises her performance only if a bonus is attached",
+        "D": "She sets a higher personal goal, and both lift her performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In Exhibit 4.9, a difficult, specific goal raises the individual's self-efficacy (confidence that a level of performance will be attained) and leads them to set a higher personal goal. Self-efficacy also feeds that self-set goal, and both lead to higher job or task performance. (Exhibit 4.9, Joint Effects of Goals and Self-Efficacy on Performance)\n**Why not A:** The exhibit shows the self-set goal going up, not down.\n**Why not B:** Confidence works together with goals in the model; it doesn't replace them.\n**Why not C:** No reward appears in the exhibit; the effect runs through confidence and goals."
+    },
+    {
+      "topic": "Goal setting and self-efficacy",
+      "question": "A coach explains Exhibit 4.9 to new supervisors: 'Your difficult, specific goal works through the employee.' Which two things in the employee does the goal raise?",
+      "options": {
+        "A": "Their self-efficacy and their self-set goal",
+        "B": "Their pay expectations and their job security",
+        "C": "Their need for affiliation and their need for power",
+        "D": "Their sense of equity and of procedural justice"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 4.9 draws arrows from the manager's difficult, specific goal to the individual's self-efficacy and to a higher self-set goal, and from both of these to higher performance. (Exhibit 4.9, Joint Effects of Goals and Self-Efficacy on Performance)\n**Why not B:** Pay and security don't appear in the exhibit.\n**Why not C:** These are McClelland's needs, a different theory in the chapter.\n**Why not D:** Equity and procedural justice belong to responses to the reward system, not to this model."
+    },
+    {
+      "topic": "Reinforcement",
+      "question": "An employee learns that if he looks busy whenever his manager walks by, he avoids being handed extra tasks, so he keeps doing it. Which type of reinforcement in Exhibit 4.10 does this match?",
+      "options": {
+        "A": "Positive reinforcement",
+        "B": "Punishment",
+        "C": "Negative reinforcement",
+        "D": "Extinction"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 4.10's example of negative reinforcement is a student who looks busily through lecture notes to avoid being called on. Here too, looking busy is strengthened because it ends something unpleasant (being handed extra tasks). (Exhibit 4.10, Types of Reinforcement)\n**Why not A:** Positive reinforcement follows a behaviour with something pleasant, like praise for a job well done.\n**Why not B:** Punishment is an unpleasant consequence meant to stop a behaviour, like an unpaid suspension; here the behaviour is growing.\n**Why not D:** Extinction removes the reinforcement until a behaviour dies out; this behaviour keeps paying off."
+    },
+    {
+      "topic": "Reinforcement",
+      "question": "A team lead stops responding to the ideas people post in the team chat, and within a few weeks nobody posts ideas any more. Which type of reinforcement in Exhibit 4.10 does this match?",
+      "options": {
+        "A": "Extinction",
+        "B": "Punishment",
+        "C": "Negative reinforcement",
+        "D": "Positive reinforcement"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 4.10's extinction example is an instructor who ignores students' raised hands until hand-raising dies out. The team lead's silence removes the reinforcement for posting, so posting fades the same way. (Exhibit 4.10, Types of Reinforcement)\n**Why not B:** Punishment adds an unpleasant consequence, such as an unpaid suspension; the team lead simply stops responding.\n**Why not C:** Negative reinforcement strengthens a behaviour by ending something unpleasant; here a behaviour disappears.\n**Why not D:** Positive reinforcement, such as praise, would strengthen posting, not end it."
+    },
+    {
+      "topic": "Reinforcement",
+      "question": "A firm wants a pay plan that produces very high performance and keeps working even when rewards are slow to arrive. Which schedule in Exhibit 4.11 fits, and what example does the exhibit give?",
+      "options": {
+        "A": "Fixed-ratio, such as piece-rate pay",
+        "B": "Fixed-interval, such as weekly paycheques",
+        "C": "Variable-interval, such as pop quizzes",
+        "D": "Variable-ratio, such as commissioned sales"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 4.11 says a variable-ratio schedule, with rewards at variable amounts of output, produces very high performance with slow extinction; its example is commissioned sales. (Exhibit 4.11, Schedules of Reinforcement)\n**Why not A:** Fixed-ratio gives high, stable performance quickly, but with rapid extinction.\n**Why not B:** Fixed-interval gives average, irregular performance with rapid extinction.\n**Why not C:** Variable-interval gives moderately high, stable performance, not very high performance."
+    },
+    {
+      "topic": "Reinforcement",
+      "question": "A plant pays everyone the same weekly wage regardless of output, and supervisors complain that performance is only average and uneven. What does Exhibit 4.11 say about this schedule?",
+      "options": {
+        "A": "It is fixed-ratio, which gives high, stable performance quickly",
+        "B": "It is fixed-interval, which gives average, irregular performance",
+        "C": "It is variable-interval, which gives moderately high, stable results",
+        "D": "It is continuous, which gives fast learning of new behaviour"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 4.11 lists weekly paycheques as the example of a fixed-interval schedule (reward at fixed time intervals), which produces average and irregular performance with rapid extinction, just what the supervisors see. (Exhibit 4.11, Schedules of Reinforcement)\n**Why not A:** Fixed-ratio rewards fixed amounts of output, like piece-rate pay; this wage ignores output.\n**Why not C:** Variable-interval rewards come at unpredictable times, like pop quizzes; a weekly wage is predictable.\n**Why not D:** Continuous reinforcement rewards every desired behaviour, like compliments."
+    },
+    {
+      "topic": "Reinforcement",
+      "question": "To keep quality steady, a manager starts surprise quality checks at unpredictable times and rewards teams that pass. What does Exhibit 4.11 predict for this variable-interval approach?",
+      "options": {
+        "A": "Fast learning of the behaviour, then rapid extinction",
+        "B": "Average and irregular performance with rapid extinction",
+        "C": "Moderately high, stable performance with slow extinction",
+        "D": "High, stable performance reached quickly, with rapid extinction"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 4.11 says a variable-interval schedule, with rewards at variable time intervals (its example is pop quizzes), produces moderately high and stable performance with slow extinction. (Exhibit 4.11, Schedules of Reinforcement)\n**Why not A:** Fast learning with rapid extinction describes continuous reinforcement.\n**Why not B:** Average, irregular performance describes a fixed-interval schedule such as weekly paycheques.\n**Why not D:** High, stable performance reached quickly with rapid extinction describes a fixed-ratio schedule such as piece-rate pay."
+    },
+    {
+      "topic": "Equity, justice and intrinsic rewards",
+      "question": "Kai learns that a colleague who works fewer hours and produces less earns the same salary he does. Using Exhibit 4.12, how is Kai likely to see his situation?",
+      "options": {
+        "A": "Inequity, underrewarded, since his output-to-input ratio is lower",
+        "B": "Equity, since the two of them earn exactly the same salary",
+        "C": "Inequity, overrewarded, since his output-to-input ratio is higher",
+        "D": "Equity, since he chose to put in the extra hours himself"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 4.12 compares each person's ratio of outputs to inputs. Kai puts in more for the same pay, so his ratio is smaller than his colleague's, which the exhibit labels inequity, underrewarded, from Kai's point of view. (Exhibit 4.12, Equity Theory)\n**Why not B:** Equity depends on equal ratios, not equal pay, and their inputs differ.\n**Why not C:** Overrewarded would mean Kai's ratio is the higher one, but he gets less per unit of input.\n**Why not D:** The exhibit compares ratios; choosing the extra hours doesn't make the ratios equal."
+    },
+    {
+      "topic": "Equity, justice and intrinsic rewards",
+      "question": "Maya discovers that she earns more than a teammate who puts in the same hours and delivers the same results. In Exhibit 4.12's terms, what does she perceive?",
+      "options": {
+        "A": "Equity, since their inputs are the same",
+        "B": "Inequity, underrewarded, since her ratio is lower",
+        "C": "Equity, since higher pay is fair to whoever receives it",
+        "D": "Inequity, overrewarded, since her ratio is higher"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** With equal inputs but higher outcomes, Maya's output-to-input ratio is larger than her teammate's. Exhibit 4.12 labels this inequity, overrewarded, from her point of view. (Exhibit 4.12, Equity Theory)\n**Why not A:** Equity needs equal ratios; equal inputs with unequal pay make the ratios unequal.\n**Why not B:** Her ratio is the higher one, not the lower one.\n**Why not C:** The exhibit treats being overrewarded as a form of inequity, not as equity."
+    },
+    {
+      "topic": "Equity, justice and intrinsic rewards",
+      "question": "Ahmed's raise is smaller than he hoped, but his manager gives him an honest explanation that department cutbacks are the reason, and Ahmed accepts it. Which part of Exhibit 4.13 is at work?",
+      "options": {
+        "A": "Distributive justice",
+        "B": "Informational justice",
+        "C": "Interpersonal justice",
+        "D": "Procedural justice"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 4.13 defines informational justice as the perceived truthfulness of explanations for decisions, and its example is almost exactly this: a lower raise than hoped, explained by department cutbacks. (Exhibit 4.13, Model of Organizational Justice)\n**Why not A:** Distributive justice is about the fairness of the outcome itself, and the outcome here is disappointing.\n**Why not C:** Interpersonal justice is about being treated with dignity and respect, such as being spoken to warmly.\n**Why not D:** Procedural justice is about the fairness of the process used to decide, such as having input into it."
+    },
+    {
+      "topic": "Equity, justice and intrinsic rewards",
+      "question": "Before setting raises, a firm invites staff to give input on the criteria and the process that will be used. Which part of Exhibit 4.13 is this practice aimed at?",
+      "options": {
+        "A": "Distributive justice",
+        "B": "Interpersonal justice",
+        "C": "Procedural justice",
+        "D": "Informational justice"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 4.13 defines procedural justice as the perceived fairness of the process used to determine an outcome, and its example begins 'I had input into the process used to give raises'. (Exhibit 4.13, Model of Organizational Justice)\n**Why not A:** Distributive justice concerns whether the outcome itself is fair, such as getting the raise you deserved.\n**Why not B:** Interpersonal justice concerns being treated with dignity and respect.\n**Why not D:** Informational justice concerns the truthfulness of explanations for decisions already made."
+    },
+    {
+      "topic": "Equity, justice and intrinsic rewards",
+      "question": "In an engagement survey, an employee writes, 'All things considered, I think this is a fair place to work.' In Exhibit 4.13, what does this statement reflect?",
+      "options": {
+        "A": "Distributive justice, which is based only on pay outcomes",
+        "B": "Procedural justice, which is based only on how decisions are made",
+        "C": "Interpersonal justice, which is based only on respectful treatment",
+        "D": "Organizational justice, which the four kinds of justice feed into"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 4.13 defines organizational justice as the overall perception of what is fair in the workplace, with 'I think this is a fair place to work' as its example. Distributive, procedural, informational and interpersonal justice all feed into it. (Exhibit 4.13, Model of Organizational Justice)\n**Why not A:** Distributive justice is one input, about outcomes; the statement is an overall judgment.\n**Why not B:** Procedural justice is one input, about the process.\n**Why not C:** Interpersonal justice is one input, about dignity and respect."
+    },
+    {
+      "topic": "Equity, justice and intrinsic rewards",
+      "question": "A manager wants her analysts to feel more competent in their work. Which practice from Exhibit 4.14 belongs under 'leading for competence'?",
+      "options": {
+        "A": "Delegating authority and trusting workers",
+        "B": "Setting high standards that aren't based on comparing people",
+        "C": "Setting milestones and celebrating them",
+        "D": "Sharing an exciting vision and relevant task purposes"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 4.14 lists knowledge, positive feedback, skill recognition, challenge and high, noncomparative standards as the building blocks of leading for competence. (Exhibit 4.14, Building Blocks for Intrinsic Rewards)\n**Why not A:** Delegated authority and trust in workers are building blocks of leading for choice.\n**Why not C:** Milestones and celebrations are building blocks of leading for progress.\n**Why not D:** An exciting vision and relevant task purposes are building blocks of leading for meaningfulness."
+    },
+    {
+      "topic": "Equity, justice and intrinsic rewards",
+      "question": "After an employee makes an honest mistake, her manager makes clear there will be no punishment, and keeps delegating decisions and sharing information with her. Which building block of intrinsic rewards in Exhibit 4.14 is the manager leading for?",
+      "options": {
+        "A": "Choice",
+        "B": "Competence",
+        "C": "Progress",
+        "D": "Meaningfulness"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 4.14 lists delegated authority, trust in workers, security (no punishment) for honest mistakes, a clear purpose and information as the building blocks of leading for choice. (Exhibit 4.14, Building Blocks for Intrinsic Rewards)\n**Why not B:** Leading for competence builds on knowledge, positive feedback, skill recognition, challenge and high standards.\n**Why not C:** Leading for progress builds on a collaborative climate, milestones, celebrations, access to customers and measuring improvement.\n**Why not D:** Leading for meaningfulness builds on a noncynical climate, clear passions, an exciting vision, relevant purposes and whole tasks."
+    },
+    {
+      "topic": "Equity, justice and intrinsic rewards",
+      "question": "A manager redesigns jobs so that each person handles a whole task from start to finish, links every task to a relevant purpose and works to stamp out cynicism on the team. Which building block of intrinsic rewards in Exhibit 4.14 is this?",
+      "options": {
+        "A": "Leading for choice",
+        "B": "Leading for progress",
+        "C": "Leading for meaningfulness",
+        "D": "Leading for competence"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 4.14 lists a noncynical climate, clearly identified passions, an exciting vision, relevant task purposes and whole tasks as the building blocks of leading for meaningfulness. (Exhibit 4.14, Building Blocks for Intrinsic Rewards)\n**Why not A:** Leading for choice builds on delegated authority, trust, security for honest mistakes, a clear purpose and information.\n**Why not B:** Leading for progress builds on collaboration, milestones, celebrations, access to customers and measuring improvement.\n**Why not D:** Leading for competence builds on knowledge, feedback, skill recognition, challenge and high standards."
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "02",
+    "title": "Perception, Personality, and Emotions"
+  },
+  "deckTitle": "LO02-Addition: Perception, Personality, and Emotions",
+  "collection": "Lecture slide additions: charts and pictures (9th Canadian ed.)",
+  "collectionOrder": 1.5,
+  "source": "02_langton_OB_9e_ppt_ch02.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Factors that influence perception",
+      "question": "Two auditors review the same expense report. One, who was recently burned by a fraud case, zeroes in on the taxi receipts; the other, whose main interest is the hotel bills she negotiated, barely glances at them. Which group of factors in Exhibit 2.1 best explains why they noticed different things?",
+      "options": {
+        "A": "The target: the receipts' size and novelty make them stand out",
+        "B": "The perceiver: the auditors' different experiences and interests",
+        "C": "The situation: the time and work setting each auditor faced",
+        "D": "The target: the receipts' similarity to other items in the report"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 2.1 the perceiver's own attitudes, motives, interests, experience and expectations shape what gets noticed. Both auditors looked at the same report, so the difference comes from inside each of them: one's fraud experience, the other's interest in the hotel bills. (Exhibit 2.1, Factors That Influence Perception)\n**Why not A:** Size and novelty are target factors, but the target was identical for both auditors, so it can't explain the difference.\n**Why not C:** Both worked on the same document in the same setting; nothing about the situation differed.\n**Why not D:** Similarity is also a target factor, and the report was the same for both."
+    },
+    {
+      "topic": "Factors that influence perception",
+      "question": "At a busy trade show, a booth with a moving robot arm and a chiming sound draws far more visitors than the identical booths beside it. Which part of Exhibit 2.1 explains why visitors notice it?",
+      "options": {
+        "A": "The perceiver: visitors' interests and motives",
+        "B": "The situation: the social setting of the show",
+        "C": "The perceiver: visitors' expectations from past shows",
+        "D": "The target: the booth's motion and sounds"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 2.1 lists motion and sounds among the characteristics of the target, the thing being perceived. Only this booth moves and makes noise, and that is what pulls attention to it. (Exhibit 2.1, Factors That Influence Perception)\n**Why not A:** Visitors bring the same interests and motives past every booth; the booths differ, not the visitors.\n**Why not B:** The social setting is the same for every booth in the hall, so it can't single one out.\n**Why not C:** Expectations from past shows would apply to all the booths alike."
+    },
+    {
+      "topic": "Factors that influence perception",
+      "question": "An employee who wears headphones while she works is seen as focused in the open-plan software lab, but as rude when she does the same at the client-facing reception desk. According to Exhibit 2.1, what accounts for the different perceptions?",
+      "options": {
+        "A": "The situation: the work setting she is in",
+        "B": "The perceiver: observers' attitudes toward headphones",
+        "C": "The target: the novelty of headphones at work",
+        "D": "The perceiver: observers' past experiences with staff"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 2.1 names time, work setting and social setting as situational factors. Her behaviour is the same in both places; the setting around it changes, and so does how it is read. (Exhibit 2.1, Factors That Influence Perception)\n**Why not B:** Nothing suggests the observers' attitudes differ; the same behaviour is judged differently because of where it happens.\n**Why not C:** The headphones are equally novel or ordinary in both places, so novelty doesn't explain the switch.\n**Why not D:** Observers' experiences may vary, but the scenario turns on the change of setting, not on who is watching."
+    },
+    {
+      "topic": "Factors that influence perception",
+      "question": "A team lead wants to take the bias out of how she sizes up new hires. Her coach tells her to start with the factors that sit inside her, not in the new hires or in the setting. Which factors from Exhibit 2.1 does the coach mean?",
+      "options": {
+        "A": "Time, work setting and social setting",
+        "B": "Novelty, motion, sounds and size",
+        "C": "Attitudes, motives, interests and expectations",
+        "D": "Background, proximity and similarity"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 2.1 these factors, along with experience, belong to the perceiver, the person doing the perceiving, so they are the ones the team lead carries with her and can examine. (Exhibit 2.1, Factors That Influence Perception)\n**Why not A:** Time, work setting and social setting make up the situation, which is outside her.\n**Why not B:** Novelty, motion, sounds and size describe the target, here the new hires.\n**Why not D:** Background, proximity and similarity are also characteristics of the target, not of the perceiver."
+    },
+    {
+      "topic": "Attribution theory and self-ratings",
+      "question": "Priya, a reliable engineer, misses the deadline on one project, while she delivers on time on all her other projects. Using only the distinctiveness rule in Exhibit 2.2, how would her manager attribute the missed deadline?",
+      "options": {
+        "A": "External, because she seldom behaves this way in other situations",
+        "B": "Internal, because missing a deadline is unusual for her",
+        "C": "Internal, because the problem is limited to one project",
+        "D": "External, because other engineers often miss this deadline too"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Distinctiveness asks how often the person does this in other situations. When the answer is seldom (high distinctiveness), Exhibit 2.2 points to an external cause, likely something about that one project. (Exhibit 2.2, Attribution Theory)\n**Why not B:** Behaviour that is unusual for the person is high distinctiveness, which the exhibit links to an external cause, not an internal one.\n**Why not C:** A problem confined to one situation is exactly what high distinctiveness means, and it points outward, not inward.\n**Why not D:** What other engineers do is the consensus rule, and the scenario gives no information about them."
+    },
+    {
+      "topic": "Attribution theory and self-ratings",
+      "question": "Every other driver on a delivery route finishes on time in the same snowstorm, but Marco arrives two hours late. What does the consensus rule in Exhibit 2.2 suggest about the cause?",
+      "options": {
+        "A": "External, since the storm affected everyone on the route",
+        "B": "External, since Marco is seldom late in other situations",
+        "C": "Internal, since other drivers seldom behaved this way",
+        "D": "Internal, since Marco is often late on this route"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Consensus asks how often other people do this in similar situations. Here the others seldom did (low consensus), and Exhibit 2.2 links low consensus to an internal cause, something about Marco. (Exhibit 2.2, Attribution Theory)\n**Why not A:** The storm hit everyone, yet only Marco was late, so the storm doesn't explain his lateness.\n**Why not B:** That reasoning uses distinctiveness, and the scenario says nothing about Marco's behaviour in other situations.\n**Why not D:** That uses consistency, and the scenario gives no history of Marco's past deliveries."
+    },
+    {
+      "topic": "Attribution theory and self-ratings",
+      "question": "A sales rep with eight years of polite customer service snaps at a customer for the first time. Looking only at consistency, what does Exhibit 2.2 suggest her manager conclude?",
+      "options": {
+        "A": "Internal, because one outburst reveals her real attitude",
+        "B": "Internal, because low consistency points to a personal cause",
+        "C": "Internal, because the outburst was aimed at a customer",
+        "D": "External, because she has seldom acted this way before"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Consistency asks how often the person did this in the past. A first-ever outburst after eight years is low consistency (seldom), and Exhibit 2.2 links low consistency to an external cause. (Exhibit 2.2, Attribution Theory)\n**Why not A:** One out-of-character act is weak evidence of her real attitude; the exhibit treats rare past behaviour as a sign of an outside cause.\n**Why not B:** This flips the rule: it is high consistency (doing it frequently) that points to an internal cause.\n**Why not C:** Who the behaviour was aimed at is not one of the three rules in the exhibit."
+    },
+    {
+      "topic": "Attribution theory and self-ratings",
+      "question": "During a week-long system outage, most call-centre agents miss their call targets, and Lena does too. She normally hits every metric and has never missed a target before. How does Exhibit 2.2 suggest her supervisor read Lena's miss?",
+      "options": {
+        "A": "Internal, since the miss shows a drop in her effort",
+        "B": "External, since all three rules point to the outage",
+        "C": "Internal, since her low consistency signals a personal cause",
+        "D": "Mixed, since consensus points outward but consistency inward"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Consensus is high (most agents missed), distinctiveness is high (she seldom falls short on her other metrics) and consistency is low (she has never missed before). In Exhibit 2.2 all three of those readings lead to an external cause. (Exhibit 2.2, Attribution Theory)\n**Why not A:** None of the cues points to her effort; every rule points to the situation.\n**Why not C:** Low consistency points to an external cause in the exhibit, not an internal one.\n**Why not D:** Low consistency points outward too, so the cues agree rather than conflict."
+    },
+    {
+      "topic": "Attribution theory and self-ratings",
+      "question": "A consultant shows managers Exhibit 2.3, where 78% of people rate their own performance above average and a red line runs across the chart at 50%. What does the red line mark?",
+      "options": {
+        "A": "The minimum share needed for a reliable survey",
+        "B": "The group's true average performance score",
+        "C": "The share who rated themselves below average",
+        "D": "The share who could really be above average"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** At most about half of a group can truly be above average, so the 50% line is the realistic benchmark. Every bar sits well above it, which shows people overrate themselves: the overconfidence the exhibit's source is about. (Exhibit 2.3, Percentage of Individuals Rating Themselves Above Average)\n**Why not A:** The chart is about self-ratings, not survey reliability; the line is a benchmark to compare the bars against.\n**Why not B:** The vertical axis is the percentage of people, not a performance score.\n**Why not C:** If 78% rated themselves above average, at most 22% rated themselves otherwise, not 50%."
+    },
+    {
+      "topic": "Attribution theory and self-ratings",
+      "question": "An HR manager designing a self-assessment form worries about inflated self-ratings. Based on Exhibit 2.3, on which attribute should she expect the largest share of staff to rate themselves above average?",
+      "options": {
+        "A": "Job performance",
+        "B": "Ability to get along with others",
+        "C": "Sense of humour",
+        "D": "Emotional stability"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 2.3, 96% of people rated their sense of humour above average, the highest bar, ahead of getting along with others (84%) and performance (78%). (Exhibit 2.3, Percentage of Individuals Rating Themselves Above Average)\n**Why not A:** Performance had the lowest bar of the three, at 78%, though still far above 50%.\n**Why not B:** Getting along with others was high at 84%, but below sense of humour.\n**Why not D:** Emotional stability is a Big Five trait from the chapter; it isn't one of the attributes in the chart."
+    },
+    {
+      "topic": "Big Five traits and their effects",
+      "question": "In an interview, a candidate says she is literal-minded, prefers proven routines to new ideas and doesn't see herself as imaginative. On which Big Five trait from Exhibit 2.4 would she likely score low?",
+      "options": {
+        "A": "Openness to experience",
+        "B": "Conscientiousness",
+        "C": "Emotional stability",
+        "D": "Extraversion"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 2.4 describes the low end of openness to experience as unimaginative, inflexible, literal-minded and dull, which matches her self-description. The high end is creative, flexible, curious and artistic. (Exhibit 2.4, Big Five Personality Traits)\n**Why not B:** Low conscientiousness is easily distracted, disorganized and unreliable; preferring routines is not on that list.\n**Why not C:** Low emotional stability is hostile, anxious, depressed and insecure.\n**Why not D:** Low extraversion is reserved, timid and quiet, which is about social style, not openness to new ideas."
+    },
+    {
+      "topic": "Big Five traits and their effects",
+      "question": "A supervisor notices that one employee reacts to feedback with hostility, worries constantly about being let go and seems deeply insecure. Where would Exhibit 2.4 place this employee?",
+      "options": {
+        "A": "Low on agreeableness",
+        "B": "Low on emotional stability",
+        "C": "Low on extraversion",
+        "D": "Low on conscientiousness"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 2.4 lists hostile, anxious, depressed and insecure at the low end of emotional stability; the high end is calm, self-confident and secure. (Exhibit 2.4, Big Five Personality Traits)\n**Why not A:** Low agreeableness is cold, disagreeable and antagonistic; hostility alone might fit, but the anxiety and insecurity point to emotional stability.\n**Why not C:** Low extraversion is reserved, timid and quiet, not anxious or hostile.\n**Why not D:** Low conscientiousness is easily distracted, disorganized and unreliable."
+    },
+    {
+      "topic": "Big Five traits and their effects",
+      "question": "Two finalists are up for a client-relations job. Ana is gregarious, assertive and sociable; Ben is cooperative, warm, empathetic and trusting. How would Exhibit 2.4 describe them?",
+      "options": {
+        "A": "Ana is high in agreeableness; Ben is high in extraversion",
+        "B": "Ana is high in openness; Ben is high in emotional stability",
+        "C": "Ana is high in emotional stability; Ben is high in conscientiousness",
+        "D": "Ana is high in extraversion; Ben is high in agreeableness"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 2.4 puts gregarious, assertive and sociable at the high end of extraversion, and cooperative, warm, empathetic and trusting at the high end of agreeableness. (Exhibit 2.4, Big Five Personality Traits)\n**Why not A:** This swaps the two traits.\n**Why not B:** High openness is creative, flexible, curious and artistic; high emotional stability is calm, self-confident and secure.\n**Why not C:** High conscientiousness is responsible, organized, dependable and persistent, which doesn't match Ben."
+    },
+    {
+      "topic": "Big Five traits and their effects",
+      "question": "A firm is hiring a remote data-entry clerk who will work alone. One manager wants the most agreeable candidate, arguing that agreeableness drives higher performance. What does Exhibit 2.6 suggest about this reasoning?",
+      "options": {
+        "A": "It holds, since agreeableness raises performance in every job",
+        "B": "It's backwards, since agreeableness lowers performance in solo jobs",
+        "C": "It's weak here, since that link applies to teamwork-heavy jobs",
+        "D": "It's wrong, since agreeableness affects only job satisfaction"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 2.6 marks the performance link for agreeableness (and for extraversion) with an asterisk: it applies in jobs requiring significant teamwork or frequent interpersonal interaction. A solo data-entry job has neither. Conscientiousness, which is linked to higher performance without that condition, is the safer basis. (Exhibit 2.6, How the Big Five Personality Traits Influence OB)\n**Why not A:** The asterisk limits the link; the exhibit doesn't claim it holds in every job.\n**Why not B:** The exhibit never says agreeableness hurts performance; it says the benefit depends on the kind of job.\n**Why not D:** Agreeableness is linked to higher performance (in interactive jobs) and lower deviant behaviour, not to satisfaction."
+    },
+    {
+      "topic": "Big Five traits and their effects",
+      "question": "A company is launching a major restructuring together with an intensive retraining program. Which Big Five trait does Exhibit 2.6 link to both training performance and being more adaptable to change?",
+      "options": {
+        "A": "Conscientiousness",
+        "B": "Openness",
+        "C": "Emotional stability",
+        "D": "Extraversion"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 2.6, openness works through increased learning, creativity, flexibility and autonomy, and leads to training performance, enhanced leadership and greater adaptability to change. (Exhibit 2.6, How the Big Five Personality Traits Influence OB)\n**Why not A:** Conscientiousness leads to higher performance, enhanced leadership and greater longevity, not specifically to training or change.\n**Why not C:** Emotional stability leads to higher job and life satisfaction and lower stress.\n**Why not D:** Extraversion leads to higher performance in interactive jobs, enhanced leadership and higher satisfaction."
+    },
+    {
+      "topic": "Big Five traits and their effects",
+      "question": "A hospital wants to reduce burnout in a high-pressure unit. Which trait does Exhibit 2.6 connect to lower stress levels, through less negative thinking and being less hypervigilant?",
+      "options": {
+        "A": "Emotional stability",
+        "B": "Agreeableness",
+        "C": "Openness",
+        "D": "Extraversion"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 2.6 shows emotional stability leading to less negative thinking, fewer negative emotions and less hypervigilance, which in turn bring higher job and life satisfaction and lower stress levels. (Exhibit 2.6, How the Big Five Personality Traits Influence OB)\n**Why not B:** Agreeableness works through being better liked and more compliant, and leads to performance and less deviance.\n**Why not C:** Openness works through learning and creativity, and leads to training performance and adaptability.\n**Why not D:** Extraversion is linked to job and life satisfaction too, but through interpersonal skills; lower stress is listed only under emotional stability."
+    },
+    {
+      "topic": "Big Five traits and their effects",
+      "question": "A leadership-development committee wants to use Big Five scores to shortlist future leaders. According to Exhibit 2.6, which pair of traits does NOT list enhanced leadership among its effects?",
+      "options": {
+        "A": "Extraversion and openness",
+        "B": "Conscientiousness and extraversion",
+        "C": "Openness and conscientiousness",
+        "D": "Agreeableness and emotional stability"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In Exhibit 2.6, enhanced leadership appears under extraversion, openness and conscientiousness. Agreeableness leads to higher performance and lower deviance, and emotional stability to higher satisfaction and lower stress, with no leadership effect listed for either. (Exhibit 2.6, How the Big Five Personality Traits Influence OB)\n**Why not A:** Both extraversion and openness list enhanced leadership.\n**Why not B:** Both conscientiousness and extraversion list enhanced leadership.\n**Why not C:** Both openness and conscientiousness list enhanced leadership."
+    },
+    {
+      "topic": "Affect, emotions, moods and EI",
+      "question": "In a meeting, a project manager learns that a key client has cancelled. For a few minutes she visibly scowls, then immediately starts drafting a recovery plan. According to Exhibit 2.7, why is this an emotion rather than a mood?",
+      "options": {
+        "A": "It was a general feeling with an unclear cause that lasted hours",
+        "B": "It was cognitive in nature, shaping her thinking rather than her actions",
+        "C": "It had a specific trigger, was brief, showed on her face and spurred action",
+        "D": "It fell into the broad positive or negative affect dimensions of moods"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 2.7 says emotions are caused by a specific event, last seconds or minutes, usually come with distinct facial expressions and are action-oriented. All four fit her reaction to the cancellation. (Exhibit 2.7, Affect, Emotions, and Moods)\n**Why not A:** A general, unclear cause lasting hours or days describes a mood.\n**Why not B:** Being cognitive in nature is a feature of moods; emotions are action-oriented.\n**Why not D:** The two broad dimensions, positive and negative affect, describe moods, not specific emotions."
+    },
+    {
+      "topic": "Affect, emotions, moods and EI",
+      "question": "A wellness survey asks staff how they have generally felt over the past few days, not about specific incidents, and scores the answers as positive or negative affect. Based on Exhibit 2.7, what is the survey measuring?",
+      "options": {
+        "A": "Moods, which are general and built on two main dimensions",
+        "B": "Emotions, since each feeling is tied to a specific event",
+        "C": "Emotional labour, since staff report their displayed feelings",
+        "D": "Personality, since feelings over several days are stable traits"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 2.7 describes moods as lasting hours or days, having general or unclear causes, and falling into two main dimensions, positive affect and negative affect, each made up of several specific emotions. (Exhibit 2.7, Affect, Emotions, and Moods)\n**Why not B:** The survey deliberately avoids specific incidents, and emotions are tied to a specific event and last only seconds or minutes.\n**Why not C:** Emotional labour is about expressing the emotions the organization wants during work interactions, not about how people generally feel.\n**Why not D:** A few days of feeling is a mood, not a personality trait; the exhibit places moods under affect."
+    },
+    {
+      "topic": "Affect, emotions, moods and EI",
+      "question": "After a heated argument with a coworker in the morning, a technician stays irritable and unfocused for the rest of the day, no longer thinking about the argument itself. How does Exhibit 2.7 account for this?",
+      "options": {
+        "A": "Emotions and moods are separate, so the two feelings are unrelated",
+        "B": "The irritability is still an emotion, since an event started it",
+        "C": "The argument exposed an irritable personality trait",
+        "D": "Both are forms of affect, and an emotion can feed into a mood"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 2.7 shows affect taking two forms, emotions and moods, joined by a two-way arrow, so one can influence the other. A brief emotion from the argument has turned into a longer, unfocused mood. (Exhibit 2.7, Affect, Emotions, and Moods)\n**Why not A:** The exhibit links emotions and moods with a two-way arrow; they are not independent.\n**Why not B:** Lasting all day with no focus on the cause fits a mood; emotions are brief and tied to their trigger.\n**Why not C:** The exhibit frames this as affect, not personality; one bad day doesn't reveal a stable trait."
+    },
+    {
+      "topic": "Affect, emotions, moods and EI",
+      "question": "A call-centre trainer notices that the most careful, thorough agents are the quickest to pick up on a caller's rising frustration. Which link in the cascading model of emotional intelligence (Exhibit 2.8) does this fit?",
+      "options": {
+        "A": "Emotional stability feeding the regulation of emotions",
+        "B": "Conscientiousness feeding the perception of emotions",
+        "C": "Cognitive ability feeding the understanding of emotions",
+        "D": "Conscientiousness feeding the regulation of emotions"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 2.8, conscientiousness feeds the first step, perceiving emotions in self and others. Cognitive ability feeds understanding the meaning of emotions, and emotional stability feeds regulating them. (Exhibit 2.8, A Cascading Model of Emotional Intelligence)\n**Why not A:** Noticing a caller's frustration is perception, not regulation of one's own emotions.\n**Why not C:** Cognitive ability feeds the middle step, understanding what emotions mean, not noticing them.\n**Why not D:** Conscientiousness is the right factor, but in the model it feeds perception, not regulation."
+    },
+    {
+      "topic": "Affect, emotions, moods and EI",
+      "question": "An analyst notices that a colleague is upset but assumes it's about a missed lunch, when the colleague is actually worried about job cuts. In Exhibit 2.8, which step broke down, and which factor feeds it?",
+      "options": {
+        "A": "Perceiving emotions, fed by conscientiousness",
+        "B": "Regulating emotions, fed by emotional stability",
+        "C": "Understanding emotions, fed by cognitive ability",
+        "D": "Understanding emotions, fed by emotional stability"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The analyst perceived the emotion correctly but got its meaning wrong. In Exhibit 2.8, understanding the meaning of emotions is the middle step, fed by cognitive ability. (Exhibit 2.8, A Cascading Model of Emotional Intelligence)\n**Why not A:** Perception worked: the analyst noticed the colleague was upset.\n**Why not B:** Regulation is about managing one's own emotions; the problem here is interpreting someone else's.\n**Why not D:** Emotional stability feeds regulation, not understanding."
+    },
+    {
+      "topic": "Affect, emotions, moods and EI",
+      "question": "A manager signs up for a workshop that teaches only techniques for controlling emotional reactions and skips recognizing and interpreting emotions. Why does the cascading model in Exhibit 2.8 suggest this may fall short?",
+      "options": {
+        "A": "Regulating emotions builds on first perceiving and understanding them",
+        "B": "Regulation depends on conscientiousness, which the workshop ignores",
+        "C": "Regulation is fed only by cognitive ability, not by any skill",
+        "D": "Understanding emotions comes last, after they have been regulated"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 2.8 is a cascade: perceive emotions, then understand their meaning, then regulate them. Skipping the first two steps leaves regulation without its foundation. (Exhibit 2.8, A Cascading Model of Emotional Intelligence)\n**Why not B:** In the model, emotional stability feeds regulation; conscientiousness feeds perception.\n**Why not C:** Cognitive ability feeds understanding, not regulation.\n**Why not D:** This reverses the cascade; understanding comes before regulation."
+    }
+  ]
+}

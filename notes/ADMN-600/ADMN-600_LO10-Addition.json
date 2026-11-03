@@ -1,0 +1,207 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "10",
+    "title": "Organizational Culture"
+  },
+  "deckTitle": "LO10-Addition: Organizational Culture",
+  "collection": "Lecture slide additions: charts and pictures (9th Canadian ed.)",
+  "collectionOrder": 1.5,
+  "source": "10_langton_OB_9e_ppt_ch10.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Contrasting cultures",
+      "question": "At a firm much like Organization A in Exhibit 10.1, decisions about deadlines never consider their effect on staff, because productivity always comes before morale. Which characteristic of culture is low here?",
+      "options": {
+        "A": "Outcome orientation",
+        "B": "People orientation",
+        "C": "Attention to detail",
+        "D": "Aggressiveness"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The slides define people orientation as the degree to which management decisions consider the effect of outcomes on people in the organization. Organization A values productivity over employee morale, so it sits low on this characteristic; Organization B balances productivity with treating its people right. (Exhibit 10.1, Contrasting Organizational Cultures; Ch 10 slides: What Is Organizational Culture)\n**Why not A:** Outcome orientation is about focusing on results rather than on technique and process; the issue here is ignoring the effect on people.\n**Why not C:** Attention to detail is about precision and analysis, not concern for morale.\n**Why not D:** Aggressiveness is about how competitive people are, rather than easygoing, which the scenario doesn't describe."
+    },
+    {
+      "topic": "Contrasting cultures",
+      "question": "A firm switches to mostly team-based rewards and encourages staff to work with people at all levels and in all functions. Which characteristic of culture is it strengthening, and which organization in Exhibit 10.1 is it moving toward?",
+      "options": {
+        "A": "Stability, moving toward Organization A",
+        "B": "Attention to detail, moving toward Organization A",
+        "C": "Aggressiveness, moving toward Organization B",
+        "D": "Team orientation, moving toward Organization B"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Team orientation is the degree to which work is organized around teams rather than individuals. In Exhibit 10.1, Organization B has many team-based rewards and encourages interaction across levels and functions, while Organization A encourages individual effort and staying within one's own department. (Exhibit 10.1, Contrasting Organizational Cultures; Ch 10 slides: What Is Organizational Culture)\n**Why not A:** Stability is about maintaining the status quo, and team-based rewards move the firm toward Organization B, not A.\n**Why not B:** Attention to detail is about precision and analysis, and Organization A stresses individual effort, not teams.\n**Why not C:** Aggressiveness is about being competitive rather than easygoing, which team-based rewards don't describe."
+    },
+    {
+      "topic": "Contrasting cultures",
+      "question": "A product manager at a firm where every decision must be fully documented and creative risks are discouraged wants to pitch a bold new product. In Exhibit 10.1's terms, what kind of culture is she up against?",
+      "options": {
+        "A": "Organization A's, which is low on innovation and risk-taking",
+        "B": "Organization B's, which is low on innovation and risk-taking",
+        "C": "Organization A's, which is high on team orientation",
+        "D": "Organization B's, which has extensive rules for everyone"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 10.1, Organization A requires managers to fully document all decisions and doesn't encourage creative decisions, change or risks. That puts it low on innovation and risk-taking, the degree to which employees are encouraged to innovate and take risks. (Exhibit 10.1, Contrasting Organizational Cultures)\n**Why not B:** Organization B encourages and rewards risk-taking and change.\n**Why not C:** Organization A encourages individual effort, not teamwork.\n**Why not D:** It is Organization A that has extensive rules; Organization B has few."
+    },
+    {
+      "topic": "Contrasting cultures",
+      "question": "A job candidate says she likes detailed rules, prefers to stay within her own department and wants to be judged on her individual effort. Based on Exhibit 10.1, which organization would suit her better?",
+      "options": {
+        "A": "Organization B, since it has few rules to follow",
+        "B": "Organization B, since many of its rewards are team-based",
+        "C": "Organization A, since it matches her on all three points",
+        "D": "Neither, since both encourage working across all functions"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 10.1's Organization A has extensive rules and regulations, encourages employees to stay within their own department and encourages individual effort, matching all three of her preferences. (Exhibit 10.1, Contrasting Organizational Cultures)\n**Why not A:** Few rules is the opposite of what she wants.\n**Why not B:** Team-based rewards don't fit her wish to be judged on individual effort.\n**Why not D:** Only Organization B encourages interaction across levels and functions; Organization A keeps people within their own department."
+    },
+    {
+      "topic": "Contrasting cultures",
+      "question": "A manager at a company much like Organization B in Exhibit 10.1 runs with a risky idea, and the project fails. Based on the exhibit, how is the failure likely to be treated?",
+      "options": {
+        "A": "As grounds for discipline under the firm's extensive rules",
+        "B": "As a learning experience, since risk-taking is rewarded",
+        "C": "As a reason to require full documentation of decisions",
+        "D": "As a signal that she should stay within her own department"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 10.1 says Organization B encourages and rewards risk-taking and change, encourages employees to 'run with' ideas, and treats failures as 'learning experiences'. (Exhibit 10.1, Contrasting Organizational Cultures)\n**Why not A:** Organization B has few rules and regulations; extensive rules belong to Organization A.\n**Why not C:** Fully documenting all decisions is a feature of Organization A.\n**Why not D:** Staying within one's own department is encouraged in Organization A; Organization B encourages interaction across levels and functions."
+    },
+    {
+      "topic": "How culture forms and is passed on",
+      "question": "A consultant explains how a founder's beliefs still shape a company decades later. Which three practices does Exhibit 10.2 show carrying the founders' philosophy into the organization's culture?",
+      "options": {
+        "A": "Stories, rituals and material symbols",
+        "B": "Prearrival, encounter and metamorphosis",
+        "C": "Selection criteria, top management and socialization",
+        "D": "Innovation, attention to detail and stability"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 10.2 runs from the philosophy of the organization's founders to selection criteria, then to top management and socialization, which together lead to the organization's culture. (Exhibit 10.2, How Organizational Cultures Form)\n**Why not A:** Stories, rituals, material symbols and language are how employees learn culture, not the chain in Exhibit 10.2.\n**Why not B:** Prearrival, encounter and metamorphosis are the stages of socialization in Exhibit 10.3.\n**Why not D:** These are among the seven characteristics of a culture, not the practices that form it."
+    },
+    {
+      "topic": "How culture forms and is passed on",
+      "question": "The founders of a start-up want a culture built on frugality. According to Exhibit 10.2, what is the first step through which their philosophy flows into the culture?",
+      "options": {
+        "A": "The selection criteria used to hire people",
+        "B": "The socialization of new employees",
+        "C": "The behaviour of top management",
+        "D": "The outcomes of productivity and turnover"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 10.2, the philosophy of the founders flows first into selection criteria, which then feed both top management and socialization. The slides add that founders hire and keep employees who think and feel the way they do. (Exhibit 10.2, How Organizational Cultures Form; Ch 10 slides: How a Culture Begins)\n**Why not B:** Socialization comes after selection in the exhibit.\n**Why not C:** Top management also comes after selection criteria.\n**Why not D:** Productivity and turnover are outcomes of socialization in Exhibit 10.3, not part of how culture forms."
+    },
+    {
+      "topic": "How culture forms and is passed on",
+      "question": "In Exhibit 10.2, one element shapes the organization's culture directly and also influences socialization. A company whose senior leaders contradict the values taught during onboarding is weakening this element. Which is it?",
+      "options": {
+        "A": "Selection criteria",
+        "B": "The founders' philosophy",
+        "C": "Socialization",
+        "D": "Top management"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 10.2 draws an arrow from top management directly to the organization's culture and another from top management to socialization, so leaders' behaviour affects culture in both ways. (Exhibit 10.2, How Organizational Cultures Form)\n**Why not A:** Selection criteria feed top management and socialization, but don't link directly to culture.\n**Why not B:** The founders' philosophy is the starting point, flowing into selection criteria.\n**Why not C:** Socialization feeds culture, but it is the element being influenced here, not the one doing the influencing."
+    },
+    {
+      "topic": "How culture forms and is passed on",
+      "question": "An HR director wants to know whether the company's onboarding and socialization program is working. According to Exhibit 10.3, which three outcomes should she track?",
+      "options": {
+        "A": "Performance, satisfaction and culture strength",
+        "B": "Productivity, commitment and turnover",
+        "C": "Stories, rituals and language",
+        "D": "Selection, top management and socialization"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 10.3 shows the socialization process (prearrival, encounter, metamorphosis) leading to three outcomes: productivity, commitment and turnover. (Exhibit 10.3, A Socialization Model)\n**Why not A:** Performance and satisfaction are the outcomes of culture in Exhibit 10.5, where strength also appears.\n**Why not C:** Stories, rituals and language are ways employees learn culture.\n**Why not D:** These are the practices that keep a culture alive, not outcomes of socialization."
+    },
+    {
+      "topic": "How culture forms and is passed on",
+      "question": "A month into her new job, an employee realizes the work is quite different from what she expected during her interviews. According to Exhibit 10.3, which stage is she in, and what comes next?",
+      "options": {
+        "A": "Prearrival, followed by encounter",
+        "B": "Metamorphosis, followed by encounter",
+        "C": "Encounter, followed by metamorphosis",
+        "D": "Encounter, followed by prearrival"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The slides describe the encounter stage as the point where a new employee sees what the organization is really like and confronts the possibility that expectations and reality diverge. In Exhibit 10.3, metamorphosis follows encounter. (Exhibit 10.3, A Socialization Model; Ch 10 slides: Keeping a Culture Alive)\n**Why not A:** Prearrival is the learning that happens before joining, and she has already started.\n**Why not B:** Metamorphosis comes after encounter, not before it.\n**Why not D:** Prearrival comes first in the model, so it can't follow encounter."
+    },
+    {
+      "topic": "How culture forms and is passed on",
+      "question": "Six months in, a new analyst has adjusted to the values and norms of her job, her work group and the organization. According to Exhibit 10.3, which stage has she completed, and what does it lead to?",
+      "options": {
+        "A": "Metamorphosis, which leads to productivity, commitment and turnover",
+        "B": "Encounter, which leads to productivity, commitment and turnover",
+        "C": "Metamorphosis, which leads back to the prearrival stage",
+        "D": "Prearrival, which leads to performance and satisfaction"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The slides define metamorphosis as the stage in which a new employee adjusts to the values and norms of the job, work group and organization. In Exhibit 10.3 it is the last stage before the outcomes: productivity, commitment and turnover. (Exhibit 10.3, A Socialization Model; Ch 10 slides: Keeping a Culture Alive)\n**Why not B:** Encounter is when expectations meet reality; adjusting to norms is metamorphosis.\n**Why not C:** The model runs one way, from prearrival through metamorphosis to the outcomes.\n**Why not D:** Prearrival happens before joining, and performance and satisfaction are the outcomes in Exhibit 10.5."
+    },
+    {
+      "topic": "Culture, performance and satisfaction",
+      "question": "Two firms have nearly identical written policies on risk-taking, yet employees at one describe their culture as innovative while those at the other call theirs cautious. How does Exhibit 10.5 account for this?",
+      "options": {
+        "A": "Culture is fixed by written policy, so the two must be the same",
+        "B": "Culture affects only satisfaction, not how factors are seen",
+        "C": "Employees' views matter only when the culture is weak",
+        "D": "The objective factors are 'perceived as' culture, so views shape it"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 10.5 shows the objective factors, such as innovation and risk-taking, being 'perceived as' organizational culture, so the culture is what employees perceive, not just what policies say. The slides also call culture a descriptive term for how employees perceive the organization's characteristics. (Exhibit 10.5, How Organizational Cultures Have an Impact on Employee Performance and Satisfaction)\n**Why not A:** The exhibit puts perception between the objective factors and the culture, so identical policies can be perceived differently.\n**Why not B:** Culture leads to both performance and satisfaction, and perception comes before culture, not after.\n**Why not C:** Perception applies to every culture in the model; strength comes later."
+    },
+    {
+      "topic": "Culture, performance and satisfaction",
+      "question": "Two companies have similar cultures, but one culture is far stronger than the other. Where does Exhibit 10.5 place culture strength?",
+      "options": {
+        "A": "Among the seven objective factors that make up culture",
+        "B": "Before the objective factors, as the founders' starting point",
+        "C": "Between the culture and its effects on performance and satisfaction",
+        "D": "After performance and satisfaction, as a final outcome"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In Exhibit 10.5, organizational culture feeds a strength scale running from low to high, which then leads to performance and satisfaction, so a culture's strength sits between the culture and those outcomes. (Exhibit 10.5, How Organizational Cultures Have an Impact on Employee Performance and Satisfaction)\n**Why not A:** The seven objective factors are innovation and risk-taking, attention to detail, outcome orientation, people orientation, team orientation, aggressiveness and stability; strength isn't one of them.\n**Why not B:** The model starts with the objective factors, not with strength.\n**Why not D:** Performance and satisfaction are the end points of the model, and strength comes before them."
+    },
+    {
+      "topic": "Culture, performance and satisfaction",
+      "question": "An HR team is building a culture survey from the objective factors in Exhibit 10.5. Which proposed survey item would NOT match any of those factors?",
+      "options": {
+        "A": "How much the firm stresses precision and attention to detail",
+        "B": "How generous the firm's base pay is compared with rivals",
+        "C": "How much the firm focuses on results rather than process",
+        "D": "How much the firm emphasizes keeping the status quo"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 10.5's seven objective factors are innovation and risk-taking, attention to detail, outcome orientation, people orientation, team orientation, aggressiveness and stability. Pay level isn't one of them. (Exhibit 10.5, How Organizational Cultures Have an Impact on Employee Performance and Satisfaction; Ch 10 slides: What Is Organizational Culture)\n**Why not A:** Precision and attention to detail is the attention-to-detail factor.\n**Why not C:** Focusing on results rather than technique and process is outcome orientation.\n**Why not D:** Emphasizing the status quo rather than growth is stability."
+    },
+    {
+      "topic": "Culture, performance and satisfaction",
+      "question": "A CEO asks what organizational culture ultimately does for employees. According to Exhibit 10.5, which two outcomes does culture affect?",
+      "options": {
+        "A": "Performance and satisfaction",
+        "B": "Productivity and turnover",
+        "C": "Commitment and loyalty",
+        "D": "Innovation and stability"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 10.5 ends with two outcomes, performance and satisfaction, reached through the organizational culture and its strength. (Exhibit 10.5, How Organizational Cultures Have an Impact on Employee Performance and Satisfaction)\n**Why not B:** Productivity and turnover are outcomes of socialization in Exhibit 10.3.\n**Why not C:** Commitment appears as a socialization outcome in Exhibit 10.3, and loyalty isn't an outcome in either model.\n**Why not D:** Innovation (and risk-taking) and stability are objective factors at the start of Exhibit 10.5, not outcomes."
+    },
+    {
+      "topic": "Culture, performance and satisfaction",
+      "question": "A long-established utility's activities emphasize maintaining the status quo rather than pursuing growth. Which objective factor in Exhibit 10.5 would it score high on?",
+      "options": {
+        "A": "Aggressiveness",
+        "B": "Outcome orientation",
+        "C": "Innovation and risk-taking",
+        "D": "Stability"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Stability, one of the seven objective factors in Exhibit 10.5, is defined in the slides as the degree to which organizational activities emphasize maintaining the status quo rather than growth. (Exhibit 10.5; Ch 10 slides: What Is Organizational Culture)\n**Why not A:** Aggressiveness is the degree to which people are aggressive and competitive rather than easygoing.\n**Why not B:** Outcome orientation is the degree to which management focuses on results rather than on technique and process.\n**Why not C:** Innovation and risk-taking is the degree to which employees are encouraged to innovate and take risks, closer to the opposite of keeping the status quo."
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "course": "ADMN 600",
+  "section": {
+    "label": "Chapter",
+    "short": "CH",
+    "number": "06",
+    "title": "Groups and Teamwork"
+  },
+  "deckTitle": "LO06-Addition: Groups and Teamwork",
+  "collection": "Lecture slide additions: charts and pictures (9th Canadian ed.)",
+  "collectionOrder": 1.5,
+  "source": "06_langton_OB_9e_ppt_ch06.pptx.pdf",
+  "questions": [
+    {
+      "topic": "Types of teams",
+      "question": "A hospital brings five nurses together for a few hours each week to work on one question: why are medication errors rising, and how can the process improve? Which team type in Exhibit 6.1 does this fit?",
+      "options": {
+        "A": "Self-managed team",
+        "B": "Problem-solving team",
+        "C": "Virtual team",
+        "D": "Cross-functional team"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 6.1 draws the problem-solving team as members all pointing toward a single question mark, and the slides describe it as employees who meet for a few hours each week to discuss ways of improving quality, efficiency and the work environment. (Exhibit 6.1, Four Types of Teams)\n**Why not A:** A self-managed team takes over many of its former managers' responsibilities; these nurses only meet to discuss one problem.\n**Why not C:** A virtual team uses technology to link dispersed members; nothing suggests the nurses are apart.\n**Why not D:** A cross-functional team draws members from different work areas; these are all nurses from the same area."
+    },
+    {
+      "topic": "Types of teams",
+      "question": "Twelve warehouse employees take over scheduling, quality checks and even hiring from their former supervisor. Exhibit 6.1 draws this kind of team as a network in which every member links directly to every other. Which type is it?",
+      "options": {
+        "A": "Problem-solving team",
+        "B": "Cross-functional team",
+        "C": "Virtual team",
+        "D": "Self-managed team"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slides describe a self-managed team as a group of 10 to 15 employees who take on many of the responsibilities of their former managers, and Exhibit 6.1 shows it as a fully connected network with no one in charge at the centre. (Exhibit 6.1, Four Types of Teams)\n**Why not A:** A problem-solving team meets to suggest improvements; it doesn't take over the supervisor's duties.\n**Why not B:** A cross-functional team pulls members from different work areas, which isn't the point here.\n**Why not C:** A virtual team is defined by technology linking dispersed members, not by managing itself."
+    },
+    {
+      "topic": "Types of teams",
+      "question": "To launch a new product, a company forms a team with one person each from engineering, marketing, finance, legal and customer support, all at about the same level. Exhibit 6.1 shows this type as people drawn from different boxes of the org chart into one team. Which type is it?",
+      "options": {
+        "A": "Cross-functional team",
+        "B": "Self-managed team",
+        "C": "Problem-solving team",
+        "D": "Virtual team"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A cross-functional team brings together employees at about the same hierarchical level, but from different work areas, to accomplish a task. Exhibit 6.1 shows them pulled from different units of the organization chart into a single team. (Exhibit 6.1, Four Types of Teams)\n**Why not B:** Self-managed teams are defined by taking on managers' responsibilities, not by mixing departments.\n**Why not C:** Problem-solving teams meet a few hours a week to improve quality and efficiency in their own area.\n**Why not D:** Virtual teams are defined by technology linking dispersed members."
+    },
+    {
+      "topic": "Types of teams",
+      "question": "Analysts in Halifax, Calgary and Manila never meet in person and coordinate their forecasting work entirely through shared software and video calls. Which team type in Exhibit 6.1 are they?",
+      "options": {
+        "A": "Problem-solving team",
+        "B": "Cross-functional team",
+        "C": "Virtual team",
+        "D": "Self-managed team"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A virtual team uses computer technology to tie together physically dispersed members to reach a common goal. Exhibit 6.1 draws it with technology at the centre and every member linked through it. (Exhibit 6.1, Four Types of Teams)\n**Why not A:** A problem-solving team is defined by meeting to improve a process, not by working at a distance.\n**Why not B:** The analysts all do the same forecasting work, so they aren't drawn from different work areas.\n**Why not D:** Nothing says they have taken over their manager's responsibilities."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "Two months into a project, a team member keeps asking what the others expect of her, while the group as a whole is working out whether it can agree on roles and work as a team. Which stage of Exhibit 6.3 is the team in?",
+      "options": {
+        "A": "Forming",
+        "B": "Storming",
+        "C": "Norming",
+        "D": "Performing"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 6.3 pairs norming with the individual issue 'What do the others expect of me?' and the group issue 'Can we agree on roles and work as a team?' (Exhibit 6.3, Stages of Group Development and Accompanying Issues)\n**Why not A:** Forming's issues are 'How do I fit in?' and 'Why are we here?'\n**Why not B:** Storming's issues are 'What's my role here?' and 'Who is in charge and who does what?'\n**Why not D:** Performing's issues are 'How do I best perform?' and 'Can we do the job properly?'"
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "Roles are settled, and the team now spends its energy on questions such as 'How do I best perform?' and 'Can we do the job properly?' Which stage of Exhibit 6.3 has it reached?",
+      "options": {
+        "A": "Performing",
+        "B": "Norming",
+        "C": "Adjourning",
+        "D": "Storming"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 6.3, performing comes with the individual issue 'How do I best perform?' and the group issue 'Can we do the job properly?', the point at which the group is fully functional. (Exhibit 6.3, Stages of Group Development and Accompanying Issues)\n**Why not B:** Norming is still about expectations and agreeing on roles.\n**Why not C:** Adjourning asks 'What's next?' and 'How do we disband?'\n**Why not D:** Storming asks 'What's my role here?' and 'Who is in charge and who does what?'"
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "As a six-month task force wraps up, members start asking 'What's next for me?' and the group plans how to disband. Which stage of Exhibit 6.3 is this, and where does the exhibit show members heading?",
+      "options": {
+        "A": "Performing, with members at their most interdependent",
+        "B": "Forming, with members still independent",
+        "C": "Norming, with members growing more dependent",
+        "D": "Adjourning, with members returning to independence"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 6.3 pairs adjourning with 'What's next?' and 'How do we disband?', and the exhibit's line turns down at this stage, labelled 'return to independence'. (Exhibit 6.3, Stages of Group Development and Accompanying Issues)\n**Why not A:** Performing is about doing the job properly, not about winding down.\n**Why not B:** Forming is the start, when members ask how they fit in and why they are there.\n**Why not C:** Norming is about agreeing on roles and expectations."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "A facilitator walks a new team through the red line that runs beneath the stages in Exhibit 6.3. What does the line show happening to members between forming and performing?",
+      "options": {
+        "A": "They move from interdependence toward independence",
+        "B": "They move from independence toward interdependence",
+        "C": "They stay independent through every stage",
+        "D": "They are most interdependent at the forming stage"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The line in Exhibit 6.3 starts at independence near forming and rises toward dependence/interdependence through storming, norming and performing, before turning back toward independence at adjourning. (Exhibit 6.3, Stages of Group Development and Accompanying Issues)\n**Why not A:** This reverses the direction of the line.\n**Why not C:** The line rises steadily away from independence until adjourning.\n**Why not D:** Forming sits at the independence end of the line."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "A project sponsor studying Exhibit 6.4 asks what the team's performance typically looks like from the first meeting until the transition. What does the chart show?",
+      "options": {
+        "A": "Low and fairly flat until the transition at the midpoint",
+        "B": "Steadily rising from the first meeting to completion",
+        "C": "High at first, then falling until the transition",
+        "D": "Swinging up and down throughout the whole project"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In Exhibit 6.4, phase 1 runs from the first meeting (A) at a low, flat level of performance until the transition at (A+B)/2, the halfway point of the allotted time. (Exhibit 6.4, The Punctuated-Equilibrium Model)\n**Why not B:** Performance doesn't climb steadily; it jumps at the transition and again near the end.\n**Why not C:** Performance starts low, not high.\n**Why not D:** The up-and-down zigzag appears only at the transition, not throughout."
+    },
+    {
+      "topic": "Stages of group development",
+      "question": "In Exhibit 6.4, the performance line steps up once more shortly before completion. What does the punctuated-equilibrium model say happens at the group's last meeting?",
+      "options": {
+        "A": "Members disengage, so performance drops",
+        "B": "A second transition sends the group back to phase 1",
+        "C": "Activity speeds up markedly to finish the work",
+        "D": "Performance holds steady with no change at the end"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The slides say the second phase of inertia ends with a last meeting characterized by markedly accelerated activity, which Exhibit 6.4 shows as the final step up in performance just before completion (B). (Exhibit 6.4, The Punctuated-Equilibrium Model)\n**Why not A:** The chart shows performance rising at the end, not falling.\n**Why not B:** The model has only one transition, at the midpoint.\n**Why not D:** The line steps up just before completion rather than staying flat."
+    },
+    {
+      "topic": "Effective team characteristics and skills",
+      "question": "To save time on a major decision, a team leader calls for a quick show-of-hands vote. Which characteristic of an effective team in Exhibit 6.5 does this cut against?",
+      "options": {
+        "A": "Clear purpose, which calls for an action plan",
+        "B": "Informality, which rules out structured decisions",
+        "C": "Shared leadership, which calls for rotating the chair",
+        "D": "Consensus decisions, which avoid formal voting"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 6.5 says that for important decisions an effective team aims for substantial, though not necessarily unanimous, agreement through open discussion of everyone's ideas, avoiding formal voting or easy compromises. (Exhibit 6.5, Characteristics of an Effective Team)\n**Why not A:** Clear purpose is about a defined, accepted goal and an action plan, not about how decisions are made.\n**Why not B:** Informality describes a relaxed, comfortable climate; it doesn't rule out structure.\n**Why not C:** Shared leadership means leadership functions shift with the circumstances; it says nothing about rotating a chair."
+    },
+    {
+      "topic": "Effective team characteristics and skills",
+      "question": "A team has a formal leader, but on any given issue the person leading shifts with the circumstances, the group's needs and members' skills, while the formal leader models good behaviour. Which characteristic in Exhibit 6.5 is this?",
+      "options": {
+        "A": "Clear rules and work assignments",
+        "B": "Shared leadership",
+        "C": "Style diversity",
+        "D": "External relations"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 6.5 describes shared leadership: the team has a formal leader, but leadership functions shift with the circumstances, the needs of the group and the skills of the members, and the formal leader models appropriate behaviour and helps set positive norms. (Exhibit 6.5, Characteristics of an Effective Team)\n**Why not A:** Clear rules and work assignments are about clear role expectations and accepted assignments.\n**Why not C:** Style diversity is about having a broad range of team-player types.\n**Why not D:** External relations is about building outside relationships, resources and credibility."
+    },
+    {
+      "topic": "Effective team characteristics and skills",
+      "question": "On one team, people say openly how they feel about both the task and the way the group works, there are few hidden agendas, and conversations carry on outside meetings. Which characteristic in Exhibit 6.5 does this describe?",
+      "options": {
+        "A": "Open communication",
+        "B": "Listening",
+        "C": "Participation",
+        "D": "Civilized disagreement"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 6.5 describes open communication as members feeling free to express their feelings on the tasks and on the group's operation, with few hidden agendas and communication that also happens outside meetings. (Exhibit 6.5, Characteristics of an Effective Team)\n**Why not B:** Listening is about techniques such as questioning, paraphrasing and summarizing to draw out ideas.\n**Why not C:** Participation is about lots of discussion, with everyone encouraged to take part.\n**Why not D:** Civilized disagreement is about being comfortable with disagreement instead of avoiding or suppressing it."
+    },
+    {
+      "topic": "Effective team characteristics and skills",
+      "question": "In a design review, an engineer defends her recommendation and resists pressure to drop it without a logical argument, but changes her position when a colleague makes a defensible case, staying courteous throughout. Which teamwork skill in Exhibit 6.7 is she showing?",
+      "options": {
+        "A": "Facilitates and manages task conflict",
+        "B": "Promotes a positive team environment",
+        "C": "Appropriately promotes perspective",
+        "D": "Orients team to problem-solving situation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 6.7 describes appropriately promoting perspective as defending stated preferences and withstanding pressure to change position without logical or knowledge-based arguments, changing position when another member makes a defensible argument, and projecting courtesy and friendliness while arguing. (Exhibit 6.7, Teamwork Skills)\n**Why not A:** Managing task conflict is about encouraging useful conflict, diagnosing its source and resolving it, for example with win-win strategies.\n**Why not B:** Promoting a positive environment is about norms of tolerance and respect and recognizing others' efforts.\n**Why not D:** Orienting the team is about building a common understanding of the problem and gathering relevant data."
+    },
+    {
+      "topic": "Effective team characteristics and skills",
+      "question": "One member helps the team set specific, challenging goals that everyone accepts, tracks how the team is doing, gives feedback and suggests shifting resources when results lag. Which teamwork skill in Exhibit 6.7 is this?",
+      "options": {
+        "A": "Promotes a positive team environment",
+        "B": "Facilitates and manages task conflict",
+        "C": "Orients team to problem-solving situation",
+        "D": "Organizes and manages team performance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 6.7 says organizing and managing team performance means helping the team set specific, challenging and accepted goals, monitoring and evaluating performance, giving feedback, and finding alternative strategies or reallocating resources in response. (Exhibit 6.7, Teamwork Skills)\n**Why not A:** A positive environment comes from norms of tolerance, respect and excellence and from praising others' efforts.\n**Why not B:** Managing task conflict is about handling disagreements, not setting and tracking goals.\n**Why not C:** Orienting the team is about understanding the problem and seeking out relevant data."
+    },
+    {
+      "topic": "Team effectiveness model and roles",
+      "question": "A team of able, well-chosen people keeps missing its targets because it lacks the budget it needs and works in a climate of distrust. In Exhibit 6.6, which category is the problem?",
+      "options": {
+        "A": "Composition: the members' abilities and personalities",
+        "B": "Process: the team's goals and cohesion",
+        "C": "Context: resources and a climate of trust",
+        "D": "Composition: the size of the team"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 6.6 lists adequate resources, leadership and structure, a climate of trust, and performance evaluation and systems under context. A missing budget and distrust are both context problems. (Exhibit 6.6, A Model of Team Effectiveness)\n**Why not A:** The members are able and well chosen, so composition isn't the issue.\n**Why not B:** Nothing points to unclear goals or weak cohesion; the problem lies around the team, not inside it.\n**Why not D:** Size is a composition factor, and nothing suggests the team is the wrong size."
+    },
+    {
+      "topic": "Team effectiveness model and roles",
+      "question": "A team has capable members and the resources it needs, but members don't share an understanding of what is to be accomplished, and a few coast on everyone else's effort. Which category in Exhibit 6.6 needs attention?",
+      "options": {
+        "A": "Context",
+        "B": "Process",
+        "C": "Composition",
+        "D": "Leadership and structure"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 6.6 puts mental models (a shared understanding of what is to be accomplished) and social loafing (putting in less effort when working collectively) under process, along with common purpose, specific goals, team efficacy, identity, cohesion and conflict levels. (Exhibit 6.6, A Model of Team Effectiveness)\n**Why not A:** Resources are fine, so context isn't the issue.\n**Why not C:** The members are capable, so composition isn't the issue.\n**Why not D:** Leadership and structure is one of the context factors, not where these problems sit."
+    },
+    {
+      "topic": "Team effectiveness model and roles",
+      "question": "Before launching a new team, a manager weighs how many people to include, how diverse they should be and whether each candidate actually prefers working in teams. Which category of Exhibit 6.6 is she working on?",
+      "options": {
+        "A": "Composition",
+        "B": "Context",
+        "C": "Process",
+        "D": "Performance evaluation"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 6.6 lists abilities of members, personality, allocating roles, diversity, cultural differences, size of teams and member preferences under composition. (Exhibit 6.6, A Model of Team Effectiveness)\n**Why not B:** Context covers resources, leadership and structure, trust, and performance evaluation and systems.\n**Why not C:** Process covers how the team works once it exists, such as goals, cohesion and conflict.\n**Why not D:** Performance evaluation and systems is one context factor; it isn't about choosing members."
+    },
+    {
+      "topic": "Team effectiveness model and roles",
+      "question": "On a new project team, one member sets up the shared folders, the meeting schedule and the task tracker so everyone knows how the work is organized. Which role in Exhibit 6.8 is this?",
+      "options": {
+        "A": "Producer",
+        "B": "Controller",
+        "C": "Linker",
+        "D": "Organizer"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Exhibit 6.8 describes the organizer as the member who provides structure. (Exhibit 6.8, Key Roles of Teams)\n**Why not A:** The producer provides direction and follow-through.\n**Why not B:** The controller examines details and enforces rules.\n**Why not C:** The linker coordinates and integrates the team's work."
+    },
+    {
+      "topic": "Team effectiveness model and roles",
+      "question": "When another department tries to pull funding and staff away from the team, one member takes the fight to senior management to protect the team's interests. Which role in Exhibit 6.8 is this?",
+      "options": {
+        "A": "Promoter",
+        "B": "Maintainer",
+        "C": "Adviser",
+        "D": "Assessor"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Exhibit 6.8 describes the maintainer as the member who fights external battles for the team. (Exhibit 6.8, Key Roles of Teams)\n**Why not A:** The promoter champions ideas after they are initiated.\n**Why not C:** The adviser encourages the search for more information.\n**Why not D:** The assessor offers insightful analysis of options."
+    },
+    {
+      "topic": "Team effectiveness model and roles",
+      "question": "Once the team agrees on a plan, one member makes sure it turns into action: she keeps the team heading in a clear direction and follows up until every task is done. Which role in Exhibit 6.8 fits?",
+      "options": {
+        "A": "Creator",
+        "B": "Organizer",
+        "C": "Producer",
+        "D": "Controller"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Exhibit 6.8 describes the producer as the member who provides direction and follow-through. (Exhibit 6.8, Key Roles of Teams)\n**Why not A:** The creator initiates creative ideas.\n**Why not B:** The organizer provides structure, such as schedules and systems, rather than driving follow-through.\n**Why not D:** The controller examines details and enforces rules."
+    },
+    {
+      "topic": "Team effectiveness model and roles",
+      "question": "A team of strong individual performers turns in a disappointing result because of poor coordination and social loafing. How does Exhibit 6.9 explain the gap?",
+      "options": {
+        "A": "Process losses outweighed gains, so actual fell below potential",
+        "B": "Process gains outweighed losses, so actual rose above potential",
+        "C": "Potential effectiveness was low, so process made no difference",
+        "D": "Actual effectiveness always equals potential effectiveness"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Exhibit 6.9 shows potential group effectiveness plus process gains minus process losses equals actual group effectiveness. Poor coordination and social loafing are problems in the team's process, so they count as process losses that pulled actual effectiveness below the team's potential. (Exhibit 6.9, Effects of Group Processes)\n**Why not B:** The result was disappointing, so gains did not outweigh losses.\n**Why not C:** A team of strong performers has high potential; the shortfall came from process.\n**Why not D:** The equation exists to show how process makes actual effectiveness differ from potential."
+    },
+    {
+      "topic": "Team effectiveness model and roles",
+      "question": "A team of average performers produces an outstanding design because members keep building on each other's ideas. Using Exhibit 6.9, what happened?",
+      "options": {
+        "A": "Process losses outweighed gains, lowering actual effectiveness",
+        "B": "Process gains outweighed losses, lifting actual above potential",
+        "C": "The team's potential was simply higher than its members' records",
+        "D": "The equation rules out actual effectiveness above potential"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Exhibit 6.9, actual effectiveness equals potential plus process gains minus process losses. When members build on each other's ideas, the gains outweigh the losses, so the team performs above its potential. (Exhibit 6.9, Effects of Group Processes)\n**Why not A:** An outstanding result means losses did not dominate.\n**Why not C:** The exhibit explains the result through process, not through a hidden higher potential.\n**Why not D:** Adding process gains is exactly how actual effectiveness can rise above potential."
+    }
+  ]
+}
