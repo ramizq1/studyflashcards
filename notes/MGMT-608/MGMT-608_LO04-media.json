@@ -1,0 +1,301 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "04",
+    "title": "Assess Contract Types and Negotiations Strategies"
+  },
+  "deckTitle": "LO04-media: Assess Contract Types and Negotiations Strategies",
+  "collection": "LO media decks: charts, pictures and quiz topics",
+  "collectionOrder": 1,
+  "source": "MGMT 608 - LO4.pptx.txt and LO4 media folder",
+  "questions": [
+    {
+      "topic": "Contracts and agreements",
+      "question": "A new project coordinator asks how PMI defines a contract. Which answer matches LO4's 'Contract Definition by PMI' slide?",
+      "options": {
+        "A": "Any written document signed by two managers within the same company",
+        "B": "A binding agreement obliging the seller to deliver and the buyer to pay",
+        "C": "An informal understanding between parties that courts will not enforce",
+        "D": "A plan describing how the project's procurement processes will be managed"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** PMI defines a contract as a mutually binding agreement that obligates the seller to provide the specified product and obligates the buyer to pay for it. LO4 notes this is a narrow definition, simply a sale between a buyer and a seller. (LO4 media: Contract Definition by PMI)\n**Why not A:** The definition is about a binding buyer-seller obligation, not internal paperwork.\n**Why not C:** An unenforceable understanding is a simple agreement, not a contract.\n**Why not D:** That describes the procurement management plan."
+    },
+    {
+      "topic": "Contracts and agreements",
+      "question": "Two firms sign a contract to form a joint venture for a large project, with no sale of goods between them. Why does LO4 say PMI's definition of a contract is too narrow for this?",
+      "options": {
+        "A": "Because joint ventures are informal and never need a written contract",
+        "B": "Because PMI's definition covers only oral, not written, agreements",
+        "C": "Because only governments are allowed to sign teaming contracts",
+        "D": "Because projects also need contracts for non-sales purposes, like teaming"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** LO4 says PMI defines a contract narrowly, as simply a sale between a buyer and a seller, but in managing projects contracts are often needed for purposes other than sales, such as teaming arrangements like joint ventures and partnerships. (LO4 media: Contract Definition by PMI)\n**Why not A:** Teaming arrangements are themselves contracts.\n**Why not B:** PMI's definition isn't limited to oral agreements.\n**Why not C:** Teaming arrangements are commonly between companies, as LO1 also shows."
+    },
+    {
+      "topic": "Contracts and agreements",
+      "question": "Daria offers to sell Jamal her laptop for $500. Jamal replies, 'Yes, but only if it includes your iPad.' Using LO4's 'Offer + Acceptance = Agreement' slide, is there an agreement?",
+      "options": {
+        "A": "No; adding a condition makes it a counteroffer, not acceptance",
+        "B": "Yes; Jamal said 'yes', so the offer has been accepted as made",
+        "C": "Yes; the iPad becomes extra consideration in the same deal",
+        "D": "No; offers between friends can never become binding agreements"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO4 shows an agreement, a 'meeting of minds', as offer plus acceptance. Any alteration of the offer is a counteroffer that simply continues the bargaining, so Jamal's conditional 'yes' is not an acceptance. (LO4 media: Agreement; LO4: Acceptance)\n**Why not B:** Saying 'yes' while changing the terms is a counteroffer, not acceptance.\n**Why not C:** There is no deal yet for the iPad to be part of; Jamal changed the terms.\n**Why not D:** LO4's own scenario shows Daria and Jamal can reach an agreement when Jamal accepts unconditionally."
+    },
+    {
+      "topic": "Contracts and agreements",
+      "question": "LO4 shows a poster offering a $1,000 reward for finding a missing family cat. If a neighbour sees the poster, finds the cat and returns it, what kind of contract is formed, and when?",
+      "options": {
+        "A": "A bilateral contract, formed when the neighbour promises to search",
+        "B": "No contract, since a reward poster can't be an offer",
+        "C": "A unilateral contract, formed when the neighbour performs the requested act",
+        "D": "A standard form contract, formed when the poster is printed"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** LO4 explains that in a unilateral contract one party makes a promise in an offer and the other party performs the required act; its example is 'I will pay $1000 to anyone who finds my lost cat'. The contract is created once the requested act is performed. (LO4 media: missing cat reward poster; LO4: How can acceptance be given?)\n**Why not A:** A bilateral contract is an exchange of promises; here acceptance is by performance.\n**Why not B:** The material uses exactly this kind of reward as an example of an offer.\n**Why not D:** Standard form contracts are drafted by one party without negotiation, like rental car contracts."
+    },
+    {
+      "topic": "Contracts and agreements",
+      "question": "A man finds a lost cat, sees the owner's number on its collar and returns it. Only later does he see the $1,000 reward poster and try to claim the money. Following LO4's communication rule (the loader case), can he claim it?",
+      "options": {
+        "A": "Yes; he performed exactly the act that the poster asked for",
+        "B": "No; he didn't know of the offer, so his act was gratuitous",
+        "C": "Yes; the post box rule made the offer effective once posted",
+        "D": "No; reward offers always lapse after a reasonable time"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In LO4's front-end loader case, Smith returned the loader before learning of the reward, so the offer had not been communicated to him. He acted without intending to create a contract, his act was gratuitous, and he couldn't later claim payment. An offer must be communicated to the offeree before it can be accepted. (LO4: A Case Exercise; LO4: Offer)\n**Why not A:** Performing the act doesn't create a contract if the person didn't know of the offer.\n**Why not C:** The post box rule concerns when a mailed acceptance takes effect, not offers on posters.\n**Why not D:** Lapse of time isn't the issue; he never knew of the offer when he acted."
+    },
+    {
+      "topic": "UCC articles",
+      "question": "A buyer simply stops ordering from a long-time supplier without saying anything, assuming that silence ends the relationship. What does LO4's UCC 'Notice of termination' slide say?",
+      "options": {
+        "A": "Silence ends the relationship automatically after 30 days",
+        "B": "Only the seller may terminate, and only by written notice",
+        "C": "Termination happens automatically once the buyer stops ordering",
+        "D": "Proper notice is required; silence alone won't end the agreement"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The slide says that in all commercial transactions, if one party wants to end the relationship, proper notification must be communicated to the other party. Silence alone will not terminate an agreement, and giving notice is an important part of commercial law. (LO4 media: Notice of termination)\n**Why not A:** The material sets no automatic time limit for silence.\n**Why not B:** Either party wanting to terminate must give notice; it doesn't have to be the seller.\n**Why not C:** Stopping orders is a form of silence, which won't terminate the agreement."
+    },
+    {
+      "topic": "UCC articles",
+      "question": "A company buys used equipment and later discovers the seller's bank holds a lien on it. Which UCC protection from LO4 applies?",
+      "options": {
+        "A": "Warranty of title: valid title, free from liens",
+        "B": "Buyer's right to inspect goods before paying",
+        "C": "Liquidation of damages under an agreed formula",
+        "D": "Notice of termination of the supply relationship"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO4 says that in a contract for the sale of goods, a warranty is placed on the seller that it conveys a valid title that can be transferred to the buyer, and that the goods are free from liens (free from attached liability). (LO4 media: Warranty of title)\n**Why not B:** Inspection checks that goods match what was purchased; it doesn't address ownership or liens.\n**Why not C:** Liquidated damages set a formula for breach; the warranty of title is the protection that was breached.\n**Why not D:** Termination notice is about ending a relationship."
+    },
+    {
+      "topic": "UCC articles",
+      "question": "A store sells a television without saying anything about its quality. The TV won't display a picture. Which warranty from LO4 still protects the buyer, and why?",
+      "options": {
+        "A": "An express warranty, because the store made a statement of fact",
+        "B": "The warranty of title, because the store owned the television",
+        "C": "An implied warranty, based on reasonable expectations that goods work",
+        "D": "No warranty at all, because nothing was said or written down"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** LO4 says implied warranties are not spoken or written; they are imputed from seller to buyer because they are based on reasonable customer expectations, and they declare only that goods sold will serve the purpose for which they are intended. (LO4 media: Warranty of title - express and implied warranty)\n**Why not A:** An express warranty needs the seller to make a statement of fact or promise, and the store said nothing.\n**Why not B:** Title concerns ownership and liens, not whether the TV works.\n**Why not D:** Implied warranties exist even when nothing is said or written."
+    },
+    {
+      "topic": "UCC articles",
+      "question": "A seller's brochure states that a generator will run 10,000 hours, which is more specific than what buyers would ordinarily expect. If the two warranties seem to point different ways, which does LO4 say takes priority?",
+      "options": {
+        "A": "The implied warranty, because it reflects customer expectations",
+        "B": "The express warranty, because it is superior to an implied warranty",
+        "C": "Neither, because warranties cancel each other out",
+        "D": "Whichever of the two warranties was given first"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** LO4 defines an express warranty as a seller's statement of fact or promise about the product being sold, and states that an express warranty is superior to an implied warranty. (LO4 media: Warranty of title - express and implied warranty)\n**Why not A:** Implied warranties exist, but the express warranty is superior.\n**Why not C:** The material ranks the warranties; they don't cancel out.\n**Why not D:** Age isn't a factor in the material."
+    },
+    {
+      "topic": "UCC articles",
+      "question": "A buyer receives a shipment of valves but doesn't inspect them for six months, then tries to reject them. What does LO4's 'Buyer's right to inspect goods' say about this?",
+      "options": {
+        "A": "The buyer can inspect at any time, however long after delivery",
+        "B": "The seller must carry out the inspection on the buyer's behalf",
+        "C": "Inspection becomes optional once the buyer has paid for the goods",
+        "D": "It must happen within a reasonable time, or is assumed to have occurred"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** LO4 says the buyer has the absolute right to inspect goods before paying, but the inspection must take place within a reasonable time after delivery, or an inspection will be assumed to have taken place. (LO4 media: Buyer's right to inspect goods)\n**Why not A:** The right comes with a reasonable-time limit.\n**Why not B:** The right to inspect belongs to the buyer.\n**Why not C:** The right is to inspect before paying, within a reasonable time."
+    },
+    {
+      "topic": "UCC articles",
+      "question": "On inspection, a buyer finds the delivered steel is a lower grade than the one ordered. What does LO4 say the buyer must do?",
+      "options": {
+        "A": "Notify the seller that the goods are not acceptable",
+        "B": "Keep the steel quietly and deduct the difference from payment",
+        "C": "Return the steel without telling the seller why",
+        "D": "Accept the steel, since the inspection right ends at delivery"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO4 says inspection must be consistent with what was originally purchased, and if the goods on inspection are not acceptable to the buyer, a notification to that effect must be communicated to the seller. (LO4 media: Buyer's right to inspect goods)\n**Why not B:** Silent deductions skip the required notification.\n**Why not C:** The buyer must tell the seller the goods are not acceptable.\n**Why not D:** The right to inspect runs for a reasonable time after delivery."
+    },
+    {
+      "topic": "UCC articles",
+      "question": "A construction contract says the contractor will pay $5,000 for each day of late completion. After a delay, a court also awards the owner extra damages beyond its actual loss. How does LO4's 'Liquidation or limitation of damages' material describe these two amounts?",
+      "options": {
+        "A": "The daily charge is punitive damages; the extra award is compensatory",
+        "B": "Both amounts are remedies under the warranty of title article",
+        "C": "The daily charge is an agreed-formula settlement; the extra award is punitive",
+        "D": "Both amounts are compensatory, since both cover the owner's losses"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** LO4 says this UCC article covers damages caused by a breach of contract, settled by an agreed formula specified in the contract. Compensatory (actual) damages are the exact amount of the injured party's damage, while punitive (exemplary) damages are when the court also awards additional damages. (LO4 media: Liquidation or limitation of damages)\n**Why not A:** This reverses them: the extra court award is punitive.\n**Why not B:** Warranty of title concerns valid ownership and liens, not delay damages.\n**Why not D:** The extra award goes beyond actual loss, so it isn't compensatory."
+    },
+    {
+      "topic": "FAR and contract types",
+      "question": "A Canadian engineering firm wins a subcontract on a project funded by the United States government. According to LO4's FAR slide, what applies to that project?",
+      "options": {
+        "A": "Only the engineering firm's own internal procurement policies",
+        "B": "The Federal Acquisition Regulations' formal procurement process",
+        "C": "Only the Uniform Electronic Commerce Act for its e-contracts",
+        "D": "No formal rules at all, because the firm itself is foreign"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** LO4 says all projects funded by the United States government are subject to the rules and regulations of a formal procurement process called the Federal Acquisition Regulations (FAR), created to codify uniform policies and procedures for acquiring supplies and services for the federal government. (LO4 media: Federal Acquisition Regulations (FAR) System)\n**Why not A:** Internal policies don't replace FAR on US government-funded work.\n**Why not C:** UECA concerns the validity of electronic contracts, not government acquisition.\n**Why not D:** The funding source is exactly what brings FAR into play."
+    },
+    {
+      "topic": "FAR and contract types",
+      "question": "A contracts officer working under the FAR system needs the rules on which types of contracts may be used. Which part of FAR does LO4 point to?",
+      "options": {
+        "A": "Part 6, Competition Requirements",
+        "B": "Part 19, Small Business Programs",
+        "C": "Part 49, Termination of Contracts",
+        "D": "Part 16, Types of Contracts"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** LO4 lists FAR Subchapter C (Contracting Methods and Contract Types) as containing Part 16, Types of Contracts. (LO4: Federal Acquisition Regulations (FAR) System)\n**Why not A:** Part 6 covers competition requirements, under Subchapter B.\n**Why not B:** Part 19 covers small business programs, under Subchapter D.\n**Why not C:** Part 49 covers termination of contracts, under Subchapter G."
+    },
+    {
+      "topic": "FAR and contract types",
+      "question": "In its procurement strategy, a project team must choose a contract type for buying a well-defined product whose scope is not expected to change. Which type does LO4 recommend?",
+      "options": {
+        "A": "Fixed-price",
+        "B": "Cost-reimbursable",
+        "C": "Time and material",
+        "D": "Cost plus award fee"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO4 says a fixed-price contract sets a fixed total price for a defined product, service or result, and should be used when the scope is well defined with no significant changes expected. Choosing contract types is part of the procurement strategy (LO2). (LO4: Contract Types)\n**Why not B:** Cost-reimbursable contracts suit work where significant scope changes are expected.\n**Why not C:** Time and material contracts are used when a precise statement of work isn't possible.\n**Why not D:** Cost plus award fee is a cost-reimbursable type, for subjective performance incentives."
+    },
+    {
+      "topic": "FAR and contract types",
+      "question": "A client needs consultants to start helping right away, but nobody can yet write a precise statement of work. Which contract type from LO4 fits?",
+      "options": {
+        "A": "Firm fixed price, with one total price set up front",
+        "B": "Fixed price with economic price adjustment",
+        "C": "Time and material, a fixed-price/cost-reimbursable hybrid",
+        "D": "Fixed price incentive fee, with a price ceiling"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** LO4 describes time and material contracts as hybrids combining aspects of fixed-price and cost-reimbursable contracts, usually used when a precise statement of work is not possible. (LO4: Contract Types)\n**Why not A:** A firm fixed price needs a well-defined scope.\n**Why not B:** Economic price adjustments handle inflation or currency over multi-year contracts, not an undefined scope.\n**Why not D:** Incentive fees reward specific performance on an already defined fixed-price scope."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "On LO4's Thomas-Kilmann model, what do the two axes represent?",
+      "options": {
+        "A": "Project cost (budget) and project schedule (time)",
+        "B": "Assertiveness (outcome) and cooperativeness (relationship)",
+        "C": "Buyer power (price) and seller power (supply)",
+        "D": "Supply risk (exposure) and dollar value (spend)"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The Thomas-Kilmann chart runs from less to more assertive (less to more important outcome) on one axis, and from less to more cooperative (less to more important relationship) on the other. The five styles sit on that grid. (LO4 media: Conflict Resolution Styles Thomas-Kilmann Model)\n**Why not A:** Cost and schedule are project constraints, not the model's axes.\n**Why not C:** The model is about a person's conflict style, not buyer or seller power.\n**Why not D:** Risk and value are the axes of LO3's supply risk matrix."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "Two engineers clash over a design choice that will shape the product for years, and both want a solution that satisfies everyone. Which style fits, and what is its drawback, according to LO4?",
+      "options": {
+        "A": "Compromising (fox); it can still take a long time to agree",
+        "B": "Accommodating (teddy bear); one side may come to resent it",
+        "C": "Competing (shark); overuse can damage relationships",
+        "D": "Collaborating (owl); slow, and not worth it for small issues"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** LO4 pairs collaborating with the owl ('We both win', 'Two heads are better than one'). Its positives are finding something that satisfies all sides and dealing with thoughts and feelings so they don't cause problems later; its negatives are that it is time-consuming and not worth it if the issue isn't big to you. (LO4 media: Collaborating)\n**Why not A:** Compromising means both give something up to meet halfway, not finding something that fully satisfies everyone.\n**Why not B:** Accommodating means giving in because you care more about the other person than the issue.\n**Why not C:** Competing means taking charge, which doesn't satisfy everyone."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "A fire alarm goes off in the plant and the supervisor immediately orders everyone out by the east exit, with no discussion. Which conflict style is this, and what does LO4 warn about it?",
+      "options": {
+        "A": "Competing (shark); fast decisions, but overuse disrupts relationships",
+        "B": "Avoiding (turtle); lets people cool down, but opinions go unheard",
+        "C": "Collaborating (owl); builds buy-in, but is slow and time-consuming",
+        "D": "Accommodating (teddy bear); builds goodwill, but breeds resentment"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO4 pairs competing with the shark ('I take charge', 'Might makes right'). Its positive is when something needs to be decided quickly, such as an emergency; its negative is that using it too often will disrupt relationships. (LO4 media: Competing)\n**Why not B:** Avoiding steps away from the issue; the supervisor takes charge.\n**Why not C:** Collaborating takes time, which an emergency doesn't allow.\n**Why not D:** Accommodating means giving in to others, the opposite of issuing orders."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "A team member keeps giving in during disagreements because she values her colleagues more than the issues, but lately she feels frustrated that her views never count. Which style is this, and which drawback from LO4 is she feeling?",
+      "options": {
+        "A": "Avoiding (turtle); she has missed the chance to cool down first",
+        "B": "Compromising (fox); finding a middle ground takes far too long",
+        "C": "Accommodating (teddy bear); she may resent not giving her opinion",
+        "D": "Competing (shark); her working relationships are being disrupted"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** LO4 pairs accommodating with the teddy bear ('I give in', 'I don't care that much; have it your way'). Its positive is that you care more about the other person than the issue; its negative is that if it happens too much you may resent not being able to give your opinion. (LO4 media: Accommodating)\n**Why not A:** Avoiding means withdrawing from the conflict, not giving in on it.\n**Why not B:** Compromising means both sides give something up.\n**Why not D:** Competing is taking charge, the opposite of giving in."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "Tempers flare in a heated meeting, and a manager says, 'I'd rather not deal with this now,' and postpones the discussion. Which style is this, and what are its upside and downside in LO4?",
+      "options": {
+        "A": "Compromising (fox); quick agreement, but nobody is fully satisfied",
+        "B": "Avoiding (turtle); people cool down, but key opinions go unspoken",
+        "C": "Competing (shark); fast decisions, but badly strained relationships",
+        "D": "Collaborating (owl); everyone wins, but it takes a lot of time"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** LO4 pairs avoiding with the turtle ('I leave', 'I'd rather not deal with it now'). Its positives are getting away from dangerous situations and allowing people to cool down when emotions are high; its negative is not giving your opinion when it is something that matters to you. (LO4 media: Avoiding)\n**Why not A:** Compromising reaches a middle-ground decision; the manager postpones instead.\n**Why not C:** Competing means taking charge and deciding.\n**Why not D:** Collaborating works the issue through together, rather than putting it off."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "Two department heads must settle a budget split by the end of the day, so each gives up part of what they asked for and they 'split the difference'. Which style is this, and what drawback does LO4 note?",
+      "options": {
+        "A": "Collaborating (owl); it isn't worth the effort for small issues",
+        "B": "Accommodating (teddy bear); giving in too often can breed resentment",
+        "C": "Avoiding (turtle); opinions that matter are left unspoken",
+        "D": "Compromising (fox); pleasing everyone can still take a long time"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** LO4 pairs compromising with the fox ('We meet half-way', 'Let's split the difference'). Its positive is when a decision needs to be made in a timely manner and both give up something; its negative is that it can still be time-consuming to find a solution that pleases everyone. (LO4 media: Compromising)\n**Why not A:** Collaborating aims for a solution that fully satisfies both sides, not splitting the difference.\n**Why not B:** Accommodating has one side give in, not both.\n**Why not C:** Avoiding puts the issue off rather than settling it."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "On LO4's Thomas-Kilmann chart, one style sits in the centre, overlapping the other four, at a moderate level of both assertiveness and cooperativeness. Which is it?",
+      "options": {
+        "A": "Compromise",
+        "B": "Collaborate",
+        "C": "Accommodate",
+        "D": "Avoid"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The chart places Compromise in the middle, where the four quadrants meet: halfway on both the assertiveness (outcome) and cooperativeness (relationship) axes. (LO4 media: Conflict Resolution Styles Thomas-Kilmann Model)\n**Why not B:** Collaborate is in the corner that is high on both axes.\n**Why not C:** Accommodate is high on cooperativeness but low on assertiveness.\n**Why not D:** Avoid is low on both axes."
+    },
+    {
+      "topic": "Conflict resolution styles",
+      "question": "A negotiator cares a great deal about the outcome of a one-time deal but very little about the relationship with the other party. Where does LO4's Thomas-Kilmann chart place this?",
+      "options": {
+        "A": "Accommodate",
+        "B": "Avoid",
+        "C": "Compete",
+        "D": "Collaborate"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** On the chart, Compete is the more assertive (more important outcome), less cooperative (less important relationship) quadrant. LO4 links it to the shark. (LO4 media: Conflict Resolution Styles Thomas-Kilmann Model)\n**Why not A:** Accommodate is the opposite corner: important relationship, unimportant outcome.\n**Why not B:** Avoid is low on both outcome and relationship.\n**Why not D:** Collaborate treats both the outcome and the relationship as important."
+    }
+  ]
+}

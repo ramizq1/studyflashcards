@@ -1,0 +1,337 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "01",
+    "title": "Explain the processes of project procurement management"
+  },
+  "deckTitle": "LO01-media: Explain the processes of project procurement management",
+  "collection": "LO media decks: charts, pictures and quiz topics",
+  "collectionOrder": 1,
+  "source": "MGMT 608 - LO1.pptx.txt and LO1 media folder",
+  "questions": [
+    {
+      "topic": "Procurement processes and terminology",
+      "question": "A buyer from a commercial firm tells a PMBOK-trained project manager that her team is now in 'Conduct Competitive Solicitation' and 'Conduct Negotiations'. Using the LO1 chart that compares PMBOK and commercial procurement terms, which PMBOK process and phase is she in?",
+      "options": {
+        "A": "Plan Procurement Management, in the pre-award phase",
+        "B": "Conduct Procurement, in the award phase",
+        "C": "Control Procurement, in the post-award phase",
+        "D": "Close Project or Phase, in the post-award phase"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The terminology chart lines up the commercial steps 'Conduct Competitive Solicitation' and 'Conduct Negotiations' under PMBOK's Conduct Procurement, which sits in the award phase. (LO1 media: PMBOK Guide and Procurement Terminology Comparison)\n**Why not A:** Plan Procurement Management matches 'Identify Procurement Need' and 'Develop Competitive Solicitation' in the pre-award phase.\n**Why not C:** Control Procurement matches 'Manage Contracts' and 'Administer Contracts' after award.\n**Why not D:** Close Project or Phase also sits in the post-award phase, after the contract is running."
+    },
+    {
+      "topic": "Procurement processes and terminology",
+      "question": "The contract has been signed, and a vendor manager now tracks deliveries and handles contract administration. On the LO1 terminology chart, which phase and PMBOK process cover this work?",
+      "options": {
+        "A": "Post-award phase: Control Procurement",
+        "B": "Award phase: Conduct Procurement",
+        "C": "Pre-award phase: Plan Procurement Management",
+        "D": "Pre-award phase: Develop Competitive Solicitation"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The chart places 'Manage Contracts' and 'Administer Contracts' in the post-award phase, matched to PMBOK's Control Procurement (and Close Project or Phase). (LO1 media: PMBOK Guide and Procurement Terminology Comparison)\n**Why not B:** The award phase covers soliciting and negotiating, which is already finished here.\n**Why not C:** Planning happens before any contract exists.\n**Why not D:** Developing the solicitation is a commercial pre-award step, done before sellers respond."
+    },
+    {
+      "topic": "Procurement processes and terminology",
+      "question": "A project manager wrapping up procurement planning checks that her team has produced the outputs PMBOK lists for Plan Procurement Management (LO1 figure 12.1). Which set belongs on her list?",
+      "options": {
+        "A": "Selected sellers, signed agreements and change requests",
+        "B": "Closed procurements and work performance information",
+        "C": "Procurement strategy, bid documents, SOW and selection criteria",
+        "D": "Seller proposals, advertising and bidder conference notes"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Figure 12.1 lists the outputs of Plan Procurement Management as the procurement management plan, procurement strategy, bid documents, procurement statement of work, source selection criteria, make-or-buy decisions, independent cost estimates, change requests and updates. (LO1 media: 12.1 Plan Procurement Management)\n**Why not A:** Selected sellers and agreements are outputs of Conduct Procurements.\n**Why not B:** Closed procurements and work performance information are outputs of Control Procurements.\n**Why not D:** Seller proposals are an input, and advertising and bidder conferences are tools, of Conduct Procurements."
+    },
+    {
+      "topic": "Procurement processes and terminology",
+      "question": "A buyer is about to place advertisements and hold a bidder conference for a new contract. In the PMBOK procurement overview figure in LO1, which process lists these as tools and techniques, and what does it produce?",
+      "options": {
+        "A": "Plan Procurement Management, whose outputs include make-or-buy decisions",
+        "B": "Control Procurements, whose outputs include closed procurements",
+        "C": "Conduct Procurements, whose outputs include the procurement strategy and bid documents",
+        "D": "Conduct Procurements, whose outputs include selected sellers and agreements"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In the overview figure, 12.2 Conduct Procurements uses expert judgment, advertising, bidder conferences, data analysis and interpersonal and team skills, and produces selected sellers, agreements, change requests and updates. (LO1 media: Project Procurement Management Overview)\n**Why not A:** Planning uses tools such as source selection analysis and meetings, not advertising or bidder conferences.\n**Why not B:** Control Procurements uses claims administration, inspection and audits.\n**Why not C:** The process is right, but the procurement strategy and bid documents are outputs of planning, not of Conduct Procurements."
+    },
+    {
+      "topic": "Procurement processes and terminology",
+      "question": "Midway through a contract, a dispute arises over a change. The project manager works through claims administration, inspects the delivered work and audits the supplier. Which process in the LO1 overview figure is she performing?",
+      "options": {
+        "A": "Conduct Procurements, which also produces agreements",
+        "B": "Plan Procurement Management, which also produces independent cost estimates",
+        "C": "Control Procurements, which also produces closed procurements",
+        "D": "Conduct Procurements, which also uses bidder conferences"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The overview figure lists claims administration, data analysis, inspection and audits as tools of 12.3 Control Procurements, whose outputs include closed procurements and work performance information. (LO1 media: Project Procurement Management Overview)\n**Why not A:** Conduct Procurements ends with selected sellers and agreements; it doesn't handle claims during the contract.\n**Why not B:** Planning happens before any contract or claim exists.\n**Why not D:** Bidder conferences belong to Conduct Procurements, before award."
+    },
+    {
+      "topic": "Procurement processes and terminology",
+      "question": "A project manager at an IT consulting firm delivers a system to an external client while also buying cloud hosting from a vendor for the same project. Using LO1's buyer-versus-seller view, what role does she play toward each, and what is each side of the work called?",
+      "options": {
+        "A": "Seller to the client (contract management) and buyer from the vendor (procurement management)",
+        "B": "Buyer from the client (procurement management) and seller to the vendor (contract management)",
+        "C": "Seller to both parties, since she is delivering the project's scope",
+        "D": "Buyer from both parties, since she is spending the project's budget"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO1 shows the project manager in two roles: as a seller to the customer (the buyer), managed through contract management, and as a buyer from suppliers (the sellers), managed through procurement management. (LO1: Project Manager - Buyer vs. Seller)\n**Why not B:** This reverses the roles; the client buys from her and she buys from the vendor.\n**Why not C:** She sells scope to the client, but she buys from the vendor.\n**Why not D:** She buys from the vendor, but she is the seller in her relationship with the client."
+    },
+    {
+      "topic": "Procurement categories and examples",
+      "question": "A planner sorts upcoming purchases using the LO1 procurement tree, which splits 'Buy from outside sources' into three generic categories and two special relationships. Which of these is one of the two special relationships rather than a generic category?",
+      "options": {
+        "A": "Major complexity procurement",
+        "B": "Minor complexity procurement",
+        "C": "All other routine procurement",
+        "D": "Interdivisional procurement"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The tree lists the three generic categories as major complexity, minor complexity and all other routine procurements, and the two special relationships as strategic teaming procurements and interdivisional procurements. (LO1 media: procurement categories tree)\n**Why not A:** Major complexity is one of the three generic categories.\n**Why not B:** Minor complexity is also a generic category.\n**Why not C:** Routine procurements are the third generic category."
+    },
+    {
+      "topic": "Procurement categories and examples",
+      "question": "A transit authority hires a firm to design and build a signalling system that has never existed before, tailored to the authority's own unique specification, with high technical and cost risk. Which procurement category is this?",
+      "options": {
+        "A": "Minor complexity procurement",
+        "B": "Major complexity procurement",
+        "C": "Routine COTS procurement",
+        "D": "Interdivisional procurement"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** LO1 describes major complexity procurements as buying something that does not exist, tailored to the project's unique specification, often requiring the seller to create something new, with high risk to technical, quality, cost and schedule goals. (LO1 media: Major Complexity Procurements)\n**Why not A:** Minor complexity items already exist and follow the seller's existing product specifications.\n**Why not C:** Routine COTS buys are off-the-shelf items managed with basic purchasing.\n**Why not D:** Interdivisional work comes from another division of the same company, which isn't the case here."
+    },
+    {
+      "topic": "Procurement categories and examples",
+      "question": "A utility buys three large electrical generators worth millions from a manufacturer's existing product line, with only minimal modifications. Which category does LO1 put this in?",
+      "options": {
+        "A": "Major complexity, because of the large dollar value",
+        "B": "Routine COTS, because the items already exist",
+        "C": "Minor complexity, because the items exist to the seller's own specs",
+        "D": "Strategic teaming, because the supplier relationship is long term"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** LO1 says minor complexity procurements often carry large monetary values, but the items already exist, conform to the seller's existing product specifications and are bought with no or minimal modification. Its examples include large electrical generators. (LO1 media: Minor complexity procurements)\n**Why not A:** A high price alone doesn't make a buy major complexity; that category is for items that don't yet exist.\n**Why not B:** Routine COTS covers items such as nuts, bolts and routine services, not high-value equipment like generators.\n**Why not D:** Teaming is a special relationship set up by executive agreement, not a category for buying existing equipment."
+    },
+    {
+      "topic": "Procurement categories and examples",
+      "question": "A construction project needs sheet metal, paint and fasteners, plus an outsourced site security service. According to LO1, which category do these fall into, and how important is identifying them early?",
+      "options": {
+        "A": "Routine COTS buys, which can usually be identified in later phases without trouble",
+        "B": "Minor complexity buys, which must be identified early to schedule lead time",
+        "C": "Major complexity buys, which must be identified early to plan a separate team",
+        "D": "Interdivisional buys, which must be identified early to control internal costs"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO1 lists raw materials such as nuts, bolts, fasteners, sheet metal and paints, and outsourced routine services such as security, as routine COTS buys. For these, basic purchasing principles apply, and early identification is not vital: they can be identified in later phases without causing difficulties. (LO1 media: Routine buys of COTS items)\n**Why not B:** Early identification matters for minor complexity items, but these are routine commodity buys.\n**Why not C:** Major complexity buys are for things that don't yet exist.\n**Why not D:** Nothing suggests these come from another division of the company."
+    },
+    {
+      "topic": "Procurement categories and examples",
+      "question": "Two years into developing a custom aircraft with one supplier, a buyer's finance team suggests switching suppliers to save money. What does LO1 predict about this kind of change in a major complexity procurement?",
+      "options": {
+        "A": "It will be easy, because competition is normally reopened every year",
+        "B": "It will be welcomed, because scope creep makes switching routine",
+        "C": "It will be simple, because comparable items can always be substituted",
+        "D": "It will meet strong resistance unless there is a compelling reason"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** LO1 says major complexity procurements meet strong economic and perhaps emotional resistance to any change of supplier without compelling justification, because both parties have made a major financial commitment. Further competition is often waived as long as quality stays high and pricing seems reasonable. (LO1 media: Major Complexity Procurements)\n**Why not A:** The material says further competition is often waived, not reopened.\n**Why not B:** Scope creep is a common problem in these procurements, not a reason that makes switching easy.\n**Why not C:** Substituting comparable items is a feature of minor complexity procurements, not of custom-built items."
+    },
+    {
+      "topic": "Procurement categories and examples",
+      "question": "A procurement trainee is asked which of these projects LO1 lists as an example of a major complexity procurement. Which one is it?",
+      "options": {
+        "A": "Buying an existing radar system for the site",
+        "B": "Outsourcing the company's entire IT services",
+        "C": "Buying existing but high-value software",
+        "D": "Outsourcing a routine cafeteria service"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** LO1's examples of major complexity procurements include outsourcing information technology services, along with designing a new commercial centre, building a new factory and developing new software, computers or airplanes. (LO1 media: Major Complexity Procurements - Examples)\n**Why not A:** Buying an existing radar system is a minor complexity example.\n**Why not C:** Existing high-value software is also a minor complexity example.\n**Why not D:** Outsourced routine services such as a cafeteria are routine COTS examples."
+    },
+    {
+      "topic": "Procurement categories and examples",
+      "question": "LO1 uses NASA's next-generation passenger airplane concepts from Lockheed Martin, Northrop Grumman and Boeing as an example. Why does this fit a major complexity procurement?",
+      "options": {
+        "A": "The aircraft already exist and only need minor modifications",
+        "B": "The work is split among divisions of one company",
+        "C": "The designs don't exist yet and must meet demanding new targets",
+        "D": "The aircraft are commodity items bought on price alone"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The NASA example has companies researching and testing concept designs that don't yet exist, each required to fly at up to 85 percent of the speed of sound, cover about 7,000 miles and carry 50,000 to 100,000 pounds of payload. Creating something new to a unique specification is what defines major complexity. (LO1 media: MCP: Next generation of passenger airplanes)\n**Why not A:** Existing items with minor modifications describe minor complexity procurements.\n**Why not B:** The three concepts come from three separate companies, not divisions of one firm.\n**Why not D:** Commodity items bought on price are routine buys."
+    },
+    {
+      "topic": "Procurement categories and examples",
+      "question": "A long-time supplier of high-value computers tells the project that the specified model is back-ordered and offers a comparable model that meets the same requirements. How does LO1 treat this for a minor complexity procurement?",
+      "options": {
+        "A": "Substitution can be fine if it meets the same project requirements",
+        "B": "Substitution is never allowed once a long-term relationship exists",
+        "C": "Substitution requires reopening competition among all sellers",
+        "D": "Substitution turns the buy into a major complexity procurement"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO1 says that although minor complexity items are bought through long-term buyer-seller relationships, comparable-performance items may sometimes be substituted as long as they satisfy the same project requirements. (LO1 media: Minor complexity procurements)\n**Why not B:** The material explicitly allows substitution within long-term relationships.\n**Why not C:** Nothing in the material requires new competition for a comparable substitute.\n**Why not D:** The item still exists and meets the same specification, so it stays minor complexity."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "The CEOs of two aerospace firms sign an alliance to build a new system together. The system is split into two parts, each assigned to one company, and the firms agree to combine assets, facilities and people and share the risks. Which kind of procurement is this?",
+      "options": {
+        "A": "An interdivisional procurement",
+        "B": "A strategic teaming procurement",
+        "C": "A minor complexity procurement",
+        "D": "A routine COTS procurement"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** LO1 describes special procurements under strategic teaming agreements as high-dollar accords between corporate executives, carried out under an overriding legal contract (a teaming agreement, alliance or arrangement), where a project is divided into parts assigned to separate companies that combine assets, facilities and people and share risks. (LO1 media: Special Procurements: strategic company teaming agreements)\n**Why not A:** Interdivisional work is done by another division of the same company.\n**Why not C:** Minor complexity buys are existing products, not jointly developed systems.\n**Why not D:** Routine COTS buys are simple purchases handled with basic purchasing."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "A project manager learns that her main subsystem partner was chosen through an executive-level agreement signed before the project began, so she must work with that firm. Which analogy does LO1 use for this kind of relationship?",
+      "options": {
+        "A": "'Our big family'",
+        "B": "'Scope creep'",
+        "C": "'Meeting of minds'",
+        "D": "'Arranged marriages'"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** LO1 compares strategic teaming arrangements to the 'arranged marriages' between families in some ancient societies: the executives of the companies agree to combine their resources, and the project inherits the partnership. (LO1 media: Special Procurements: strategic company teaming agreements)\n**Why not A:** 'Our big family' describes how an interdivisional supplier wants to be treated when things go wrong.\n**Why not B:** Scope creep is a common problem in major complexity procurements.\n**Why not C:** 'Meeting of minds' describes agreement in contract law (LO4), not teaming."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "A sister division building a component for the project runs over budget and behind schedule, then asks to be treated as part of the company rather than as an outside supplier. When the project went well, the same division demanded its fair share of the profits. Which LO1 problem does this illustrate?",
+      "options": {
+        "A": "Scope creep in a major complexity procurement",
+        "B": "Resistance to changing a teaming partner",
+        "C": "The 'our big family' problem of interdivisional work",
+        "D": "Late identification of a routine COTS buy"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** LO1 says interdivisional work should be the easiest to manage but often turns out the most painful: when things go right the performing division wants its fair share of the profits, and when things go wrong it expects to be treated as part of 'our big family' rather than as an outside supplier. (LO1 media: Special Procurements: Interdivisional work)\n**Why not A:** Scope creep is about requirements growing, not about how a division wants to be treated.\n**Why not B:** Teaming partners are separate companies joined by executive agreement.\n**Why not D:** Routine COTS buys are simple purchases and don't involve a sister division."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "A project manager asks whether she must identify a sister division's work for the project at the very start. What does LO1 say about early identification of interdivisional procurements?",
+      "options": {
+        "A": "Usually not critical, unless it creates something new (Category 1)",
+        "B": "Always critical, because interdivisional work is the hardest to cost",
+        "C": "Never needed, because sister divisions don't require contracts",
+        "D": "Critical only when the work is a routine COTS purchase"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** LO1 says early identification of many interdivisional procurements is typically not critical, unless the work involves creating something new as a Category 1 (major complexity) item. Interdivisional work can fall into any of the three procurement categories. (LO1 media: Special Procurements: Interdivisional work)\n**Why not B:** The material says early identification is usually not critical.\n**Why not C:** The material treats interdivisional work as a procurement with its own problems, not something to ignore.\n**Why not D:** Routine buys are the least critical to identify early; the exception is new, Category 1 work."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "A company buys mostly on price from many suppliers on short contracts and keeps them at arm's length. Where does LO1's spectrum of supply relationships place this, and with what level of trust?",
+      "options": {
+        "A": "Alliance, with institutional trust",
+        "B": "Transactional, with little trust",
+        "C": "Collaborative, with interpersonal trust",
+        "D": "Alliance, with interpersonal trust"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The spectrum chart runs from alliance (institutional trust) through collaborative (interpersonal trust) to transactional (little trust). Price-driven, short, arm's-length buying from many suppliers is the transactional end. (LO1 media: Spectrum of Supply Relationships and Institutional Trust)\n**Why not A:** Alliances sit at the high-trust, institutional end.\n**Why not C:** Collaborative relationships rely on interpersonal trust, more than this firm shows.\n**Why not D:** Alliances are paired with institutional trust, not interpersonal trust."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "A manufacturer works with one key supplier on long contracts, opens its books to that supplier, shares forecasts, focuses on total cost rather than price and designs quality into the system together. Which column of LO1's 'Characteristics of Three Types of Relationships' table does this match?",
+      "options": {
+        "A": "Transactional",
+        "B": "Arm's-length purchasing",
+        "C": "Interdivisional",
+        "D": "Alliance"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In the table, alliances have one or few suppliers, long duration, open books, shared forecasts, a focus on total cost, quality designed into the system and high difficulty of exit. (LO1 media: Characteristics of Three Types of Relationships)\n**Why not A:** Transactional relationships have many suppliers, no open books or shared forecasts, and a focus on price.\n**Why not B:** Arm's-length buying describes the transactional end, not this close partnership.\n**Why not C:** Interdivisional work is a special procurement inside one company, not a column of this table."
+    },
+    {
+      "topic": "Special procurement relationships",
+      "question": "Using LO1's 'Characteristics of Three Types of Relationships' table, which description fits a transactional supply relationship?",
+      "options": {
+        "A": "One or few suppliers, open books and proactive expediting",
+        "B": "Shared forecasts, high trust and strategic synergy",
+        "C": "Focus on price, many suppliers and quality by incoming inspection",
+        "D": "High integration, early supplier involvement and difficult exit"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The table describes transactional relationships as price-focused, with many suppliers, quality checked by incoming inspection, reactive expediting, low trust, short duration and possible supply disruptions. (LO1 media: Characteristics of Three Types of Relationships)\n**Why not A:** One or few suppliers, open books and proactive expediting describe alliances.\n**Why not B:** Shared forecasts, high trust and strategic synergy are alliance traits.\n**Why not D:** High integration, early supplier involvement and a difficult exit are also alliance traits."
+    },
+    {
+      "topic": "Outsourcing, make-or-buy and the SOW",
+      "question": "A hospital outsources its payroll IT system so that its own staff can concentrate on patient care. Which reason for outsourcing from LO1 does this mainly reflect?",
+      "options": {
+        "A": "Increasing accountability",
+        "B": "Focusing on the core business",
+        "C": "Accessing skills and technologies",
+        "D": "Providing flexibility"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** LO1 lists the reasons to outsource as accessing skills and technologies, reducing fixed and recurrent costs, letting the client organization focus on its core business, providing flexibility and increasing accountability. Freeing staff for patient care is about focusing on the core business. (LO1: Why outsource?)\n**Why not A:** Accountability is a separate reason, about holding a supplier responsible.\n**Why not C:** Accessing skills may also apply, but the scenario stresses freeing staff for the core mission.\n**Why not D:** Flexibility is about adjusting capacity, which the scenario doesn't mention."
+    },
+    {
+      "topic": "Outsourcing, make-or-buy and the SOW",
+      "question": "In LO1's telecom example, a project needs a heat-sink housing with tight tolerances, and the company has its own machine shop. What does the example say the project manager should do first in the make-or-buy analysis?",
+      "options": {
+        "A": "Check with the machine shop manager that the shop can make it",
+        "B": "Issue a request for quotation to several outside machine shops",
+        "C": "Choose the cheapest external supplier and check quality later",
+        "D": "Make the part internally, since internal resources are always cheaper"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In the example, the project manager first reviews the housing's specifications with the machine shop manager to confirm the shop can produce it correctly, then checks quality and schedule. Only if the shop can't do it does the project look to external sources. (LO1: Procurement Decision Processes example)\n**Why not B:** Going outside comes only after internal capability is ruled out.\n**Why not C:** The example weighs capability, quality and schedule, not just the lowest price.\n**Why not D:** Making internally is cost-effective only if the shop is capable, which has to be confirmed first."
+    },
+    {
+      "topic": "Outsourcing, make-or-buy and the SOW",
+      "question": "A buyer writing a statement of work requires consultants to hold a specific security certification and five years' experience, and to travel to two client sites. Which section of the LO1 SOW template does this belong in?",
+      "options": {
+        "A": "Applicable Standards",
+        "B": "Scope of Work",
+        "C": "Location of Work",
+        "D": "Special Requirements"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The SOW template's Special Requirements section covers items such as hardware or software certifications, the minimum degree or experience level of personnel, and travel requirements. (LO1 media: Figure 12-3 Statement of work (SOW) template)\n**Why not A:** Applicable Standards lists company or industry-specific standards relevant to the work.\n**Why not B:** Scope of Work describes the work itself in detail, including the hardware and software involved.\n**Why not C:** Location of Work describes where the work and the people must be."
+    },
+    {
+      "topic": "Outsourcing, make-or-buy and the SOW",
+      "question": "A statement of work states that the contract runs from March to August, sets working hours and caps billable hours at 37.5 per week. Which section of the LO1 SOW template is this?",
+      "options": {
+        "A": "Deliverables Schedule",
+        "B": "Acceptance Criteria",
+        "C": "Period of Performance",
+        "D": "Location of Work"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The template's Period of Performance section specifies when the work starts and ends, working hours, the number of hours that can be billed per week and related schedule information. (LO1 media: Figure 12-3 Statement of work (SOW) template)\n**Why not A:** The Deliverables Schedule lists specific deliverables and when each is due.\n**Why not B:** Acceptance Criteria describe how the buyer decides whether the work is acceptable.\n**Why not D:** Location of Work covers where the work is done."
+    },
+    {
+      "topic": "Outsourcing, make-or-buy and the SOW",
+      "question": "Studying the PMBOK procurement overview figure in LO1, a student notices two inputs that appear in Plan, Conduct and Control Procurements alike. Which two are they?",
+      "options": {
+        "A": "Enterprise environmental factors and organizational process assets",
+        "B": "Seller proposals and the agreements signed with sellers",
+        "C": "The project charter and the project's business documents",
+        "D": "Work performance data and approved change requests"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In the overview figure, enterprise environmental factors and organizational process assets are inputs to all three procurement processes, and OPA updates are also an output of each. (LO1 media: Project Procurement Management Overview)\n**Why not B:** Seller proposals feed Conduct Procurements, and agreements feed Control Procurements.\n**Why not C:** The project charter and business documents are inputs to planning only.\n**Why not D:** Work performance data and approved change requests are inputs to Control Procurements only."
+    },
+    {
+      "topic": "Outsourcing, make-or-buy and the SOW",
+      "question": "A buyer attaches to a contract a statement of work that describes only the work required under that particular contract. What does LO1 call this document?",
+      "options": {
+        "A": "A bill of materials",
+        "B": "A procurement management plan",
+        "C": "A customer specification",
+        "D": "A contract statement of work"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** LO1 says that when a SOW is used as part of a contract to describe only the work required for that contract, it is called a contract statement of work, which is a type of scope statement. A good SOW gives bidders a better understanding of the buyer's expectations. (LO1: Statement of Work)\n**Why not A:** A bill of materials lists the quantity and part number of every component to be procured.\n**Why not B:** The procurement management plan describes how all procurement processes will be managed.\n**Why not C:** Customer specifications describe the deliverables' critical details from the customer's side."
+    }
+  ]
+}
