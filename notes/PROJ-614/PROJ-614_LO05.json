@@ -1,0 +1,346 @@
+{
+  "course": "PROJ 614",
+  "learningObjective": {
+    "number": "05",
+    "title": "Review process groups, Knowledge-Based Area (KBA) mapping, and project constraints"
+  },
+  "source": "LO5.pptx.txt and slide images",
+  "questions": [
+    {
+      "topic": "Process groups",
+      "question": "A new coordinator says, 'The five process groups are just the project's phases. We finish Initiating, then do Planning once, then Executing, and so on.' What does the material say?",
+      "options": {
+        "A": "That is correct; each group is done once, strictly in order",
+        "B": "They are groupings that overlap through the lifecycle, not phases",
+        "C": "They only apply during the first phase of a project",
+        "D": "They were dropped from PMBOK 6 and replaced by sprints"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material says the five process groups (Initiating, Planning, Executing, Monitoring & Controlling, Closing) are not phases of a project but process groupings that interact and often overlap throughout the project lifecycle. (5.1 PM process groups)\n**Why not A:** The groups overlap and repeat; they aren't a one-time sequence.\n**Why not C:** They span the whole lifecycle.\n**Why not D:** They are defined in PMBOK 6 and earlier; PMBOK 7 later moved to performance domains, not sprints."
+    },
+    {
+      "topic": "Process groups",
+      "question": "A sponsor has just approved a new IT project. The project manager drafts the charter and identifies the stakeholders. Which process group is she working in?",
+      "options": {
+        "A": "Planning",
+        "B": "Executing",
+        "C": "Initiating",
+        "D": "Monitoring and controlling"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Initiating covers activities to formally start a new project or phase, including developing the project charter and identifying stakeholders. (5.1 PM process groups)\n**Why not A:** Planning defines scope, refines objectives and builds the subsidiary plans.\n**Why not B:** Executing coordinates resources and performs the planned work.\n**Why not D:** Monitoring and controlling tracks progress and manages changes."
+    },
+    {
+      "topic": "Process groups",
+      "question": "With the plans approved, a project manager is bringing developers onto the team, running the vendor selection and managing stakeholder engagement. Which process group is this?",
+      "options": {
+        "A": "Executing",
+        "B": "Planning",
+        "C": "Closing",
+        "D": "Initiating"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Executing coordinates resources and performs the planned activities, including acquiring and managing the team, conducting procurements and managing stakeholder engagement. (5.1 PM process groups)\n**Why not B:** Planning defines the course of action before the work is done.\n**Why not C:** Closing finalizes activities, releases resources and records lessons learned.\n**Why not D:** Initiating formally starts the project with the charter."
+    },
+    {
+      "topic": "Process groups",
+      "question": "Midway through a project, the PM compares progress with the plan, manages change requests and checks that scope, cost and quality stay under control. Which process group is this?",
+      "options": {
+        "A": "Executing",
+        "B": "Closing",
+        "C": "Planning",
+        "D": "Monitoring and controlling"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Monitoring and controlling tracks, reviews and regulates progress and performance, including managing changes, keeping alignment with the plan, and controlling scope, cost and quality. (5.1 PM process groups)\n**Why not A:** Executing performs the work rather than measuring it against the plan.\n**Why not B:** Closing confirms completion and releases resources.\n**Why not C:** Planning sets the plan that monitoring compares against."
+    },
+    {
+      "topic": "Knowledge areas and change control",
+      "question": "A student preparing for a PMBOK 6 exam needs to recall how the framework is structured. Which combination is correct?",
+      "options": {
+        "A": "49 processes across 5 process groups and 10 knowledge areas",
+        "B": "49 processes across 10 process groups and 5 knowledge areas",
+        "C": "12 principles across 8 performance domains",
+        "D": "47 processes across 5 process groups and 8 knowledge areas"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** PMBOK 6 organizes 49 processes across five process groups and ten knowledge areas, with each knowledge area spanning several process groups. (5.2 Map processes to the 10 knowledge areas)\n**Why not B:** This swaps the number of process groups and knowledge areas.\n**Why not C:** Principles and performance domains are PMBOK 7's structure.\n**Why not D:** PMBOK 6 has 49 processes and ten knowledge areas."
+    },
+    {
+      "topic": "Knowledge areas and change control",
+      "question": "Developers keep adding features nobody asked for, and the sponsor complains that the project is doing work outside what was agreed. Which knowledge area's purpose is being undermined?",
+      "options": {
+        "A": "Quality Management",
+        "B": "Integration Management",
+        "C": "Scope Management",
+        "D": "Resource Management"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Scope Management ensures the project includes all the work required, and only the work required. Unrequested features fall outside that boundary. (5.2 Map processes to the 10 knowledge areas)\n**Why not A:** Quality Management ensures the project meets its quality requirements.\n**Why not B:** Integration Management coordinates all the elements of the project.\n**Why not D:** Resource Management identifies, acquires and manages resources."
+    },
+    {
+      "topic": "Knowledge areas and change control",
+      "question": "Which knowledge area does the material describe as the 'glue' that binds all the others together, taking inputs from and giving outputs to every one of them?",
+      "options": {
+        "A": "Stakeholder Management",
+        "B": "Integration Management",
+        "C": "Communications Management",
+        "D": "Risk Management"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Integration management is the glue that binds all other process groups and knowledge areas, coordinating activities so all components work together; its processes interact with every other knowledge area. (5.2 How process groups interact with the knowledge areas)\n**Why not A:** Stakeholder management also interacts with all areas, but it isn't described as the glue.\n**Why not C:** Communications management distributes information to stakeholders.\n**Why not D:** Risk management identifies and responds to risks."
+    },
+    {
+      "topic": "Knowledge areas and change control",
+      "question": "To choose between three hosting vendors, a team uses multi-criteria decision analysis, a decision tree and a final vote. Which common tool and technique category from the material is this?",
+      "options": {
+        "A": "Expert judgment",
+        "B": "Project management information systems",
+        "C": "Data analysis",
+        "D": "Decision-making techniques"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material lists decision-making techniques, such as multi-criteria decision analysis (MCDA), decision trees and voting, as common tools used to evaluate alternatives across many processes. (5.2 Common ITTOs)\n**Why not A:** Expert judgment means seeking advice from people with specialized knowledge.\n**Why not B:** A PMIS is software for collecting and sharing project information.\n**Why not C:** Data analysis covers techniques such as trend and regression analysis on performance data."
+    },
+    {
+      "topic": "Knowledge areas and change control",
+      "question": "A stakeholder submits a request to add biometric login to an app already in development. The request has been logged. According to the integrated change control process, what comes next?",
+      "options": {
+        "A": "Implement the change right away to keep the stakeholder happy",
+        "B": "Communicate the change to all stakeholders as approved",
+        "C": "Evaluate the change's impact on objectives, constraints and deliverables",
+        "D": "Close the request, since changes aren't allowed once work starts"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Integrated change control runs: identify the change request, evaluate its impact, approve or reject it, implement approved changes, document and communicate them, and monitor and control them. After logging, the next step is evaluating impact on objectives, constraints and deliverables, including feasibility, risk and resources. (5.2 Integrated change control process)\n**Why not A:** Implementation comes only after evaluation and approval.\n**Why not B:** Nothing has been approved yet.\n**Why not D:** Integrated change control is performed throughout the project; changes are reviewed, not refused outright."
+    },
+    {
+      "topic": "Knowledge areas and change control",
+      "question": "After evaluating a change request's impact, who approves or rejects it under integrated change control?",
+      "options": {
+        "A": "The developer who will make the change",
+        "B": "The change control board or a designated authority",
+        "C": "The stakeholder who requested the change",
+        "D": "The vendor whose system is affected"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Once the impact is assessed, the project's change control board (CCB) or a designated authority reviews and approves or rejects the change, based on alignment with objectives, feasibility, cost and risk. (5.2 Integrated change control process)\n**Why not A:** The developer implements approved changes but doesn't approve them.\n**Why not C:** The requester proposes the change; approving it themselves would bypass control.\n**Why not D:** Vendors don't hold approval authority over project changes."
+    },
+    {
+      "topic": "Knowledge areas and change control",
+      "question": "A developer quietly adds a new reporting feature without raising a change request, and it later breaks the release schedule. Which benefit of integrated change control was lost?",
+      "options": {
+        "A": "Changes are weighed together against overall project risk",
+        "B": "Team members can make changes faster without documentation",
+        "C": "The project avoids having to communicate with stakeholders",
+        "D": "The board no longer has to review smaller changes"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The key benefit of integrated change control is that documented changes are considered together while addressing overall project risk, which often comes from changes made without regard to the overall objectives or plans. It also minimizes scope creep. (5.2 Integrated change control)\n**Why not B:** The process deliberately requires documentation.\n**Why not C:** The process improves communication with stakeholders.\n**Why not D:** The process reviews all change requests."
+    },
+    {
+      "topic": "Project constraints",
+      "question": "A trainer lists the six project constraints that the course material describes. Which list is correct?",
+      "options": {
+        "A": "Scope, schedule, cost, quality, stakeholders and procurement",
+        "B": "Time, budget, staff, vendors, tools and sponsors",
+        "C": "Scope, schedule, cost, quality, resources and risk",
+        "D": "Initiating, planning, executing, controlling, closing and risk"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The six constraints are scope, schedule, cost, quality, resources and risk. The classic triangle of time, cost and scope sits at the centre, with resources, quality and risk around it. (5.3 Define project constraints)\n**Why not A:** Stakeholders and procurement are knowledge areas, not constraints.\n**Why not B:** These mix specific resources with people rather than naming the constraints.\n**Why not D:** These are process groups, with risk added."
+    },
+    {
+      "topic": "Project constraints",
+      "question": "To hit a launch date, a team cuts most of its regression testing. According to the material, what is the likely longer-term effect of compromising the quality constraint?",
+      "options": {
+        "A": "Lower costs throughout the life of the product",
+        "B": "Fewer changes needed after launch",
+        "C": "Higher stakeholder satisfaction from the earlier release",
+        "D": "Rework, customer dissatisfaction and higher costs over time"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material says compromising on quality can lead to rework, customer dissatisfaction and increased costs in the long run. (5.3 Impact of each constraint)\n**Why not A:** Costs tend to rise later because of the rework.\n**Why not B:** Cutting testing usually means more fixes after launch, not fewer.\n**Why not C:** Poor quality tends to cause dissatisfaction, whatever the release date."
+    },
+    {
+      "topic": "Project constraints",
+      "question": "The sponsor moves a deadline three weeks earlier, and the PM plans to fast-track or crash the schedule. According to the material, what trade-off should she warn about?",
+      "options": {
+        "A": "Costs may rise or quality may suffer",
+        "B": "Scope will automatically shrink",
+        "C": "Risk will disappear because there is less time for things to go wrong",
+        "D": "Nothing changes, since the constraints are independent"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material says schedule compression, such as fast tracking or crashing, may raise costs or compromise quality, because constraints are interdependent. (5.4 Interdependencies of project constraints)\n**Why not B:** Scope doesn't shrink on its own; it would have to be deliberately reduced.\n**Why not C:** Compressing the schedule doesn't remove risk.\n**Why not D:** The material stresses that a change in one constraint cascades to others."
+    },
+    {
+      "topic": "Project constraints",
+      "question": "Finance cuts a project's budget by 20%, but the deadline stays the same. According to the interdependencies in the material, what will the PM most likely have to do?",
+      "options": {
+        "A": "Add more scope to justify the remaining budget",
+        "B": "Reduce scope or accept higher risk",
+        "C": "Extend quality standards to compensate",
+        "D": "Hire more senior staff to finish faster"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material notes that reducing cost might require reducing scope or accepting higher risk, since budget constraints also affect resource allocation and schedules. (5.4 Interdependencies of project constraints)\n**Why not A:** Adding scope would need more money, not less.\n**Why not C:** Raising quality standards usually costs more.\n**Why not D:** Hiring more senior staff would raise costs against a smaller budget."
+    },
+    {
+      "topic": "Project constraints",
+      "question": "The only database specialist leaves mid-project, and no replacement with the same skills is available. Which effects does the material say a lack of skilled personnel can have?",
+      "options": {
+        "A": "It affects quality only, not time or cost",
+        "B": "It affects scope only, by removing database features",
+        "C": "It can lower quality, increase duration and raise cost",
+        "D": "It has no effect if the schedule has a buffer"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says a lack of skilled personnel may affect quality, increase duration and impact cost, and that limited resources can extend timelines as tasks take longer. (5.4 Interdependencies of project constraints)\n**Why not A:** The material lists effects on time and cost too.\n**Why not B:** Scope may change, but the material stresses quality, time and cost.\n**Why not D:** Buffers can absorb some disruption, but they don't cancel the effects."
+    },
+    {
+      "topic": "Project constraints",
+      "question": "A project must deliver a high-security system on a tight schedule with a small, stretched team and a fixed budget. What does the material say about how these constraints affect the project?",
+      "options": {
+        "A": "Tight or conflicting constraints increase project complexity",
+        "B": "Constraints reduce complexity by narrowing the options",
+        "C": "Complexity depends only on the technology used",
+        "D": "Complexity matters only in the closing phase"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material says project complexity increases when constraints are tight or conflicting, for example balancing a tight schedule with limited resources, or high quality standards within a constrained budget. (5.4 Impact of constraints on project complexity)\n**Why not B:** The material describes tight constraints as adding complexity, not reducing it.\n**Why not C:** Technology is one source of complexity, but constraints add to it as well.\n**Why not D:** Constraints shape complexity throughout the project."
+    },
+    {
+      "topic": "From process groups to performance domains",
+      "question": "A senior PM asks what fundamentally changed between PMBOK 6 and PMBOK 7. Which description matches the material?",
+      "options": {
+        "A": "PMBOK 7 added detailed process steps to every knowledge area",
+        "B": "PMBOK 7 swapped prescriptive processes for principles and value",
+        "C": "PMBOK 7 dropped tailoring in favour of one standard method",
+        "D": "PMBOK 7 removed stakeholders from project management entirely"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** PMBOK 7 replaces the prescriptive, process-based framework with a principle-based approach focused on value delivery: eight performance domains, an emphasis on tailoring, outcomes and adaptability, and the use of models, methods and artifacts. (5.5 Shift from process groups to performance domains)\n**Why not A:** PMBOK 7 moved away from prescriptive process steps.\n**Why not C:** PMBOK 7 emphasizes tailoring.\n**Why not D:** Stakeholders is one of PMBOK 7's eight performance domains."
+    },
+    {
+      "topic": "From process groups to performance domains",
+      "question": "For which kind of project does the material say the PMBOK 6 process-group approach is the better fit?",
+      "options": {
+        "A": "A complex, change-driven IT project",
+        "B": "An innovative mobile app with evolving requirements",
+        "C": "A predictable, plan-driven project",
+        "D": "A start-up prototype needing fast feedback"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material's comparison says process groups (49 processes, linear and sequential, low flexibility) are best for predictable, plan-driven projects, while performance domains suit complex, change-driven projects such as IT. (5.5 Key differences)\n**Why not A:** Complex, change-driven IT projects fit the performance domain approach.\n**Why not B:** Evolving requirements call for adaptive approaches.\n**Why not D:** Fast feedback needs flexibility, which process groups offer little of."
+    },
+    {
+      "topic": "From process groups to performance domains",
+      "question": "An IT team isn't sure whether a third-party API can handle its data volumes, so it runs a short 'spike' to investigate before committing to a design. Which performance domain does this practice support?",
+      "options": {
+        "A": "Uncertainty",
+        "B": "Delivery",
+        "C": "Stakeholder",
+        "D": "Measurement"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The Uncertainty domain covers recognizing and managing uncertainty, ambiguity, risk and complexity; in IT it encourages risk-adjusted backlogs and spikes to investigate unknowns, along with failing fast and pivoting. (5.5 The 8 performance domains)\n**Why not B:** Delivery focuses on delivering value and benefits.\n**Why not C:** Stakeholder focuses on engaging the people affected by the project.\n**Why not D:** Measurement focuses on metrics and KPIs."
+    },
+    {
+      "topic": "From process groups to performance domains",
+      "question": "A Scrum team tracks velocity, cumulative flow, lead time and defect density on a real-time dashboard, using both leading and lagging indicators. Which performance domain is this?",
+      "options": {
+        "A": "Planning",
+        "B": "Team",
+        "C": "Project Work",
+        "D": "Measurement"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The Measurement domain assesses performance with metrics, KPIs and performance data, using leading and lagging indicators; in IT it encourages agile metrics such as velocity, burndown, cumulative flow, lead time and defect density. (5.5 The 8 performance domains)\n**Why not A:** Planning covers how planning is done and adapted.\n**Why not B:** Team covers building a collaborative, capable team.\n**Why not C:** Project Work covers carrying out and coordinating the work itself."
+    },
+    {
+      "topic": "From process groups to performance domains",
+      "question": "A project team sets up a CI/CD pipeline, tracks its work and issues in Jira, and manages code in Git so development and deployment run smoothly day to day. Which performance domain does this fall under?",
+      "options": {
+        "A": "Development Approach and Life Cycle",
+        "B": "Project Work",
+        "C": "Delivery",
+        "D": "Uncertainty"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The Project Work domain ensures the work is carried out effectively, covering resources, knowledge management and issue management; in IT it covers coding, testing and deployment, tools like Jira and Git, and automated CI/CD workflows. (5.5 The 8 performance domains)\n**Why not A:** That domain is about choosing and adapting the development approach.\n**Why not C:** Delivery is about delivering value and the acceptance of outputs.\n**Why not D:** Uncertainty is about risk and ambiguity."
+    },
+    {
+      "topic": "From process groups to performance domains",
+      "question": "At the start of a project, the team weighs whether to use a predictive, agile or hybrid approach and how its lifecycle stages should line up with its deliverables. Which performance domain covers this decision?",
+      "options": {
+        "A": "Planning",
+        "B": "Delivery",
+        "C": "Development Approach and Life Cycle",
+        "D": "Team"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The Development Approach and Life Cycle domain deals with selecting and adapting the development approach (predictive, iterative, incremental, agile or hybrid), aligning lifecycle stages with deliverables and value, and integrating the lifecycle with governance. (5.5 The 8 performance domains)\n**Why not A:** Planning covers how plans are built and kept up to date.\n**Why not B:** Delivery focuses on delivering outcomes and benefits.\n**Why not D:** Team focuses on forming and leading the team."
+    },
+    {
+      "topic": "Balancing constraints under uncertainty",
+      "question": "With time running short, a team ranks every remaining feature as Must have, Should have, Could have or Won't have, so effort goes to the highest-value work first. Which strategy from the material is this?",
+      "options": {
+        "A": "Building buffers into the schedule",
+        "B": "Scenario planning",
+        "C": "Decentralizing decision-making",
+        "D": "Value-driven prioritization"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Value-driven prioritization uses techniques such as MoSCoW, the Kano model or Weighted Shortest Job First to focus on high-value features first, so limited time and resources go to the most valuable work and scope can be trimmed without losing essential outcomes. (5.6 Strategies for balancing constraints)\n**Why not A:** Buffers add slack to absorb disruptions; they don't rank features.\n**Why not B:** Scenario planning prepares alternative paths for disruptive change.\n**Why not C:** Decentralizing lets teams make local decisions; it isn't a ranking technique."
+    },
+    {
+      "topic": "Balancing constraints under uncertainty",
+      "question": "At kickoff, the PM and stakeholders agree that the launch date is fixed, the budget can flex by 10% and scope is negotiable. Later, when an unexpected problem hits, they use this agreement to decide what gives. Which strategy is this?",
+      "options": {
+        "A": "Establishing clear trade-off rules",
+        "B": "Rolling-wave forecasting",
+        "C": "Monitoring with agile metrics",
+        "D": "Continuous risk management"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Establishing clear trade-off rules means agreeing up front with stakeholders which constraint is fixed, which is flexible and which is negotiable, using the iron triangle of time, cost and scope, so conflicts are resolved by anchoring to agreed priorities. (5.6 Strategies for balancing constraints)\n**Why not B:** Rolling-wave forecasting plans the near term in detail and later work broadly.\n**Why not C:** Agile metrics detect imbalances, but they don't set the rules for resolving them.\n**Why not D:** Risk management identifies and monitors risks rather than setting trade-off priorities."
+    },
+    {
+      "topic": "Balancing constraints under uncertainty",
+      "question": "A PM adds two weeks of schedule buffer, a budget reserve and risk contingencies to a plan for a project that depends on a new, untested vendor. How does the material describe the role of these additions?",
+      "options": {
+        "A": "They remove the need for any ongoing risk management",
+        "B": "They are waste that should be trimmed to save money",
+        "C": "They absorb shocks from unexpected disruptions",
+        "D": "They replace the need to prioritize the project's scope"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Building slack and buffers, such as schedule buffers, budget reserves and risk contingencies, provides shock absorbers against unexpected disruptions such as scope creep, resource loss or technology failure. (5.6 Strategies for balancing constraints)\n**Why not A:** Buffers work alongside continuous risk management, not instead of it.\n**Why not B:** The material presents buffers as a deliberate strategy, not waste.\n**Why not D:** Prioritization is a separate strategy that is still needed."
+    },
+    {
+      "topic": "Balancing constraints under uncertainty",
+      "question": "Before committing to a cloud migration date, a PM runs what-if analyses and Monte Carlo simulations on several possible disruptions, so the team can respond proactively instead of firefighting. Which strategy is this?",
+      "options": {
+        "A": "Value-driven prioritization of the backlog",
+        "B": "Continuous risk management and scenario planning",
+        "C": "Empowering teams to make local decisions",
+        "D": "Feedback loops with key stakeholders"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Continuous risk management and scenario planning identify and monitor emerging risks using what-if analysis, Monte Carlo simulations or risk-adjusted backlogs, enabling proactive responses rather than reactive firefighting. (5.6 Strategies for balancing constraints)\n**Why not A:** Prioritization ranks features by value.\n**Why not C:** Empowering teams speeds up local decisions.\n**Why not D:** Feedback loops validate priorities with stakeholders through reviews and demos."
+    },
+    {
+      "topic": "Balancing constraints under uncertainty",
+      "question": "An IT project keeps accumulating bugs and technical debt, putting its quality constraint at risk. Which strategy does the material recommend for this challenge?",
+      "options": {
+        "A": "Cross-skilling and more flexible team structures",
+        "B": "Timeboxing and value-based prioritization of work",
+        "C": "A minimum viable product and backlog grooming",
+        "D": "Continuous integration and testing, with quality gates"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material's IT application table pairs the quality challenge of bugs and technical debt with continuous integration and testing and quality gates. (5.6 Application to IT projects)\n**Why not A:** Cross-skilling addresses resource constraints such as skills shortages.\n**Why not B:** Timeboxing and value-based prioritization address cost overruns from scope creep.\n**Why not C:** An MVP and backlog grooming address changing scope requirements."
+    }
+  ]
+}

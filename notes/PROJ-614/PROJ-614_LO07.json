@@ -1,0 +1,262 @@
+{
+  "course": "PROJ 614",
+  "learningObjective": {
+    "number": "07",
+    "title": "Develop a project charter"
+  },
+  "source": "LO7.pptx.txt and slide images",
+  "questions": [
+    {
+      "topic": "Charter purpose and components",
+      "question": "Developers are eager to start building the API, but the IT director says no coding can begin until one document is approved. Which document formally authorizes the project and assigns the project manager?",
+      "options": {
+        "A": "The project charter",
+        "B": "The stakeholder register",
+        "C": "The risk register",
+        "D": "The team charter"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The project charter is the formal document that authorizes a project, assigns the project manager and gives high-level information on objectives, scope, deliverables and constraints. In IT it gives clear authorization to begin work such as coding, infrastructure setup and API development. (7.1 Define project charter)\n**Why not B:** The stakeholder register lists stakeholders and their roles.\n**Why not C:** The risk register logs risks; it doesn't authorize work.\n**Why not D:** A team charter sets working agreements for the team."
+    },
+    {
+      "topic": "Charter purpose and components",
+      "question": "A project manager reviews a draft charter. Which item does NOT belong among the charter's key components?",
+      "options": {
+        "A": "A summary milestone schedule",
+        "B": "Measurable objectives and success criteria",
+        "C": "A detailed task-level sprint backlog",
+        "D": "The assigned PM and their authority level"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The charter's key components are the project purpose and justification, measurable objectives and success criteria, high-level requirements, high-level risks, a summary milestone schedule, a preapproved budget, a stakeholder list, and the assigned PM with their authority level. A detailed task-level backlog is too detailed for a charter. (7.1 Key components)\n**Why not A:** A summary milestone schedule is a listed component.\n**Why not B:** Measurable objectives and success criteria are a listed component.\n**Why not D:** The assigned PM and their authority level is a listed component."
+    },
+    {
+      "topic": "Charter purpose and components",
+      "question": "Three weeks into a project, the project manager isn't sure whether she can approve overtime or shift funds between workstreams without asking the sponsor. Which charter component should have settled this?",
+      "options": {
+        "A": "The high-level requirements of the project",
+        "B": "The list of stakeholders and their roles",
+        "C": "The high-level risks the charter names",
+        "D": "The assigned PM and their authority level"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** One of the charter's key components is the assigned project manager and their authority level, which defines what the PM can decide without escalating. (7.1 Key components)\n**Why not A:** High-level requirements describe what the project must deliver.\n**Why not B:** The stakeholder list names who is involved, not the PM's decision rights.\n**Why not C:** High-level risks list major uncertainties."
+    },
+    {
+      "topic": "Charter purpose and components",
+      "question": "A team fills in a project charter template. Who should be entered in the 'Project Sponsor' field?",
+      "options": {
+        "A": "The person leading the project day to day",
+        "B": "The executive who pays for or resources the project",
+        "C": "The most senior developer on the project team",
+        "D": "The vendor that supplies the project's software"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In the charter template, the project sponsor is the executive paying for the project or giving it resources, while the project manager is the person leading the project. (7.1 How to develop a project charter)\n**Why not A:** The person leading the project is the project manager.\n**Why not C:** A senior developer is a team member, not the sponsor.\n**Why not D:** A vendor is an external stakeholder."
+    },
+    {
+      "topic": "Charter purpose and components",
+      "question": "To develop a charter, a project manager draws on expert judgment, gathers data through interviews and workshops, and uses interpersonal and team skills in meetings. Besides the charter, what does this process produce?",
+      "options": {
+        "A": "A detailed WBS",
+        "B": "A procurement management plan",
+        "C": "An assumption log",
+        "D": "A burndown chart"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Develop Project Charter uses expert judgment, data gathering, interpersonal and team skills, and meetings, taking business documents, agreements, EEF and OPA as inputs, and produces the project charter and an assumption log. (7.1 Develop project charter)\n**Why not A:** A detailed WBS is created later, during scope planning.\n**Why not B:** The procurement plan is a later subsidiary plan.\n**Why not D:** A burndown chart tracks sprint progress during execution."
+    },
+    {
+      "topic": "Stakeholder input",
+      "question": "Before drafting a charter for a service desk upgrade, a project manager wants to find everyone who might be affected. Which sources does the material suggest for identifying stakeholders?",
+      "options": {
+        "A": "Org charts, governance documents and ITSM systems",
+        "B": "The burndown chart and the current sprint backlog",
+        "C": "Vendor invoices and the project's purchase orders",
+        "D": "The final lessons-learned report from closing"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material suggests identifying stakeholders by analyzing the project's context with tools such as organizational charts, project governance documentation and IT service management (ITSM) systems. (7.2 Identify and gather stakeholder input)\n**Why not B:** Burndown charts and sprint backlogs track work after the project starts.\n**Why not C:** Invoices show only vendors, not the full set of stakeholders.\n**Why not D:** Lessons learned are produced at closing."
+    },
+    {
+      "topic": "Stakeholder input",
+      "question": "Having listed the stakeholders, a project manager wants to sort them by how much power, interest and influence each has over the project. Which tools does the material suggest?",
+      "options": {
+        "A": "A RACI matrix or a high-level Gantt chart",
+        "B": "A risk matrix or a SWOT analysis of threats",
+        "C": "MoSCoW ranking or the 100-point method",
+        "D": "A power-interest grid or a stakeholder cube"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material says stakeholders should be classified by power, interest and influence using a power-interest grid or a stakeholder cube. (7.2 Identify and gather stakeholder input)\n**Why not A:** RACI assigns responsibilities, and a Gantt chart shows the schedule.\n**Why not B:** These are risk analysis techniques.\n**Why not C:** These are prioritization techniques for requirements."
+    },
+    {
+      "topic": "Stakeholder input",
+      "question": "A charter for a new HR portal needs input from about 2,000 end users across the company. Which input-gathering method from the material is the most practical for this group?",
+      "options": {
+        "A": "One-on-one interviews with every user",
+        "B": "Surveys or questionnaires",
+        "C": "A single requirements workshop for all users",
+        "D": "A steering committee vote"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material lists interviews (for IT managers, security officers and product owners), focus groups or requirements workshops, and surveys or questionnaires for end users or external stakeholders. Surveys suit a large group of end users. (7.2 Identify and gather stakeholder input)\n**Why not A:** Interviews suit a small number of key people, not 2,000 users.\n**Why not C:** Workshops suit a focused group, not thousands of people.\n**Why not D:** A steering committee makes decisions; it doesn't gather end-user input."
+    },
+    {
+      "topic": "Stakeholder input",
+      "question": "After interviewing the DevOps lead, UX designers and an external API vendor, the project manager needs to record each stakeholder's expectations, constraints and high-level requirements. Which artifact holds this?",
+      "options": {
+        "A": "The stakeholder register",
+        "B": "The RAID log",
+        "C": "The burndown chart",
+        "D": "The milestone list"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Stakeholder inputs, such as expectations, constraints and high-level requirements, are documented; the material names the stakeholder register as the artifact (PMBOK 6, 13.1 Identify Stakeholders). (7.2 Identify and gather stakeholder input)\n**Why not B:** A RAID log tracks risks, assumptions, issues and dependencies.\n**Why not C:** A burndown chart tracks remaining sprint work.\n**Why not D:** A milestone list records key dates."
+    },
+    {
+      "topic": "Objectives, scope, risks and assumptions",
+      "question": "A charter needs an objective that follows the material's SMART guidance. Which one fits best?",
+      "options": {
+        "A": "Improve the system as much as possible",
+        "B": "Make customers happier with our platform",
+        "C": "Upgrade to the latest technology eventually",
+        "D": "Reduce system downtime by 50% within six months"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material says objectives should be SMART and tied to business needs; its example is 'Reduce system downtime by 50% within six months', which is specific, measurable and time-bound. (7.3 Draft objectives, scope, deliverables and timeline)\n**Why not A:** It has no measure or deadline.\n**Why not B:** It is vague and has no measurable target.\n**Why not C:** It has no measure and no time frame."
+    },
+    {
+      "topic": "Objectives, scope, risks and assumptions",
+      "question": "After a cloud migration project starts, the sponsor assumes mobile app integration is part of it, but the team never planned for it. What should the charter's scope section have done to prevent this?",
+      "options": {
+        "A": "Listed only the deliverables, leaving exclusions unstated",
+        "B": "Stated what is included and what is excluded",
+        "C": "Left scope open so it could grow during the project",
+        "D": "Moved scope to a later phase after coding began"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material says the charter's scope should list what is included and excluded, for example 'Migrate customer data to cloud - excludes mobile app integration', and use a high-level WBS for the major work components. (7.3 Draft objectives, scope, deliverables and timeline)\n**Why not A:** Leaving exclusions unstated is what caused the confusion.\n**Why not C:** Open-ended scope invites scope creep.\n**Why not D:** Scope must be set at a high level in the charter, before the work starts."
+    },
+    {
+      "topic": "Objectives, scope, risks and assumptions",
+      "question": "A project manager needs to set the charter's major milestones for a CRM rollout. How does the material suggest estimating them and showing them?",
+      "options": {
+        "A": "Historical data or expert judgment, in a milestone chart",
+        "B": "Wait for all detailed tasks, then build a full schedule",
+        "C": "Let each developer set their own deadlines independently",
+        "D": "Copy the vendor's proposal timeline without any review"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material says to estimate major milestones using historical data or expert judgment, and to show them with high-level Gantt charts or milestone charts. (7.3 Draft objectives, scope, deliverables and timeline)\n**Why not B:** The charter works at a high level; detailed scheduling comes later.\n**Why not C:** Separate individual deadlines wouldn't give a coherent timeline.\n**Why not D:** An unreviewed vendor timeline isn't the estimation approach in the material."
+    },
+    {
+      "topic": "Objectives, scope, risks and assumptions",
+      "question": "A charter states: 'The security team will approve the architecture within two weeks.' Nobody has confirmed this yet, but the plan depends on it. How should this statement be classified?",
+      "options": {
+        "A": "A risk",
+        "B": "A deliverable",
+        "C": "An assumption",
+        "D": "An objective"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** An assumption is what is believed true for planning purposes; the material's own examples include 'Security team will approve architecture within 2 weeks' and 'Cloud provider will have 99.9% uptime'. Assumptions are recorded in an assumption log. (7.4 Analyze risks and assumptions)\n**Why not A:** A risk is an uncertain event that could affect the project, such as a vendor delaying an API.\n**Why not B:** A deliverable is a tangible output, such as a secure login module.\n**Why not D:** An objective states what the project aims to achieve."
+    },
+    {
+      "topic": "Objectives, scope, risks and assumptions",
+      "question": "A team has brainstormed 25 risks for a new platform, including untested APIs, vendor delays and data compliance issues. How does the material suggest deciding which risks to plan responses for first?",
+      "options": {
+        "A": "Respond to all 25 equally, in the order listed",
+        "B": "Ignore technical risks and focus on vendor risks",
+        "C": "Move all of them into the assumption log instead",
+        "D": "Rate them by likelihood and impact, then prioritize"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** After identifying risks with techniques such as brainstorming, SWOT analysis or checklists, the material says to qualify them with a risk matrix (likelihood versus impact) and prioritize the top risks for response planning. (7.4 Analyze risks and assumptions)\n**Why not A:** Not all risks deserve equal attention.\n**Why not B:** The material lists technical, vendor and compliance risks as all worth considering.\n**Why not C:** Risks go in the risk register; the assumption log holds assumptions."
+    },
+    {
+      "topic": "Objectives, scope, risks and assumptions",
+      "question": "A project manager wants to keep tracking the risks and assumptions identified while drafting the charter as the project moves forward. Where should they be documented?",
+      "options": {
+        "A": "In the risk register and the assumption log",
+        "B": "In the sprint backlog and the burndown chart",
+        "C": "In the communication matrix only",
+        "D": "In the final closure report"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material says to maintain a risk register and an assumption log to support ongoing analysis of risks and assumptions. (7.4 Analyze risks and assumptions)\n**Why not B:** Backlogs and burndown charts track development work.\n**Why not C:** The communication matrix covers communication needs, not risks.\n**Why not D:** A closure report comes too late to support ongoing analysis."
+    },
+    {
+      "topic": "Roles, consensus and readiness",
+      "question": "While finalizing a charter, the team writes down that the QA lead can halt any release and that the product owner controls the sprint backlog's priorities. What is the team establishing?",
+      "options": {
+        "A": "The project's success criteria",
+        "B": "The high-level risks",
+        "C": "Decision-making rights and authority",
+        "D": "The communication protocol"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Finalizing team roles includes establishing authority by clarifying decision-making rights, for example that the PM authorizes scope changes and the product owner prioritizes the backlog. The material's IT example is that the QA lead can halt releases and the product owner controls the sprint backlog. (7.5 Finalize team roles, authority and kickoff)\n**Why not A:** Success criteria define what counts as success.\n**Why not B:** High-level risks are uncertain events.\n**Why not D:** The communication protocol covers how information is shared."
+    },
+    {
+      "topic": "Roles, consensus and readiness",
+      "question": "A project manager is planning the kickoff meeting for an agile CRM project in Sprint 0. Which agenda best matches the material?",
+      "options": {
+        "A": "Detailed code reviews and a lessons-learned session",
+        "B": "Vendor contract signing and a final budget audit",
+        "C": "A demo of the finished product for acceptance",
+        "D": "Introductions, scope, communication protocols and tools"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The kickoff should include stakeholder introductions, a scope briefing, communication protocols and a development methodology overview, and set expectations on working agreements and toolsets such as Jira, Confluence or MS Teams; the material's example is a kickoff in Sprint 0. (7.5 Finalize team roles, authority and kickoff)\n**Why not A:** Code reviews and lessons learned come later.\n**Why not B:** Contracts and audits aren't kickoff content.\n**Why not C:** There is no finished product at kickoff."
+    },
+    {
+      "topic": "Roles, consensus and readiness",
+      "question": "The security team insists on strict compliance checks, while the developers insist on releasing quickly. Rather than arguing over these stated demands, the project manager explores what each group actually needs to find common ground. Which approach is this?",
+      "options": {
+        "A": "Forcing a decision through her own authority",
+        "B": "Interest-based negotiation to find common ground",
+        "C": "Avoiding the issue until after the launch",
+        "D": "Letting the larger group outvote the smaller one"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material says to clarify interests versus positions and use interest-based negotiation to find common ground; its example is security's need for compliance versus developers' need for agility. (7.6 Negotiate and build consensus)\n**Why not A:** Forcing ignores the underlying interests.\n**Why not C:** The material says to resolve conflicts early, not avoid them.\n**Why not D:** A majority vote doesn't look for common ground."
+    },
+    {
+      "topic": "Roles, consensus and readiness",
+      "question": "In a prioritization workshop, each stakeholder gets 100 points to spread across the proposed features, putting the most points on what matters most to them. Which technique is this?",
+      "options": {
+        "A": "The 100-point method",
+        "B": "MoSCoW",
+        "C": "Story mapping",
+        "D": "A power-interest grid"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material lists MoSCoW, the 100-point method and story mapping as prioritization techniques for workshops; distributing 100 points across features is the 100-point method. (7.6 Negotiate and build consensus)\n**Why not B:** MoSCoW sorts items into Must, Should, Could and Won't have.\n**Why not C:** Story mapping arranges user stories along the user's journey.\n**Why not D:** A power-interest grid classifies stakeholders, not features."
+    },
+    {
+      "topic": "Roles, consensus and readiness",
+      "question": "After a long negotiation, the stakeholders agree to phase out a legacy system once core modules are ported to the new ERP. How should the project manager document this consensus?",
+      "options": {
+        "A": "Rely on everyone remembering the verbal agreement",
+        "B": "Mention it informally in the team's chat channel",
+        "C": "Signed minutes, a decision log or versioned requirements",
+        "D": "Wait until project closure before recording it"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says to document consensus with signed-off meeting minutes, decision logs or version-controlled requirement documents. (7.6 Negotiate and build consensus)\n**Why not A:** Verbal agreements are easily disputed later.\n**Why not B:** An informal chat isn't a formal record of the decision.\n**Why not D:** Consensus needs recording when it is reached, not at closure."
+    },
+    {
+      "topic": "Roles, consensus and readiness",
+      "question": "A charter's objectives, scope, timeline, risks and budget are all clearly defined, and the team understands it. However, the sponsor and functional heads haven't formally approved it yet. Is the charter ready to trigger Sprint 1?",
+      "options": {
+        "A": "Yes, because the team already understands the charter",
+        "B": "Yes, because sign-off is only needed at closure",
+        "C": "No, the scope must first become a detailed WBS",
+        "D": "No, it still needs sponsor and functional-head sign-off"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Evaluating charter readiness includes a checklist review, formal stakeholder sign-off from the project sponsor and functional heads, team alignment, and readiness criteria such as confirming resources are allocated. Without sign-off, the charter isn't ready. (7.7 Evaluate charter readiness)\n**Why not A:** Team alignment is only one of the readiness checks.\n**Why not B:** Sign-off is needed before initiation, not at closure.\n**Why not C:** A detailed WBS isn't a charter readiness requirement; the charter works at a high level."
+    }
+  ]
+}

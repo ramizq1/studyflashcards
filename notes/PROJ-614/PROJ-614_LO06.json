@@ -1,0 +1,346 @@
+{
+  "course": "PROJ 614",
+  "learningObjective": {
+    "number": "06",
+    "title": "Compare project management methodologies to determine best fit"
+  },
+  "source": "LO6.pptx.txt and slide images",
+  "questions": [
+    {
+      "topic": "Defining methodologies",
+      "question": "Every project team at a growing software firm runs projects its own way, and results are inconsistent. Leadership wants a structured, systematic approach that standardizes how projects are planned, executed, monitored and controlled. What is it looking to adopt?",
+      "options": {
+        "A": "A project management methodology",
+        "B": "A single project charter for all projects",
+        "C": "A new organizational structure",
+        "D": "A benefits management plan"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A project management methodology is a structured, systematic approach to planning, executing, monitoring and controlling projects, with principles, processes, tools and techniques that standardize practice and improve efficiency. (6.1 Define PM approaches)\n**Why not B:** A charter authorizes one specific project.\n**Why not C:** Changing the structure changes reporting lines, not how projects are run.\n**Why not D:** A benefits plan tracks the benefits of a project."
+    },
+    {
+      "topic": "Defining methodologies",
+      "question": "While choosing a methodology, a project manager notes that the client insists on seeing working software every two weeks. Which selection factor from the material is she weighing?",
+      "options": {
+        "A": "Resource availability",
+        "B": "Project scope and size",
+        "C": "Stakeholder preferences",
+        "D": "Organizational culture"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The factors for selecting a methodology include project requirements, scope and size, time constraints, resource availability, organizational culture, stakeholder preferences, complexity and the degree of uncertainty or flexibility required. A client's wish for frequent working software is a stakeholder preference. (6.1 Selecting a methodology)\n**Why not A:** Resource availability concerns the people and tools available.\n**Why not B:** Scope and size concern how much work the project involves.\n**Why not D:** Organizational culture concerns the company's own ways of working."
+    },
+    {
+      "topic": "Defining methodologies",
+      "question": "On a waterfall project, the architecture, database and interface designs have just been approved. Which phase comes next?",
+      "options": {
+        "A": "Requirements gathering",
+        "B": "Testing",
+        "C": "Deployment",
+        "D": "Implementation (coding)"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Waterfall phases run in order: requirements gathering, system design, implementation (coding), testing, deployment and maintenance, each building on the previous phase's deliverables. After design comes implementation. (6.1 Waterfall)\n**Why not A:** Requirements gathering comes before design.\n**Why not B:** Testing follows implementation.\n**Why not C:** Deployment follows successful testing."
+    },
+    {
+      "topic": "Defining methodologies",
+      "question": "A waterfall-built billing system has gone live. The team now monitors it, fixes bugs and releases small updates and enhancements. Which phase is this?",
+      "options": {
+        "A": "Testing",
+        "B": "Maintenance",
+        "C": "Deployment",
+        "D": "System design"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Maintenance is the final waterfall phase, where the system is actively monitored, supported and maintained, including bug fixes, updates, enhancements and ongoing support. (6.1 Waterfall)\n**Why not A:** Testing happens before release.\n**Why not C:** Deployment is installing the system in production and releasing it to users.\n**Why not D:** System design happens before any coding."
+    },
+    {
+      "topic": "Defining methodologies",
+      "question": "During the testing phase of a waterfall project, the client asks for a new report format. How does the material describe the way waterfall typically handles such changes?",
+      "options": {
+        "A": "Changes are welcomed and added to the next sprint",
+        "B": "Changes are made immediately in whichever phase is active",
+        "C": "Changes are usually not accommodated until the next project iteration",
+        "D": "Changes restart the project from the requirements phase automatically"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says that in waterfall each phase is completed sequentially with minimal overlap, and changes to requirements or deliverables are typically not accommodated until the next project iteration. (6.1 Waterfall)\n**Why not A:** Welcoming changes in sprints describes agile.\n**Why not B:** Waterfall resists mid-phase changes.\n**Why not D:** Nothing in the material says the project automatically restarts."
+    },
+    {
+      "topic": "Agile and Scrum",
+      "question": "Before the next sprint, the product owner and developers review the product backlog, add new items, clarify and estimate existing ones, and adjust priorities based on feedback. Which Scrum activity is this?",
+      "options": {
+        "A": "Sprint retrospective",
+        "B": "Backlog refinement (grooming)",
+        "C": "Sprint review",
+        "D": "Daily stand-up"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In backlog refinement (grooming), the product owner and development team review and refine the prioritized product backlog: adding items, clarifying and estimating them, and adjusting priorities. (6.1 Agile)\n**Why not A:** The retrospective reflects on the team's process.\n**Why not C:** The sprint review demonstrates completed work to stakeholders.\n**Why not D:** The daily stand-up covers progress and obstacles for the day."
+    },
+    {
+      "topic": "Agile and Scrum",
+      "question": "A Scrum team picks items from the product backlog for its next two-week time-box, agrees on a sprint goal, breaks the items into tasks and commits to delivering them. Which ceremony is this?",
+      "options": {
+        "A": "Sprint planning",
+        "B": "Sprint review",
+        "C": "Backlog refinement",
+        "D": "Sprint retrospective"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In sprint planning, the team selects items from the product backlog for the upcoming sprint (typically one to four weeks), sets the sprint goal, identifies and estimates tasks, and commits to delivering the selected items. (6.1 Agile)\n**Why not B:** The review happens at the end of the sprint to show completed work.\n**Why not C:** Refinement prepares the backlog but doesn't commit work to a sprint.\n**Why not D:** The retrospective looks back at how the team worked."
+    },
+    {
+      "topic": "Agile and Scrum",
+      "question": "After the stakeholder demo, a Scrum team meets privately to discuss what went well, what could be improved, and which actions they will take to work better next sprint. Which ceremony is this?",
+      "options": {
+        "A": "Sprint planning",
+        "B": "Daily stand-up",
+        "C": "Sprint review",
+        "D": "Sprint retrospective"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The sprint retrospective follows the review: the team reflects on its process, discussing what went well, what could be improved, and action items to boost productivity and collaboration in future sprints. (6.1 Agile)\n**Why not A:** Sprint planning selects work for the next sprint.\n**Why not B:** The daily stand-up is a short daily check-in.\n**Why not C:** The review demonstrates the product to stakeholders; the retrospective examines the process."
+    },
+    {
+      "topic": "Agile and Scrum",
+      "question": "At the end of a sprint, a team demonstrates the new features to stakeholders, who suggest changes and extra features for future iterations. Which ceremony is this?",
+      "options": {
+        "A": "Sprint retrospective",
+        "B": "Sprint review",
+        "C": "Sprint planning",
+        "D": "Backlog refinement"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The sprint review is held at the end of the sprint to demonstrate completed work to stakeholders and gather their feedback, including changes and new features for future iterations. (6.1 Agile)\n**Why not A:** The retrospective focuses on the team's own process, not a stakeholder demo.\n**Why not C:** Sprint planning starts the next sprint.\n**Why not D:** Refinement updates the backlog; it isn't a demonstration."
+    },
+    {
+      "topic": "Agile and Scrum",
+      "question": "In the agile development cycle, items move from the product backlog into a sprint backlog and are worked on through a two-week sprint with a daily scrum. What should the team have at the end of the sprint?",
+      "options": {
+        "A": "A complete requirements document for the whole product",
+        "B": "A final product ready for maintenance",
+        "C": "A potentially shippable product increment",
+        "D": "A signed change request for each feature"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The agile cycle runs from product backlog to sprint backlog to a time-boxed sprint with daily scrums, ending in a potentially shippable product increment. The team builds and tests small increments of functionality, aiming to deliver one every sprint. (6.1 Agile development)\n**Why not A:** A full upfront requirements document is a waterfall artifact.\n**Why not B:** A final product delivered at the end describes waterfall delivery.\n**Why not D:** Agile embraces change rather than routing each feature through change requests."
+    },
+    {
+      "topic": "Agile and Scrum",
+      "question": "A software vendor and its client agree to work closely together on requirements as they evolve, rather than repeatedly renegotiating the contract terms. Which Agile Manifesto value does this reflect?",
+      "options": {
+        "A": "Customer collaboration over contract negotiation",
+        "B": "Individuals and interactions over processes and tools",
+        "C": "Working software over comprehensive documentation",
+        "D": "Responding to change over following a plan"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The four Agile Manifesto values are individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan. Working with the client instead of renegotiating terms is customer collaboration over contract negotiation. (6.1 Agile Manifesto)\n**Why not B:** That value prioritizes people over processes and tools.\n**Why not C:** That value prioritizes working software over documentation.\n**Why not D:** That value is about adapting rather than sticking to a plan; the contrast here is with contract negotiation."
+    },
+    {
+      "topic": "Agile and Scrum",
+      "question": "A team lead reports that the project is 80% complete because most of the design documents are finished, though no working feature exists yet. Which agile principle does this conflict with?",
+      "options": {
+        "A": "Aim for sustainable progress at a steady pace",
+        "B": "Keep it simple by avoiding unnecessary work",
+        "C": "Make regular time for reflection as a team",
+        "D": "Working software is the main measure of progress"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Among the 12 agile principles is that working software is the primary measure of progress. Finished documents with no working features don't show real progress by this measure. (6.1 Agile principles)\n**Why not A:** Sustainable progress is about keeping a pace the team can maintain.\n**Why not B:** Keeping it simple is about avoiding unnecessary work.\n**Why not C:** Making time for reflection is about regular retrospection."
+    },
+    {
+      "topic": "Agile and Scrum",
+      "question": "To hit a date, an agile team has worked 70-hour weeks for three sprints running, and burnout is showing. Which agile principle is being ignored?",
+      "options": {
+        "A": "Welcome changing requirements",
+        "B": "Aim for sustainable progress",
+        "C": "Frequent delivery",
+        "D": "Customer satisfaction first"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** One of the 12 agile principles is to aim for sustainable progress, a pace the team can keep up indefinitely; repeated 70-hour weeks break it. (6.1 Agile principles)\n**Why not A:** Welcoming changing requirements is about adapting to change.\n**Why not C:** Frequent delivery is about releasing working software often.\n**Why not D:** Customer satisfaction first is about prioritizing the customer, not the team's pace."
+    },
+    {
+      "topic": "Comparing and matching methodologies",
+      "question": "A client wants to be involved throughout the project, giving feedback continuously rather than only at the start and the end. Which methodology does the comparison table match to this level of customer involvement?",
+      "options": {
+        "A": "Waterfall",
+        "B": "Hybrid",
+        "C": "Predictive",
+        "D": "Agile"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The comparison rates customer involvement as high for agile (continuous feedback), low for waterfall (mainly at the start and end) and medium to high for hybrid. (6.1 Comparison table)\n**Why not A:** Waterfall involves customers mainly at the start and end.\n**Why not B:** Hybrid is medium to high, not fully continuous.\n**Why not C:** Predictive is another name for waterfall."
+    },
+    {
+      "topic": "Comparing and matching methodologies",
+      "question": "A project manager is comparing how each approach handles risk. Which pairing matches the comparison table?",
+      "options": {
+        "A": "Waterfall: continuous; Agile: mostly upfront; Hybrid: by phase",
+        "B": "Waterfall: mostly upfront; Agile: continuous; Hybrid: mixed by phase",
+        "C": "All three: mostly upfront, with reviews only at the start",
+        "D": "Waterfall: mixed; Agile: not managed; Hybrid: continuous"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The comparison table says risk management is mostly upfront in waterfall, continuous in agile, and mixed (based on phase) in hybrid. (6.1 Comparison table)\n**Why not A:** This reverses waterfall and agile.\n**Why not C:** Agile and hybrid manage risk beyond the start.\n**Why not D:** Agile manages risk continuously; it doesn't leave risk unmanaged."
+    },
+    {
+      "topic": "Comparing and matching methodologies",
+      "question": "An ERP implementation has a strict budget, a clearly defined scope, fixed deadlines and predictable technology. Which methodology does the material match to these characteristics, and why?",
+      "options": {
+        "A": "Agile, since it supports fast adaptation to change",
+        "B": "Hybrid, since it combines governance with agility",
+        "C": "Waterfall, since linear work suits a known scope",
+        "D": "Agile, since it delivers early value through an MVP"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** For a clear scope, fixed deadlines and predictable technology, the material recommends waterfall: linear execution works well when scope is known and reduces management overhead. Its application table also lists ERP with a strict budget and scope as waterfall. (6.2 Methodology matching)\n**Why not A:** Agile suits evolving scope and high innovation.\n**Why not B:** Hybrid suits fixed deadlines combined with evolving scope.\n**Why not D:** The MVP strategy suits a short time-to-market."
+    },
+    {
+      "topic": "Comparing and matching methodologies",
+      "question": "A government IT project has a fixed legislative deadline, but its scope keeps evolving and the development teams work in agile sprints. Which methodology fits, according to the material?",
+      "options": {
+        "A": "Waterfall",
+        "B": "Agile only",
+        "C": "Iterative only",
+        "D": "Hybrid"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material matches fixed deadlines plus evolving scope, such as government IT with agile teams, to hybrid, which combines traditional planning for governance with agile delivery for flexibility. (6.2 Methodology matching)\n**Why not A:** Waterfall struggles with evolving scope.\n**Why not B:** Pure agile lacks the formal governance the fixed deadline requires.\n**Why not C:** Iterative isn't the material's recommendation for this case."
+    },
+    {
+      "topic": "Comparing and matching methodologies",
+      "question": "A start-up must get a minimum viable product to market fast and then improve it from user feedback. Which methodology does the material recommend?",
+      "options": {
+        "A": "Agile",
+        "B": "Waterfall",
+        "C": "Hybrid with waterfall governance",
+        "D": "Predictive with a fixed scope baseline"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** For a short time-to-market and an MVP strategy, the material recommends agile, which delivers early value through sprints and releases and quickly incorporates user feedback. (6.2 Methodology matching)\n**Why not B:** Waterfall delivers one final product at the end.\n**Why not C:** Waterfall-style governance adds overhead the start-up doesn't need.\n**Why not D:** A fixed scope baseline works against rapid feedback."
+    },
+    {
+      "topic": "Comparing and matching methodologies",
+      "question": "A project integrates systems from five different vendors and needs formal coordination between them, though some teams could build their modules in sprints. What does the material recommend?",
+      "options": {
+        "A": "Agile only, to let each vendor self-organize",
+        "B": "Hybrid or waterfall, for the formal coordination",
+        "C": "No methodology, since vendors follow their own",
+        "D": "Kanban only, to track each vendor's tasks"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material matches multi-vendor integration projects to hybrid or waterfall, because formal coordination is needed, though some agile teams can still deliver modular components. (6.2 Methodology matching)\n**Why not A:** Pure agile doesn't give the formal coordination across vendors.\n**Why not C:** A project still needs its own approach to coordinate the vendors.\n**Why not D:** Kanban is a visual tool, not a full approach to vendor coordination."
+    },
+    {
+      "topic": "Roles, artifacts and value delivery",
+      "question": "On a legacy system upgrade, a project manager handles timelines and compliance while the developers iterate on features in two-week sprints with a product owner and a Scrum master. How does the material describe leadership in this setup?",
+      "options": {
+        "A": "Project manager only, with top-down control",
+        "B": "Scrum master only, with no project manager",
+        "C": "Dual leadership: a project manager plus agile roles",
+        "D": "Leadership rotates to whichever vendor is most active"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In hybrid projects the material describes team roles as a project manager plus agile roles, in dual leadership; its example is a legacy upgrade where the PM manages timelines and compliance while developers iterate in two-week sprints. (6.3 Team roles and artifacts)\n**Why not A:** A central PM with top-down decisions describes waterfall.\n**Why not B:** A Scrum team without a PM describes pure agile.\n**Why not D:** Rotating leadership among vendors isn't described in the material."
+    },
+    {
+      "topic": "Roles, artifacts and value delivery",
+      "question": "A hybrid team keeps a product backlog for sprint work but also maintains a requirements traceability matrix for auditors. How does the material classify this combination of artifacts?",
+      "options": {
+        "A": "Typical of waterfall, which uses only backlogs",
+        "B": "Typical of agile, which uses traceability matrices",
+        "C": "A mistake, since methods should never mix artifacts",
+        "D": "Typical of hybrid, which combines the two"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material lists hybrid artifacts as a combination, such as a backlog plus a requirements traceability matrix. Waterfall uses requirements documents, Gantt charts and status reports, while agile uses product and sprint backlogs and burndown charts. (6.3 Team roles and artifacts)\n**Why not A:** Waterfall artifacts are requirements documents, Gantt charts and status reports.\n**Why not B:** Agile artifacts are backlogs and burndown charts.\n**Why not C:** The material presents combining artifacts as normal in hybrid."
+    },
+    {
+      "topic": "Roles, artifacts and value delivery",
+      "question": "On one team, decisions come down from the project manager and communication runs through formal status meetings and written approvals. On another, the team is empowered to decide and communicates through daily stand-ups, demos and retrospectives. Which methods are these?",
+      "options": {
+        "A": "The first is waterfall; the second is agile",
+        "B": "The first is agile; the second is waterfall",
+        "C": "Both are hybrid teams at different phases",
+        "D": "Both are waterfall teams with different managers"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material describes waterfall decision-making as top-down with formal communication (status meetings, written approvals), and agile as decentralized and team-empowered, communicating through daily stand-ups, demos and retrospectives. (6.3 Team roles and artifacts)\n**Why not B:** This reverses the two descriptions.\n**Why not C:** Hybrid mixes the two; each team here fits one method cleanly.\n**Why not D:** The second team's empowered decisions and agile ceremonies don't fit waterfall."
+    },
+    {
+      "topic": "Roles, artifacts and value delivery",
+      "question": "A waterfall project delivers its whole system in one release at the end, and users discover it doesn't match what they needed. How does the material describe this effect of methodology on value delivery?",
+      "options": {
+        "A": "Waterfall delivers value continuously, so this can't happen",
+        "B": "Late, single releases risk dissatisfaction and surprises",
+        "C": "This risk is actually higher in agile than in waterfall",
+        "D": "Hybrid projects always deliver everything at the end"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Waterfall delivers value at the end in one complete release, with a risk of dissatisfaction if the final product doesn't match needs; the material notes that delayed visibility may lead to late surprises. Agile, by contrast, shows working features every sprint. (6.4 Impact on value delivery and stakeholder satisfaction)\n**Why not A:** Waterfall delivers at the end, not continuously.\n**Why not C:** Agile reduces this risk through continuous feedback.\n**Why not D:** Hybrid delivers value progressively in selected parts."
+    },
+    {
+      "topic": "Roles, artifacts and value delivery",
+      "question": "A healthcare IT project must meet strict compliance rules but also wants early feedback from clinicians on the user interface. Which methodology does the material say helps here?",
+      "options": {
+        "A": "Pure waterfall, since compliance needs no feedback",
+        "B": "Pure agile, since compliance can be handled informally",
+        "C": "A hybrid model, so compliance and early feedback can coexist",
+        "D": "No formal method, so the team keeps maximum flexibility"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says a hybrid model helps in regulated industries such as healthcare IT, where compliance and early feedback must coexist. (6.4 Impact on value delivery and stakeholder satisfaction)\n**Why not A:** Pure waterfall delays visibility and feedback.\n**Why not B:** Regulated work needs formal compliance controls.\n**Why not D:** Working without a method would undermine compliance."
+    },
+    {
+      "topic": "Hybrid and tailoring",
+      "question": "A hybrid project has finished its definition and preparation steps and is cycling through iterations. The team has just demonstrated an iteration's results to stakeholders. What step comes next in the hybrid cycle?",
+      "options": {
+        "A": "Close the project and hand it to operations",
+        "B": "Define the project's goals again from scratch",
+        "C": "Prepare the project environment again",
+        "D": "Learn from the iteration, then plan the next one"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The hybrid steps run: define, prepare, then repeated cycles of plan iteration, do, demonstrate and learn, with frequent check-ins and course adjustments, and finally close. After demonstrating, the team learns and plans the next iteration. (6.1 Hybrid steps)\n**Why not A:** Closing comes only after the iterations are finished.\n**Why not B:** Defining happens once, at the start.\n**Why not C:** Preparing also happens once, before the iterations begin."
+    },
+    {
+      "topic": "Hybrid and tailoring",
+      "question": "In a tailored methodology for a non-profit's cloud CRM, which part of the project uses a waterfall approach with detailed documentation and test protocols because of donor privacy laws?",
+      "options": {
+        "A": "Developing and configuring the CRM modules",
+        "B": "Compliance and data migration",
+        "C": "Weekly stakeholder demos",
+        "D": "Iterating over email campaign features"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In the material's tailoring example, initiation and planning use waterfall elements, CRM module development uses agile Scrum with weekly demos, compliance and data migration use a waterfall approach with detailed documentation and test protocols for donor privacy laws, and integration testing and rollout are hybrid. (6.5 Tailoring example)\n**Why not A:** Module development and configuration use agile Scrum.\n**Why not C:** Weekly demos are part of the agile development work.\n**Why not D:** Iterating over modules such as email campaigns is agile."
+    },
+    {
+      "topic": "Hybrid and tailoring",
+      "question": "According to the material's summary chart, which approach offers staged value realization and very high tailoring flexibility?",
+      "options": {
+        "A": "Hybrid",
+        "B": "Waterfall",
+        "C": "Agile",
+        "D": "Predictive"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The summary chart rates hybrid as medium in predictability, medium-high in adaptability and stakeholder involvement, staged in value realization and very high in tailoring flexibility. (6.5 Summary chart)\n**Why not B:** Waterfall realizes value at the end and has limited tailoring flexibility.\n**Why not C:** Agile realizes value continuously, with high (not very high) tailoring flexibility.\n**Why not D:** Predictive is another name for waterfall."
+    },
+    {
+      "topic": "Hybrid and tailoring",
+      "question": "A project manager keeps Scrum but adds a formal sign-off gate and a compliance checklist, and renames some roles to fit her organization. What is she doing, according to the material?",
+      "options": {
+        "A": "Abandoning the methodology and working without one",
+        "B": "Tailoring the methodology to fit her context",
+        "C": "Switching the whole project over to waterfall",
+        "D": "Breaking the rules that PMBOK 7 sets for Scrum"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Tailoring means customizing a methodology to fit a project's or organization's specific needs, by adjusting processes, roles or artifacts to align with goals, constraints and stakeholders' preferences. It is a core tenet of PMBOK 7. (6.5 Tailor a methodology)\n**Why not A:** She keeps Scrum and adapts it.\n**Why not C:** She keeps agile delivery with Scrum.\n**Why not D:** PMBOK 7 promotes this kind of flexible use of frameworks."
+    }
+  ]
+}

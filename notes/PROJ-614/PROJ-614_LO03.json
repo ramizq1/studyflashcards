@@ -4,62 +4,367 @@
     "number": "03",
     "title": "Discuss the project planning phase and the project lifecycle"
   },
-  "source": "LO3.pptx",
+  "source": "LO3.pptx.txt and slide images",
   "questions": [
     {
-      "question": "In IT project planning, which statement best describes rolling wave planning?",
+      "topic": "Project lifecycle and phases",
+      "question": "This week an IT team is producing status reports, comparing KPIs against the plan and working through the bug tracker. Which lifecycle phase are they in?",
       "options": {
-        "A": "All project work is planned in full detail before any execution begins.",
-        "B": "Near-term work is planned in detail; later work stays high-level and is refined as the project progresses.",
-        "C": "Planning cycles repeat until the final product is achieved, with each cycle replacing the previous plan entirely.",
-        "D": "The schedule is built backward from a fixed go-live date with no further changes allowed."
-      },
-      "answer": "B",
-      "note": "Rolling wave planning is a **form of progressive elaboration** (PMBOK 6, Sections 6.2.2.2 and 5.1.2.2). Example from a cloud migration: Sprint 1 is fully planned, while Sprint 4 is only defined in terms of goals.\nA describes detailed upfront (predictive) planning. C sounds like the iterative approach, which refines the product, not the plan horizon."
-    },
-    {
-      "question": "A project team logs a third-party API delay, an assumption that the cloud service will be available, and a possible security vulnerability in the same document. Which planning tool are they using?",
-      "options": {
-        "A": "RACI Matrix",
-        "B": "Milestone Chart",
-        "C": "Burndown Chart",
-        "D": "RAID Log"
-      },
-      "answer": "D",
-      "note": "A **RAID Log** tracks **R**isks, **A**ssumptions, **I**ssues and **D**ependencies. Here, the API delay is a current issue, cloud availability is an assumption, and the security vulnerability is a risk (PMBOK 6, Sections 11.2 and 11.5).\nA RACI matrix assigns roles, a milestone chart shows key checkpoints, and a burndown chart shows remaining sprint work."
-    },
-    {
-      "question": "According to PMBOK 6 (Section 4.2), which planning document integrates and consolidates all subsidiary plans and baselines?",
-      "options": {
-        "A": "Project Management Plan",
-        "B": "Scope Management Plan",
-        "C": "Project Charter",
-        "D": "Risk Register"
-      },
-      "answer": "A",
-      "note": "The **Project Management Plan** is the primary document that ties together all subsidiary plans (scope, schedule, cost, quality, communication, risk, procurement, stakeholder) and baselines.\nThe Project Charter is an **Initiation** deliverable that authorizes the project. The Scope Management Plan is one of the subsidiary plans, and the Risk Register is a deliverable of the Risk Management Plan."
-    },
-    {
-      "question": "A government portal must meet fixed security compliance requirements, but its UI/UX is expected to evolve with user feedback. Which tailored planning approach fits best?",
-      "options": {
-        "A": "Predictive for the whole project, with all scope fixed upfront",
-        "B": "Agile for the whole project, with all planning done in sprints",
-        "C": "Hybrid: predictive for the compliance work, agile for the UI",
-        "D": "No formal planning until the first user feedback arrives"
+        "A": "Planning",
+        "B": "Execution",
+        "C": "Monitoring and controlling",
+        "D": "Closing"
       },
       "answer": "C",
-      "note": "**Hybrid** combines predictive and agile practices when a project has some stable elements and some evolving ones. Fixed compliance suits predictive planning; a changing UI suits agile.\nThis is an example of **tailoring**: adapting methods to the project's context (PMBOK 6, Section 1.2.4; PMBOK 7 tailoring considerations)."
+      "note": "**Why C is correct:** In monitoring and controlling, the team tracks performance, manages scope, cost and time, and adjusts plans; typical deliverables are status reports, performance metrics (KPIs) and a bug tracker. (3.1 Key phases of an IT project lifecycle)\n**Why not A:** Planning produces the WBS, Gantt chart, risk register and architecture plan.\n**Why not B:** Execution produces source code, software modules and test results.\n**Why not D:** Closing produces the final product, user manual, lessons learned and closure documents."
     },
     {
-      "question": "An e-commerce platform is released module by module (user login first, then the cart, then payment), and each release gives customers something usable. Which planning approach is this?",
+      "topic": "Project lifecycle and phases",
+      "question": "A new HR system has been accepted. The team is handing it over to operations, delivering the user manual and holding a lessons-learned session. Which phase is this?",
       "options": {
-        "A": "Predictive (Waterfall)",
-        "B": "Incremental",
-        "C": "Iterative",
-        "D": "Kanban"
+        "A": "Closing",
+        "B": "Execution",
+        "C": "Initiation",
+        "D": "Monitoring and controlling"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Closing transitions the system to operations, decommissions the project and evaluates outcomes; its deliverables include the final product, user manual, lessons learned and closure documents. (3.1 Key phases of an IT project lifecycle)\n**Why not B:** Execution is where the system is built, configured and tested.\n**Why not C:** Initiation defines the problem and produces the business case and charter.\n**Why not D:** Monitoring and controlling tracks performance during the project."
+    },
+    {
+      "topic": "Project lifecycle and phases",
+      "question": "A data science team trains a machine learning model, reviews the results, refines it and trains again, building its understanding with each cycle. Which lifecycle model fits?",
+      "options": {
+        "A": "Predictive (waterfall)",
+        "B": "Hybrid",
+        "C": "Incremental",
+        "D": "Iterative"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** An iterative lifecycle is used when understanding is refined over time; the material's IT examples are AI/ML model training and system prototyping. (3.1 Lifecycle models used in IT projects)\n**Why not A:** Predictive suits stable requirements with heavy documentation, such as an ERP implementation.\n**Why not B:** Hybrid combines governance with agility, such as a waterfall core with an agile UI.\n**Why not C:** Incremental focuses on delivering usable components early, such as SaaS feature releases."
+    },
+    {
+      "topic": "Project lifecycle and phases",
+      "question": "A bank builds its core transaction system with a waterfall approach for governance and control, while the customer-facing interface is developed with agile sprints. Which lifecycle model is this?",
+      "options": {
+        "A": "Iterative",
+        "B": "Hybrid",
+        "C": "Predictive",
+        "D": "Incremental"
       },
       "answer": "B",
-      "note": "**Incremental** delivers completed parts of the product gradually, each delivering customer value, and accepts changes between increments.\nThe common trap is **Iterative**, which repeats cycles to **refine the same product** until it is final (e.g. tuning a machine learning model). Predictive delivers everything at the end. Kanban is a visual task-tracking tool, not a planning approach."
+      "note": "**Why B is correct:** A hybrid lifecycle is used when both governance and agility are needed; the material's example is bank software with a waterfall core and an agile UI. (3.1 Lifecycle models used in IT projects)\n**Why not A:** Iterative repeats cycles to refine understanding, without mixing approaches.\n**Why not C:** Predictive would plan and build the whole system sequentially.\n**Why not D:** Incremental delivers usable components early, but doesn't mean mixing waterfall and agile."
+    },
+    {
+      "topic": "Planning documents and deliverables",
+      "question": "A project manager needs the one document that integrates and consolidates the scope, schedule, cost, quality, risk and other subsidiary plans and baselines, and sets out change procedures. Which document is this?",
+      "options": {
+        "A": "The scope management plan",
+        "B": "The project charter",
+        "C": "The project management plan",
+        "D": "The risk register"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The project management plan is the primary document that integrates and consolidates all subsidiary plans and baselines and guides all project work; its deliverable is a finalized plan with change procedures. (3.2 Core planning documents)\n**Why not A:** The scope management plan covers only how scope is defined, validated and controlled.\n**Why not B:** The charter authorizes the project but doesn't integrate the detailed plans.\n**Why not D:** The risk register is a log of risks, one deliverable among many."
+    },
+    {
+      "topic": "Planning documents and deliverables",
+      "question": "On a software project, the team must decide how version control will work, how the Git repository will be set up and how baselines will be defined. Which planning document covers this?",
+      "options": {
+        "A": "The quality management plan",
+        "B": "The procurement management plan",
+        "C": "The communication management plan",
+        "D": "The configuration management plan"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The configuration management plan details version control and configuration practices, which the material calls critical in IT; its deliverables include Git repository setup and baseline definitions. (3.2 Core planning documents)\n**Why not A:** The quality management plan covers code, testing and deliverable quality, with a test plan and code review checklist.\n**Why not B:** The procurement management plan covers acquiring IT services or tools, with contracts and vendor SLAs.\n**Why not C:** The communication management plan identifies stakeholders' communication needs."
+    },
+    {
+      "topic": "Planning documents and deliverables",
+      "question": "A team lead wants a plan describing how quality will be assured in code, testing and deliverables, backed by a test plan and a code review checklist. Which document is this?",
+      "options": {
+        "A": "The quality management plan",
+        "B": "The resource management plan",
+        "C": "The schedule management plan",
+        "D": "The stakeholder engagement plan"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The quality management plan describes how quality will be assured in code, testing and deliverables; its deliverables include a test plan and a code review checklist. (3.2 Core planning documents)\n**Why not B:** The resource management plan covers acquiring and managing people and equipment, with resource assignments and a RACI matrix.\n**Why not C:** The schedule management plan guides creating and managing the schedule.\n**Why not D:** The stakeholder engagement plan sets out strategies for engaging stakeholders."
+    },
+    {
+      "topic": "Planning documents and deliverables",
+      "question": "For a CRM implementation, the project manager plans weekly updates to stakeholders through a dashboard plus a project status email. Which planning document captures this?",
+      "options": {
+        "A": "The scope management plan",
+        "B": "The communication management plan",
+        "C": "The risk register",
+        "D": "The procurement plan"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The communication management plan identifies stakeholders' communication needs; in the material's CRM example it is used for weekly updates through a dashboard and status email. (3.2 Example in an IT project)\n**Why not A:** The scope plan defines the CRM modules, such as lead management and reporting.\n**Why not C:** The risk register lists risks such as integration failure or user resistance.\n**Why not D:** The procurement plan is used to acquire cloud licences and third-party software."
+    },
+    {
+      "topic": "Planning documents and deliverables",
+      "question": "A PMBOK 6-trained manager asks why PMBOK 7 talks about 'artifacts' rather than a fixed set of planning documents. What does the material say about this shift?",
+      "options": {
+        "A": "PMBOK 7 bans written planning documents altogether",
+        "B": "PMBOK 7 requires every subsidiary plan for every project",
+        "C": "PMBOK 7 focuses on artifacts that enable value delivery",
+        "D": "PMBOK 7 limits planning artifacts to the Planning domain alone"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** PMBOK 7 shifts the focus from documentation to artifacts that enable value delivery, and planning artifacts appear in several performance domains, including Planning, Delivery and Measurement. (3.2 Planning documents in PMBOK 6 and 7)\n**Why not A:** The shift is in emphasis; planning artifacts still exist.\n**Why not B:** Requiring every subsidiary plan reflects PMBOK 6's structure more than PMBOK 7's.\n**Why not D:** The material says planning artifacts are found across several domains."
+    },
+    {
+      "topic": "Planning tools",
+      "question": "A sponsor wants a single visual of an 18-month project that shows each task's start and finish dates, which tasks overlap, how long each runs and when the interim and final reports are due. Which planning tool fits?",
+      "options": {
+        "A": "A RACI matrix",
+        "B": "A Kanban board",
+        "C": "A RAID log",
+        "D": "A Gantt chart"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** A Gantt chart is a bar chart of the schedule over time, showing start and finish dates, durations and dependencies; it helps visualize delays and overlapping tasks and can mark milestones and deliverables along the timeline. (3.3 Planning tools - Gantt chart)\n**Why not A:** A RACI matrix assigns responsibilities, not dates.\n**Why not B:** A Kanban board tracks task status through workflow columns, not a timeline.\n**Why not C:** A RAID log tracks risks, assumptions, issues and dependencies."
+    },
+    {
+      "topic": "Planning tools",
+      "question": "An executive steering committee wants to see only the major checkpoints of a portal project, such as prototype ready, UAT complete and go-live, with target dates and no detailed activity list. Which tool fits?",
+      "options": {
+        "A": "A milestone chart",
+        "B": "A burndown chart",
+        "C": "A work breakdown structure",
+        "D": "A network diagram"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A milestone chart shows key project milestones with target dates without listing all activities, highlighting major delivery checkpoints such as prototype ready or UAT complete; it supports stakeholder communication. (3.3 Planning tools - Milestone chart)\n**Why not B:** A burndown chart tracks remaining work in a sprint.\n**Why not C:** A WBS decomposes scope; it doesn't show dates.\n**Why not D:** A network diagram shows the sequence and dependencies of all activities."
+    },
+    {
+      "topic": "Planning tools",
+      "question": "A planner breaks a building project into phases, then splits the Execution phase into Lay Foundation (excavate, pour concrete), Interior Work (electrical, plumbing) and Exterior Work. Which tool is she building?",
+      "options": {
+        "A": "A Gantt chart",
+        "B": "A work breakdown structure",
+        "C": "A network diagram",
+        "D": "A RAID log"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A WBS is a hierarchical decomposition of the total scope of work into smaller deliverables and work components, such as breaking a phase into work packages. In IT it breaks systems into modules such as UI, backend and database. (3.3 Planning tools - Work Breakdown Structure)\n**Why not A:** A Gantt chart places tasks on a timeline; it doesn't decompose scope.\n**Why not C:** A network diagram shows the order and dependencies of activities.\n**Why not D:** A RAID log tracks risks, assumptions, issues and dependencies."
+    },
+    {
+      "topic": "Planning tools",
+      "question": "A schedule has six activities. 'Gather requirements' and 'Set up servers' both start right after the project begins. 'Build application' depends on both of them, 'Configure network' depends on 'Set up servers', 'Test application' depends on 'Build application', and 'Migrate data' depends on 'Configure network'. Which activities must be finished before 'Build application' can begin?",
+      "options": {
+        "A": "Only 'Gather requirements'",
+        "B": "Only 'Set up servers'",
+        "C": "'Gather requirements' and 'Set up servers'",
+        "D": "'Set up servers' and 'Configure network'"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A network diagram (precedence diagramming method) shows each activity's predecessors. 'Build application' has two incoming dependencies, so both 'Gather requirements' and 'Set up servers' must finish before it can start. Mapping these relationships is also how the critical path is found. (3.3 Planning tools - Network diagram)\n**Why not A:** 'Build application' also depends on 'Set up servers'.\n**Why not B:** 'Build application' also depends on 'Gather requirements'.\n**Why not D:** 'Configure network' leads only to 'Migrate data'; it has no link to 'Build application'."
+    },
+    {
+      "topic": "Planning tools",
+      "question": "Before any feature is deployed, the IT security officer must be asked for input, but she doesn't do the work or make the final call. Which RACI designation should she get?",
+      "options": {
+        "A": "Responsible",
+        "B": "Accountable",
+        "C": "Informed",
+        "D": "Consulted"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In a RACI matrix, Consulted is the person who must be consulted before a decision or action is taken. Responsible does the activity, Accountable makes the final decision and owns it, and Informed is told after the decision or action. (3.3 Planning tools - RACI matrix)\n**Why not A:** Responsible is the person assigned to do the work.\n**Why not B:** Accountable makes the final decision and has ownership.\n**Why not C:** Informed is only told after the fact, not asked beforehand."
+    },
+    {
+      "topic": "Planning tools",
+      "question": "A team's RAID log has a new entry: the third-party payment API is already two weeks late and is blocking integration work today. Which category does this entry belong in?",
+      "options": {
+        "A": "Risk",
+        "B": "Issue",
+        "C": "Assumption",
+        "D": "Dependency"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A RAID log tracks risks (potential problems), assumptions (what is believed true for planning), issues (current problems) and dependencies (linked tasks or deliverables). The API delay is already happening and blocking work, so it is an issue; the material's own example of an open issue is a third-party API delay. (3.3 Planning tools - RAID log)\n**Why not A:** A risk is a potential problem that hasn't happened yet.\n**Why not C:** An assumption is something believed true for planning, such as cloud availability.\n**Why not D:** The integration depends on the API, but the API being late right now is an issue to resolve."
+    },
+    {
+      "topic": "Planning tools",
+      "question": "An agile team wants to see at a glance which user stories are waiting, being worked on, being tested and finished, using cards that move across columns. Which tool fits?",
+      "options": {
+        "A": "A Kanban board",
+        "B": "A milestone chart",
+        "C": "A Gantt chart",
+        "D": "A RACI matrix"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A Kanban board is a visual management tool that uses cards and columns (such as To Do, In Progress, Testing and Done) to show workflow and task status; it is common in agile IT environments. (3.3 Planning tools - Kanban board)\n**Why not B:** A milestone chart shows major checkpoints and dates.\n**Why not C:** A Gantt chart shows tasks on a timeline.\n**Why not D:** A RACI matrix assigns roles to tasks."
+    },
+    {
+      "topic": "Planning tools",
+      "question": "Halfway through a 20-day sprint, a Scrum master wants to show how much work remains compared with the time left, so the team can forecast whether it will finish on time. Which tool fits?",
+      "options": {
+        "A": "A network diagram",
+        "B": "A milestone chart",
+        "C": "A burndown chart",
+        "D": "A work breakdown structure"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A burndown chart is a line chart of remaining work against time in an agile sprint; Scrum teams use it to measure how much work remains and forecast sprint completion. (3.3 Planning tools - Burndown chart)\n**Why not A:** A network diagram shows activity sequence and dependencies.\n**Why not B:** A milestone chart shows major checkpoints, not remaining work.\n**Why not D:** A WBS breaks down scope but doesn't track progress over time."
+    },
+    {
+      "topic": "Tailoring planning approaches",
+      "question": "A start-up is building a prototype mobile app. Its requirements are changing quickly and it wants feedback from early users. How should planning be tailored?",
+      "options": {
+        "A": "Predictive, with detailed planning done entirely up front",
+        "B": "Hybrid, with a fixed infrastructure plan and agile UI",
+        "C": "Predictive, with a strong scope baseline from day one",
+        "D": "Agile, with short sprints and feedback loops"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material's tailoring examples recommend agile, with short sprints and feedback loops, for a start-up building a prototype mobile app; agile suits rapidly changing requirements and innovation. (3.4 Tailoring in IT projects)\n**Why not A:** Predictive planning suits stable, well-defined scope with low uncertainty.\n**Why not B:** Hybrid suits projects with some stable and some evolving elements, such as a fixed-compliance government portal.\n**Why not C:** A fixed scope baseline from day one works against rapidly changing requirements."
+    },
+    {
+      "topic": "Tailoring planning approaches",
+      "question": "A large data centre infrastructure upgrade has a well-defined scope, and few changes are expected. Which planning approach does the material recommend?",
+      "options": {
+        "A": "Predictive, with detailed upfront planning",
+        "B": "Agile, with planning in short cycles",
+        "C": "Iterative, refining the plan after each prototype",
+        "D": "Hybrid, splitting it into agile and waterfall parts"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Predictive (waterfall) planning, with sequential, detailed upfront planning, suits stable, well-defined scope with low uncertainty; the material's examples include data centre upgrades and ERP implementations. (3.4 Tailored planning approaches)\n**Why not B:** Agile suits rapidly changing requirements, which this project doesn't have.\n**Why not C:** Iterative planning suits evolving understanding, not a well-defined scope.\n**Why not D:** Hybrid fits projects that combine stable and evolving elements."
+    },
+    {
+      "topic": "Tailoring planning approaches",
+      "question": "An online retailer's backend payment system must follow strict, stable requirements, but its storefront design changes often in response to customer feedback. How should planning be tailored?",
+      "options": {
+        "A": "Fully agile, since part of the scope changes often",
+        "B": "Hybrid: predictive for the backend, agile for the front end",
+        "C": "Fully predictive, since the payment rules are strict",
+        "D": "Iterative only, repeating cycles until everything is final"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A hybrid approach combines predictive and agile practices when some elements are stable and others evolve; the material's own example is an e-commerce site with a predictive backend and an agile front end. (3.4 Tailored planning approaches)\n**Why not A:** Fully agile would give up the control the strict backend needs.\n**Why not C:** Fully predictive would make the frequently changing storefront hard to adapt.\n**Why not D:** Iterative cycles alone don't give the backend its predictive control."
+    },
+    {
+      "topic": "Tailoring planning approaches",
+      "question": "Following PMBOK 7, a project manager is deciding how to tailor her project's approach. Which set of considerations does the material say she must weigh?",
+      "options": {
+        "A": "Only the sponsor's preferred tools, templates and reporting formats",
+        "B": "Only the approved budget, the deadline and the contract terms",
+        "C": "Size and complexity, delivery method, and culture and governance",
+        "D": "Only the team's headcount, seniority and preferred working hours"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In PMBOK 7, tailoring is context-driven and part of systems thinking; the considerations listed are project size and complexity, delivery method (agile, predictive or hybrid) and organizational culture and governance. (3.4 Tailoring guidelines from PMBOK)\n**Why not A:** Preferences alone aren't the basis for tailoring.\n**Why not B:** Budget and deadline matter, but the material's list is broader.\n**Why not D:** Team makeup is part of the context, but not the whole of it."
+    },
+    {
+      "topic": "Progressive elaboration and planning choices",
+      "question": "On a custom CRM project, the requirements and user interface are refined again and again as users' needs become clearer, with the plan starting at a high level and gaining detail over time. Which concept is this?",
+      "options": {
+        "A": "Progressive elaboration",
+        "B": "Scope creep",
+        "C": "Integrated change control",
+        "D": "Fast tracking"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Progressive elaboration is the iterative process of continually refining and detailing a plan as more specific, reliable information becomes available; plans evolve in layers from high-level to detailed. The material's CRM example has requirements and UI refined as user needs evolve. (3.5 Progressive elaboration)\n**Why not B:** Scope creep is uncontrolled growth in scope, not planned refinement.\n**Why not C:** Integrated change control is how change requests are reviewed and approved.\n**Why not D:** Fast tracking is a schedule compression technique."
+    },
+    {
+      "topic": "Progressive elaboration and planning choices",
+      "question": "On a cloud migration, Sprint 1 is planned task by task, while Sprint 4 is defined only by its goals and will be detailed later as it gets closer. Which planning technique is this?",
+      "options": {
+        "A": "Detailed upfront planning",
+        "B": "Critical path analysis",
+        "C": "Rolling wave planning",
+        "D": "Weighted scoring"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Rolling wave planning is a form of progressive elaboration where near-term work is planned in detail and future work at a higher level, with detailed planning moving forward like a wave; the material's example is Sprint 1 fully planned and Sprint 4 defined only by goals. (3.5 Rolling wave planning)\n**Why not A:** Detailed upfront planning would detail every sprint at the start.\n**Why not B:** Critical path analysis finds the longest chain of dependent activities.\n**Why not D:** Weighted scoring is a project selection technique."
+    },
+    {
+      "topic": "Progressive elaboration and planning choices",
+      "question": "A sponsor wants an AI integration project to start now, even though many details depend on API availability and prototype feedback that won't be known for months. What benefit of progressive elaboration and rolling wave planning applies?",
+      "options": {
+        "A": "They lock the full scope and cost before any work begins",
+        "B": "They let the project start early even with incomplete details",
+        "C": "They remove the need to plan future iterations at all",
+        "D": "They guarantee no change requests will be needed"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material lists the benefits as adapting to uncertainty and changing requirements, enabling early project initiation even with incomplete details, reducing replanning effort, delivering value early and often, and fitting agile and hybrid environments. (3.5 Benefits of these planning techniques)\n**Why not A:** These techniques deliberately avoid locking everything down up front.\n**Why not C:** Future iterations are still planned, just at a higher level until they get closer.\n**Why not D:** They make change easier to absorb; they don't prevent it."
+    },
+    {
+      "topic": "Progressive elaboration and planning choices",
+      "question": "At the start of an agile chatbot project, a manager insists on detailed task plans for every feature through the final release. What impact does the material warn about?",
+      "options": {
+        "A": "It will reduce scope creep and improve flexibility",
+        "B": "It will speed up user feedback",
+        "C": "It will remove the need for a risk plan",
+        "D": "It wastes effort and leads to non-adaptive outcomes"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Among the impacts of poor planning, the material lists over-detailed early planning in an agile context, which wastes effort and leads to non-adaptive outcomes. Best practice is to align the approach to the project type and keep a living plan. (3.6 How poor planning impacts outcomes)\n**Why not A:** Locking in detail early reduces flexibility rather than improving it.\n**Why not B:** Upfront detail does nothing to speed up feedback.\n**Why not C:** Planning detail doesn't replace risk planning."
+    },
+    {
+      "topic": "Progressive elaboration and planning choices",
+      "question": "A company launches new employee software without analyzing who will be affected, and staff push back hard against using it. Which planning failure and outcome from the material does this match?",
+      "options": {
+        "A": "An underestimated schedule, leading to cost overruns",
+        "B": "No risk plan for vendor downtime, leading to outages",
+        "C": "Lack of stakeholder analysis, leading to resistance to change",
+        "D": "Wrong tool choice, leading to confusion in the team"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material lists lack of stakeholder analysis as a planning failure that leads to resistance to change; involving stakeholders early and often is listed as a best practice. (3.6 How poor planning impacts outcomes)\n**Why not A:** Schedule underestimates cause delays and cost overruns, not user resistance.\n**Why not B:** A missing vendor downtime plan leads to unexpected outages.\n**Why not D:** A poor tool choice wastes time or confuses the team, not end users."
+    },
+    {
+      "topic": "Predictive, iterative and incremental",
+      "question": "A delivery app is released module by module: chat first, then payment, then order tracking. Each release is usable, and changes are accepted between releases. Which planning approach is this?",
+      "options": {
+        "A": "Predictive",
+        "B": "Iterative",
+        "C": "Waterfall",
+        "D": "Incremental"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** An incremental approach delivers completed parts of the product gradually, each giving customer value; it accepts changes between increments and uses rolling wave planning for each increment. The material's example is a mobile app with chat, payment and tracking modules. (3.7 Predictive, iterative and incremental)\n**Why not A:** Predictive delivers the whole product at the end.\n**Why not B:** Iterative repeats cycles to refine one product rather than releasing usable modules.\n**Why not C:** Waterfall is another name for predictive."
+    },
+    {
+      "topic": "Predictive, iterative and incremental",
+      "question": "A team tunes a machine learning algorithm through repeated cycles, reassessing after each one until the final model is ready. Compared with predictive planning, what does the material say about the cost of change here?",
+      "options": {
+        "A": "It is higher, because scope is fixed",
+        "B": "It is lower, because each cycle reassesses the work",
+        "C": "It is the same, because both plan everything up front",
+        "D": "It cannot be judged until the final delivery"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The iterative approach repeats planning cycles to refine the product, encourages frequent reassessment and uses progressive elaboration; the material rates its cost of change as lower, against high for predictive. (3.7 Key differences)\n**Why not A:** A high cost of change and fixed scope describe the predictive approach.\n**Why not C:** Iterative planning isn't done entirely up front.\n**Why not D:** Iterative work gets feedback during the cycles, not only at the end."
+    },
+    {
+      "topic": "Predictive, iterative and incremental",
+      "question": "A government database system must meet strict regulations, its scope is fully detailed, and very little flexibility is allowed. Which approach does the material recommend, and when do customers give feedback?",
+      "options": {
+        "A": "Predictive, with customer feedback coming late in the cycle",
+        "B": "Iterative, with frequent feedback during each cycle",
+        "C": "Incremental, with feedback after each delivery",
+        "D": "Agile, with continuous feedback in every sprint"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material recommends a predictive approach for a regulated government database with detailed scope and minimal flexibility. In predictive projects, scope is fixed, the timeline is rigid and customer feedback comes late in the cycle. (3.7 IT project examples)\n**Why not B:** Iterative suits evolving criteria, such as an AI model.\n**Why not C:** Incremental suits independently releasable modules, such as an e-commerce platform.\n**Why not D:** Continuous feedback isn't what a fixed, regulated scope calls for."
+    },
+    {
+      "topic": "Predictive, iterative and incremental",
+      "question": "A project manager is comparing how much flexibility each approach offers. According to the material, how do predictive, iterative and incremental compare?",
+      "options": {
+        "A": "Predictive high, iterative low, incremental moderate",
+        "B": "All three offer about the same level of flexibility",
+        "C": "Predictive moderate, iterative high, incremental low",
+        "D": "Predictive low, iterative high, incremental moderate"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material's comparison rates flexibility as low for predictive, high in learning for iterative and moderate in delivery for incremental. Predictive also has rigid timelines and a high cost of change. (3.7 Key differences)\n**Why not A:** Predictive has the least flexibility, not the most.\n**Why not B:** The material shows clear differences between the three.\n**Why not C:** Predictive is rated low, and incremental moderate."
     }
   ]
 }

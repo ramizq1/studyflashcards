@@ -1,0 +1,214 @@
+{
+  "course": "PROJ 614",
+  "learningObjective": {
+    "number": "04",
+    "title": "Develop a business case"
+  },
+  "source": "LO4.pptx.txt",
+  "questions": [
+    {
+      "topic": "Problem, data and feasibility",
+      "question": "A business analyst writes: 'Implementing a chatbot can streamline first contact with customers and cut response time by 50%.' How should this statement be classified when starting a business case?",
+      "options": {
+        "A": "A problem statement describing a current failure",
+        "B": "A KPI for benefits realization",
+        "C": "An opportunity statement",
+        "D": "A feasibility finding"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A project starts from a clearly defined problem or opportunity. The material's opportunity example is exactly this: a chatbot that can streamline initial interactions and reduce response time by 50%. (4.1 Identify real-world problem or opportunity)\n**Why not A:** A problem statement describes what is going wrong now, such as tickets taking more than 48 hours.\n**Why not B:** A KPI measures success after delivery, such as average resolution time.\n**Why not D:** Feasibility findings come later, from technical, financial and operational analysis."
+    },
+    {
+      "topic": "Problem, data and feasibility",
+      "question": "Which of these is the best-framed problem statement for a business case about customer support?",
+      "options": {
+        "A": "'We need to buy and launch a new chatbot as soon as possible.'",
+        "B": "'Support delays of over 48 hours are reducing customer retention.'",
+        "C": "'Customer support could probably be a lot better than it is.'",
+        "D": "'The IT department would like to have more modern tools.'"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material frames a problem clearly and specifically, stating the current condition and its business impact: 'The current customer support system causes delays exceeding 48 hours in resolving tickets, leading to a decline in customer retention.' (4.1 Identify real-world problem or opportunity)\n**Why not A:** This jumps to a solution without stating the problem.\n**Why not C:** It is too vague to define the problem or measure it.\n**Why not D:** It states a department's wish, not a business problem with an impact."
+    },
+    {
+      "topic": "Problem, data and feasibility",
+      "question": "To size the support problem, an analyst compares the company's average ticket resolution time with typical times across the industry. Which data analysis activity is this?",
+      "options": {
+        "A": "Benchmarking against industry standards",
+        "B": "Collecting internal data",
+        "C": "Identifying strategic alignment",
+        "D": "Mapping stakeholder influence"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Analyzing supporting data involves collecting internal data, benchmarking against industry standards, considering trends and identifying strategic alignment. Comparing the company's times with industry norms is benchmarking. (4.2 Analyze supporting data and business context)\n**Why not B:** Internal data are the company's own figures, such as ticket logs and satisfaction surveys.\n**Why not C:** Strategic alignment links the problem to business goals such as better customer experience.\n**Why not D:** Stakeholder mapping is part of stakeholder analysis, not data analysis."
+    },
+    {
+      "topic": "Problem, data and feasibility",
+      "question": "While building the business case, the analyst notices that support ticket volume has risen every quarter for two years. Which part of analyzing the business context does this observation belong to?",
+      "options": {
+        "A": "Benchmarking",
+        "B": "Operational feasibility",
+        "C": "Stakeholder analysis",
+        "D": "Considering trends"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material's data analysis includes considering trends, with the example of an increase in support ticket volume. (4.2 Analyze supporting data and business context)\n**Why not A:** Benchmarking compares the company with industry standards.\n**Why not B:** Operational feasibility asks whether the organization is ready for the solution.\n**Why not C:** Stakeholder analysis identifies who is affected and how to engage them."
+    },
+    {
+      "topic": "Problem, data and feasibility",
+      "question": "The team checks whether the company's current infrastructure can support a chatbot and whether it can integrate with the existing CRM system. Which type of feasibility is this?",
+      "options": {
+        "A": "Financial feasibility",
+        "B": "Technical feasibility",
+        "C": "Operational feasibility",
+        "D": "Schedule feasibility"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Technical feasibility assesses the current infrastructure and the integration possibilities with chatbots or CRM systems. (4.3 Evaluate technical, financial and operational feasibility)\n**Why not A:** Financial feasibility compares costs with expected savings or revenue.\n**Why not C:** Operational feasibility looks at internal readiness, training and process changes.\n**Why not D:** Schedule feasibility isn't one of the three types the material lists."
+    },
+    {
+      "topic": "Problem, data and feasibility",
+      "question": "The analyst estimates the chatbot's costs and compares them with expected savings from fewer support staff hours and higher customer retention. Which type of feasibility is this?",
+      "options": {
+        "A": "Operational feasibility",
+        "B": "Technical feasibility",
+        "C": "Financial feasibility",
+        "D": "Strategic feasibility"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Financial feasibility estimates costs against expected savings or revenue, such as reduced support staff hours and increased customer retention. (4.3 Evaluate technical, financial and operational feasibility)\n**Why not A:** Operational feasibility covers readiness, training and process changes.\n**Why not B:** Technical feasibility covers infrastructure and integration.\n**Why not D:** Strategic alignment is part of the data analysis, not one of the three feasibility types."
+    },
+    {
+      "topic": "Problem, data and feasibility",
+      "question": "The support manager asks whether her agents are ready for the chatbot, how much training they'll need, and how their daily processes will have to change. Which type of feasibility does this address?",
+      "options": {
+        "A": "Operational feasibility",
+        "B": "Financial feasibility",
+        "C": "Technical feasibility",
+        "D": "Market feasibility"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Operational feasibility evaluates internal readiness, required training and process changes. (4.3 Evaluate technical, financial and operational feasibility)\n**Why not B:** Financial feasibility weighs costs against savings or revenue.\n**Why not C:** Technical feasibility weighs infrastructure and integration.\n**Why not D:** Market feasibility isn't one of the three types in the material."
+    },
+    {
+      "topic": "Stakeholders and value metrics",
+      "question": "For the chatbot business case, the analyst lists the customer support team, the IT department, management, customers and the chatbot vendor. Which of these are external stakeholders?",
+      "options": {
+        "A": "The support team and the IT department",
+        "B": "Management and the support team",
+        "C": "The IT department and management",
+        "D": "Customers and the third-party vendor"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material classifies customer support teams, the IT department and management as internal stakeholders, and customers and third-party vendors as external ones. (4.4 Conduct stakeholder analysis and engagement planning)\n**Why not A:** Both groups work inside the organization.\n**Why not B:** Both are internal.\n**Why not C:** Both are internal."
+    },
+    {
+      "topic": "Stakeholders and value metrics",
+      "question": "The IT director has a great deal of power over the chatbot decision but little day-to-day interest in it. Which engagement planning step helps the analyst decide how to handle her?",
+      "options": {
+        "A": "Benchmarking her department against industry",
+        "B": "Mapping each stakeholder's interest and influence",
+        "C": "Measuring her user adoption rate",
+        "D": "Writing her into the executive summary"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Engagement planning includes mapping each stakeholder's interest and influence, and then planning communication channels and involvement methods to suit them. (4.4 Conduct stakeholder analysis and engagement planning)\n**Why not A:** Benchmarking compares performance data with industry standards.\n**Why not C:** Adoption rate is a KPI for the delivered system.\n**Why not D:** Mentioning her in the summary doesn't plan how to engage her."
+    },
+    {
+      "topic": "Stakeholders and value metrics",
+      "question": "The analyst plans to involve frontline support agents in shaping the chatbot and to gather customers' views at scale. Which involvement methods from the material fit these two groups?",
+      "options": {
+        "A": "Workshops for the agents and surveys for the customers",
+        "B": "Surveys for the agents and a steering committee for the customers",
+        "C": "A RACI matrix for the agents and a Gantt chart for the customers",
+        "D": "Benchmarking for the agents and KPIs for the customers"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Engagement planning includes choosing communication channels and involvement methods, and the material's examples are workshops and surveys: workshops suit a small group shaping the solution, and surveys reach many customers. (4.4 Conduct stakeholder analysis and engagement planning)\n**Why not B:** A steering committee is a decision-making body, not a way to involve customers.\n**Why not C:** RACI matrices and Gantt charts are planning tools, not involvement methods.\n**Why not D:** Benchmarking and KPIs measure performance; they don't involve people."
+    },
+    {
+      "topic": "Stakeholders and value metrics",
+      "question": "After launch, the sponsor wants to know whether customers are actually using the new chatbot. Which KPI from the material answers this?",
+      "options": {
+        "A": "Average ticket resolution time",
+        "B": "Customer satisfaction score (CSAT)",
+        "C": "User adoption rate of the chatbot",
+        "D": "Cost savings from fewer support calls"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material lists user adoption rate of the new system, such as chatbot usage metrics, as a value metric for benefits realization. (4.5 Develop value metrics/KPIs)\n**Why not A:** Resolution time measures speed of service, not whether the chatbot is used.\n**Why not B:** CSAT measures how satisfied customers are.\n**Why not D:** Cost savings measure the financial benefit."
+    },
+    {
+      "topic": "Stakeholders and value metrics",
+      "question": "A business case promises that customers will be happier with support after the project. Which KPI should be defined to measure that benefit?",
+      "options": {
+        "A": "User adoption rate of the system",
+        "B": "Number of support staff hired",
+        "C": "Benchmark position in the industry",
+        "D": "An increase in CSAT scores"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material lists an increase in customer satisfaction scores (CSAT) as a value metric for benefits realization, which directly measures whether customers are happier. (4.5 Develop value metrics/KPIs)\n**Why not A:** Adoption shows whether the system is used, not whether customers are happier.\n**Why not B:** Hiring numbers aren't a benefits metric in the material.\n**Why not C:** Benchmarking is part of the initial data analysis, not a KPI for this benefit."
+    },
+    {
+      "topic": "Stakeholders and value metrics",
+      "question": "A project manager trained on PMBOK 7 asks where the framework focuses on defining and evaluating KPIs like those in the business case. Which performance domain is it?",
+      "options": {
+        "A": "Stakeholders",
+        "B": "Measurement",
+        "C": "Planning",
+        "D": "Delivery"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material links value metrics and KPIs to PMBOK 7's Measurement performance domain, which focuses on defining and evaluating key performance indicators; in PMBOK 6 the benefits management plan defines these metrics. (4.5 Develop value metrics/KPIs)\n**Why not A:** The Stakeholders domain focuses on understanding and engaging stakeholders.\n**Why not C:** The Planning domain covers context and conditions when planning starts.\n**Why not D:** The Delivery domain focuses on delivering outcomes and value."
+    },
+    {
+      "topic": "The formal business case",
+      "question": "A business case draft contains an executive summary, the problem definition, data analysis and feasibility, a stakeholder engagement plan, KPIs and expected benefits, a cost-benefit analysis, and a recommendation and implementation plan. Which section from the material is missing?",
+      "options": {
+        "A": "A detailed sprint backlog for the first release",
+        "B": "Risk assessment and mitigation strategies",
+        "C": "A signed contract with the chatbot vendor",
+        "D": "A lessons-learned register from past projects"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material's business case includes an executive summary, problem/opportunity definition, data analysis and feasibility study, stakeholder engagement plan, KPIs and expected benefits, risk assessment and mitigation strategies, cost-benefit analysis, and a recommendation and implementation plan. (4.6 Draft and present a formal business case)\n**Why not A:** A sprint backlog is a delivery artifact created after the project is approved.\n**Why not C:** Vendor contracts come later, during procurement.\n**Why not D:** Lessons learned are captured during and after the project."
+    },
+    {
+      "topic": "The formal business case",
+      "question": "The analyst has finished the business case for the chatbot. To whom is it normally presented, and for what purpose?",
+      "options": {
+        "A": "To a steering committee or board, to seek approval",
+        "B": "To the development team, so coding can start",
+        "C": "To customers, to collect their satisfaction scores",
+        "D": "To the vendor, to negotiate the contract price"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The formal business case is presented to decision-makers, such as a steering committee or board, to seek project approval based on merit, alignment and value potential. (4.6 Draft and present a formal business case)\n**Why not B:** Development starts only after the project is approved.\n**Why not C:** Customers are stakeholders, but they don't approve the project.\n**Why not D:** Vendor negotiations come after approval, during procurement."
+    },
+    {
+      "topic": "The formal business case",
+      "question": "At the end of the presentation, a board member asks, 'So what exactly do you propose we do, and how would we roll it out?' Which section of the business case should answer this?",
+      "options": {
+        "A": "The executive summary",
+        "B": "The data analysis and feasibility study",
+        "C": "The stakeholder engagement plan",
+        "D": "The recommendation and implementation plan"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The business case ends with a recommendation and implementation plan, which states the proposed course of action and how it would be carried out. (4.6 Draft and present a formal business case)\n**Why not A:** The executive summary gives an overview of the whole case.\n**Why not B:** The feasibility study shows whether the solution is viable, not the proposed rollout.\n**Why not C:** The engagement plan describes how stakeholders will be involved."
+    },
+    {
+      "topic": "The formal business case",
+      "question": "A reviewer worries that the chatbot vendor could deliver late and that customer data could be exposed. Which section of the business case should address these concerns?",
+      "options": {
+        "A": "Cost-benefit analysis of the options",
+        "B": "Problem or opportunity definition",
+        "C": "Risk assessment and mitigation strategies",
+        "D": "KPIs and the expected benefits"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The business case includes a risk assessment and mitigation strategies section, where risks such as vendor delays or data exposure are identified along with plans to reduce them. (4.6 Draft and present a formal business case)\n**Why not A:** The cost-benefit analysis compares costs with benefits.\n**Why not B:** The problem/opportunity definition states why the project is needed.\n**Why not D:** KPIs describe how success will be measured."
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "course": "PROJ 614",
+  "learningObjective": {
+    "number": "01",
+    "title": "Explain skill sets of an IT project leader, including challenges of managing IT project teams"
+  },
+  "source": "LO1.pptx (1).txt and slide images",
+  "questions": [
+    {
+      "topic": "Core project management concepts",
+      "question": "A bank manages its new mobile app, its online banking redesign and its customer chatbot together, so that all three advance its digital-channel strategy. What is this grouping called?",
+      "options": {
+        "A": "A portfolio",
+        "B": "A program",
+        "C": "A process",
+        "D": "A project"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** A program is a group of related projects managed together to achieve strategic objectives, which is what the bank is doing with three related digital projects. (1.1 Basic IT project management concepts)\n**Why not A:** A portfolio is a broader collection of projects and programs managed to achieve overall organizational goals, not just one strategic theme.\n**Why not C:** A process is ongoing, repetitive work, not a set of temporary projects.\n**Why not D:** Each of the three is a project; managed together for a shared objective, they form a program."
+    },
+    {
+      "topic": "Core project management concepts",
+      "question": "An IT department lists its work for the quarter. Which item is a project rather than a process?",
+      "options": {
+        "A": "Running the nightly data backup",
+        "B": "Resetting user passwords at the help desk",
+        "C": "Designing and launching a new customer website",
+        "D": "Applying the standard monthly security patches"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A project is a temporary endeavour with a specific goal, timeframe and deliverables, creating a unique result; designing and launching a new website is the material's own project example. (1.1 Projects vs. Processes)\n**Why not A:** A nightly backup is ongoing and repetitive, which makes it a process.\n**Why not B:** Password resets are routine operations, so they are a process.\n**Why not D:** Standard monthly patching repeats on a schedule, so it is a process."
+    },
+    {
+      "topic": "Core project management concepts",
+      "question": "A project manager is preparing resource assignments, a team charter and the tools the team will use to resolve conflicts. Which PMBOK 6 knowledge area does this work belong to?",
+      "options": {
+        "A": "Communication Management",
+        "B": "Stakeholder Management",
+        "C": "Integration Management",
+        "D": "Resource Management"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Resource Management identifies, acquires and manages the project team and physical resources; its key deliverables include resource assignments, the team charter and conflict resolution tools. (1.1 Knowledge areas)\n**Why not A:** Communication Management produces the communication plan, performance reports and stakeholder feedback.\n**Why not B:** Stakeholder Management produces the stakeholder register and engagement strategies.\n**Why not C:** Integration Management coordinates all elements, through the charter, the project management plan and change control."
+    },
+    {
+      "topic": "Core project management concepts",
+      "question": "Halfway through a cloud migration, the sponsor asks the team to add several new features without changing the deadline or the budget. What does the triple constraint suggest will happen unless something is adjusted?",
+      "options": {
+        "A": "The schedule and cost will likely be affected",
+        "B": "Quality will rise because more features are delivered",
+        "C": "Nothing changes, since scope is separate from time and cost",
+        "D": "Only the risk register needs updating"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The triple constraint holds that scope, time and cost must be balanced, and changing one affects the others; the material's own example is that adding features to a cloud migration may delay the timeline and raise costs unless adjustments are made. (1.1 Triple Constraint)\n**Why not B:** More scope doesn't raise quality; quality sits at the centre and can suffer when the other constraints are squeezed.\n**Why not C:** The point of the triple constraint is that scope, time and cost are linked.\n**Why not D:** The risk register may change, but the core impact falls on schedule and cost."
+    },
+    {
+      "topic": "Core project management concepts",
+      "question": "A project manager adapts the team's processes, methods and artifacts to suit a small, fast-moving project instead of applying the company's full standard methodology. Which of PMI's 12 principles is she following?",
+      "options": {
+        "A": "Navigate complexity",
+        "B": "Embrace adaptability and resiliency",
+        "C": "Tailor based on context",
+        "D": "Focus on value"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The tailoring principle means adapting project processes, methods and artifacts to suit the specific context of the project and the organization. (1.1 The 12 Principles of Project Management)\n**Why not A:** Navigating complexity is about responding to interdependencies, uncertainty and rapid change.\n**Why not B:** Adaptability and resiliency is about adjusting to change and recovering from setbacks.\n**Why not D:** Focusing on value is about evaluating outcomes against the intended business value."
+    },
+    {
+      "topic": "Core project management concepts",
+      "question": "Near the end of a payroll system project, the team validates deliverables with users, confirms acceptance and hands the system over to operations. Which of PMBOK 7's eight performance domains covers this?",
+      "options": {
+        "A": "Project Work",
+        "B": "Delivery",
+        "C": "Measurement",
+        "D": "Stakeholders"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The Delivery performance domain makes sure the project delivers its intended outcomes and value, covering deliverable acceptance and validation, value realization and transition to operations. (1.1 The 8 Performance Domains)\n**Why not A:** Project Work covers managing and executing the day-to-day work, scope, change, quality, procurement and resources.\n**Why not C:** Measurement covers assessing performance with metrics, KPIs and dashboards.\n**Why not D:** Stakeholders covers identifying and engaging stakeholders through analysis and communication."
+    },
+    {
+      "topic": "Core project management concepts",
+      "question": "A colleague asks how PMBOK 7 differs from PMBOK 6 in the way it organizes project management. Which answer matches the course material?",
+      "options": {
+        "A": "PMBOK 7 adds five more knowledge areas to the ten in PMBOK 6",
+        "B": "PMBOK 7 removes tailoring and requires one fixed process for all projects",
+        "C": "PMBOK 7 keeps the ten knowledge areas as its main structure",
+        "D": "PMBOK 7 is built on principles and performance domains focused on value delivery"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** PMBOK 6 organizes project management into ten knowledge areas, while PMBOK 7 introduces a principle- and performance-domain-based model emphasizing value delivery, adaptability and stakeholder engagement. (1.1 Basic IT project management concepts)\n**Why not A:** PMBOK 7 doesn't add knowledge areas; it shifts to principles and performance domains.\n**Why not B:** PMBOK 7 promotes tailoring rather than removing it.\n**Why not C:** The knowledge areas remain useful, but they are not PMBOK 7's main structure."
+    },
+    {
+      "topic": "Teams, roles and challenges",
+      "question": "A month into a new project, developers start voicing their frustrations, push back against the team lead's direction and still act more like individuals than a team. Which stage of Tuckman's ladder is the team in?",
+      "options": {
+        "A": "Forming",
+        "B": "Norming",
+        "C": "Storming",
+        "D": "Performing"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In storming, conflict arises as members assert themselves: they start to share their feelings but still see themselves as individuals, resist control by group leaders and may show hostility, while roles and expectations get clarified. (Tuckman's ladder)\n**Why not A:** In forming, members are just getting acquainted, setting ground rules and treating each other politely as strangers.\n**Why not B:** In norming, people feel part of the team and accept other viewpoints.\n**Why not D:** In performing, the team works in an open, trusting atmosphere focused on the task."
+    },
+    {
+      "topic": "Teams, roles and challenges",
+      "question": "A development team now works in an open, trusting atmosphere. Members switch tasks flexibly, hierarchy matters very little, and they solve problems together while staying focused on the work. Which Tuckman stage is this?",
+      "options": {
+        "A": "Performing",
+        "B": "Norming",
+        "C": "Adjourning",
+        "D": "Storming"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In performing, the team is high-functioning and task-focused, working in an open and trusting atmosphere where flexibility is key and hierarchy is of little importance. (Tuckman's ladder)\n**Why not B:** In norming, the team is still establishing norms and cohesive relationships.\n**Why not C:** Adjourning is when the project ends, the team disbands and members reflect on achievements.\n**Why not D:** Storming is marked by conflict and resistance, not trust."
+    },
+    {
+      "topic": "Teams, roles and challenges",
+      "question": "A software team operates with minimal supervision, and its members decide together how to split and schedule their work. Which type of team is this?",
+      "options": {
+        "A": "A collocated team",
+        "B": "A self-managed team",
+        "C": "A virtual team",
+        "D": "A global team"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Self-managed teams operate with minimal supervision, and their members collectively make decisions. (Types of IT project teams)\n**Why not A:** Collocated teams are defined by working in the same physical location, not by how decisions are made.\n**Why not C:** Virtual teams are defined by using technology to collaborate.\n**Why not D:** Global teams are defined by having members from different countries."
+    },
+    {
+      "topic": "Teams, roles and challenges",
+      "question": "A project manager decided to skip load testing to meet a deadline, and the system slowed badly after launch. In the review, she says the decision was hers and owns its consequences instead of blaming the testers. Which value from the PMI Code of Ethics does this show most directly?",
+      "options": {
+        "A": "Respect",
+        "B": "Fairness",
+        "C": "Responsibility",
+        "D": "Honesty"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The PMI Code of Ethics describes responsibility as accepting accountability for your decisions, which is what she does. (1.2 PMI Code of Ethics)\n**Why not A:** Respect is about listening to diverse perspectives.\n**Why not B:** Fairness is about acting impartially and objectively.\n**Why not D:** Honesty is about transparent communication; she is honest, but the core of the scenario is owning her decision."
+    },
+    {
+      "topic": "Teams, roles and challenges",
+      "question": "A project is in monitoring and controlling. Test results show defects piling up, and the project manager must decide quickly how to keep the release on course. Which of the PM's roles comes to the fore in this phase?",
+      "options": {
+        "A": "Defining project objectives",
+        "B": "Detailed planning and resource allocation",
+        "C": "Project evaluation and documentation",
+        "D": "Problem-solving and decision-making"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material describes the PM's role evolving: defining objectives in initiation, detailed planning in planning, leading and motivating in execution, problem-solving and decision-making in monitoring and controlling, and evaluation and documentation at closing. (1.3 Evolution of Roles)\n**Why not A:** Defining objectives is the focus of initiation.\n**Why not B:** Detailed planning and resource allocation is the focus of planning.\n**Why not C:** Evaluation and documentation is the focus of closing."
+    },
+    {
+      "topic": "Teams, roles and challenges",
+      "question": "Marketing wants the new app launched next week, but IT security insists on another round of testing. The project manager works out an agreement that balances both groups' interests. Which leadership skill is she mainly using?",
+      "options": {
+        "A": "Negotiation",
+        "B": "Emotional intelligence",
+        "C": "Root cause analysis",
+        "D": "Delegation"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material lists negotiation as the leadership skill of balancing stakeholder interests, which is exactly what the PM does between marketing and security. (1.4 Leadership skills)\n**Why not B:** Emotional intelligence is recognizing and managing emotions; it helps, but the core task is balancing interests.\n**Why not C:** Root cause analysis is part of problem-solving, used to find why something went wrong.\n**Why not D:** Delegation assigns tasks to team members based on their skills."
+    },
+    {
+      "topic": "Teams, roles and challenges",
+      "question": "A cloud infrastructure project misses its performance targets because none of the team members has worked with cloud platforms or modern security practices before. Which common challenge in managing IT project teams is this?",
+      "options": {
+        "A": "Scope creep",
+        "B": "Skill gaps",
+        "C": "Unclear goals and requirements",
+        "D": "Stakeholder conflicts"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material describes skill gaps as a lack of technical or project management skills that hinders progress; its example is a project failing to meet performance requirements because the team lacks cloud or cybersecurity experience. (1.5 Common challenges)\n**Why not A:** Scope creep is uncontrolled growth in scope.\n**Why not C:** Unclear goals means the requirements themselves are missing or shifting.\n**Why not D:** Stakeholder conflicts come from differing stakeholder priorities."
+    },
+    {
+      "topic": "Leadership styles",
+      "question": "During a sprint, the project lead spends her day clearing developers' blocker tickets and shielding the team from stakeholder interruptions, rather than handing out directions. Which leadership style is this?",
+      "options": {
+        "A": "Transactional",
+        "B": "Laissez-faire",
+        "C": "Servant",
+        "D": "Autocratic"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Servant leadership focuses on serving the team by removing obstacles, supporting development and fostering collaboration; the material's example is resolving blocker tickets and shielding the team during a sprint. (1.6 Leadership styles)\n**Why not A:** Transactional leadership relies on structure, rewards and penalties.\n**Why not B:** Laissez-faire leaders give minimal involvement; this lead is actively supporting the team.\n**Why not D:** Autocratic leaders make decisions alone and expect compliance."
+    },
+    {
+      "topic": "Leadership styles",
+      "question": "A zero-day vulnerability is being exploited in production. The IT project manager orders a full system rollback right away, without consulting the team. Which leadership style is this, and when does the material say it fits?",
+      "options": {
+        "A": "Democratic, when decisions need the team's expertise",
+        "B": "Autocratic, in a crisis where quick decisions are needed",
+        "C": "Situational, when the team is still immature",
+        "D": "Strategic, when aligning work to business goals"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Autocratic leadership centralizes decisions with strict control; the material says it suits crises such as security breaches or a zero-day vulnerability, where rapid decisions are needed, though it isn't recommended for general use. (1.6 Leadership styles)\n**Why not A:** Democratic leaders involve the team in decisions, which the PM deliberately skips.\n**Why not C:** Situational leaders adapt their style to the team's maturity, which isn't the issue in an emergency.\n**Why not D:** Strategic leadership ties work to organizational goals; this is crisis control."
+    },
+    {
+      "topic": "Leadership styles",
+      "question": "A new project manager gives a team of junior developers almost no direction and lets them decide everything themselves. Within weeks the team is confused and pulling in different directions. Which style has been misapplied?",
+      "options": {
+        "A": "Laissez-faire",
+        "B": "Servant",
+        "C": "Charismatic",
+        "D": "Transactional"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Laissez-faire leadership gives minimal supervision and lets the team decide. The material says it works with highly skilled, self-directed professionals but can cause confusion or misalignment in less mature teams. (1.6 Leadership styles)\n**Why not B:** Servant leaders actively support the team and remove obstacles, rather than stepping back entirely.\n**Why not C:** Charismatic leaders energize the team through personal enthusiasm.\n**Why not D:** Transactional leaders impose structure, rewards and penalties, the opposite of no direction."
+    },
+    {
+      "topic": "Leadership styles",
+      "question": "On a data centre migration with strict compliance requirements, the project manager sets clear task assignments, rewards early delivery of a critical patch and enforces change control when milestones slip. Which style is this?",
+      "options": {
+        "A": "Transformational",
+        "B": "Adaptive",
+        "C": "Democratic",
+        "D": "Transactional"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Transactional leadership relies on structured tasks, rewards and penalties to meet performance goals; the material says it suits stable, compliance-driven environments such as data centre migrations or ERP implementations. (1.6 Leadership styles)\n**Why not A:** Transformational leaders inspire through vision and innovation.\n**Why not B:** Adaptive leaders adjust their approach in real time to uncertainty.\n**Why not C:** Democratic leaders involve the team in decisions."
+    },
+    {
+      "topic": "Leadership styles",
+      "question": "On a hybrid project, a project manager uses a participative style with the agile UX designers and a transactional style with the waterfall backend integration team. Which leadership style does this pattern reflect?",
+      "options": {
+        "A": "Charismatic",
+        "B": "Situational",
+        "C": "Laissez-faire",
+        "D": "Autocratic"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Situational leaders adapt their style to the team's maturity, competence and the project's needs; the material's example is exactly this hybrid project, participative for UX and transactional for backend integration. (1.6 Leadership styles)\n**Why not A:** Charismatic leaders rely on personal charm and enthusiasm, not changing style by context.\n**Why not C:** Laissez-faire leaders give minimal direction to everyone.\n**Why not D:** Autocratic leaders keep tight, centralized control throughout."
+    },
+    {
+      "topic": "Leadership styles",
+      "question": "A company is moving its operations to AI-driven tools. The project manager builds a compelling vision of the future, encourages innovation and invests in each team member's development so the team commits to the change. Which leadership style is this?",
+      "options": {
+        "A": "Transformational",
+        "B": "Transactional",
+        "C": "Servant",
+        "D": "Laissez-faire"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Transformational leaders inspire through a compelling vision, foster innovation and encourage personal development; the material recommends the style for strategic change and transformation projects such as AI or cloud. (1.6 Leadership styles)\n**Why not B:** Transactional leaders manage through rewards and penalties against set tasks.\n**Why not C:** Servant leaders focus on removing obstacles for the team rather than selling a vision.\n**Why not D:** Laissez-faire leaders give minimal direction."
+    },
+    {
+      "topic": "Motivation theories",
+      "question": "A company raised salaries and improved office conditions, but its developers are still not especially motivated. The project manager then gives one developer ownership of a new feature and celebrates the team's wins at sprint reviews. Which theory explains why the second step works better?",
+      "options": {
+        "A": "Maslow: the developers' basic needs were still not being met",
+        "B": "Vroom: the developers simply didn't value the pay raise",
+        "C": "Herzberg: pay only prevents dissatisfaction; ownership motivates",
+        "D": "McGregor: they are Theory X workers who need tighter control"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Herzberg's two-factor theory separates hygiene factors such as salary and working conditions, which prevent dissatisfaction, from motivators such as achievement, recognition and responsibility, which create satisfaction. (1.7 Motivation theories)\n**Why not A:** Raising pay and improving conditions would meet basic needs, so unmet basic needs don't explain the result.\n**Why not B:** The scenario says nothing about how much the developers value the raise.\n**Why not D:** The material recommends Theory Y for knowledge-based IT teams, and ownership is a Theory Y approach."
+    },
+    {
+      "topic": "Motivation theories",
+      "question": "A project manager assigns a high-stakes technical task to one analyst, makes a sociable team member the liaison with users, and lets a third analyst lead stakeholder presentations. Which motivation theory is she applying?",
+      "options": {
+        "A": "Maslow's hierarchy of needs",
+        "B": "McGregor's Theory X and Theory Y",
+        "C": "Vroom's expectancy theory",
+        "D": "McClelland's theory of needs"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** McClelland identifies needs for achievement, affiliation and power; the material suggests matching roles to each person's dominant need: a high-stakes task for achievement, user liaison for affiliation, stakeholder presentations for power. (1.7 Motivation theories)\n**Why not A:** Maslow's hierarchy is about meeting needs in order, from physiological to self-actualization.\n**Why not B:** McGregor's theory is about the manager's assumptions about workers.\n**Why not C:** Vroom's theory links effort, performance and valued rewards."
+    },
+    {
+      "topic": "Motivation theories",
+      "question": "A manager of a Scrum team insists on approving every estimate and checking developers' work hourly, because he assumes people avoid work unless they're watched. Which approach does the course material recommend for knowledge-based IT teams instead?",
+      "options": {
+        "A": "Theory Y: trust the team to estimate and decide how to work",
+        "B": "Theory X: tighten supervision until performance improves",
+        "C": "Maslow: raise salaries before giving any responsibility",
+        "D": "Herzberg: remove motivators to avoid dissatisfaction"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** McGregor's Theory X assumes people dislike work and need strict supervision, while Theory Y assumes they are self-motivated and thrive when empowered. The material recommends Theory Y for knowledge-based IT teams, such as Scrum teams trusted to estimate, prioritize and decide how work gets done. (1.7 Motivation theories)\n**Why not B:** That is the manager's current Theory X approach, which the material steers away from.\n**Why not C:** Maslow is about levels of needs; nothing says pay must come before responsibility.\n**Why not D:** Herzberg's motivators create satisfaction; removing them would reduce motivation."
+    },
+    {
+      "topic": "Motivation theories",
+      "question": "A DevOps engineer is confident she can build a new automation tool and would love the bonus offered for it. However, she doubts management will actually notice or reward the work. Under Vroom's expectancy theory, which factor is weak?",
+      "options": {
+        "A": "Expectancy",
+        "B": "Valence",
+        "C": "Instrumentality",
+        "D": "Affiliation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Vroom's theory says motivation = expectancy x instrumentality x valence. Instrumentality is the belief that performance will lead to rewards, which is where her doubt lies. (1.7 Motivation theories)\n**Why not A:** Expectancy is the belief that effort will lead to performance, and she is confident she can succeed.\n**Why not B:** Valence is the value placed on the reward, and she wants the bonus.\n**Why not D:** Affiliation is one of McClelland's needs, not part of Vroom's formula."
+    },
+    {
+      "topic": "Motivation theories",
+      "question": "Rumours of layoffs are spreading, and a team's performance has dropped. The project manager plans to fix it with public praise for top performers. What does Maslow's hierarchy suggest she should address first?",
+      "options": {
+        "A": "Esteem, through more public praise",
+        "B": "Safety, by addressing job security concerns",
+        "C": "Self-actualization, through stretch assignments",
+        "D": "Power, by giving people leadership roles"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Maslow's levels run from physiological and safety needs up to love/belonging, esteem and self-actualization. The material says PMs should make sure team members feel secure, for example through job stability, before expecting high performance; praise addresses higher esteem needs. (1.7 Motivation theories)\n**Why not A:** Praise targets esteem, a higher level that is harder to reach while job security is in doubt.\n**Why not C:** Self-actualization is the top level and depends on lower needs being met.\n**Why not D:** Power is one of McClelland's needs, not a Maslow level."
+    },
+    {
+      "topic": "Conflict and communication",
+      "question": "Two senior developers disagree over which framework to use. The project manager stresses everything they agree on and asks one of them to give way, so the team stays harmonious. Which conflict resolution technique is this?",
+      "options": {
+        "A": "Collaborate/problem solve",
+        "B": "Compromise/reconcile",
+        "C": "Force/direct",
+        "D": "Smooth/accommodate"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Smoothing or accommodating emphasizes areas of agreement rather than difference, and concedes one position to others' needs to keep harmony and relationships. (1.8 Conflict resolution techniques)\n**Why not A:** Collaborating brings both viewpoints together through open dialogue toward consensus.\n**Why not B:** Compromising gives each side partial satisfaction rather than having one side concede.\n**Why not C:** Forcing pushes one viewpoint through a position of power."
+    },
+    {
+      "topic": "Conflict and communication",
+      "question": "QA wants three weeks for testing and the developers want one. The project manager settles on two weeks, so each side gets part of what it wanted. Which technique is this, and what risk does the material note?",
+      "options": {
+        "A": "Collaborate; it often produces win-lose outcomes",
+        "B": "Compromise; it can sometimes end up lose-lose",
+        "C": "Avoid; it permanently ends the disagreement",
+        "D": "Force; it builds commitment from both sides"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Compromising looks for solutions that bring some satisfaction to all parties, temporarily or partially resolving the conflict, and the material notes it occasionally results in a lose-lose situation. (1.8 Conflict resolution techniques)\n**Why not A:** Collaborating aims for a win-win, not win-lose.\n**Why not C:** Avoiding postpones the issue rather than settling it.\n**Why not D:** Forcing imposes one view and usually produces win-lose, not shared commitment."
+    },
+    {
+      "topic": "Conflict and communication",
+      "question": "In the middle of a live outage, two engineers argue about the fix. The project manager uses her authority to impose one solution immediately. Which technique is this, and what outcome does it usually produce?",
+      "options": {
+        "A": "Force/direct, usually a win-lose outcome",
+        "B": "Collaborate/problem solve, usually a win-win outcome",
+        "C": "Smooth/accommodate, usually preserved harmony",
+        "D": "Withdraw/avoid, usually a postponed decision"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Forcing or directing pushes one viewpoint at the expense of others, offering only win-lose solutions, usually enforced through a power position to resolve an emergency. (1.8 Conflict resolution techniques)\n**Why not B:** Collaborating builds consensus through open dialogue, which there's no time for here.\n**Why not C:** Smoothing emphasizes agreement and concession, not imposing a solution.\n**Why not D:** Withdrawing postpones the issue, which the PM doesn't do."
+    },
+    {
+      "topic": "Conflict and communication",
+      "question": "Security and development disagree about a login design. The project manager runs an open workshop where both sides' insights are combined into a design everyone commits to. Which technique is this?",
+      "options": {
+        "A": "Compromise/reconcile",
+        "B": "Smooth/accommodate",
+        "C": "Collaborate/problem solve",
+        "D": "Force/direct"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Collaborating or problem solving incorporates multiple viewpoints through a cooperative attitude and open dialogue, typically leading to consensus and commitment, a win-win situation. (1.8 Conflict resolution techniques)\n**Why not A:** Compromising gives each side only partial satisfaction.\n**Why not B:** Smoothing has one side concede to keep harmony.\n**Why not D:** Forcing imposes one side's view."
+    },
+    {
+      "topic": "Conflict and communication",
+      "question": "Two team leads clash over a vendor choice just before the vendor's revised pricing arrives. The project manager postpones the discussion until the new information is in. Which technique is this?",
+      "options": {
+        "A": "Force/direct",
+        "B": "Withdraw/avoid",
+        "C": "Compromise/reconcile",
+        "D": "Collaborate/problem solve"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Withdrawing or avoiding means retreating from an actual or potential conflict, or postponing the issue to be better prepared or to let others resolve it. (1.8 Conflict resolution techniques)\n**Why not A:** Forcing would impose a decision now.\n**Why not C:** Compromising would split the difference now.\n**Why not D:** Collaborating would work through the issue together now, rather than delaying it."
+    },
+    {
+      "topic": "Conflict and communication",
+      "question": "A project has 9 stakeholders who all need to communicate with each other. How many communication channels does the project manager need to manage?",
+      "options": {
+        "A": "45",
+        "B": "72",
+        "C": "36",
+        "D": "81"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The number of channels is n(n-1)/2, so 9 x 8 / 2 = 36. (1.9 Communication channels)\n**Why not A:** 45 is the result for 10 stakeholders.\n**Why not B:** 72 is n(n-1) without dividing by 2.\n**Why not D:** 81 is n squared, which double-counts and includes each person talking to themselves."
+    },
+    {
+      "topic": "Conflict and communication",
+      "question": "A project team grows from 6 to 8 stakeholders. How many communication channels does this add?",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "28",
+        "D": "13"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** With n(n-1)/2, 6 stakeholders have 15 channels and 8 have 28, so adding two people adds 13 channels. This is why communication gets harder quickly as teams grow. (1.9 Communication channels)\n**Why not A:** Two is the number of people added, not the number of channels.\n**Why not B:** Six is the starting team size.\n**Why not C:** 28 is the new total, not the increase."
+    }
+  ]
+}

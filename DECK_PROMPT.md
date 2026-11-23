@@ -18,12 +18,14 @@ Source rules:
 
 Question rules:
 - Write scenario-based questions: put the concept in a realistic workplace situation, so the question tests understanding and application rather than recall of a definition.
+- You can test for knowledge as well but keep most questions scenario based.
 - Cover every section or sub-objective of the material, and group the questions into subtopics that follow the material's main headings (between 2 to 6 subtopics, each with at least 4 questions). Put the subtopic name in each question's `"topic"`.
 - Every question has exactly 4 options, A to D, and exactly one correct answer.
 - Every wrong option must be plausible: a common misconception, a related concept from the same material, or a logical misstep. No throwaway options.
 - Keep all four options similar in tone, and level of detail.
 - Never use "All of the above", "None of the above", or combined options such as "Both A and B".
 - Distribute the correct answers across A, B, C and D randomly and roughly evenly, with no pattern. But if you fail to do so and realize at the end you failed, you dont need to re-do that.
+- Don't base questions as though asking us to memorize images or figures; don't frame questions like "as shown in Figure x" but rather take the knowledge and treat it as part of normal course text, and ask questions that relate to the figure without referring to specific figures.
 
 Explanation rules (the `"note"`):
 - Say why the correct answer is right, citing the logic or the section of the material it comes from.
