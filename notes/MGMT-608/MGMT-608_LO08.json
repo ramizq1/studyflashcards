@@ -1,0 +1,262 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "08",
+    "title": "Review other important concepts in procurement"
+  },
+  "source": "MGMT 608 - LO8.pptx.txt and LO8 media folder",
+  "questions": [
+    {
+      "topic": "Teaming agreements",
+      "question": "Executives of two engineering firms sign an overriding corporate legal contract to split a major new transit system into parts, with each firm performing one part. What is this kind of contract usually called?",
+      "options": {
+        "A": "A standard purchase order between a buyer and one seller",
+        "B": "A seller's proposal in response to a request for proposal",
+        "C": "A teaming agreement, also called an alliance or arrangement",
+        "D": "A make-or-buy decision recorded in the procurement plan"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says special procurements of this kind are carried out strictly under an overriding corporate legal contract, typically called a teaming agreement, alliance or arrangement, in which a major project is divided into parts and each part is assigned to a separate company. (Special Procurements: Teaming Agreements)\n**Why not A:** A purchase order is an ordinary buyer-seller transaction, not a corporate teaming accord.\n**Why not B:** A proposal is a seller's bid, not an agreement between two companies to divide a project.\n**Why not D:** A make-or-buy decision is a planning output, not a contract between companies."
+    },
+    {
+      "topic": "Teaming agreements",
+      "question": "A mid-level project buyer wants to set up a teaming arrangement with another company for a $500 million program, on the buyer's own authority. What does the material say about who normally makes such accords?",
+      "options": {
+        "A": "They are strategic, high-dollar accords made between corporate executives",
+        "B": "They are routine purchases any project buyer can approve within budget",
+        "C": "They are set up by the sellers' sales teams during bidder conferences",
+        "D": "They are arranged by the project manager once the SOW is complete"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material describes teaming arrangements as normally strategic, high-dollar-value accords between corporate executives, not decisions made at the project buyer level. (Special Procurements: Teaming Agreements)\n**Why not B:** These are not routine purchases; they are strategic executive-level agreements.\n**Why not C:** Bidder conferences are part of conducting procurements, not where corporate teaming accords are made.\n**Why not D:** The accord is made between corporate executives, not by the project manager."
+    },
+    {
+      "topic": "Teaming agreements",
+      "question": "Two companies' executives sign a teaming agreement for a large defence program. According to the material, what do the companies agree to combine?",
+      "options": {
+        "A": "Only their marketing budgets, keeping all risk separate",
+        "B": "Only their bid prices, so a single quote goes to the buyer",
+        "C": "Only their legal departments, to draft one joint contract",
+        "D": "Their assets, facilities and people, and they share the risks"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material says that in a teaming agreement, the executives of one company and another agree to combine their assets, facilities and people, and to share risks. (Special Procurements: Teaming Agreements)\n**Why not A:** Teaming partners share risks rather than keeping them separate.\n**Why not B:** The combination goes far beyond pricing, to assets, facilities and people.\n**Why not C:** The agreement combines operating resources, not just legal staff."
+    },
+    {
+      "topic": "Teaming agreements",
+      "question": "Under a teaming agreement, the project teams of the two companies disagree about how a shared task should be divided. According to the material, what governs how the special procurement is carried out?",
+      "options": {
+        "A": "Whatever the two project managers agree informally on site",
+        "B": "The overriding corporate teaming agreement, followed strictly",
+        "C": "The buyer's standard purchase order terms and conditions",
+        "D": "The general rules of the industry's trade association"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material says these special procurements are carried out strictly in accordance with the overriding corporate legal contract, the teaming agreement, alliance or arrangement. (Special Procurements: Teaming Agreements)\n**Why not A:** Informal site agreements don't override the corporate teaming contract.\n**Why not C:** A standard purchase order isn't the governing document for a teaming arrangement.\n**Why not D:** The material doesn't mention trade association rules; the teaming agreement governs."
+    },
+    {
+      "topic": "Teaming agreements",
+      "question": "Three firms form a teaming arrangement to deliver a new rail signalling system. How is the work typically organized under such an arrangement?",
+      "options": {
+        "A": "The system is divided into parts, and each part is assigned to a separate company",
+        "B": "One firm does all of the work while the other two only provide financing",
+        "C": "All three firms build the whole system in parallel, and the best version is chosen",
+        "D": "The buyer runs separate competitive tenders for each part with no link between firms"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In a teaming arrangement, a major project or new system is essentially divided into two or more parts, and each part is assigned to a separate company to perform. (Special Procurements: Teaming Agreements)\n**Why not B:** Teaming partners each perform part of the work, combining assets, facilities and people.\n**Why not C:** The work is split among the firms, not duplicated.\n**Why not D:** That describes a buyer dealing with sellers separately, with no teaming agreement."
+    },
+    {
+      "topic": "Forms of teaming relationships",
+      "question": "A buyer signs three separate contracts directly with Seller A, Seller B and Seller C. The three sellers have no agreement among themselves. How does the material describe this setup?",
+      "options": {
+        "A": "A partner relationship",
+        "B": "A joint venture",
+        "C": "A prime contractor and subcontractor relationship",
+        "D": "No teaming agreement"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material contrasts teaming arrangements with the case of no teaming agreement, where the buyer company deals separately with Seller A, Seller B and Seller C. (No Teaming Agreement)\n**Why not A:** A partner relationship requires the sellers to team together.\n**Why not B:** A joint venture is a form of teaming agreement between companies.\n**Why not C:** In that relationship, the buyer contracts with one prime contractor, which brings in the subcontractors."
+    },
+    {
+      "topic": "Forms of teaming relationships",
+      "question": "A city hires one firm to deliver a complete water treatment plant. That firm then signs its own contracts with two specialist companies to do parts of the work. Which teaming relationship is this?",
+      "options": {
+        "A": "Licensee and licensor relationship",
+        "B": "Prime contractor and subcontractor relationship",
+        "C": "No teaming agreement",
+        "D": "Leader and follower company relationship"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In the material's prime contractor-subcontractor relationship, the buyer company contracts with a prime contractor company, which in turn contracts with Sub-contractor A and Sub-contractor B. (Teaming Agreements: Prime contractor-Sub-contractor Relationship)\n**Why not A:** A licensing relationship is about one party licensing rights to another, not a delivery chain.\n**Why not C:** There is a teaming structure here, with the prime bringing in subcontractors.\n**Why not D:** The structure described is a buyer, a prime and its subcontractors."
+    },
+    {
+      "topic": "Forms of teaming relationships",
+      "question": "A student is asked to list forms that a teaming agreement can take. Which list contains only forms named in the material?",
+      "options": {
+        "A": "Purchase order, blanket order, request for quote and sole source",
+        "B": "Fixed-price, cost-reimbursable, time and material, and unit price",
+        "C": "Partnership, joint venture, licensee-licensor and leader-follower",
+        "D": "Mediation, arbitration, negotiation and litigation"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material lists the forms of teaming agreements as partnership, joint venture, prime contractor-subcontractor, licensee-licensor, leader-follower, and any other relationship the parties define in the agreement. (Teaming Agreements)\n**Why not A:** These are ordinary purchasing documents and methods, not teaming forms.\n**Why not B:** These are contract types.\n**Why not D:** These are dispute resolution methods."
+    },
+    {
+      "topic": "Forms of teaming relationships",
+      "question": "Company A holds the rights to a patented control technology and grants Company B a licence to use it in building its part of a joint system. Which teaming relationship does this match?",
+      "options": {
+        "A": "Licensee and licensor relationship",
+        "B": "Prime contractor and subcontractor relationship",
+        "C": "Joint venture",
+        "D": "No teaming agreement"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Licensee-licensor is one of the teaming relationships in the material: here Company A is the licensor granting rights, and Company B is the licensee using them. (Teaming Agreements)\n**Why not B:** Neither company is described as the prime contracting the other to deliver work.\n**Why not C:** A joint venture is a different form; the defining feature here is the licence.\n**Why not D:** The two companies have a defined relationship for the joint system."
+    },
+    {
+      "topic": "Forms of teaming relationships",
+      "question": "Two firms want to team up under a custom relationship that isn't a partnership, joint venture, prime-subcontractor, licensing or leader-follower arrangement. Can this still be a teaming agreement, according to the material?",
+      "options": {
+        "A": "No, a teaming agreement must use one of the five named forms",
+        "B": "No, custom relationships must be handled as separate purchase orders",
+        "C": "Only if a government agency approves the relationship in advance",
+        "D": "Yes, it can cover any other relationship the parties define in the agreement"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** After the named forms, the material's list of teaming agreements ends with any other relationship defined between the parties in the agreement, so the forms aren't a closed list. (Teaming Agreements)\n**Why not A:** The list explicitly leaves room for other defined relationships.\n**Why not B:** The material doesn't require custom relationships to be split into purchase orders.\n**Why not C:** The material mentions no government approval requirement."
+    },
+    {
+      "topic": "Centralized and decentralized procurement",
+      "question": "At a large utility, project managers must route every purchase through the procurement department, which deals with sellers and signs the contracts for each project. Which procurement structure is this?",
+      "options": {
+        "A": "Decentralized",
+        "B": "Centralized",
+        "C": "Teaming arrangement",
+        "D": "Prime contractor structure"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In a centralized structure, a functional area, such as the procurement department, holds the authority for procurement. The project works through that department to reach the seller. (Centralized vs. Decentralized Procurement Structure)\n**Why not A:** In a decentralized structure, the project manager holds procurement authority.\n**Why not C:** A teaming arrangement is an agreement between companies, not an internal structure.\n**Why not D:** A prime contractor structure describes a seller-side chain, not who holds buying authority inside the organization."
+    },
+    {
+      "topic": "Centralized and decentralized procurement",
+      "question": "At a small software firm, each project manager has the authority to choose and contract directly with one or more sellers for the project, without going through a separate department. Which procurement structure is this?",
+      "options": {
+        "A": "Centralized",
+        "B": "Functional",
+        "C": "Decentralized",
+        "D": "Privity-based"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In a decentralized structure, the project manager has the authority for procurement and deals directly with the seller or sellers for the project. (Centralized vs. Decentralized Procurement Structure)\n**Why not A:** In a centralized structure, a functional area like the procurement department holds that authority.\n**Why not B:** A functional procurement area holding authority describes centralization, the opposite of this case.\n**Why not D:** Privity describes the relationship between contracting parties, not an internal structure."
+    },
+    {
+      "topic": "Centralized and decentralized procurement",
+      "question": "A consultant is mapping a company's procurement structure and asks one question: 'Where does the authority to procure sit?' The answer is 'with a functional area, our procurement department.' What does this tell the consultant?",
+      "options": {
+        "A": "The company has a centralized procurement structure",
+        "B": "The company has a decentralized procurement structure",
+        "C": "The company uses a prime contractor for all purchases",
+        "D": "The company has no privity of contract with its sellers"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material defines a centralized procurement structure as one where a functional area, for example the procurement department, has the authority for procurement. (Centralized vs. Decentralized Procurement Structure)\n**Why not B:** Decentralized means the project manager holds the authority.\n**Why not C:** Using a prime contractor is a teaming relationship, not an internal authority structure.\n**Why not D:** The procurement department still contracts with sellers, so privity exists."
+    },
+    {
+      "topic": "Centralized and decentralized procurement",
+      "question": "A project manager at a company with a centralized procurement structure finds a supplier with a great price and wants to sign a contract with it directly. What is the structural problem?",
+      "options": {
+        "A": "Project managers can never talk to sellers under any structure",
+        "B": "There is no problem, since the project manager has the authority",
+        "C": "The project must first form a teaming agreement with the supplier",
+        "D": "The procurement department, not the project manager, holds the authority"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In a centralized structure, procurement authority sits with a functional area such as the procurement department, so the project manager would have to go through that department. (Centralized vs. Decentralized Procurement Structure)\n**Why not A:** The point is about authority to contract; in a decentralized structure, the project manager does deal directly with sellers.\n**Why not B:** That would be true only in a decentralized structure.\n**Why not C:** Teaming agreements are strategic accords between corporate executives, not a step for an ordinary purchase."
+    },
+    {
+      "topic": "Centralized and decentralized procurement",
+      "question": "A growing company moves from a decentralized to a centralized procurement structure. What is the main change?",
+      "options": {
+        "A": "Authority moves from the procurement department to each project manager",
+        "B": "Authority to procure moves from project managers to a procurement department",
+        "C": "The company stops having privity of contract with any of its sellers",
+        "D": "All purchases must now be made through teaming agreements"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In a decentralized structure the project manager holds procurement authority; in a centralized one, a functional area such as the procurement department does. Moving to centralized shifts authority from project managers to that department. (Centralized vs. Decentralized Procurement Structure)\n**Why not A:** That describes the opposite move, from centralized to decentralized.\n**Why not C:** The company still contracts with sellers, through the procurement department, so privity remains.\n**Why not D:** Teaming agreements are special strategic accords, not the route for all purchases."
+    },
+    {
+      "topic": "Privity of contract and lower-tier suppliers",
+      "question": "A lawyer explains 'privity of contract' to a procurement team. Which definition matches the material?",
+      "options": {
+        "A": "The confidentiality owed to a seller about its proposal and pricing",
+        "B": "The buyer's right to inspect goods at the seller's facility",
+        "C": "The relationship that exists between two or more contracting entities",
+        "D": "A clause that keeps a contract's existence private from third parties"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material defines privity of contract as the relationship that exists between two or more contracting entities. (Supplier: 2nd and 3rd tier)\n**Why not A:** Confidentiality of proposals isn't what privity means.\n**Why not B:** That is the right-to-inspect provision.\n**Why not D:** Privity is about who is in the contractual relationship, not about keeping it secret."
+    },
+    {
+      "topic": "Privity of contract and lower-tier suppliers",
+      "question": "An owner (A) hires a general contractor (B), and the general contractor hires a materials supplier (C). Between which parties does privity of contract exist?",
+      "options": {
+        "A": "Between A and B, and between B and C, but not between A and C",
+        "B": "Between A and B only, because A is the owner of the whole project",
+        "C": "Between A and C only, because C supplies materials for A's project",
+        "D": "Between all three parties, because they work on the same project"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material's example shows privity between Company A and Company B, and between Company B and Company C, but no privity between A and C, because A and C have not contracted with each other. (Supplier: 2nd and 3rd tier)\n**Why not B:** B and C have contracted with each other, so privity exists between them too.\n**Why not C:** A and C have no contract with each other, so there is no privity between them.\n**Why not D:** Working on the same project doesn't create privity; a contract between the parties does."
+    },
+    {
+      "topic": "Privity of contract and lower-tier suppliers",
+      "question": "An owner (A) is unhappy with the materials a second-tier supplier (C) is providing through the owner's general contractor (B). The owner wants to give C contractual instructions directly. What is the problem?",
+      "options": {
+        "A": "There is no problem, since the owner pays for everything on the project",
+        "B": "The owner must first sign a teaming agreement with the general contractor",
+        "C": "The supplier has privity only with the owner, so the contractor can't act",
+        "D": "The owner has no privity of contract with C; its contract is with B"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Privity of contract exists only between contracting entities. A has privity with B, and B has privity with C, but there is no privity between A and C. A's contractual relationship on this matter runs to B. (Supplier: 2nd and 3rd tier)\n**Why not A:** Paying for the project doesn't create a contract between the owner and the supplier.\n**Why not B:** A teaming agreement isn't what's missing; the owner already has a contract with B.\n**Why not C:** It's the other way round: C has privity with B, not with A."
+    },
+    {
+      "topic": "Privity of contract and lower-tier suppliers",
+      "question": "Under a prime contractor-subcontractor arrangement, a subcontractor delivers late and delays the buyer's project. Based on privity of contract, which party is the buyer's contractual counterpart for this problem?",
+      "options": {
+        "A": "The subcontractor, because it caused the delay",
+        "B": "The prime contractor, because the buyer contracted with it",
+        "C": "Both equally, because they are on the same team",
+        "D": "Neither, because subcontracted work isn't covered by contracts"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In the prime contractor-subcontractor relationship, the buyer contracts with the prime, and the prime contracts with the subcontractors. Privity exists only between contracting entities, so the buyer's contractual relationship is with the prime contractor. (Teaming Agreements: Prime contractor-Sub-contractor Relationship; Supplier: 2nd and 3rd tier)\n**Why not A:** The buyer has no privity with the subcontractor, even though it caused the delay.\n**Why not C:** Being on the same team doesn't give the buyer privity with the subcontractor.\n**Why not D:** The subcontracted work is covered by the prime's contract with the subcontractor."
+    },
+    {
+      "topic": "Privity of contract and lower-tier suppliers",
+      "question": "With no teaming agreement in place, a buyer contracts separately and directly with Seller A, Seller B and Seller C. Where does privity of contract exist?",
+      "options": {
+        "A": "Only between the buyer and whichever seller has the largest contract",
+        "B": "Between the three sellers, who must coordinate among themselves",
+        "C": "Between the buyer and each seller separately",
+        "D": "Nowhere, because there is no overriding teaming agreement"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Privity of contract is the relationship between contracting entities. With no teaming agreement, the buyer has signed a contract with each seller, so privity exists between the buyer and each one. (No Teaming Agreement; Supplier: 2nd and 3rd tier)\n**Why not A:** Every contract creates privity, not just the largest one.\n**Why not B:** The sellers have no agreement among themselves, so no privity exists between them.\n**Why not D:** The buyer's direct contracts create privity even without a teaming agreement."
+    },
+    {
+      "topic": "Privity of contract and lower-tier suppliers",
+      "question": "A procurement manager asks why it matters to understand privity when dealing with second- and third-tier suppliers. Which answer best reflects the material?",
+      "options": {
+        "A": "A buyer's contractual relationship reaches only the parties it actually contracted with",
+        "B": "Lower-tier suppliers automatically have contracts with the end buyer",
+        "C": "Privity makes every supplier in the chain liable to every other supplier",
+        "D": "Lower-tier suppliers are legally barred from working on teamed projects"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Because privity exists only between contracting entities, a buyer (A) has privity with its contractor (B) but not with B's supplier (C). Lower-tier suppliers sit outside the buyer's direct contractual relationship. (Supplier: 2nd and 3rd tier)\n**Why not B:** The material shows no privity between A and C.\n**Why not C:** Privity links only parties that have contracted with each other.\n**Why not D:** Nothing in the material bars lower-tier suppliers; subcontractors are part of teaming structures."
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "07",
+    "title": "Describe control procurements and contract closure procedure"
+  },
+  "source": "MGMT 608 - LO7.pptx.txt and LO7 media folder",
+  "questions": [
+    {
+      "topic": "Procurement management processes",
+      "question": "A team has already decided what to buy, when, and how. Seller proposals are now arriving, and the team must choose a seller and award the contract. Which procurement management process is the team in?",
+      "options": {
+        "A": "Plan procurement management",
+        "B": "Conduct procurements",
+        "C": "Control procurements",
+        "D": "Close procurements"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material describes three main processes. Conducting procurements means obtaining seller responses, selecting sellers and awarding contracts. (Project Procurement Management: main processes)\n**Why not A:** Planning decides what to procure and when and how, which the team has already done.\n**Why not C:** Controlling begins once there is a contract to manage.\n**Why not D:** Closing contracts is part of control procurements, not a separate process, and it comes at the end."
+    },
+    {
+      "topic": "Procurement management processes",
+      "question": "A procurement team is producing make-or-buy decisions, source selection criteria, independent cost estimates and the procurement statement of work. Which process produces these as outputs?",
+      "options": {
+        "A": "Conduct procurements",
+        "B": "Control procurements",
+        "C": "Monitor risks",
+        "D": "Plan procurement management"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In the procurement management overview, plan procurement management produces the procurement management plan, procurement strategy, bid documents, procurement SOW, source selection criteria, make-or-buy decisions and independent cost estimates, among other outputs. These belong to deciding what to procure and how. (Project Procurement Management Overview)\n**Why not A:** Conduct procurements produces selected sellers and agreements.\n**Why not B:** Control procurements produces closed procurements and work performance information.\n**Why not C:** Monitor risks is a risk management step, not a procurement process."
+    },
+    {
+      "topic": "Procurement management processes",
+      "question": "A contract has been signed and the seller has started work. The buyer now meets the seller regularly, tracks whether deliverables meet the contract, and agrees changes where needed. Which process is this?",
+      "options": {
+        "A": "Control procurements",
+        "B": "Conduct procurements",
+        "C": "Plan procurement management",
+        "D": "Bidder conferences"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Controlling procurements means managing relationships with sellers, monitoring contract performance, making changes as needed and closing out contracts. (Project Procurement Management: main processes; Control Procurements)\n**Why not B:** Conducting procurements ends with selecting the seller and awarding the contract.\n**Why not C:** Planning comes before any seller is engaged.\n**Why not D:** Bidder conferences are a technique used in conducting procurements, before award."
+    },
+    {
+      "topic": "Procurement management processes",
+      "question": "A buyer runs newspaper and online advertisements for a tender and hosts a bidder conference so that interested sellers can ask questions. Which process are these tools and techniques part of?",
+      "options": {
+        "A": "Plan procurement management",
+        "B": "Control procurements",
+        "C": "Conduct procurements",
+        "D": "Close project or phase"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** In the procurement management overview, the tools and techniques of conduct procurements are expert judgment, advertising, bidder conferences, data analysis, and interpersonal and team skills. (Project Procurement Management Overview)\n**Why not A:** Planning uses tools such as data gathering, source selection analysis and meetings.\n**Why not B:** Control uses claims administration, data analysis, inspection and audits.\n**Why not D:** That isn't one of the three procurement processes in the material."
+    },
+    {
+      "topic": "Procurement management processes",
+      "question": "When a seller is selected, the buyer and seller sign a contract. That signed agreement is an output of one procurement process and then becomes a key input to the next. Which process does it feed?",
+      "options": {
+        "A": "Control procurements",
+        "B": "Plan procurement management",
+        "C": "Conduct procurements",
+        "D": "Plan risk responses"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Agreements are an output of conduct procurements and an input to control procurements, where the buyer monitors the seller's performance against what was agreed. (Project Procurement Management Overview; Control Procurements: Inputs)\n**Why not B:** Planning happens before any agreement exists.\n**Why not C:** Conduct procurements is the process that produces the agreement.\n**Why not D:** That is a risk management step, not a procurement process."
+    },
+    {
+      "topic": "Purpose of controlling procurements",
+      "question": "A new project coordinator thinks controlling procurements just means checking that deliveries arrive. Which description better captures what the process covers?",
+      "options": {
+        "A": "Deciding what to buy, writing the SOW and setting source selection criteria",
+        "B": "Advertising the tender, holding bidder conferences and choosing the seller",
+        "C": "Comparing make-or-buy options and preparing independent cost estimates",
+        "D": "Managing seller relationships, monitoring performance, correcting and closing"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material breaks control procurements into four activities: managing relationships, monitoring contract performance, making corrections, and closing contracts. (Control Procurements)\n**Why not A:** That is plan procurement management.\n**Why not B:** That is conduct procurements.\n**Why not C:** Those are also planning activities and outputs."
+    },
+    {
+      "topic": "Purpose of controlling procurements",
+      "question": "Monthly reports show a seller's deliverables slipping. The buyer and seller agree on a revised delivery approach and process a contract change to get the work back on track. Which control procurements activity is this?",
+      "options": {
+        "A": "Managing relationships",
+        "B": "Making corrections",
+        "C": "Closing contracts",
+        "D": "Selecting sellers"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Making corrections, making changes as needed, is one of the four activities of control procurements, and it responds to problems found while monitoring contract performance. (Control Procurements)\n**Why not A:** Managing relationships is about working with the seller day to day; the focus here is fixing a performance problem.\n**Why not C:** The contract is still active, so nothing is being closed.\n**Why not D:** Selecting sellers is part of conduct procurements."
+    },
+    {
+      "topic": "Purpose of controlling procurements",
+      "question": "A team assumes that closing a contract is a separate fourth procurement process that begins after control procurements ends. According to the material, where does closing contracts actually sit?",
+      "options": {
+        "A": "In plan procurement management, as part of the procurement strategy",
+        "B": "In conduct procurements, once the agreement is signed",
+        "C": "Within control procurements, which produces closed procurements",
+        "D": "Outside procurement entirely, in the project's risk processes"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material lists three procurement processes and says controlling procurements includes closing out contracts. Closed procurements is one of its outputs. (Project Procurement Management: main processes; Control Procurements: Outputs)\n**Why not A:** Planning decides what to buy and how; it doesn't close contracts.\n**Why not B:** Conduct procurements ends with awarding the agreement.\n**Why not D:** Closing contracts is a procurement activity, not a risk process."
+    },
+    {
+      "topic": "Purpose of controlling procurements",
+      "question": "A buyer sets up a standing monthly meeting with a supplier's account manager to talk through friction between the two teams and keep communication open. Which control procurements activity does this mainly support?",
+      "options": {
+        "A": "Managing relationships",
+        "B": "Closing contracts",
+        "C": "Conducting procurements",
+        "D": "Planning procurements"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Managing relationships with sellers is the first of the four control procurements activities in the material, alongside monitoring performance, making corrections and closing contracts. (Control Procurements)\n**Why not B:** The contract is ongoing; nothing is being closed.\n**Why not C:** Conducting procurements is the earlier process of selecting sellers.\n**Why not D:** Planning comes before any seller is engaged."
+    },
+    {
+      "topic": "Control procurements inputs",
+      "question": "During execution, raw figures are collected on what the seller has delivered, the costs incurred so far and the results of quality tests. In what form do these figures feed into control procurements?",
+      "options": {
+        "A": "Work performance information",
+        "B": "Procurement documentation",
+        "C": "Work performance data",
+        "D": "Organizational process assets"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Work performance data, the raw observations and measurements, is an input to control procurements. The process analyzes it and produces work performance information as an output. (Control Procurements: Inputs and Outputs)\n**Why not A:** Work performance information is the analyzed output, not the raw input.\n**Why not B:** Procurement documentation is the set of procurement records and documents, not raw performance measurements.\n**Why not D:** Organizational process assets are the organization's existing policies and records, not this contract's figures."
+    },
+    {
+      "topic": "Control procurements inputs",
+      "question": "The change control board approves a change to the seller's scope of work. In what form does this change enter control procurements, so the buyer can carry it out with the seller?",
+      "options": {
+        "A": "Change requests",
+        "B": "Approved change requests",
+        "C": "Agreements",
+        "D": "Enterprise environmental factors"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Approved change requests are an input to control procurements. Change requests, by contrast, are an output: new changes the process proposes. (Control Procurements: Inputs and Outputs)\n**Why not A:** Change requests are an output of control procurements, before approval.\n**Why not C:** Agreements are the contracts themselves; the approved change modifies how they're carried out.\n**Why not D:** Enterprise environmental factors are external and internal conditions, not specific approved changes."
+    },
+    {
+      "topic": "Control procurements inputs",
+      "question": "Gathering inputs for control procurements, a contract manager files the risk management plan and the risk register together in a folder labelled 'Project documents'. What correction should be made?",
+      "options": {
+        "A": "Both are organizational process assets and belong in that folder instead",
+        "B": "Both are procurement documentation, since the seller's risks are involved",
+        "C": "The risk register belongs to the project management plan; the risk management plan is a project document",
+        "D": "The risk management plan belongs to the project management plan; the risk register is a project document"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Among the inputs to control procurements, the project management plan includes the requirements, risk, procurement and change management plans and the schedule baseline. Project documents include the risk register, assumption log, lessons learned register, milestone list, quality reports and other registers. (Control Procurements: Inputs)\n**Why not A:** Organizational process assets are a separate input, and these are project-specific items.\n**Why not B:** Procurement documentation is a separate input; the risk plan and register are listed elsewhere.\n**Why not C:** This reverses where the two items belong."
+    },
+    {
+      "topic": "Control procurements inputs",
+      "question": "A seller asks to change part of its deliverable midway through the contract. Which component of the project management plan, listed among the control procurements inputs, guides how the buyer handles that request?",
+      "options": {
+        "A": "The change management plan",
+        "B": "The schedule baseline",
+        "C": "The requirements management plan",
+        "D": "The risk management plan"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The project management plan components that feed control procurements include the requirements management plan, risk management plan, procurement management plan, change management plan and schedule baseline. A change request is handled under the change management plan. (Control Procurements: Inputs)\n**Why not B:** The schedule baseline is what changes are measured against, not how they are handled.\n**Why not C:** The requirements management plan governs how requirements are managed, not changes to the work.\n**Why not D:** The risk management plan governs risk activities, not change requests."
+    },
+    {
+      "topic": "Control procurements inputs",
+      "question": "To judge whether a seller has met its obligations, a contract manager needs the signed contract terms themselves. Under which control procurements input are these found?",
+      "options": {
+        "A": "Enterprise environmental factors",
+        "B": "Agreements",
+        "C": "Work performance data",
+        "D": "Organizational process assets"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Agreements, the contracts produced when sellers are selected, are an input to control procurements, and they set out what the seller must deliver. (Control Procurements: Inputs)\n**Why not A:** Enterprise environmental factors are conditions around the project, not the contract itself.\n**Why not C:** Work performance data is what the seller has actually done, not what it agreed to do.\n**Why not D:** Organizational process assets are the organization's general policies and records."
+    },
+    {
+      "topic": "Control procurements inputs",
+      "question": "To check whether a seller's deliverables meet quality standards, a contract manager reviews the quality reports and the milestone list. Under which control procurements input do these items fall?",
+      "options": {
+        "A": "The project management plan",
+        "B": "Procurement documentation",
+        "C": "Project documents",
+        "D": "Organizational process assets"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The project documents input to control procurements includes the assumption log, lessons learned register, milestone list, quality reports, requirements documentation, requirements traceability matrix, risk register and stakeholder register. (Control Procurements: Inputs)\n**Why not A:** The project management plan input contains plans and the schedule baseline, not reports and lists.\n**Why not B:** Procurement documentation is a separate input for procurement records.\n**Why not D:** Organizational process assets are organization-wide, not this project's reports."
+    },
+    {
+      "topic": "Control procurements tools and techniques",
+      "question": "A seller says extra foundation work was outside the contract's scope and files for additional payment. The buyer disagrees. Which control procurements tool or technique handles this kind of contested demand?",
+      "options": {
+        "A": "Inspection",
+        "B": "Audits",
+        "C": "Trend analysis",
+        "D": "Claims administration"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Claims administration is one of the five tools and techniques of control procurements, and it covers a seller's claims, such as a disputed demand for extra payment. (Control Procurements: Tools & Techniques)\n**Why not A:** Inspection examines the work itself, not a payment dispute.\n**Why not B:** Audits review the procurement process and records rather than settling a claim.\n**Why not C:** Trend analysis looks at performance over time to forecast results."
+    },
+    {
+      "topic": "Control procurements tools and techniques",
+      "question": "The buyer's engineer walks through the newly finished structure, examining the seller's work against the contract specifications before accepting it. Which control procurements tool or technique is this?",
+      "options": {
+        "A": "Inspection",
+        "B": "Expert judgment",
+        "C": "Claims administration",
+        "D": "Earned value analysis"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Inspection, examining the work the seller has produced, is one of the control procurements tools and techniques, along with expert judgment, claims administration, data analysis and audits. (Control Procurements: Tools & Techniques)\n**Why not B:** Expert judgment is advice from people with relevant expertise, not a physical examination of the work.\n**Why not C:** Claims administration handles disputed claims.\n**Why not D:** Earned value analysis compares cost and schedule performance using numbers, not a walk-through."
+    },
+    {
+      "topic": "Control procurements tools and techniques",
+      "question": "Before closing a large contract, the buyer arranges a structured review of the seller's records and of how the procurement itself was carried out, looking for problems and lessons. Which control procurements tool or technique is this?",
+      "options": {
+        "A": "Inspection",
+        "B": "Performance reviews",
+        "C": "Audits",
+        "D": "Advertising"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Audits are a control procurements tool and technique, used to review records and the procurement process rather than the physical work. (Control Procurements: Tools & Techniques)\n**Why not A:** Inspection examines the work the seller produced.\n**Why not B:** Performance reviews, part of data analysis, look at how the seller is performing against the contract, not at the procurement process and records.\n**Why not D:** Advertising is a conduct procurements technique for attracting sellers."
+    },
+    {
+      "topic": "Control procurements tools and techniques",
+      "question": "A contract manager compares the value of the work the seller has actually completed with the work planned to date and the costs incurred, to see whether the seller is behind schedule or over budget. Which data analysis technique is this?",
+      "options": {
+        "A": "Trend analysis",
+        "B": "Earned value analysis",
+        "C": "Performance reviews",
+        "D": "Source selection analysis"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Control procurements lists three data analysis techniques: performance reviews, earned value analysis and trend analysis. Comparing the value of work earned with planned work and actual cost is earned value analysis. (Control Procurements: Tools & Techniques)\n**Why not A:** Trend analysis looks at how performance changes over time to forecast.\n**Why not C:** Performance reviews are broader reviews of the seller's progress against the contract.\n**Why not D:** Source selection analysis is a planning technique for choosing how sellers will be selected."
+    },
+    {
+      "topic": "Control procurements tools and techniques",
+      "question": "A contract manager plots the seller's cost performance month by month over the last six months to forecast whether the contract is likely to finish over budget. Which data analysis technique is this?",
+      "options": {
+        "A": "Performance reviews",
+        "B": "Claims administration",
+        "C": "Inspection",
+        "D": "Trend analysis"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Trend analysis, one of the three data analysis techniques in control procurements, looks at performance over time to see where it is heading. (Control Procurements: Tools & Techniques)\n**Why not A:** Performance reviews assess progress against the contract at a point in time rather than plotting a trend.\n**Why not B:** Claims administration handles disputed claims.\n**Why not C:** Inspection examines the physical work."
+    },
+    {
+      "topic": "Control procurements tools and techniques",
+      "question": "A trainer asks the class to pick the one item that is a tool or technique of control procurements, not one of its outputs. Which should they pick?",
+      "options": {
+        "A": "Inspection",
+        "B": "Work performance information",
+        "C": "Change requests",
+        "D": "Closed procurements"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The tools and techniques of control procurements are expert judgment, claims administration, data analysis, inspection and audits. (Control Procurements: Tools & Techniques)\n**Why not B:** Work performance information is an output.\n**Why not C:** Change requests are an output.\n**Why not D:** Closed procurements is an output."
+    },
+    {
+      "topic": "Outputs and closing procurements",
+      "question": "The raw delivery and cost figures for a contract are analyzed into a report showing the seller is two weeks behind and 8% over budget. Which control procurements output is this report?",
+      "options": {
+        "A": "Work performance data",
+        "B": "Procurement documentation updates",
+        "C": "Work performance information",
+        "D": "Organizational process assets updates"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Work performance data goes into control procurements, and the analyzed result, showing how the seller is actually performing, comes out as work performance information. (Control Procurements: Inputs and Outputs)\n**Why not A:** Work performance data is the raw input, before analysis.\n**Why not B:** Procurement documentation updates revise procurement records; they aren't the performance analysis itself.\n**Why not D:** Organizational process assets updates change the organization's records for the future."
+    },
+    {
+      "topic": "Outputs and closing procurements",
+      "question": "The seller has delivered everything, the buyer has accepted the work and the final payment has been made. Which output of control procurements records that the contract is formally complete?",
+      "options": {
+        "A": "Change requests",
+        "B": "Closed procurements",
+        "C": "Work performance information",
+        "D": "Agreements"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Closed procurements is an output of control procurements, the result of the closing-contracts activity. (Control Procurements: Outputs)\n**Why not A:** Change requests propose changes; they don't close the contract.\n**Why not C:** Work performance information reports how the seller is performing.\n**Why not D:** Agreements are an input to control procurements, produced earlier by conduct procurements."
+    },
+    {
+      "topic": "Outputs and closing procurements",
+      "question": "While monitoring a contract, the buyer realizes the seller will need four more weeks and proposes changing the contract's delivery date. The proposal goes to change control for a decision. In control procurements, what is this proposal?",
+      "options": {
+        "A": "An approved change request, an input",
+        "B": "A closed procurement, an output",
+        "C": "Work performance data, an input",
+        "D": "A change request, an output"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Change requests are an output of control procurements: monitoring finds a need for change, which is proposed for approval. Once approved, the change comes back in as an approved change request, an input. (Control Procurements: Outputs)\n**Why not A:** The change hasn't been approved yet.\n**Why not B:** The contract is still open.\n**Why not C:** Work performance data is raw performance measurements, not a proposed change."
+    },
+    {
+      "topic": "Outputs and closing procurements",
+      "question": "An approved delay to a key seller's work pushes back the project's planned finish date, so the schedule baseline must be revised. Which control procurements output captures this revision?",
+      "options": {
+        "A": "Project management plan updates",
+        "B": "Project documents updates",
+        "C": "Procurement documentation updates",
+        "D": "Organizational process assets updates"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Project management plan updates from control procurements can cover the risk management plan, the procurement management plan, the schedule baseline and the cost baseline. (Control Procurements: Outputs)\n**Why not B:** Project documents updates cover registers such as the lessons learned register, risk register and stakeholder register.\n**Why not C:** Procurement documentation updates revise procurement records, not the schedule baseline.\n**Why not D:** Organizational process assets updates change organization-wide records, not this project's baseline."
+    },
+    {
+      "topic": "Outputs and closing procurements",
+      "question": "As a contract closes, the team records what went well and what went badly in working with the seller, so future projects can benefit. Which control procurements output does this fall under?",
+      "options": {
+        "A": "Project management plan updates, in the cost baseline",
+        "B": "Work performance information",
+        "C": "Project documents updates, in the lessons learned register",
+        "D": "Change requests"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Project documents updates from control procurements include the lessons learned register, along with resource requirements, the requirements traceability matrix, the risk register and the stakeholder register. (Control Procurements: Outputs)\n**Why not A:** The cost baseline is part of the project management plan and records budget, not lessons.\n**Why not B:** Work performance information reports the seller's current performance.\n**Why not D:** Change requests propose changes to the work."
+    },
+    {
+      "topic": "Outputs and closing procurements",
+      "question": "Before formally closing a contract, a buyer wants to confirm that the delivered work meets the contract and to review the procurement records for any open items. Which pair of control procurements tools and techniques fits these two goals?",
+      "options": {
+        "A": "Advertising and bidder conferences",
+        "B": "Inspection and audits",
+        "C": "Source selection analysis and meetings",
+        "D": "Data gathering and make-or-buy analysis"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Inspection examines the delivered work, and audits review the procurement records and process. Both are control procurements tools and techniques, the process that ends with closed procurements. (Control Procurements: Tools & Techniques and Outputs)\n**Why not A:** Advertising and bidder conferences are conduct procurements techniques used before award.\n**Why not C:** Source selection analysis and meetings are plan procurement management techniques.\n**Why not D:** Data gathering and make-or-buy decisions belong to plan procurement management."
+    }
+  ]
+}

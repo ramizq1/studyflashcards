@@ -1,0 +1,349 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "06",
+    "title": "Discuss ethical consideration in project procurement"
+  },
+  "deckTitle": "LO06-media: Discuss ethical consideration in project procurement",
+  "collection": "LO media decks: charts, pictures and quiz topics",
+  "collectionOrder": 1,
+  "source": "MGMT 608 - LO6.pptx.txt and LO6 media folder",
+  "questions": [
+    {
+      "topic": "PMI's four ethical values",
+      "question": "A newly certified project manager is told that PMI's Code of Ethics and Professional Conduct rests on a small set of foundational values. Which list names them?",
+      "options": {
+        "A": "Loyalty, obedience, performance and accounting",
+        "B": "Integrity, transparency, accountability and quality",
+        "C": "Responsibility, respect, fairness and honesty",
+        "D": "Pressure, opportunity, rationalization and control"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** PMI's Code of Ethics and Professional Conduct affirms four values as its foundation: responsibility, respect, fairness and honesty. (Ethics: PMI Code of Ethics and Professional Conduct)\n**Why not A:** These are duties under the Law of Agency, which the material lists as a prevention topic.\n**Why not B:** These sound like ethical values, but they are not the four PMI names.\n**Why not D:** Pressure, opportunity and rationalization are the sides of Cressey's fraud triangle."
+    },
+    {
+      "topic": "PMI's four ethical values",
+      "question": "A buyer turns down a cheaper supplier that is known to dump waste into a local river, explaining that the environment is one of the resources entrusted to the project and deserves a high regard. Which PMI value is the buyer acting on?",
+      "options": {
+        "A": "Respect",
+        "B": "Fairness",
+        "C": "Honesty",
+        "D": "Responsibility"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In PMI's code, respect is the duty to show a high regard for ourselves, others and the resources entrusted to us, which can include people, money, reputation, the safety of others, and natural or environmental resources. (Ethics: PMI Code of Ethics values)\n**Why not B:** Fairness is about deciding impartially, free from self-interest, prejudice and favouritism.\n**Why not C:** Honesty is about understanding the truth and acting truthfully.\n**Why not D:** Responsibility is about owning one's decisions, actions and their consequences."
+    },
+    {
+      "topic": "PMI's four ethical values",
+      "question": "An evaluator scores every proposal against the same published criteria and refuses to give extra points to a bidder run by a former colleague. Which PMI value does this behaviour show most directly?",
+      "options": {
+        "A": "Respect",
+        "B": "Honesty",
+        "C": "Responsibility",
+        "D": "Fairness"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In PMI's code, fairness is the duty to make decisions and act impartially and objectively, with conduct free from competing self-interest, prejudice and favouritism. Refusing to favour a former colleague is exactly that. (Ethics: PMI Code of Ethics values)\n**Why not A:** Respect is about high regard for people and entrusted resources.\n**Why not B:** Honesty is about truthfulness in communication and conduct.\n**Why not C:** Responsibility is about owning decisions and their consequences."
+    },
+    {
+      "topic": "PMI's four ethical values",
+      "question": "A contract manager tells the sponsor plainly that the seller is three weeks behind schedule, even though the news makes the manager's own oversight look weak. Which PMI value is the manager living up to?",
+      "options": {
+        "A": "Fairness",
+        "B": "Honesty",
+        "C": "Respect",
+        "D": "Responsibility"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In PMI's code, honesty is the duty to understand the truth and to act truthfully, both in what we communicate and in how we conduct ourselves. Reporting the real status, even when it's uncomfortable, is honest communication. (Ethics: PMI Code of Ethics values)\n**Why not A:** Fairness concerns impartial decisions, not truthful reporting.\n**Why not C:** Respect concerns regard for people and entrusted resources.\n**Why not D:** Owning the oversight gap would touch on responsibility, but the act described is telling the truth about status."
+    },
+    {
+      "topic": "PMI's four ethical values",
+      "question": "At every review, a project manager invites the supplier's engineers and the internal team to raise differing views, and makes clear those views are valued. According to PMI's code, which value is this, and what does such an environment build?",
+      "options": {
+        "A": "Fairness, which builds competitive pressure among sellers",
+        "B": "Honesty, which builds an accurate record of every decision",
+        "C": "Respect, which builds trust, confidence and performance excellence",
+        "D": "Responsibility, which builds clear ownership of every risk"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** PMI's code says an environment of respect engenders trust, confidence and performance excellence by fostering cooperation, an environment where diverse perspectives and views are encouraged and valued. (Ethics: PMI Code of Ethics values)\n**Why not A:** Fairness is about impartial decisions, and the code doesn't link it to competitive pressure.\n**Why not B:** Honesty is about truthfulness, not about encouraging diverse views.\n**Why not D:** Responsibility is about owning decisions and consequences, not fostering cooperation."
+    },
+    {
+      "topic": "PMI's four ethical values",
+      "question": "A buyer notices a safety defect in a delivered shipment but says nothing, reasoning that the buyer didn't cause the defect, so it isn't the buyer's problem. Under PMI's code, why does the buyer still own the outcome?",
+      "options": {
+        "A": "Fairness requires the buyer to treat the seller impartially",
+        "B": "Honesty only applies once someone asks the buyer directly",
+        "C": "Respect covers only how the buyer treats colleagues",
+        "D": "Responsibility includes owning the actions we fail to take"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** PMI's code defines responsibility as the duty to take ownership of the decisions we make or fail to make, the actions we take or fail to take, and the consequences that result. Staying silent is an action not taken, and the buyer owns its consequences. (Ethics: PMI Code of Ethics values)\n**Why not A:** Impartiality toward the seller doesn't address the buyer's failure to act.\n**Why not B:** Honesty covers communication and conduct generally, not only answers to direct questions.\n**Why not C:** Respect extends to others and entrusted resources, including the safety of others, not just colleagues."
+    },
+    {
+      "topic": "Ethics and codes of conduct",
+      "question": "A newly hired contract manager wants to know which professional code of ethics is written specifically for people in that role. According to the material, which one is it?",
+      "options": {
+        "A": "The National Contract Management Association Code of Ethics",
+        "B": "PMI's Code of Ethics and Professional Conduct",
+        "C": "The Institute for Supply Management's ethical principles",
+        "D": "The employer's gift acceptance and conflict of interest policies"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Under professional ethics, the material matches each role to a code: PMI's code for project managers, the Institute for Supply Management's principles and standards for buyers, and the National Contract Management Association's code for contract managers. (Ethics: Professional Ethics)\n**Why not B:** PMI's code is the one for project managers.\n**Why not C:** ISM's principles are the ones for buyers.\n**Why not D:** Employer policies are business ethics, not a professional code."
+    },
+    {
+      "topic": "Ethics and codes of conduct",
+      "question": "A buyer faces a choice that no law, professional code or company policy covers, and decides based on the buyer's own values, principles and opinions. Which type of ethics is guiding this decision?",
+      "options": {
+        "A": "Professional ethics",
+        "B": "Business ethics",
+        "C": "Personal ethics",
+        "D": "Normative ethics"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material describes personal ethics as an individual's own values, principles and opinions, as distinct from professional codes and business policies. (Ethics: Personal Ethics)\n**Why not A:** Professional ethics come from a profession's code, such as PMI's, ISM's or NCMA's.\n**Why not B:** Business ethics come from the employer's code of conduct and policies.\n**Why not D:** Normative ethics is the study of what makes actions right or wrong in general."
+    },
+    {
+      "topic": "Ethics and codes of conduct",
+      "question": "A trainer needs a definition of ethics that frames it as a branch of philosophy. Which description from the material fits?",
+      "options": {
+        "A": "Making the best possible decisions about people, resources and the environment",
+        "B": "A model code that members of a profession or an organization's staff operate by",
+        "C": "Applying ethical theory to real-life situations such as a specific bid",
+        "D": "Examining moral ideals and goals, motives of choice, and patterns of good and bad conduct"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material's general definition calls ethics the branch of philosophy that examines moral ideals and goals, motives of choice, and patterns of good and bad conduct. (Ethics: definitions)\n**Why not A:** That is PMI's definition, which focuses on decision-making rather than philosophy.\n**Why not B:** That describes professional and business ethics.\n**Why not C:** That is applied ethics, one form of ethics, not the overall definition."
+    },
+    {
+      "topic": "Ethics and codes of conduct",
+      "question": "A PMI-certified project manager works for a firm with a strict gift acceptance policy. Which pairing correctly matches each source of guidance to its type of ethics?",
+      "options": {
+        "A": "PMI's code is business ethics; the firm's gift policy is professional ethics",
+        "B": "PMI's code is professional ethics; the firm's gift policy is business ethics",
+        "C": "Both PMI's code and the firm's gift policy are personal ethics",
+        "D": "PMI's code is applied ethics; the firm's gift policy is normative ethics"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material places PMI's Code of Ethics and Professional Conduct under professional ethics, and an employer's code of conduct, conflict of interest and gift acceptance policies under business ethics. (Ethics: Professional and Business Ethics)\n**Why not A:** This swaps the two categories.\n**Why not C:** Personal ethics are an individual's own values, principles and opinions, not written codes or policies.\n**Why not D:** Normative and applied ethics are branches of ethical study, not types of codes."
+    },
+    {
+      "topic": "The Kirat Housing case",
+      "question": "In the Kirat Housing Development Society case, Phil Lee found it slightly odd to be sent to a 'pre-bid' negotiation for the building-management software tender. What about the tender made the meeting seem unusual?",
+      "options": {
+        "A": "The tender already spelled out the required modules and even penalty clauses for delays",
+        "B": "The tender had already been awarded to Orion's main competitor weeks earlier",
+        "C": "The tender was for construction work, which Orion had never bid on before",
+        "D": "The tender required bids to be submitted in person by the company's president"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The case says Lee wasn't sure what there was to discuss, because the tender already gave full details of exactly which modules were required and even included specific penalty clauses for delays. With so little left to negotiate, the meeting's purpose was unclear, and it turned out to be about a bribe. (Kirat Housing Development Society Case)\n**Why not B:** The tender was still open; Orion was planning to bid.\n**Why not C:** Orion was bidding to supply building-management software, which fits an IT consulting firm.\n**Why not D:** The case says nothing like this; Lee, a junior consultant, attended the meeting."
+    },
+    {
+      "topic": "The Kirat Housing case",
+      "question": "In the Kirat Housing case, suppose Orion agreed to hire the procurement head's assistant as a $200,000 'independent consultant' in exchange for winning the tender. How would the material classify that arrangement?",
+      "options": {
+        "A": "Fraud by a buyer acting alone, like a ghost seller",
+        "B": "An apparent conflict of interest with no actual harm",
+        "C": "Collusion between buyer-side staff and a seller to steer the award",
+        "D": "A legitimate consulting contract under applied ethics"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material separates fraud a buyer commits alone from fraud where the buyer side and a seller collude, such as rigging requirements or evaluation criteria to favour a seller. Paying someone on the buyer's side so the seller wins the award is buyer-seller collusion. (Fraud: Opportunity; Kirat Housing Development Society Case)\n**Why not A:** A ghost seller is a buyer acting alone; here both sides would take part.\n**Why not B:** Using a position to sell the award for personal gain is an actual conflict, not just an appearance.\n**Why not D:** The 'consulting' fee is a payment for the award, not legitimate work."
+    },
+    {
+      "topic": "The Kirat Housing case",
+      "question": "In the Kirat Housing case, the assistant works closely with the head of procurement and can influence which bidder wins the tender. Which side of Cressey's fraud triangle does this position mainly supply?",
+      "options": {
+        "A": "Pressure",
+        "B": "Opportunity",
+        "C": "Rationalization",
+        "D": "Disclosure"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In Cressey's fraud triangle, opportunity is what makes it possible to commit fraud and gives the method to do it. Influence over who wins a tender is exactly such an opening. (Fraud: Cressey's Fraud Triangle)\n**Why not A:** Pressure is a financial need or want, which the case doesn't describe for the assistant.\n**Why not C:** Rationalization is convincing oneself that the wrongdoing is justified.\n**Why not D:** Disclosure isn't part of the fraud triangle."
+    },
+    {
+      "topic": "The Kirat Housing case",
+      "question": "Back at his hotel, Phil Lee considers whether he must tell his employer, Orion, about the bribe demand made at the meeting. Under the Law of Agency duties in the material, which duty most directly calls for him to tell Orion?",
+      "options": {
+        "A": "Duty of obedience",
+        "B": "Duty of performance",
+        "C": "Duty of accounting",
+        "D": "Duty of notification"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material lists five Law of Agency duties: loyalty, obedience, performance, accounting and notification. As Orion's agent, Lee passing on what happened at the meeting falls most directly under the duty of notification. (Prevention and Detection of Unethical Conduct: Law of Agency)\n**Why not A:** Obedience is about following the employer's instructions.\n**Why not B:** Performance is about carrying out the assigned work.\n**Why not C:** Accounting is about money and property, not passing on information."
+    },
+    {
+      "topic": "The Kirat Housing case",
+      "question": "After the meeting in the Kirat Housing case, which course of action by Phil Lee best fits the material's guidance on ethics and conflicts of interest?",
+      "options": {
+        "A": "Keep the diamond pendant, since he never asked for it and paid nothing",
+        "B": "Recommend paying the fee, since that is apparently how bids are won there",
+        "C": "Refuse the demand, decline the gift and report both to his employer",
+        "D": "Quietly drop the bid without telling anyone about what happened"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Accepting gifts is one of the material's conflict-of-interest examples, and acting honestly means telling the truth in communications and conduct. Refusing the bribe, declining the gift and reporting both to Orion avoids the conflict and keeps his employer informed. (Conflicts of Interest; Ethics: PMI values; Kirat Housing Development Society Case)\n**Why not A:** Keeping a valuable gift from the other side of a procurement creates a conflict of interest, whether or not it was requested.\n**Why not B:** 'There is no other way' is one of the rationalizations the material lists for fraud.\n**Why not D:** Hiding what happened fails the duty to notify his employer and leaves the problem unaddressed."
+    },
+    {
+      "topic": "Conflicts of interest and fraud",
+      "question": "A buyer has no family or personal ties to any bidder but does paid weekend consulting for one of the firms bidding on the buyer's procurement. Can this be a conflict of interest under the material's definition?",
+      "options": {
+        "A": "No, because only family or personal relationships can create a conflict",
+        "B": "No, because a conflict exists only after the buyer favours that firm",
+        "C": "Yes, because a competing professional interest can create a conflict",
+        "D": "Yes, but only if the consulting work is related to this procurement"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material defines a conflict of interest as an employee having, or appearing to have, a competing interest, either professional or personal, that could make it hard to properly carry out their duties. Paid work for a bidder is a competing professional interest. (Conflicts of Interest)\n**Why not A:** The definition explicitly includes professional interests, not just personal ones.\n**Why not B:** A conflict exists if the interest could make it hard to do the job properly, even before any favouritism.\n**Why not D:** The definition doesn't depend on the topic of the outside work; the competing interest itself is the conflict."
+    },
+    {
+      "topic": "Conflicts of interest and fraud",
+      "question": "An evaluator has held shares in a supplier for years, long before a competitive procurement opened. Now that supplier is one of the bidders. According to the material, how should this be viewed?",
+      "options": {
+        "A": "No conflict, because the shares were bought before the procurement began",
+        "B": "No conflict, as long as the evaluator promises to score objectively",
+        "C": "Fraud, because owning shares in a supplier is illegal for any buyer",
+        "D": "A conflict of interest, because the evaluator owns stock in a bidding seller"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** One of the material's conflict-of-interest examples is an employee owning stock in a seller that is taking part in a competitive procurement. When the shares were bought doesn't change the competing interest. (Conflicts of Interest: Examples)\n**Why not A:** The example covers owning stock in a participating seller, however long it has been held.\n**Why not B:** A promise to be objective doesn't remove the competing interest; a conflict can be actual or apparent.\n**Why not C:** It is a conflict of interest to declare and manage; the material doesn't call share ownership fraud in itself."
+    },
+    {
+      "topic": "Conflicts of interest and fraud",
+      "question": "A buyer isn't in debt and has no money emergency, but badly wants a luxury car that the buyer's salary can't support. Which side of Cressey's fraud triangle does this desire represent?",
+      "options": {
+        "A": "Pressure",
+        "B": "Opportunity",
+        "C": "Rationalization",
+        "D": "Collusion"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material defines pressure in the fraud triangle as any financial need or want. A strong want, not only a need, is enough to create pressure. (Fraud: Pressure)\n**Why not B:** Opportunity is the means and method to commit fraud.\n**Why not C:** Rationalization is convincing oneself the wrongdoing is justified.\n**Why not D:** Collusion is a way of committing fraud with a seller, not a side of the triangle."
+    },
+    {
+      "topic": "Conflicts of interest and fraud",
+      "question": "A contract manager arranges for some ordered equipment to be shipped to a storage unit that the manager personally controls, rather than to the project site. How does the material classify this fraud?",
+      "options": {
+        "A": "Bid rigging through collusion with the seller",
+        "B": "Fraud the buyer or contract manager commits alone",
+        "C": "An apparent conflict of interest with no fraud",
+        "D": "Inflating invoices through collusion with the seller"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Among the examples of fraud a buyer or contract manager commits alone, the material lists diverting orders to an address the buyer or contract manager controls. No seller involvement is needed. (Fraud: Opportunity)\n**Why not A:** Bid rigging means drafting requirements to favour a seller, which involves the seller.\n**Why not C:** Diverting company property for personal use is actual fraud, not just an appearance of conflict.\n**Why not D:** Inflated invoices are a collusion example; here no seller is involved."
+    },
+    {
+      "topic": "Conflicts of interest and fraud",
+      "question": "A buyer drafts the evaluation scoring for a tender so that it gives heavy weight to a feature only one particular seller can offer, after that seller quietly asked for it. How does the material classify this?",
+      "options": {
+        "A": "A ghost seller scheme committed by the buyer alone",
+        "B": "Diverting shipments to an address the buyer controls",
+        "C": "Collusive fraud: evaluation criteria drafted to favour a seller",
+        "D": "Normal market research to find the best available seller"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material's examples of buyer-seller collusion include drafting evaluation criteria that favour a seller, alongside bid rigging, unjustified sole sourcing and inflated invoices. (Fraud: Opportunity)\n**Why not A:** A ghost seller is a fake company controlled by the buyer, with no real seller involved.\n**Why not B:** Diverting shipments is a buyer-alone fraud about deliveries, not criteria.\n**Why not D:** Tilting the criteria at a seller's request is collusion, not research."
+    },
+    {
+      "topic": "Conflicts of interest and fraud",
+      "question": "A buyer taking kickbacks from a supplier tells themself it's justified because the money is paying for a parent's medical treatment. Which side of Cressey's fraud triangle does this line of thinking show?",
+      "options": {
+        "A": "Pressure",
+        "B": "Rationalization",
+        "C": "Opportunity",
+        "D": "Detection"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Rationalization is convincing oneself that the wrongdoing is justified, and one of the material's examples is that money or property is needed to help a family member. The need itself is pressure, but the self-justification is rationalization. (Fraud: Rationalization)\n**Why not A:** Pressure is the financial need or want; the question asks about the justification the buyer tells themself.\n**Why not C:** Opportunity is the means to commit the fraud.\n**Why not D:** Detection is what the organization does, not a side of the triangle."
+    },
+    {
+      "topic": "Warning signs, prevention and detection",
+      "question": "A buyer insists on handling every piece of paperwork personally, won't delegate or collaborate with colleagues, and often skips required approval steps. How does the material view this pattern?",
+      "options": {
+        "A": "Signs of a highly committed buyer that deserve recognition",
+        "B": "Warning signs in procurement practices, not in behaviour",
+        "C": "A fraud triangle pressure factor caused by heavy workload",
+        "D": "Behavioural warning signs of possible unethical conduct"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material's behavioural warning signs include being unwilling to share duties, delegate or collaborate, and deviating from correct procedures. (Warning Signs of Unethical Conduct: Behaviour)\n**Why not A:** The material treats these traits as red flags, not dedication.\n**Why not B:** Practice warning signs are things like frequent sole sourcing and poor record keeping; these are personal behaviours.\n**Why not C:** Pressure is a financial need or want, not workload habits."
+    },
+    {
+      "topic": "Warning signs, prevention and detection",
+      "question": "An auditor wants a warning sign that shows up in procurement practices rather than in one person's behaviour. Which one fits?",
+      "options": {
+        "A": "A buyer who regularly arrives early and leaves late",
+        "B": "A buyer who lives well beyond their apparent means",
+        "C": "A seller who keeps overcharging on its invoices",
+        "D": "A buyer who refuses to let others deal with certain sellers"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material splits warning signs into behaviour and practices. Practice signs include frequent sole sourcing, repeated purchases from the same seller, overcharging by a seller, poor record keeping or missing files, and sellers paying an employee's travel. (Warning Signs of Unethical Conduct: Practices)\n**Why not A:** Starting early or leaving late is a behavioural sign.\n**Why not B:** Living beyond one's means is a behavioural sign.\n**Why not D:** Keeping other staff away from certain sellers is a behavioural sign."
+    },
+    {
+      "topic": "Warning signs, prevention and detection",
+      "question": "HR adds a set of real and perceived conflict-of-interest cases to the onboarding course for new buyers, alongside the code of conduct and the Law of Agency. Under which prevention category does the material place this?",
+      "options": {
+        "A": "Training",
+        "B": "Awareness",
+        "C": "Conduct",
+        "D": "Segregation of duties"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material's training measures are the code of conduct, documented examples of actual or perceived conflicts of interest, and the Law of Agency and its duties. (Prevention and Detection of Unethical Conduct: Training)\n**Why not B:** Awareness covers declarations of no conflict and knowing the warning signs.\n**Why not C:** Conduct covers how employees should act, such as not using work information for personal gain.\n**Why not D:** Segregation of duties is a control that reduces opportunity for fraud, not a training measure."
+    },
+    {
+      "topic": "Warning signs, prevention and detection",
+      "question": "While managing a seller's contract, a buyer is invited to join that seller's paid advisory board. What does the material's conduct guidance suggest?",
+      "options": {
+        "A": "Accept, as long as the buyer declares it after the contract ends",
+        "B": "Decline, because it is a relationship that could harm the buyer's objectivity",
+        "C": "Accept, since advisory boards build stronger supplier relationships",
+        "D": "Decline only if the seller's contract is above a set dollar value"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material's conduct guidance is to avoid activities and relationships that adversely affect objectivity or the carrying out of employment duties. A paid role with a seller you are managing does exactly that. (Prevention and Detection of Unethical Conduct: Conduct)\n**Why not A:** Declaring it later doesn't remove the conflict during the contract.\n**Why not C:** Closer ties of this kind are what the guidance warns against.\n**Why not D:** The guidance is about objectivity, not a dollar threshold."
+    },
+    {
+      "topic": "Warning signs, prevention and detection",
+      "question": "Before hiring a senior buyer, a company checks the candidate's employment history and looks for past misconduct. Which of the material's fraud-prevention measures is this?",
+      "options": {
+        "A": "Verification of a seller's ownership",
+        "B": "Segregation of duties",
+        "C": "Mandatory vacation time",
+        "D": "Employee background screening"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Employee background screening is one of the measures the material lists for addressing the fraud triangle, mainly by reducing opportunity, the factor the organization controls most. (Prevention and Detection: Address Fraud Triangle Factors)\n**Why not A:** Ownership verification checks sellers, not job candidates.\n**Why not B:** Segregation of duties splits tasks among staff once they are hired.\n**Why not C:** Mandatory vacation applies to current employees, not hiring."
+    },
+    {
+      "topic": "Warning signs, prevention and detection",
+      "question": "Acting as the company's agent, a buyer quietly steers a contract to a seller that will give the buyer a personal benefit, at the company's expense. Which Law of Agency duty is the buyer most clearly breaching?",
+      "options": {
+        "A": "Duty of loyalty",
+        "B": "Duty of notification",
+        "C": "Duty of obedience",
+        "D": "Duty of performance"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The Law of Agency duties in the material are loyalty, obedience, performance, accounting and notification. Putting one's own benefit ahead of the employer one acts for goes most directly against the duty of loyalty. (Prevention and Detection of Unethical Conduct: Law of Agency)\n**Why not B:** Notification is about keeping the employer informed; the core wrong here is self-dealing.\n**Why not C:** Obedience is about following the employer's instructions.\n**Why not D:** Performance is about doing the assigned work."
+    },
+    {
+      "topic": "Warning signs, prevention and detection",
+      "question": "Each year, procurement managers attend a briefing on the warning signs of unethical conduct so they can spot them in their teams, and every buyer re-signs a no-conflict declaration. Under which prevention category does the material place these measures?",
+      "options": {
+        "A": "Training",
+        "B": "Conduct",
+        "C": "Awareness",
+        "D": "Audits"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material's awareness measures are a declaration and attestation of no conflict of interest, and awareness of the warning signs. (Prevention and Detection of Unethical Conduct: Awareness)\n**Why not A:** Training covers the code of conduct, documented conflict examples and the Law of Agency.\n**Why not B:** Conduct covers how employees should act, such as avoiding relationships that harm objectivity.\n**Why not D:** Audits are a control that reduces fraud opportunity, not an awareness measure."
+    }
+  ]
+}

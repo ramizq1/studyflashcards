@@ -1,0 +1,385 @@
+{
+  "course": "MGMT 608",
+  "learningObjective": {
+    "number": "05",
+    "title": "Identify, assess and plan to mitigate procurement risks"
+  },
+  "deckTitle": "LO05-media: Identify, assess and plan to mitigate procurement risks",
+  "collection": "LO media decks: charts, pictures and quiz topics",
+  "collectionOrder": 1,
+  "source": "MGMT 608 - LO5.pptx.txt and LO5 media folder",
+  "questions": [
+    {
+      "topic": "Risks, issues and risk types",
+      "question": "A project manager adds a new entry to the risk log: a key supplier might be bought by a competitor before delivery. To describe this risk the way the material defines one, which two dimensions must the entry capture?",
+      "options": {
+        "A": "Its cost to the project and its effect on the schedule",
+        "B": "Its probability of happening and its impact if it does",
+        "C": "The person who owns it and the date it is due",
+        "D": "The event that triggers it and how it was resolved"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material defines a project risk as an uncertain future event or condition that would affect project objectives if it occurs, and describes it by two dimensions: probability and impact. (What is Project Risk?)\n**Why not A:** Cost and schedule are objectives a risk can affect, not the two dimensions that describe the risk itself.\n**Why not C:** Owner and due date are what the actions log records.\n**Why not D:** A resolution belongs to an issue, which has already happened, not to a risk."
+    },
+    {
+      "topic": "Risks, issues and risk types",
+      "question": "Months into a contract, a completely unforeseen event hits the supplier: something no one on either team had ever imagined, so it appeared in no risk register and had no plan. Of the four risk types named in the material, which one fits this event best?",
+      "options": {
+        "A": "Known-knowns",
+        "B": "Known-unknowns",
+        "C": "Unknown-knowns",
+        "D": "Unknown-unknowns"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material names four types of risk. An event that nobody was aware of and nobody could anticipate is unknown in both senses: the team didn't know the risk existed and didn't know its outcome, which makes it an unknown-unknown, the 'black swan' of the four. (Risk Types)\n**Why not A:** As the name says, known-knowns are known on both counts, so they wouldn't come as a complete surprise.\n**Why not B:** A known-unknown is at least known to exist; this event was never identified by anyone.\n**Why not C:** An unknown-known still involves something that is known; here nothing about the event was known to anyone."
+    },
+    {
+      "topic": "Risks, issues and risk types",
+      "question": "A supplier has already shipped the wrong grade of steel, and the error is holding up construction today. A junior analyst wants to add it to the risk log and give it a probability rating. What is wrong with that approach?",
+      "options": {
+        "A": "It is already happening, so it is an issue: a current event with a negative effect",
+        "B": "Only positive events can go in the risk log, so it should be left out altogether",
+        "C": "It should be recorded in the decision log, since someone chose the steel grade",
+        "D": "It needs an impact rating only, because issues have no place in the RAID log"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A risk is an uncertain future event, while an issue is a current event that is already having a negative effect on project objectives. The wrong steel is already delaying work, so it is an issue, and the RAID log's issues log is where it belongs. (What is a Project Issue?; RAID Log)\n**Why not B:** Risks can be positive or negative; the problem is that this is no longer uncertain.\n**Why not C:** The decision log records decisions made, not problems that have occurred.\n**Why not D:** The RAID log has an issues log specifically for known problems that have occurred."
+    },
+    {
+      "topic": "Risks, issues and risk types",
+      "question": "A PMO director setting up a RAID log for a large outsourcing program asks how detailed it should be. What guidance does the material give?",
+      "options": {
+        "A": "Keep it as brief as possible and track only the risks, not actions or decisions",
+        "B": "Use the same fixed level of detail on every project, whatever its size",
+        "C": "Set the detail to suit the program so the log works for audits, governance and oversight",
+        "D": "Leave it mostly blank during execution and fill in the detail at program closing"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says the right level of detail must be decided for each project or program, so that the RAID log is an effective tool for audits, governance and oversight, and it is a dynamic document maintained throughout. (RAID Log)\n**Why not A:** A RAID log tracks risks, actions, issues and decisions, not risks alone.\n**Why not B:** The level of detail depends on the project or program, not one fixed standard.\n**Why not D:** The log is constantly maintained throughout the work, not filled in at the end."
+    },
+    {
+      "topic": "Eliciting risks and the risk breakdown structure",
+      "question": "A risk team builds a hierarchy: 'Project risks' at the top, then schedule, cost and scope categories, with specific sources of risk listed under each. Which risk-eliciting technique are they using?",
+      "options": {
+        "A": "A cause and effect diagram",
+        "B": "A risk checklist",
+        "C": "A risk breakdown structure",
+        "D": "Assumption and constraint analysis"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A risk breakdown structure is a hierarchical framework of potential sources of risk: project risks break down into categories such as schedule, cost and scope, and each category lists specific sources. (Risk Eliciting Techniques)\n**Why not A:** A cause and effect diagram traces the causes leading to a particular effect rather than organizing all risk sources into a hierarchy.\n**Why not B:** A checklist is a list of items to check against, not a category hierarchy.\n**Why not D:** Assumption and constraint analysis tests the project's assumptions and constraints for risk."
+    },
+    {
+      "topic": "Eliciting risks and the risk breakdown structure",
+      "question": "Two risks come up for a fit-out contract: a union agreement renewal may push up labour rates, and the sponsor's funding may be cut mid-project. In a risk breakdown structure with schedule, cost and scope branches, where do both belong?",
+      "options": {
+        "A": "Under cost risks",
+        "B": "Under schedule risks",
+        "C": "Under scope risks",
+        "D": "One under schedule risks and one under scope risks"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In the material's hierarchical framework of risk sources, the cost branch includes lack of funding, inflation uncertainties, labour rate changes and inexperienced estimators. Both risks here are about money. (Risk Eliciting Techniques: risk breakdown structure)\n**Why not B:** Schedule risks include poor estimating methods, requirement uncertainties, insufficient resources and subcontractor performance.\n**Why not C:** Scope risks include new testing methods, new technology, scope creep and regulation changes.\n**Why not D:** Both are funding and pay-rate risks, so they sit in the same cost branch."
+    },
+    {
+      "topic": "Eliciting risks and the risk breakdown structure",
+      "question": "On a software procurement, stakeholders keep adding features, and a new privacy regulation may change what the product has to include. In a risk breakdown structure with schedule, cost and scope branches, which branch do these risks belong to?",
+      "options": {
+        "A": "Cost risks",
+        "B": "Schedule risks",
+        "C": "Contract risks",
+        "D": "Scope risks"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material's framework lists scope creep and regulation changes, along with new technology and new testing methods, as scope risks, because they change what the project has to deliver. (Risk Eliciting Techniques: risk breakdown structure)\n**Why not A:** Cost risks are sources such as lack of funding, inflation and labour rate changes.\n**Why not B:** Schedule risks are sources such as poor estimating methods and insufficient resources.\n**Why not C:** The framework's three branches are schedule, cost and scope; there is no separate contract branch."
+    },
+    {
+      "topic": "Eliciting risks and the risk breakdown structure",
+      "question": "Starting a new supplier contract, a team pulls out a list of risks compiled from similar past procurements and goes through it item by item, marking which ones apply this time. Which risk-eliciting technique is this?",
+      "options": {
+        "A": "Brainstorming",
+        "B": "Checklists",
+        "C": "Document review",
+        "D": "Cause and effect diagram"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Working through a ready-made list of risks and checking each item against the current project is the checklist technique, one of the risk-eliciting techniques in the material. (Risk Eliciting Techniques)\n**Why not A:** Brainstorming generates new ideas freely in a group rather than working from an existing list.\n**Why not C:** Document review examines the project's own documents, such as the contract or SOW.\n**Why not D:** A cause and effect diagram maps the causes behind a particular effect."
+    },
+    {
+      "topic": "Eliciting risks and the risk breakdown structure",
+      "question": "A team starts from one feared outcome, late delivery of the main equipment, and maps out all the possible causes that could lead to it, branching back from the outcome. Which risk-eliciting technique is this?",
+      "options": {
+        "A": "Cause and effect diagram",
+        "B": "Risk breakdown structure",
+        "C": "Brainstorming",
+        "D": "Probability and impact matrix"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Working backward from an effect to the causes that could produce it is what a cause and effect diagram does, and the material lists it among the risk-eliciting techniques. (Risk Eliciting Techniques)\n**Why not B:** A risk breakdown structure organizes all sources of project risk into categories, not the causes of one outcome.\n**Why not C:** Brainstorming is open idea generation without a cause-to-effect layout.\n**Why not D:** The matrix rates risks that have already been identified; it doesn't elicit them."
+    },
+    {
+      "topic": "Eliciting risks and the risk breakdown structure",
+      "question": "A risk analyst reads through the draft contract, the statement of work and the supplier's proposal, looking for gaps and inconsistencies between them that could cause trouble later. Which risk-eliciting technique is the analyst using?",
+      "options": {
+        "A": "Checklists",
+        "B": "Assumption and constraint analysis",
+        "C": "Document review",
+        "D": "Brainstorming"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Examining the project's documents, such as the contract, SOW and proposal, to spot risks is document review, one of the risk-eliciting techniques in the material. (Risk Eliciting Techniques)\n**Why not A:** A checklist works from a pre-built list of risks rather than the project's own documents.\n**Why not B:** Assumption and constraint analysis focuses on the assumptions and constraints themselves, testing which might be false or too restrictive.\n**Why not D:** Brainstorming is a group idea session, not a reading of documents."
+    },
+    {
+      "topic": "Rating risks with the matrix",
+      "question": "The risk that customs will hold up imported parts is rated 3 (Medium) for probability and 3 (Medium) for impact. Using the material's probability and impact matrix, what is its severity?",
+      "options": {
+        "A": "6, rated Medium",
+        "B": "9, rated High",
+        "C": "9, rated Low",
+        "D": "9, rated Medium"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** Severity is probability times impact, so 3 x 3 = 9. In the matrix, scores from 5 to 9 are Medium and High starts at 10, so 9 is the top of the Medium band. (Analyze Risk: Probability and Impact Matrix)\n**Why not A:** 6 comes from adding the ratings; the matrix multiplies them.\n**Why not B:** High begins at 10 in the matrix, so 9 is still Medium.\n**Why not C:** Low covers only scores of 3 and 4."
+    },
+    {
+      "topic": "Rating risks with the matrix",
+      "question": "A fire at the supplier's only factory is unlikely, rated 2 (Low) for probability, but would be devastating, rated 5 (Very High) for impact. Using the material's matrix, what is its severity?",
+      "options": {
+        "A": "7, rated Medium",
+        "B": "10, rated High",
+        "C": "10, rated Medium",
+        "D": "5, rated Low"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** 2 x 5 = 10, and in the matrix a score of 10 falls in the High band (10 to 16). A low-probability, very-high-impact risk can still rank High. (Analyze Risk: Probability and Impact Matrix)\n**Why not A:** 7 comes from adding the two ratings instead of multiplying them.\n**Why not C:** The score is right, but 10 is where the High band begins.\n**Why not D:** 5 is the impact rating alone, and even a score of 5 is Medium, not Low."
+    },
+    {
+      "topic": "Rating risks with the matrix",
+      "question": "At a risk workshop, a team member suggests labelling each procurement risk simply as 'bad', 'worse' or 'worst'. How does the material say risks should be rated instead?",
+      "options": {
+        "A": "Rate impact alone on a scale of 1 to 10, ignoring how likely the risk is",
+        "B": "Rate probability and impact each from 1 (Very Low) to 5 (Very High), then combine them",
+        "C": "Estimate probability as a percentage and rank the risks by that percentage alone",
+        "D": "Have the team vote a severity score from 1 to 25 for each risk directly"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material rates each risk on two five-point scales, probability and impact, from 1 (Very Low) to 5 (Very High), and the probability and impact matrix combines them into a severity score and rating. (Analyze Risk: Risk rating)\n**Why not A:** Impact is only half of the rating; probability is rated too.\n**Why not C:** Probability alone ignores impact, the other half of the rating.\n**Why not D:** The 1 to 25 severity scores come from multiplying the two ratings, not from a direct vote."
+    },
+    {
+      "topic": "Rating risks with the matrix",
+      "question": "Risk X has a probability of 4 and an impact of 5. Risk Y has a probability of 5 and an impact of 4. A team member argues that X is clearly worse because impact matters more. Using the material's matrix, how do the two risks compare?",
+      "options": {
+        "A": "X is rated High and Y is rated Very High",
+        "B": "X is rated Very High and Y is rated High",
+        "C": "Both score 9 and are rated Medium",
+        "D": "Both score 20 and are rated Very High"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** 4 x 5 and 5 x 4 both equal 20, and the matrix rates 20 as Very High. The matrix treats probability and impact symmetrically, so neither risk outranks the other. (Analyze Risk: Probability and Impact Matrix)\n**Why not A:** The matrix doesn't weight probability above impact; both cells read Very High (20).\n**Why not B:** It doesn't weight impact above probability either.\n**Why not C:** 9 comes from adding the ratings; the matrix multiplies them."
+    },
+    {
+      "topic": "Mitigation, contingency and risk responses",
+      "question": "For the risk that its sole supplier's factory might shut down, a team qualifies a second supplier now to make a supply gap less likely, and writes down what that will cost. What kind of plan has it produced?",
+      "options": {
+        "A": "A mitigation plan",
+        "B": "A contingency plan",
+        "C": "An issue log entry",
+        "D": "A lessons learned report"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** A mitigation plan is a detailed plan of actions taken in advance to reduce or eliminate the likelihood that a risk occurs, including the costs of carrying out those actions. (Developing Mitigation & Contingency Plans)\n**Why not B:** A contingency plan sets out what will be done if the risk actually occurs.\n**Why not C:** Nothing has happened yet, so there is no issue to log.\n**Why not D:** Lessons learned are captured once a risk or issue is closed."
+    },
+    {
+      "topic": "Mitigation, contingency and risk responses",
+      "question": "The same team also writes down exactly what it will do if the factory shuts down anyway: switch all orders to the backup supplier and air-freight the most critical parts. What is this document?",
+      "options": {
+        "A": "A mitigation plan",
+        "B": "A risk breakdown structure",
+        "C": "A contingency plan",
+        "D": "A decision log entry"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** A contingency plan is a detailed plan of the response to carry out should the risk occur. After a risk is identified, both a mitigation plan and a contingency plan should be developed. (Developing Mitigation & Contingency Plans)\n**Why not A:** A mitigation plan reduces the chance of the risk happening; this plan covers what to do once it has happened.\n**Why not B:** A risk breakdown structure is a framework for finding risk sources.\n**Why not D:** The decision log records decisions already made, not a planned response."
+    },
+    {
+      "topic": "Mitigation, contingency and risk responses",
+      "question": "Despite the mitigation plan, the supplier's factory does shut down. According to the material's risk process, what happens next?",
+      "options": {
+        "A": "The risk becomes an issue and the contingency plan is put into action",
+        "B": "The risk is closed and the team moves straight to lessons learned",
+        "C": "The mitigation plan is rewritten and carried out a second time",
+        "D": "The risk is re-rated on the matrix before anyone takes action"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** In the material's flow, after the mitigation plan is executed the question is whether the risk triggers. If it does, the risk becomes an issue and the contingency plan is implemented; the issue is then monitored, addressed and closed out. (Risk process: mitigation and contingency flow)\n**Why not B:** Closing the risk is the path for a risk that does not trigger.\n**Why not C:** Once the risk has occurred, the contingency plan takes over from the mitigation plan.\n**Why not D:** The risk was analyzed at the start of the flow; once it triggers, the response is to act on the contingency plan."
+    },
+    {
+      "topic": "Mitigation, contingency and risk responses",
+      "question": "The supply contract ends, and the feared factory shutdown never happened. What does the material's risk process call for now?",
+      "options": {
+        "A": "Carry out the contingency plan anyway, in case the risk appears late",
+        "B": "Close the risk and capture lessons learned",
+        "C": "Move the risk into the issues log for the next project",
+        "D": "Keep the risk open until the next procurement begins"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** In the material's flow, if the risk doesn't trigger, the risk is closed and the process ends with lessons learned. (Risk process: mitigation and contingency flow)\n**Why not A:** The contingency plan is implemented only when the risk triggers.\n**Why not C:** A risk becomes an issue only if it actually occurs.\n**Why not D:** The flow closes risks that didn't trigger rather than carrying them forward."
+    },
+    {
+      "topic": "Mitigation, contingency and risk responses",
+      "question": "A risk did trigger on a project, the risk was turned into an issue, and the contingency plan has just been put in place. According to the material's process, what happens before lessons learned are captured?",
+      "options": {
+        "A": "The risk is identified and analyzed again from scratch",
+        "B": "The original mitigation plan is executed",
+        "C": "The issue is closed the moment the contingency plan starts",
+        "D": "The issue is monitored and addressed, then closed out"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** In the material's flow, once the risk becomes an issue and the contingency plan is implemented, the issue is monitored and addressed, then closed out, and only then are lessons learned captured. (Risk process: mitigation and contingency flow)\n**Why not A:** Identifying and analyzing the risk was the first step of the flow, not a step after the contingency plan.\n**Why not B:** The mitigation plan was executed earlier, before the risk triggered.\n**Why not C:** Starting the contingency plan doesn't end the issue; it still has to be monitored and addressed."
+    },
+    {
+      "topic": "Mitigation, contingency and risk responses",
+      "question": "A team decides a small risk, a minor packaging supplier changing its box design, isn't worth any action or advance planning; it will simply deal with the change if it happens. Which response is this?",
+      "options": {
+        "A": "Active acceptance",
+        "B": "Mitigation",
+        "C": "Passive acceptance",
+        "D": "Avoidance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** Of the four response strategies, only acceptance can be passive. Taking no action and making no plan, and simply dealing with the risk if it occurs, is passive acceptance. (Plan Risk Responses: active or passive)\n**Why not A:** Active acceptance requires a contingency plan, and this team made none.\n**Why not B:** Mitigation actively reduces the probability or impact of the risk.\n**Why not D:** Avoidance actively removes the risk or its cause."
+    },
+    {
+      "topic": "Contract-specific terms",
+      "question": "A buyer's lawyer wants to put 'time is of the essence' into every purchase order for routine office supplies, all of which have approximate delivery dates. What caution does the material give?",
+      "options": {
+        "A": "It is standard wording that costs nothing, so it should go into every contract",
+        "B": "It binds only the seller, so it gives the buyer protection without any obligation",
+        "C": "It automatically converts any late delivery into a set daily liquidated damage",
+        "D": "It is a heavy provision: ask whether a one-day delay should really end the contract"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material advises asking, before inserting this clause, whether you'd really want to terminate a contract if the seller is one day late. Most scheduled dates are approximate, with tolerances, so it is a heavy provision for most contracts and should be used with care. (Special Contractual Terms: Time is of the Essence)\n**Why not A:** The material warns against using it routinely.\n**Why not B:** The clause requires strict performance by all parties, not just the seller.\n**Why not C:** Liquidated damages are a separate provision; this clause makes the dates strict."
+    },
+    {
+      "topic": "Contract-specific terms",
+      "question": "A contract sets delivery dates but contains no 'time is of the essence' clause. The seller delivers a few days late. How does the material describe the role of time in this contract?",
+      "options": {
+        "A": "Time is important, but not fatal to performance",
+        "B": "Any delay is a breach that lets the buyer terminate",
+        "C": "Delivery dates have no legal meaning at all",
+        "D": "The delay is automatically excused as force majeure"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material says that if the 'time is of the essence' phrase isn't included, time is felt to be important but not fatal to performance on the contract. (Special Contractual Terms: Time is of the Essence)\n**Why not B:** Strict dates, where failure to perform on time is a breach, come from including the clause.\n**Why not C:** Time still matters; it just isn't fatal to the contract.\n**Why not D:** Force majeure covers events beyond the parties' control, not ordinary lateness."
+    },
+    {
+      "topic": "Contract-specific terms",
+      "question": "A buyer is negotiating the warranty term for specialized industrial pumps. According to the material, what is critical to specify in this term?",
+      "options": {
+        "A": "The seller's profit margin on the pumps",
+        "B": "The location where the pumps will be inspected",
+        "C": "A warranty period long enough to minimize the risks",
+        "D": "The percentage of each payment held back as retention"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says a critical item in the warranty term is the time period covered by the seller's warranty, and advises an adequate period, sufficient to minimize the risks. (Special Contractual Terms: Warranty)\n**Why not A:** Profit margin isn't part of a warranty term.\n**Why not B:** Inspection location belongs in the right-to-inspect provision.\n**Why not D:** Retention belongs in the progress payment provision."
+    },
+    {
+      "topic": "Contract-specific terms",
+      "question": "A contract says nothing about when the seller gets paid. Halfway through building custom shelving, the seller asks for a partial payment. Under the default rule in the material, when is the buyer obligated to pay?",
+      "options": {
+        "A": "Monthly, in line with the work completed so far",
+        "B": "Only after delivery, once inspection verifies the goods",
+        "C": "Half at signing and half at delivery",
+        "D": "Whenever the seller submits an invoice"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** Unless the contract says otherwise, payment is owed only after the goods or services are delivered and inspection verifies they are adequate. Payments made periodically before final delivery must be authorized in the agreement. (Special Contractual Terms: Progress Payment)\n**Why not A:** Payments as work progresses need a progress payment provision, which this contract lacks.\n**Why not C:** A split payment schedule would also have to be written into the contract.\n**Why not D:** An invoice alone doesn't create an obligation to pay before delivery and inspection."
+    },
+    {
+      "topic": "Contract-specific terms",
+      "question": "A progress payment provision says the buyer will hold back part of each payment until the work is finished. According to the material, what range do such withholds typically fall in?",
+      "options": {
+        "A": "About 1% to 2% of the total contract value",
+        "B": "About 25% to 50% of each invoice",
+        "C": "About 5% to 20% of the costs the seller has incurred",
+        "D": "The full payment, until final acceptance"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says the progress payment provision must state whether payments cover all costs or all costs less a withhold, or retention, and that withholds typically run from 5% to 10% to 20% of the costs the seller has incurred. (Special Contractual Terms: Progress Payment)\n**Why not A:** That is below the typical range given.\n**Why not B:** That is well above the typical range.\n**Why not D:** Holding back everything would mean no progress payments at all."
+    },
+    {
+      "topic": "Contract-specific terms",
+      "question": "A buyer and a seller want to settle a dispute in steps, moving from the least formal method to the most formal only if each step fails. Which sequence matches the material?",
+      "options": {
+        "A": "Mediation, negotiation, litigation, arbitration",
+        "B": "Arbitration, mediation, negotiation, litigation",
+        "C": "Negotiation, arbitration, mediation, litigation",
+        "D": "Negotiation, mediation, arbitration, litigation"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material starts with negotiation between the parties, then mediation (negotiation facilitated by a mediator), then arbitration (the more formal ADR process, a simplified mini-trial), and finally litigation in a court of law. (Special Contractual Terms: Alternate Dispute Resolution)\n**Why not A:** Mediation is facilitated negotiation, so it comes after direct negotiation, and litigation is the last resort.\n**Why not B:** Arbitration is more formal than mediation and negotiation, so it can't come first.\n**Why not C:** Arbitration is the more formal of the two ADR processes, so mediation comes before it."
+    },
+    {
+      "topic": "Contract-specific terms",
+      "question": "A seller's draft force majeure clause says only the seller may claim relief for events beyond its control. The buyer pushes back. What does the material say about who the clause should cover and which events it includes?",
+      "options": {
+        "A": "It should apply to both parties, and the events covered are negotiable",
+        "B": "It should cover only the seller, since the seller bears delivery risk",
+        "C": "It should cover only the buyer, and the events are fixed in law",
+        "D": "It should apply to both parties, but it releases them from performing"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** The material says the force majeure condition should apply to both parties, and that which events give an excusable delay varies by company and is negotiable between the parties. Typical events include acts of God, war, riot and natural disasters. (Special Contractual Terms: Force Majeure)\n**Why not B:** The condition should apply to both buyer and seller.\n**Why not C:** It applies to both parties, and the covered events are negotiated, not fixed.\n**Why not D:** It is right about both parties, but force majeure gives an excusable time delay; it doesn't excuse performance outright."
+    },
+    {
+      "topic": "Seller bonding",
+      "question": "A seller bidding on a public tender needs a performance bond. According to the material, who typically provides bonding for sellers?",
+      "options": {
+        "A": "The buyer's own finance department",
+        "B": "A bonding company, insurance company, bank or other lender",
+        "C": "The project sponsor on the buyer's side",
+        "D": "The government agency that issued the tender"
+      },
+      "answer": "B",
+      "note": "**Why B is correct:** The material says seller bonding is typically provided by a bonding company, an insurance company, a bank or another lending institution. (Bonding the Sellers: Guarantor vs. Surety Obligation)\n**Why not A:** The buyer is the party the bond protects, so it doesn't provide it.\n**Why not C:** The sponsor is on the buyer's side, not a third-party guarantor of the seller.\n**Why not D:** The agency requires the bond; it doesn't issue it."
+    },
+    {
+      "topic": "Seller bonding",
+      "question": "A contract manager asks why 'guarantor' and 'surety' can't be used as if they meant the same thing. What difference does the material point to?",
+      "options": {
+        "A": "A guarantor has secondary liability; a surety has primary liability along with the principal",
+        "B": "A guarantor has primary liability; a surety has secondary liability behind the principal",
+        "C": "Only a surety can ever be responsible for another party's contract performance",
+        "D": "The two differ only in the fee charged, not in how liability is enforced"
+      },
+      "answer": "A",
+      "note": "**Why A is correct:** Both a guarantor and a surety may ultimately be responsible for another party's performance, but the guarantor has 'secondary' liability while the surety has 'primary' liability along with the principal. The material says this difference matters greatly when enforcing a contract. (Bonding the Sellers: Guarantor vs. Surety Obligation)\n**Why not B:** This reverses the two roles.\n**Why not C:** Both a guarantor and a surety may be responsible for another's performance.\n**Why not D:** The difference is in liability and enforcement, which the material calls highly significant."
+    },
+    {
+      "topic": "Seller bonding",
+      "question": "A buyer, a seller and a bonding company sign a bonded construction contract. The bonding company backs the seller's performance. In the material's terms, what is the seller called in this arrangement?",
+      "options": {
+        "A": "The guarantor",
+        "B": "The surety",
+        "C": "The principal",
+        "D": "The beneficiary"
+      },
+      "answer": "C",
+      "note": "**Why C is correct:** The material says a guarantor or surety may be responsible for the contractual performance of another party, called the principal. Here the seller's performance is being backed, so the seller is the principal. (Bonding the Sellers: Guarantor vs. Surety Obligation)\n**Why not A:** A guarantor is a party that backs someone else's performance, not the party being backed.\n**Why not B:** The bonding company is the surety here.\n**Why not D:** The material doesn't use this term; the party whose performance is backed is the principal."
+    },
+    {
+      "topic": "Seller bonding",
+      "question": "A buyer wants its seller to provide performance bonds and insurance that protects against claims from third parties. According to the material, what must the buyer do to make this a requirement?",
+      "options": {
+        "A": "Nothing, because bonding and insurance are implied by law in every contract",
+        "B": "Agree it verbally with the seller at the project kickoff meeting",
+        "C": "Mention it in the request for proposal and leave it out of the contract",
+        "D": "Include a special term to that effect in the contract"
+      },
+      "answer": "D",
+      "note": "**Why D is correct:** The material says that if the buyer requires the seller to provide bonds, such as performance bonds, and other insurance against third parties, a special term to that effect must be included in the contract. (Special Contractual Terms: Bonding and Insurance)\n**Why not A:** The material says the requirement has to be written in as a special term; it isn't implied.\n**Why not B:** A verbal agreement isn't the contract term the material calls for.\n**Why not C:** The requirement has to be in the contract itself."
+    }
+  ]
+}
